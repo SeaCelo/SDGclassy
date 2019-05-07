@@ -16,12 +16,12 @@ chmod +x my_cool_script.sh
 
 # Step 1: train and save a classifier
 (only needed if updating)
-./train_sdg_classifier.sh
+./train_model_inferencer.sh
 
 
 # Step 2: Apply a Saved Classifier to New Unlabeled Data (infer topics)
-#The script specifies the corpus folder name. Copy and add as needed
-./infer_sdg_wess.sh
+#In the script, use a variable to specify the corpus folder name. Copy and add as needed
+./infer_scores.sh
 
 
 
