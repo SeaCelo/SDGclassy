@@ -9,18 +9,23 @@ All data in working directory should be a mirror. Authoritative data should be i
 
 # Steps: 
 #prepare scripts
+
 chmod +x my_cool_script.sh
+
 #Run scripts like this:
+
 ./my_cool_script.sh
 
 
 # Step 1: train and save a classifier
 (only needed if updating)
+
 ./train_model_inferencer.sh
 
 
 # Step 2: Apply a Saved Classifier to New Unlabeled Data (infer topics)
 #In the script, use a variable to specify the corpus folder name. Copy and add as needed
+
 ./infer_scores.sh
 
 
