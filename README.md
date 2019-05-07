@@ -1,2 +1,28 @@
 # SDGclassy
 SDG classification of texts using LDA topic model
+
+
+Scripts are bash scripts
+Training sources are one file per topic/SDG
+Target sources are one file per publication to be classified
+All data in working directory should be a mirror. Authoritative data should be in input folder, and copied to working directory
+
+# Steps: 
+#prepare scripts
+chmod +x my_cool_script.sh
+#Run scripts like this:
+./my_cool_script.sh
+
+
+# Step 1: train and save a classifier
+(only needed if updating)
+./train_sdg_classifier.sh
+
+
+# Step 2: Apply a Saved Classifier to New Unlabeled Data (infer topics)
+#The script specifies the corpus folder name. Copy and add as needed
+./infer_sdg_wess.sh
+
+
+
+
