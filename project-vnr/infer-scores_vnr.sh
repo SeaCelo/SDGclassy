@@ -1,9 +1,9 @@
 #!/bin/bash
 
 d='~/Documents/GitHub/SDGclassy/' #specify root path
-p='project-wess'                  #project subdirectory
+p='project-vnr'                  #project subdirectory
 c='cl_base'                       #select classifier name
-f='wess_txt'                      #select target files
+f='vnr_pdf'                      #select target files
 
 cd "${d}" && \
 rm "${d}"/"${p}"/"${f}"/.DS_Store ; \
