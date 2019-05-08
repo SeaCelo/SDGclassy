@@ -1,0 +1,18 @@
+Classifiers
+
+Sources:
+A) SDG website
+B) 3 SG Reports on SG progress (section for each SDG)
+C) HLPF report on the SDG  (incomplete set - not using)
+D) E-handbook from statistics
+E) Targets+indicators text (from here: unstats.un.org/sdgs/indicators/indicators-list/)
+
+
+1) cl_base includes only A+B (Original. Used for the DESA WP as "sdg-pre-hlpf")
+2) cl_ehandbook includes A+B+D
+3) cl_base-plus includes A+B+E
+4) cl_jumbo includes A+B+D+C  (no hlpf until we have all 17 reports)
+
+
+5) cl_base-plus-alt attempts to rebalance SDG 13 to reduce the excessive language on political processes that leads to over correlation with the WPSR. This is a testing exercise to inform the selection of classifier sources.
+6) cl_extreme does as much as possible to achieve best results. Text is manually edited to try to keep only relevant and unique text

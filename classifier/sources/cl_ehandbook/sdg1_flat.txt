@@ -1,0 +1,255 @@
+Indicator 1.1.1: Proportion of population below the international poverty line, by sex, age, employment status and geographical location (urban/rural)
+Target 1.1: By 2030, eradicate extreme poverty for all people everywhere, currently measured as people living on less than $1.25 a day[1].
+Goal 1: End poverty in all its forms everywhere
+
+[1] The International Poverty Line was updated to $1.90 per day in October 2015.
+Definition and Rationale
+Definition:
+The indicator is defined as the proportion of the population living in households below the international poverty line where the average daily consumption (or income) per person is less than $1.9 a day measured at 2011 international prices adjusted for purchasing power parity (PPP) . 
+Concepts:
+The international poverty line is a threshold used to measure extreme poverty based on consumption or income levels. A person is considered extremely poor if his or her consumption or income level falls below the minimum level necessary to meet basic needs. For this indicator, the line is set at $1.90 (2011 PPP). It replaces the $1.25 a day poverty line measured in 2005 prices since October 2015. 
+The purchasing power parity (PPP) conversion factor is the number of units of a country's currency required to buy the same amounts of goods and services in the domestic market as one United States dollar would buy in the United States. It is based on the System of National Accounts’ concept of actual individual consumption. 
+The proportion of the population living below the poverty line is also known as the poverty headcount index (or incidence of poverty or poverty rate). 
+Households in poverty are those households whose disposable income or consumption expenditure is below the poverty line taking into account the number of household members and composition (e.g., number of adults and children). 
+Rationale and Interpretation:
+The $1.90 a day poverty line or the critical threshold value, below which an individual is determined to be extremely poor, allows for comparing and aggregating progress across countries in reducing the number of people living under extreme poverty and for monitoring trends at the global level. In addition, poverty measures based on an international poverty line attempt to hold the real value of the poverty line constant over time allowing for accurate assessments of progress toward meeting the goal of eradicating extreme poverty and hunger. 
+Data Sources and Collection Method
+The indicator is produced globally using micro-level data on household income or consumption expenditures from nationally representative household surveys, which is reported to the World Bank’s development research group and/or the ILO (for working poverty). Only nationally representative surveys that contain sufficient information to produce a comprehensive consumption or income aggregate (including consumption or income from own production) and allow for the construction of a correctly weighted distribution of per capita consumption or income are used. 
+Examples of surveys include household income and expenditure surveys (HIES), living standards measurement surveys (LSMS) with employment modules, or labour force surveys (LFS) that collect information on household income. Such surveys also offer the benefit of allowing the employment status and income (or consumption expenditure) variables to be derived from the same sampled households ideally for the same long observation period.
+Method of Computation and Other Methodological Considerations
+Computation Method:
+The formula for calculating this indicator is as follows: 
+￼ 
+where P0 represents the headcount index, I() is an indicator function that takes on the value 1 if the bracketed expression is true, and 0 otherwise. If individual consumption or income (yi) is less than the international poverty line (z), then I() is equal to 1 and the individual is counted as poor. Np is the total number of the poor and N is the total population. 
+The current extreme poverty line is set at $1.90 a day in 2011 PPP terms. The international poverty line maintains the same standard for extreme poverty - the poverty line typical of the poorest countries in the world - but updates it using the latest information on the cost of living. 
+The percentage of population living below the international poverty line is calculated using either consumption or income data, gathered from nationally representative household surveys. Consumption is preferred to income for measuring poverty, because income is more difficult to measure accurately and can vary over time even if the standard of living does not. However, in practice the two methods yield similar results. 
+Consumption, including consumption from own production (or income when consumption is unavailable), is calculated for the entire household and then divided by the number of persons living in the household to derive a per capita measure.  Households are then ranked by either consumption (or income) per person and compared to the poverty line to determine the numbers of people living above and below the poverty line.
+ The sample distributions of poor people are weighted by household size and sample expansion factors so that they are representative of the population of each country. This generates an estimate of the number of people living in households with levels of per capita consumption or income below the poverty line. The total number below the poverty line is divided by the total population to estimate the proportion of the population that is extremely poor. This number is multiplied by 100 to derive a percentage. 
+Comments and limitations:
+In making international comparisons of poverty estimates, there are conceptual and practical problems to address. Potential problems include the following:
+	•	Internationally comparable lines are useful for producing global aggregates of poverty. However, such a universal line is generally not suitable for the analysis of poverty within a country. For that purpose, a country-specific poverty line needs to be constructed that reflects the country’s economic and social circumstances, and adjusted for different locations such as rural and urban areas.
+	•	The reliability of poverty estimates using the international poverty line is significantly influenced by the underlying PPP data, national consumer price indices and their production timelines. Therefore, comparison across contries may not be accurate in terms of needs deprivation.
+	•	Differences in the relative importance of consumption of non-market goods may affect poverty rate estimates. The local market value of all consumption in kind (including own production) should be included in total consumption expenditure. Similarly, imputed profit from the production of non-market goods should be included in income.
+	•	This indicator measures poverty based on household per capita income/consumption, ignoring intra-household inequality in the distribution of resources, and does not take into account other dimensions of poverty such as vulnerability, people’s feeling about relative deprivation and lack of voice and power of the poor. 
+Proxy, alternative and additional indicators: N/A
+Data Disaggregation
+The preferred household surveys should contain variables that can identify both the poverty status of households and give information on the economic activity of the household’s members, which would allow further disaggregation of this indicator by sex, age, employment status and geographic location (urban/rural). 
+Disaggregation by Employment
+The working poor are employed persons living in households that are classified as poor, that is, that have income (or consumption) per capita levels below the poverty line used for measurement. 
+The proportion of the working poor is calculated by dividing the number of employed persons living in households below the international poverty line (disaggregated by sex, age and geographical location) by the total number of employed persons (disaggregated by sex, age and geographical location).
+Indicator 1.3.1: Proportion of population covered by social protection floors/systems, by sex, distinguishing children, unemployed persons, older persons, persons with disabilities, pregnant women, newborns, work-injury victims and the poor and the vulnerable
+Target 1.3: Implement nationally appropriate social protection systems and measures for all, including floors, and by 2030 achieve substantial coverage of the poor and the vulnerable
+Goal 1: End poverty in all its forms everywhere
+Definition and Rationale
+Definition:
+The indicator measures the proportion of persons who are effectively covered by a social protection system. It includes the main components of social protection: child and maternity benefits, support for people without a job, benefits for persons with disabilities, victims of work injuries and older persons. 
+Concepts:
+Social protection systems include contributory and non-contributory schemes for children, pregnant women and women with new-borns, unemployed, older persons, victims of work injuries and persons with disabilities.
+Effective coverage includes both the number of people who are either actively contributing to a social insurance scheme or receiving benefits (contributory or non-contributory). 
+Rationale and Interpretation:
+Social protection, or social security, is defined as the set of policies and programmes designed to reduce and prevent poverty and vulnerability throughout the life cycle. Social protection includes child and family benefits, maternity protection, unemployment support, employment injury benefits, sickness benefits, disability and old-age pensions. Social protection systems address all these policy areas by a mix of contributory schemes (social insurance) and non-contributory tax-financed benefits, including social assistance. 
+Social protection systems help individuals and families, especially the poor and vulnerable, cope with crises and shocks, find jobs, improve productivity, invest in the health and education of their children, and protect the aging population. Social protection systems include contributory and non-contributory schemes for children, pregnant women with newborns, people in working age, older persons, victims of work injuries and persons with disabilities. 
+Access to at least a basic level of social protection throughout the life cycle is a human right. Nationally defined social protection floors are created to guarantee decent living conditions to everyone. The proportion of the population covered by social protection floors or systems provides an indication of the extent to which a country has provided this social protection, and thus, how secure are the population's living conditions.
+Data Sources and Collection Method
+The primary source of data for the calculation of this indicator is from administrative datasets maintained by the national ministries of labour, social development, welfare, finance, social security institutions and others. The institutions may seek guidance from the Social Security Inquiry online manual, which lays out the definitions and concepts that should be used to monitor each component of the indicator[1]. Additional information and country practices can be obtained from the World Social Protection Report 2017/2019[2]
+
+
+[1] Questions on Social Security Inquiry, definitions and concepts can be addressed to: socprodata@ilo.org
+[2] http://www.ilo.org/global/research/global-reports/world-social-security-report/2017-19/lang--en/index.htm
+Method of Computation and Other Methodological Considerations
+Computation Method:
+Proportion of population covered by social protection systems is calculated separately for each group in order to distinguish effective coverage for children, unemployed persons, older persons and persons with disabilities,  women with newborns, workers protected in case of work injury, and the poor and the vulnerable. For each subgroup, coverage is expressed as a share of the respective reference population. See Data Disaggregation for further information. 
+Proportion of population covered by social protection systems (by subgroup) is calculated using the following formula:
+  ￼ 
+For example, proportion of older persons receiving a pension: ratio of persons above statutory pensionable  age receiving an old-age pension to the number of persons above statutory pensionable  age. 
+The aggregate indicator is calculated as the ratio of the sum of persons protected by contributory schemes, recipients of contributory and non-contributory benefits to total population. 
+Comments and limitations: 
+Most of the data in the ILO World Social Protection Database are compiled through the ILO Social Security Inquiry (SSI), a questionnaire on administrative records regularly submitted to governments, complemented by existing international data. The 2016 edition of the SSI is an update of the earlier questionnaire, adapted to better reflect the newly adopted SDGs. The SSI questionnaires and manual are available online.[1]
+The ILO World Social Protection Database complements the data received from the SSI, as far as possible on a consistent basis, with a number of other international and regional data sources, notably the International Social Security Association’s (ISSA) and other international organizations. The ILO World Social Protection Database also draws on national official reports and other sources, which are usually largely based on administrative data; and on survey data from a range of sources including national household income and expenditure surveys, labour force surveys and demographic and health surveys, to the extent that these include variables on social protection. When social protection coverage statistics are derived from administrative records, and especially when they are derived from various separate records put together, care should be taken to avoid double-counting of persons receiving more than one social protection benefit, or covered by more than one social protection scheme. In order to avoid double-counting when identifying the beneficiaries through the administrative records data, It is important to distinguish the recipients of basic and supplementary benefit in each sheme. 
+The countries usually are able to provide a complete set of information on persons protected and actual beneficiaries at little additional cost, as the information is collected by the national institutions for the regular functioning of the scheme/programme. Difficulties may occur due to fragmentation of sources, and when capturing information about smaller or less visible schemes,  especially those not anchored in legislation. Administrative records’ coverage is not always totally comprehensive, in that it may exclude some geographic areas, or portions of the population, or economic activities. 
+For social protection coverage statistics derived from household surveys, two important issues must be noted (1) periodicity: in a large number of countires household surveys are not conducted on a regular basis, which makes them less sufficientfor monitoring purposes; and (2) the extent to which information on specific transfers and programs is captured in surveys can vary a lot across countries. Often, household surveys do not capture the universe of social protection programs in the country, but only the largest national programs. Many household surveys have limited information on social protection programs. Some surveys collect information only on participation without including the transfer amounts; and others include program information mixed with private transfers, making it difficult to isolate individual social protection programs. The reliability of the information is also greatly dependent on the respondents’ accuracy. 
+In addition, if the sample has not been designed to accommodate social protection coverage (especially when it comes to the number of beneficiaries), the survey may not produce reliable statistics in that respect. There is no guarantee that the sample size will be sufficiently large to allow for detailed disaggregation of beneficiaries from social security benefits. 
+Proxy, alternative and additional indicators: N/A
+
+[1] See http://www.social-protection.org/gimi/gess/ShowTheme.action?id=10.
+Data Disaggregation
+This indicator is to be disaggregated by sex, age (children/adults), unemployed persons, older persons, persons with disabilities, women with newborns, work-injury victims and the poor and the vulnerable
+Indicator 1.5.1: Number of deaths, missing persons and directly affected persons attributed to disasters per 100,000 population
+Target 1.5: By 2030, build the resilience of the poor and those in vulnerable situations and reduce their exposure and vulnerability to climate-related extreme events and other economic, social and environmental shocks and disasters
+Goal 1: End poverty in all its forms everywhere
+Definition and Rationale
+Definition:
+This indicator measures the number of people who died, went missing or were directly affected by disasters per 100,000 population. 
+Concepts:
+Death: The number of people who died during the disaster, or directly after, as a direct result of the hazardous event.
+Missing: The number of people whose whereabouts is unknown since the hazardous event. It includes people who are presumed dead, for whom there is no physical evidence such as a body, and for which an official/legal report has been filed with competent authorities.
+Directly affected:  The number of people who have suffered injury, illness or other health effects; who were evacuated, displaced, relocated or have suffered direct damage to their livelihoods, economic, physical, social, cultural and environmental assets. Indirectly affected are people who have suffered consequences, other than or in addition to direct effects, over time, due to disruption or changes in economy, critical infrastructure, basic services, commerce or work, or social, health and psychological consequences. 
+Rationale and Interpretation:
+The Sendai Framework for Disaster Risk Reduction 2015-2030 was adopted by UN Member States in March 2015 as a global policy of disaster risk reduction. Among the global targets, “Target A: Substantially reduce global disaster mortality by 2030, aiming to lower average per 100,000 global mortality between 2020-2030 compared with 2005-2015” and “Target B: Substantially reduce the number of affected people globally by 2030, aiming to lower the average global figure per 100,000 between 2020-2030 compared with 2005-2015” will contribute to sustainable development and strengthen economic, social, health and environmental resilience. The economic, environmental and social perspectives would include poverty eradication, urban resilience, and climate change adaptation. 
+The open-ended intergovernmental expert working group on indicators and terminology relating to disaster risk reduction (OIEWG) established by the General Assembly (resolution 69/284) has developed a set of indicators to measure global progress in the implementation of the Sendai Framework, which was endorsed by the UNGA (OIEWG report A/71/644). The relevant global indicators for the Sendai Framework will be used to report for this indicator. 
+Disaster loss data is greatly influenced by large-scale catastrophic events, which represent important outliers. UNISDR recommends countries report the data by event, so that complementary analysis can be undertaken to obtain trends and patterns in which such catastrophic events (that can represent outliers) can be included or excluded.
+Data Sources and Collection Method
+Data provider at national level is appointed Sendai Framework Focal Points. In most countries disaster data are collected by line ministries and national disaster loss databases are established and managed by special purpose agencies including national disaster management agencies, civil protection agencies, and meteorological agencies. The Sendai Framework Focal Points in each country are responsible of data reporting through the Sendai Framework Monitoring System.
+Method of Computation and Other Methodological Considerations
+Computation Method:
+This indicator, X, is calculated as a simple summation of related indicators (death, missing people, and affected people) from national disaster loss databases divided by the national population data (from national censuses, World Bank or UN Statistical Commission information). 
+ ￼
+ Where:
+A2  Number of deaths attributed to disasters;
+A3 Number of missing persons attributed to disasters; and
+B1 Number of directly affected people attributed to disasters.
+* Detailed methodologies can be found in the Technical Guidance (see below the Reference section) 
+Comments and limitations:
+The Sendai Framework Monitoring System has been developed to measure the progress in the implementation of the Sendai Framework by UNGA endorsed indicators. Member States will be able to report through the System from March 2018. The data for SDG indicators will be compiled and reported by UNISDR. 
+Proxy, alternative and additional indicators:
+In most cases international data sources only record events that surpass some threshold of impact and use secondary data sources which usually have non uniform or even inconsistent methodologies, producing heterogeneous datasets.
+Data Disaggregation
+This indicator can be disaggregated by number of deaths attributed to disasters; number of missing persons attributed to disasters; and number of directly affected people attributed to disasters. Possible desirable disaggregation dimensions include: hazard, geography (administrative unit), sex, age (3 categories), disability and income.
+Indicator 1.5.2: Direct economic loss attributed to disasters in relation to global gross domestic product (GDP)
+Target 1.5: By 2030, build the resilience of the poor and those in vulnerable situations and reduce their exposure and vulnerability to climate-related extreme events and other economic, social and environmental shocks and disasters
+Goal 1: End poverty in all its forms everywhere
+Definition and Rationale
+Definition:
+This indicator measures the ratio of direct economic loss attributed to disasters in relation to GDP. 
+Concepts:
+Economic Loss: Total economic impact that consists of direct economic loss and indirect economic loss. 
+Direct economic loss: the monetary value of total or partial destruction of physical assets existing in the affected area. Direct economic loss is nearly equivalent to physical damage. 
+Indirect economic loss: a decline in economic value added as a consequence of direct economic loss and/or human and environmental impacts. 
+Examples of physical assets that are the basis for calculating direct economic loss include homes, schools, hospitals, commercial and governmental buildings, transport, energy, telecommunications infrastructures and other infrastructure; business assets and industrial plants; production such as crops, livestock and production infrastructure. They may also encompass environmental assets and cultural heritage.  Direct economic losses usually happen during the event or within the first few hours after the event and are often assessed soon after the event to estimate recovery cost and claim insurance payments. These are tangible and relatively easy to measure. 
+Rationale and Interpretation:
+The Sendai Framework for Disaster Risk Reduction 2015-2030 was adopted by UN Member States in March 2015 as a global policy of disaster risk reduction. Among the global targets, “Target C: Reduce direct disaster economic loss in relation to global gross domestic product (GDP) by 2030” will contribute to sustainable development and strengthen economic, social, health and environmental resilience. The economic, environmental and social perspectives would include poverty eradication, urban resilience, and climate change adaptation.
+The open-ended intergovernmental expert working group on indicators and terminology relating to disaster risk reduction (OIEWG) established by the General Assembly (resolution 69/284) has developed a set of indicators to measure global progress in the implementation of the Sendai Framework, which was endorsed by the UNGA (OIEWG report A/71/644). The relevant global indicators for the Sendai Framework will be used to report for this indicator. 
+Disaster loss data is greatly influenced by large-scale catastrophic events, which represent important outliers. UNISDR recommends countries report the data by event, so that complementary analysis can be undertaken to obtain trends and patterns in which such catastrophic events (that can represent outliers in terms of damage) can be included or excluded.
+Data Sources and Collection Method
+Data provider at national level is appointed Sendai Framework Focal Points. In most countries disaster data are collected by line ministries and national disaster loss databases are established and managed by special purpose agencies including national disaster management agencies, civil protection agencies, and meteorological agencies. The Sendai Framework Focal Points in each country are responsible of data reporting through the Sendai Framework Monitoring System.
+Method of Computation and Other Methodological Considerations
+Computation Method:
+This indicator, X, is calculated as a simple summation of related indicators from national disaster loss databases divided by the national GDP (from national censuses, World Bank or UN Statistical Commission information).
+ ￼ 
+Where:
+C2  Direct agricultural loss attributed to disasters;
+C3  Direct economic loss to all other damaged or destroyed productive assets attributed to disasters;
+C4  Direct economic loss in the housing sector attributed to disasters;
+C5  Direct economic loss resulting from damaged or destroyed critical infrastructure attributed to disasters;
+C6  Direct economic loss to cultural heritage damaged or destroyed attributed to disasters.
+* Detailed methodologies can be found in the Technical Guidance (see below the Reference section) 
+Comments and limitations:
+The Sendai Framework Monitoring System has been developed to measure the progress in the implementation of the Sendai Framework by UNGA endorsed indicators. Member States will be able to report through the System from March 2018. The data for SDG indicators will be compiled and reported by UNISDR. 
+Proxy, alternative and additional indicators:
+In most cases international data sources only record events that surpass some threshold of impact and use secondary data sources which usually have non uniform or even inconsistent methodologies, producing heterogeneous datasets.
+Data Disaggregation
+This indicator can be disaggregated along the following dimensions:
+Direct agricultural loss attributed to disasters
+Direct economic loss to all other damaged or destroyed productive assets attributed to disasters.
+Direct economic loss in the housing sector attributed to disasters.
+Direct economic loss resulting from damaged or destroyed critical infrastructure attributed to disasters.
+Direct economic loss to cultural heritage damaged or destroyed attributed to disasters
+Other desirable disaggregation dimensions include:
+Hazard
+Geography (Administrative Unit)
+Indicator 1.5.3: Number of countries that adopt and implement national disaster risk reduction strategies in line with the Sendai Framework for Disaster Risk Reduction 2015-2030
+Target 1.5: By 2030, build the resilience of the poor and those in vulnerable situations and reduce their exposure and vulnerability to climate-related extreme events and other economic, social and environmental shocks and disasters
+Goal 1: End poverty in all its forms everywhere
+Definition and Rationale
+Definition:
+This indicator measures the number of countries that adopt and implement national disaster risk reduction (DRR) strategies in line with the Sendai Framework for Disaster Risk Reduction 2015-2030, with multiple dimensions of the level of implementation. 
+Concepts:
+Disaster risk reduction strategies: define goals and objectives across different timescales and with concrete targets, indicators and time frames. In line with the Sendai Framework for Disaster Risk Reduction 2015-2030, these should be aimed at preventing the creation of disaster risk, the reduction of existing risk and the strengthening of economic, social, health and environmental resilience. 
+Rationale and Interpretation:
+The Sendai Framework for Disaster Risk Reduction 2015-2030 was adopted by UN Member States in March 2015 as a global policy of disaster risk reduction. Among the global targets, “Target E: Substantially increase the number of countries with national and local disaster risk reduction strategies by 2020” will promote DRR and eventually contribute to sustainable development and strengthen economic, social, health and environmental resilience. The economic, environmental and social perspectives would include poverty eradication, urban resilience, and climate change adaptation. Their economic, environmental and social perspectives would include poverty eradication, urban resilience, and climate change adaptation.
+In line with the Sendai Framework, DRR strategies and policies should mainstream and integrate disaster risk reduction within and across all sectors, across different timescales and with targets, indicators and time frames. These DRR strategies should be aimed at preventing the creation of disaster risk, the reduction of existing risk, the strengthening of economic, social, health and environmental resilience, and other key elements stipulated in the Sendai Framework.
+The open-ended intergovernmental expert working group on indicators and terminology relating to disaster risk reduction (OIEWG) established by the General Assembly (resolution 69/284) has developed a set of indicators to measure global progress in the implementation of the Sendai Framework, which was endorsed by the UNGA (OIEWG report A/71/644). The relevant global indicator for the Sendai Framework, E-1, is used to report for this indicator.  
+Data Sources and Collection Method
+Appointed Sendai Framework focal points. 
+In most countries national disaster loss databases are established and managed by special purpose agencies including national disaster management agencies, civil protection agencies, and meteorological agencies, and disaster data collected by line ministries.  The Sendai Framework Focal Points in each country are responsible of data reporting through the online Sendai Framework Monitoring System.
+Method of Computation and Other Methodological Considerations
+Computation Method:
+Detailed methodologies can be found in the Technical Guidance (see the Reference) 
+Summary 
+This is a quantitative indicator by increment measurements for achievement that would quantify the improvement in the quality of national DRR strategies over time, rather than binary measurement (yes/no), which was based on the deliberations of the OIEWG as well as the IAEG-SDGs. 
+Ten Key elements derived from the Sendai Framework are used as sub-indicators (5 levels from 0 to 1: 0, 0.25, 0.50, 0.75, 1.0) to measure the alignment with the Sendai Framework. Member States are to assess the level of implementation for each sub-indicator. 
+This indicator is calculated through the arithmetic  average of these sub-indicators: 
+National DRR strategies are to 
+i. Have different timescales, with targets, indicators and time frames
+ii. Have aims at preventing the creation of risk
+iii. Have aims at reducing existing risk
+iv. Have aims at strengthening economic, social, health and environmental resilience
+v. Address the recommendations of Priority 1, Understanding disaster risk : Based on risk knowledge and assessments to identify risks at the local and national levels of the technical, financial and administrative disaster risk management capacity
+vi. Address the recommendations of Priority 2, Strengthening disaster risk governance to manage disaster risk : Mainstream and integrate DRR within and across all sectors with defining roles and responsibilities
+vii. Address the recommendations of Priority 3, Investing in disaster risk reduction for resilience : Guide to allocation of the necessary resources at all levels of administration for the development and the implementation of DRR strategies in all relevant sectors
+viii. Address the recommendations of Priority 4, Enhancing disaster preparedness for effective response and to “Build Back Better” in recovery, rehabilitation and reconstruction : Strengthen disaster preparedness for response and integrate DRR response preparedness and development measures to make nations and communities resilient to disasters
+ix. Promote policy coherence relevant to disaster risk reduction such as sustainable development, poverty eradication, and climate change, notably with the SDGs and the Paris Agreement
+x. Have mechanisms to follow-up, periodically assess and publicly report on progress. 
+Comments and limitations:
+The Sendai Framework Monitoring System has been developed to measure the progress in the implementation of the Sendai Framework by UNGA endorsed indicators. Member States are to report through the System from March 2018. The data for SDG indicators are compiled and reported by UNISDR.
+In contrast to a binary measurement of “legislative and/or regulatory provisions of DRR” in the previous Hyogo Framework for Action Monitor, the Sendai Framework Monitor can incrementally measure the progress by with multiple dimensions of the level of implementation. 
+Proxy, alternative and additional indicators: N/A
+Data Disaggregation
+None
+SDG 1: End poverty in all its forms everywhere
+While global poverty rates have been cut by more than half since 2000, one in ten people in developing regions are still living with their families on less than the international poverty line of US$1.90 a day, and there are millions more who make little more than this daily amount. Significant progress has been made in many countries within Eastern and Southeastern Asia, but up to 42% of the population in Sub-Saharan Africa continues to live below the poverty line.
+Poverty is more than the lack of income and resources to ensure a sustainable livelihood. Its manifestations include hunger and malnutrition, limited access to education and other basic services, social discrimination and exclusion as well as the lack of participation in decision-making.
+Economic growth must be inclusive to provide sustainable jobs and promote equality. Social protection systems need to be implemented to help alleviate the suffering of disaster-prone countries and provide support in the face of great economic risks. These systems will help strengthen responses by afflicted populations to unexpected economic losses during disasters and will eventually help to end extreme poverty in the most impoverished areas.
+
+
+
+783 million people live below the international poverty line of US$1.90 a day
+In 2016, almost 10 per cent of the worlds workers live with their families on less than US$1.90 per person per day
+Globally, there are 122 women aged 25 to 34 living in extreme poverty for every 100 men of the same age group.
+Most people living below the poverty line belong to two regions: Southern Asia and sub-Saharan Africa
+High poverty rates are often found in small, fragile and conflict-affected countries
+One in four children under age five in the world has inadequate height for his or her age
+As of 2016, only 45% of the worlds population were effectively covered by at least one social protection cash benefit.
+In 2017, economic losses due to disasters, including three major hurricanes in the USA and the Caribbean, were estimated at over $300 billion.
+Goal 1 Targets
+
+1.2 reduce at least by half the proportion of men, women and children of all ages living in poverty in all its dimensions according to national definitions implement nationally appropriate social protection systems and measure for all, including floors, and by 2030 achieve substantial coverage of the poor and the vulnerable
+
+1.4 ensure that all men and women, in particular the poor and the vulnerable, have equal rights to economic resources, as well as access to basic services, ownership and control over land and other forms of property, inheritance, natural resources, appropriate new technology and financial services, including microfinance
+
+1.5 build the resilience of the poor and those in vulnerable situations and reduce their exposure and vulnerability to climate-related extreme events and other economic, social and environmental shocks and disasters
+
+1.A Ensure significant mobilization of resources from a variety of sources, including through enhanced development cooperation, in order to provide adequate and predictable means for developing countries, in particular least developed countries, to implement programmes and policies to end poverty in all its dimensions
+
+1.B Create sound policy frameworks at the national, regional and international levels, based on pro-poor and gender-sensitive development strategies, to support accelerated investment in poverty eradication actionsk protection due to conflict
+
+By 2030 167 million children will live in extreme poverty if the world doesnt take action to improve health and education
+NO POVERTY: WHY IT MATTERS
+To end poverty in all its forms everywhere by 2030.
+More than 700 million people, or 11% of the world population, still live in extreme poverty and is struggling to fulfil the most basic needs like health, education, and access to water and sanitation, to name a few..
+The overwhelming majority of people living on less than $1.90 a day live in Southern Asia and sub-Saharan Africa and they account for about 70 per cent of the global total of extremely poor people.
+In 2017, economic losses attributed to natural disasters were estimated at over $300 billion, among the highest losses in recent years.
+However, this issue also affects developed countries. Right now there are 30 million children growing up poor in the worlds richest countries.
+
+Why is there so much poverty in the world?
+Poverty has many dimensions, but its causes include unemployment, social exclusion, and high vulnerability of certain population to disasters, diseases and other phenomena which prevent them from being productive.
+Im not poor. Why should I care about other peoples economic situation?
+There are many reasons, but in short, because as human beings, our wellbeing is linked to each other. Growing inequality is detrimental to economic growth and undermines social cohesion, increasing political and social tensions and, in some circumstances, driving instability and conflicts.
+To end extreme poverty worldwide in 20 years, economist Jeffrey Sachs calculated that the total cost per year would be about $175 billion. This represents less than one percent of the combined income of the richest countries in the world.
+Your active engagement in policymaking can make a difference in addressing poverty. It ensures that your rights are promoted and that your voice is heard, that inter-generational knowledge is shared, and that innovation and critical thinking are encouraged at all ages to support transformational change in peoples lives and communities.
+If you are a policymaker:
+Governments can help create an enabling environment to generate productive employment and job opportunities for the poor and the marginalized. They can formulate strategies and fiscal policies that stimulate pro-poor growth, and reduce poverty.
+If you work in the private sector: The private sector, as an engine of economic growth, has a major role to play in determining whether the growth it creates is inclusive and hence contributes to poverty reduction. It can promote economic opportunities for the poor, focusing on segments of the economy where most of the poor are active, namely on micro and small enterprises and those operating in the informal sector.
+If you are part of the science and academic community: The academic and education community have a major role in increasing the awareness about the impact of poverty. Science provides the foundation for new and sustainable approaches, solutions and technologies to tackle the challenges of reducing poverty and achieving sustainable development. The contribution of science to end poverty has been significant. For example,
+it has enabled access to safe drinking water, reduced deaths caused by water-borne diseases, and improved hygiene to reduce health risks related to unsafe drinking water and lack of sanitation.
+
+Goal 1. End poverty in all its forms everywhere 
+Goal 1 calls for an end to poverty in all its manifestations by 2030. It also aims to ensure social protection for the poor and vulnerable, increase access to basic services and support people harmed by climate-related extreme events and other economic, social and environmental shocks and disasters.The international poverty line is currently defined at $1.90 or below per person per day using 2011 United States dollars purchasing power parity (ppp). In the decade beginning in 2002, the proportion of the worlds population living below the poverty line dropped by half, from 26 per cent to 13 per cent. If growth rates during those 10 years prevail for the next 15 years, the global extreme poverty rate will likely fall to 4 per cent by 2030, assuming that growth benefits all income groups of the population equally. However, if the growth rates over the longer period of 20 years prevail, the global poverty rate will likely be around 6 per cent. In other words, eliminating extreme poverty will require a significant change from historical growth rates. In 2015, 10.2 per cent of the worlds workers were living with their families on less than $1.90 per person per day, down from 28 per cent in 2000. Young people are especially likely to be among the working poor: 16 per cent of all employed youth aged 15 to 24 were considered working poor, compared to 9 per cent of adults. Expanding social protection programmes and targeting appropriate schemes to the poor and most vulnerable can further reduce poverty. Social protection programmes include social assistance, such as cash transfers, school feeding and targeted food assistance, as well as social insurance and labour market programmes, including old-age pensions, disability pensions, unemployment insurance, skills training and wage subsidies, among others.Social protections have expanded globally since 2000, as many developing countries adopted policies that afford protection for multiple contingencies. Pension coverage in particular is expanding rapidly. Over half (51 per cent) of people above retirement age received a pension according to data available for the period from 2010 to 2012. Almost all countries have child or maternity benefit programmes, and cash transfer schemes are increasing.Despite progress over the past decade, increasing social protection for those most in need remains a priority. Globally, 18,000 children still die each day from poverty-related causes, and only 28 per cent of employed women are effectively protected through contributory and non-contributory maternity cash benefits. Most poor people remain outside social protection systems, especially in low-income countries. Of the entire population, only 1 out of 5 receive any type of social protection in low-income countries, compared with 2 out of 3 in upper-middle-income countries. The coverage gap is particularly acute in sub-Saharan Africa and Southern Asia, where most of the worlds poorest people live. In sub-Saharan Africa, only 15 per cent of those in the bottom income quintile have access to a social protection benefit.Disaster risk reduction is essential to ending poverty and fostering sustainable development. Disaster risk is disproportionally higher in poorer countries with weaker institutions. In low- and lower-middle-income countries experiencing rapid economic growth, the exposure of people and assets to natural hazards is increasing at a faster pace than that at which risk-reducing capacities are being strengthened, leading to increased disaster risk. Economic losses from internationally reported disasters, principally large-scale disasters, have grown steadily since 1990, reaching an estimated annual average of $200 billion in 2013. Reported damage to housing, schools and health-care facilities, along with agricultural production, shows statistically significant upward trends from 1990 onwards. 
+
+
+
+
+
+
+
+Goal 1. End poverty in all its forms everywhere 
+Despite the fact that the global poverty rate has been halved since 2000, intensified efforts are required to boost the incomes, alleviate the suffering and build the resilience of those individuals still living in extreme poverty, in particular in sub-Saharan Africa. Social protection systems need to be expanded and risks need to be mitigated for disaster-prone countries, which also tend to be the most impoverished. 
+In 2013, an estimated 767 million people lived below the international poverty line of $1.90 a day  down from 1.7 billion people in 1999. That figure reflects a decrease in the global poverty rate from 28 per cent in 1999 to 11 per cent in 2013. The most significant progress was seen in Eastern and South-Eastern Asia, where the rate declined from 35 per cent in 1999 to 3 per cent in 2013. In contrast, 42 per cent of people in sub-Saharan Africa continued to subsist in conditions of extreme poverty in 2013. 
+In 2016, just under 10 per cent of the worlds workers were living with their families on less than $1.90 per person per day, down from 28 per cent in 2000. In the least developed countries, nearly 38 per cent of workers in 2016 were living below the poverty line. 
+Social protection systems are fundamental to preventing and reducing poverty and inequality at every stage of peoples lives, through benefits for children, mothers with newborns, persons with disabilities, older persons and those persons who are poor and without jobs. Preliminary data show that in 2016, only 45 per cent of the worlds population was effectively protected by a social protection system and that coverage varied widely across countries and regions. 
+In 2016, 68 per cent of people above retirement age received a pension. However, that global average masks large regional differences. In Oceania, excluding Australia and New Zealand, and in sub-Saharan Africa, only 10 per cent and 22 per cent, respectively, of people above retirement age received a pension in 2016. 
+Other vulnerable groups lack social protections as well. In 2016, only 28 per cent of people with severe disabilities collected disability benefits, only 22 per cent of unemployed individuals worldwide received unemployment benefits and only 41 per cent of women giving birth received maternity benefits. 
+Building the resilience of the poor and strengthening disaster risk reduction is a core development strategy for ending extreme poverty in the most afflicted countries. Economic losses from disasters are now reaching an average of $250 billion to $300 billion a year. Disaster risk globally is highly concentrated in low- and lower-middle-income countries. In relation to the size of their economies, small island developing States have borne a disproportionate impact.
+Goal 1. End poverty in all its forms everywhere
+While extreme poverty has been reduced considerably in the past decades, there are pockets of the world where it still stubbornly persists. Detailed analyses reveal that certain groups are much more affected by poverty. Ending poverty requires universal social protection systems aimed at protecting all people throughout their life cycle and targeted measures to reduce vulnerability to disasters and address specific geographical areas within a country.Poverty measured at the international poverty line, currently set at $1.90 at 2011 purchasing power parities, has fallen rapidly in recent decades and in 2013 was a third of the 1990 value. The latest global estimate suggests that 10.9 per cent, or 783 million people, lived below this threshold in 2013. More than half of the worlds extreme poor live in sub-Saharan Africa, while about one third live in Southern Asia.The proportion of the worlds workers living with their families on less than $1.90 per person per day has declined significantly over the past two decades, falling from 26.9 per cent in 2000 to 9.2 per cent in 2017, with reductions seen in all regions of the world. Nevertheless, it continues to affect young workers disproportionately, with the global youth working poverty rate consistently over 6 percentage points higher than the adult rate. Despite significant progress in extending social protection in many parts of the world, the human right to social security is not yet a reality for a majority of the worlds population. According to 2016 estimates, only 45 per cent of the worlds population was effectively covered by at least one social protection cash benefit, which means that 4 billion people are left unprotected. On the positive side, 68 per cent of people above retirement age received a pension.However, data also show a global deficit of social protection for other groups: only 22 per cent of the unemployed receive unemployment cash benefits, 28 per cent of persons with severe disabilities receive disability cash benefits, 35 per cent of children worldwide enjoy effective access to social protection and 41 per cent of women giving birth receive maternity cash benefits. Disasters have often hindered economic and social development and aggravated the depth and breadth of poverty. Despite efforts in improving measures for disaster risk reduction, in 2017, economic losses attributed to disasters were estimated at over $300 billion, among the highest losses in recent years, owing to three major hurricanes affecting the United States of America and the Caribbean.According to data from 2011 to 2016 from 151 countries, only 30 per cent spend from 15 per cent to 20 per cent of total government expenditure on education, as recommended in the Education 2030 Framework for Action.
+

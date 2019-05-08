@@ -1,0 +1,548 @@
+Indicator 5.1.1: Whether or not legal frameworks are in place to promote, enforce and monitor equality and non-discrimination on the basis of sex
+Target 5.1: End all forms of discrimination against all women and girls everywhere
+Goal 5: Achieve gender equality and empower all women and girls
+Definition and Rationale
+Definition:
+This indicator measures government efforts to put in place legal frameworks that promote, enforce and monitor gender equality. The legal frameworks are assessed using a questionnaire comprising 44 binary questions under four areas: overarching legal frameworks and public life; violence against women; employment and economic benefits; marriage and family. 
+Concepts:
+The term “legal frameworks” is defined broadly to encompass laws, mechanisms and policies/plans to promote, enforce and monitor gender equality. 
+Questionnaire 
+Area 1: Overarching legal frameworks and public life
+Promote
+1. If customary law is a valid source of law under the constitution, is it invalid if it violates constitutional provisions on equality or nondiscrimination?
+2. If personal law is a valid source of law under the constitution, is it invalid if it violates constitutional provisions on equality or nondiscrimination?
+3. Is there a discrimination law that prohibits both direct and indirect discrimination against women?
+4. Do women and men enjoy equal rights and access to hold public and political office (legislature, executive, judiciary)?
+5. Are there quotas for women (reserved seats) in national parliament?
+6. Are there quotas for women in candidate lists for national parliament?
+7. Do women and men have equal rights to confer citizenship to their spouses and their children?
+Enforce and monitor
+8. Does the law establish a specialized independent body tasked with receiving complaints of discrimination based on gender (e.g., national human rights institution, women’s commission, ombudsperson)?
+9. Is legal aid mandated in criminal matters?
+10. Is legal aid mandated in civil/family matters?
+11. Does a woman’s testimony carry the same evidentiary weight in court as a man’s?
+12. Are there laws that explicitly require the production and/or dissemination of gender statistics?
+13. Are there sanctions for noncompliance with mandated quotas for women or incentives to include women on candidate lists for national parliamentary elections? 
+Area 2: Violence against women
+Promote
+14. Is there legislation on domestic violence that includes physical violence?
+15. Is there legislation on domestic violence that includes sexual violence?
+16. Is there legislation on domestic violence that includes psychological/emotional violence?
+17. Is there legislation on domestic violence that includes financial/economic violence?
+18. Have provisions exempting perpetrators from facing charges for rape if the perpetrator marries the victim after the crime been removed, or never existed in legislation?
+19. Have provisions reducing penalties in cases of so called honour crimes been removed, or never existed in legislation?
+20. Are laws on rape based on lack of consent, without requiring proof of physical force or penetration?
+21. Does legislation explicitly criminalize marital rape
+22. Is there legislation that specifically addresses sexual harassment?
+Enforce and monitor
+23. Are there budgetary commitments provided for by government entities for the implementation of legislation addressing violence against women by creating an obligation on government to provide budget or allocation of funding for the implementation of relevant programmes or activities?
+24. Are there budgetary commitments provided for by government entities for the implementation of legislation addressing violence against women by allocating a specific budget, funding and/or incentives to support non-governmental organizations for activities to address violence against women?
+25. Is there is a national action plan or policy to address violence against women that is overseen by a national mechanism with the mandate to monitor and review implementation? 
+Area 3: Employment and economic benefits
+Promote
+26. Does the law mandate nondiscrimination on the basis of gender in employment?
+27. Does the law mandate equal remuneration for work of equal value?
+28. Does the law allow women to do the same jobs as men?
+29. Does the law allow women to work the same night hours as men?
+30. Does the law provide for maternity or parental leave available to mothers in accordance with the ILO standards?
+31. Does the law provide for paid paternity or parental leave available to fathers or partners?
+Enforce and monitor
+32. Is there a public entity that can receive complaints on gender discrimination in employment?
+33. Is childcare publicly provided or subsidized? 
+Area 4: Marriage and family
+Promote
+34. Is  the minimum age of marriage at least 18, with no legal exceptions, for both women and men?
+35. Do women and men have equal rights to enter marriage (i.e. consent) and initiate divorce?
+36. Do women and men have equal rights to be legal guardian of their children during and after marriage?
+37. Do women and men have equal rights  to be recognized as head of household or head of family?
+38. Do women and men have equal rights  to choose where to live?
+39. Do women and men have equal rights  to choose a profession?
+40. Do women and men have equal rights  to obtain an identity card?
+41. Do women and men have equal rights  to apply for passports?
+42. Do women and men have equal rights to own, access and control marital property including upon divorce?
+Enforce and monitor
+43. Is marriage under the legal age void or voidable?
+44. Are there dedicated and specialized family courts? 
+Rationale and Interpretation:
+Equality and non-discrimination on the basis of sex are core principles under the international legal and policy framework, including the Convention on the Elimination of All Forms of Discrimination against Women (CEDAW), which has 189 States parties, and the Beijing Platform for Action. This framework sets out the commitments of States to eliminate discrimination against women and promote gender equality, including in the area of legal frameworks. 
+In the Beijing Platform for Action, States pledged to revoke any remaining laws that discriminate on the basis of sex. The five-year review and appraisal of the Beijing Platform for Action (Beijing + 5) established 2005 as the target date for the repeal of laws that discriminate against women. This deadline has come and gone. While there has been progress in reforming laws to promote gender equality, discrimination against women in the law continues in many countries. Even where legal reforms have taken place, gaps in implementation persist. 
+Removing discriminatory laws and putting in place legal frameworks that advance gender equality are prerequisites to ending discrimination against women and achieving gender equality (Goal 5, Target 5.1). Indicator 5.1.1 will be crucial in accelerating progress on the implementation of SDG 5 and all other gender-related commitments in the 2030 Agenda for Sustainable Development.
+Data Sources and Collection Method
+The data for the indicator are derived from an assessment of legal frameworks using primary sources/official government documents, in particular laws, policies/action plans. The assessment is carried out by national counterparts, including National Statistical Offices (NSOs) and/or National Women’s Machinery (NWMs), and legal practitioners/researchers on gender equality, using the questionnaire. 
+Countries are asked to designate a focal point to undertake the coordination at the country level necessary for the collection and validation of the data. Most designated focal points are within the NWMs, a number are within the NSOs and some are within both the NWMs and the NSOs. After verification, the data with relevant laws, polices and other sources included,  are sent to the designated focal points/country counterparts to review and validate. Final answers are arrived at after the process of validation with country counterparts.
+Method of Computation and Other Methodological Considerations
+Computation Method:
+The answers to the questions are coded with simple “Yes/No” answers with “1” for “Yes” and “0” for “No”. For questions 1 and 2 only, they may be scored “N/A” as well as “1” or “0”. In countries where customary or personal law does not apply, these questions are scored as “N/A” and are not included as part of the overall score calculation for the area “overarching legal frameworks and public life”. 
+The scoring methodology is the unweighted average of the questions under each area of legal frameworks calculated by: 
+￼
+where Ai refers the area of legal frameworks i; mi refers to the total number of questions under the area of legal frameworks i; and qi = 1  if the answer is “Yes” and qi = 0  if the answer is “No”. 
+Results of the four areas are reported as percentages as a dashboard: ⟨A1, A2, A3, A4 ⟩ . The choice of presenting all four area scores without further aggregation is the result of adopting the posture that high values in one area in a given country need not compensate in any way the country having low values in some other area, and that a comprehensive examination of the value of those four numbers for each country is potentially more informative than trying to summarize all four numbers into a single index. 
+The score for each area (a number between 0 and 100)  represents the percentage of achievement of that country in that area, with 100 being best practice met on all questions in the area.
+Comments and limitations:
+To avoid duplication, the indicator does not cover areas of legal frameworks that are addressed under indicator 5.a.2, ‘Proportion of countries where the legal framework (including customary law) guarantees women’s equal rights to land ownership and/or control’, and indicator 5.6.2, ‘Number of countries with laws and regulations that guarantee full and equal access to women and men aged 15 years and older to sexual and reproductive health care, information and education’. Indicator 5.1.1 complements these other indicators. 
+Proxy, alternative and additional indicators: N/A
+Data Disaggregation
+N/A
+Indicator 5.2.1: Proportion of ever-partnered women and girls aged 15 years and older subjected to physical, sexual or psychological violence by a current or former intimate partner in the previous 12 months, by form of violence and by age
+Target 5.2: Eliminate all forms of violence against all women and girls in the public and private spheres, including trafficking and sexual and other types of exploitation
+Goal 5: Achieve gender equality and empower all women and girls
+Definition and Rationale
+Definition:
+This indicator is defined as the percentage of ever-partnered women and girls aged 15 years and above who have experienced physical, sexual or psychological violence by a current or former intimate partner, in the past 12 months. 
+Concepts:
+Physical violence consists of acts aimed at physically hurting the victim. 
+Sexual violence is defined as any sort of harmful or unwanted sexual behaviour that is imposed on someone. 
+Psychological violence includes a range of behaviours that encompass acts of emotional abuse and. 
+Intimate partner refers to a current or former partner within the context of marriage, cohabitation or any other formal or informal union. 
+More detailed definitions and behaviours that can be attributed to each of the three aforementioned forms of violence can be found in the Guidelines for Producing Statistics on Violence against Women – Statistical Surveys (UN, 2014). 
+Rationale and Interpretation:
+Violence against women and girls is the most common form of gender-based violence. This indicator provides prevalence data that is required to measure the magnitude of this problem, understand the various forms of violence and their consequences, identify high-risk groups, explore the barriers to seeking help, and ensure that appropriate responses are being provided. Tracking this indicator over time allows for monitoring change and assess the effectiveness of interventions.
+Data Sources and Collection Method
+The primary source of data for this indicator are specialized national surveys dedicated to measuring violence against women, and international household surveys that include a module on experience of violence by women such as the Demographic and Health Survey (DHS). For further information on data sources and collection methods, see: UN Guidelines for Producing Statistics on Violence Against Women – Statistical Surveys (UN, 2014). The module should be administered to all ever-partnered women and not only to currently partnered women. 
+It is to be noted that, though, administrative data from health, police, courts, justice and social services etc. used by survivors of violence, can provide valuable information about service use, this incidence data is insufficient for producing prevalence data. 
+Method of Computation and Other Methodological Considerations
+Computation Method:
+The percentage of ever-partnered women and girls of age group a who experienced one or more types of violence (Pv,a) in the past 12 months can be calculated using the following formula: 
+￼
+where,
+Wv,a is the number of ever-partnered women of age group a who experienced one or more types of violence in the past 12 months;
+WTotal is the total number of ever-partnered women of age group a in the country; and
+v denotes the combination of one or more type of violence experienced by the women. 
+This indicator should be computed separately for (v) physical violence only, sexual violence only, psychological violence only, any form of physical and/or sexual violence, and any form of physical, sexual and/or psychological violence. 
+Comments and limitations:
+The availability of comparable data remains a challenge in this area due to differences in survey methodologies, different definitions of partner or spousal violence and of the different forms of violence, different survey question formulations, and different age groups. Willingness to discuss experiences of violence and understanding of relevant concepts may also differ according to the cultural context, and may lead to under-reporting of prevalence levels. 
+Gathering data on violence against women is costly and time-consuming, whether they are collected using dedicated surveys or through added modules of existing household surveys. Furthermore, prevelance is unlikely to change in the short term without major investments at all levels across sectors. Therefore, the periodicity of this indicator need not be every 5 years, or even more, if financial resources are unvailable. 
+Surveys on violence against women require particular attention to safety and ethical dimensions, including ensuring all interviews are conducted in privacy, the data is treated confidentially and that women provide their informed consent. For more detailed information see Putting women first. Ethical and safety recommendations for research on domestic violence against women (WHO, 2001) 
+Proxy, alternative and additional indicators:
+The percentage of women 15-49 who have experienced physical and/or sexual violence by a current or former intimate partner, in the past 12 months can be a proxy indicator. This is because comparable data are currently only available for a subset of girls and women aged 15 to 49 years and the fact that there is no agreement on a standard operational definition for psychological violence. The proxy indicator, for which comparable data are available, is being used while the SDG indicator’s definition is being operationalized. 
+Data Disaggregation
+This indicator is required to be disaggregated by the type of violence and age. It can also be disaggregated by income/wealth, education, ethnicity (including indigenous status), disability status, geographic location and frequency of violence.
+Indicator 5.2.2: Proportion of women and girls aged 15 years and older subjected to sexual violence by persons other than an intimate partner in the previous 12 months, by age and place of occurrence
+Target 5.2: Eliminate all forms of violence against all women and girls in the public and private spheres, including trafficking and sexual and other types of exploitation
+Goal 5: Achieve gender equality and empower all women and girls
+Definition and Rationale
+Definition:
+This indicator is defined as the percentage of ever-partnered women and girls aged 15 years and above who have experienced sexual violence by persons other than an intimate partner, in the past 12 months 
+Concepts:
+Intimate partner refers to a current or former partner within the context of marriage, cohabitation or any other formal or informal union. 
+Sexual violence is defined as any sort of harmful or unwanted sexual behaviour that is imposed on someone. 
+More detailed definition of sexual violence can be found in the Guidelines for Producing Statistics on Violence against Women—Statistical Surveys (UN, 2014). 
+Rationale and Interpretation:
+Violence against women and girls is one of the most pervasive forms of human rights violations in the world. Evidence has shown that globally, an estimated 7% of women have been sexually assaulted by someone other than a partner at some point in their lives (WHO et al., 2013). Having data on this indicator will help understand the extent and nature of this form of violence and develop appropriate policies and programmes. Tracking this indicator over time allows for monitoring change and assess the effectiveness of interventions.
+Data Sources and Collection Method
+The primary source of data for this indicator are specialized national surveys dedicated to measuring violence against women, and international household surveys that include a module on experience of violence by women such as the Demographic and Health Survey (DHS). For further information on data sources and collection methods, see: UN Guidelines for Producing Statistics on Violence Against Women – Statistical Surveys (UN, 2014). The module should be administered to all ever-partnered women and not only to currently partnered women. 
+It is to be noted that, though, administrative data from health, police, courts, justice and social services etc. used by survivors of violence, can provide valuable information about service use, this incidence data is insufficient for producing prevalence data.
+Method of Computation and Other Methodological Considerations
+Computation Method:
+The percentage of women and girls of aged 15 years and above subjected to sexual violence by persons other than an intimate partner (Psv) in the past 12 months can be calculated using the following formula: 
+￼
+where,
+Wsv is the number of women and girls aged 15 years and above who experienced sexual violence by persons other than an intimate partner in the previous 12 months; and
+WT is the total number of women and girls aged 15 years and above in the country. 
+Comments and limitations:
+The availability of comparable data remains a challenge in this area due to differences in survey methodologies, different definitions of partner or spousal violence and of the different forms of violence, different survey question formulations, and different age groups. Willingness to discuss experiences of violence and understanding of relevant concepts may also differ according to the cultural context, and may lead to under-reporting of prevalence levels. 
+Gathering data on violence against women is costly and time-consuming, whether they are collected using dedicated surveys or through added modules of existing household surveys. Furthermore, prevalence is unlikely to change in the short term without major investments at all levels and across sectors. Therefore, the periodicity of this indicator need not be more than every 5 years, or even more if financial resources are unavailable. 
+Surveys on violence against women require particular attention to safety and ethical dimensions, including ensuring all interviews are conducted in privacy, the data is treated confidentially and that women provide their informed consent. For more detailed information see Putting women first. Ethical and safety recommendations for research on domestic violence against women (WHO, 2001)  
+Proxy, alternative and additional indicators: N/A
+Data Disaggregation
+This indicator requires disaggregation by age group and place of occurrence. No standard definitions and methods have been globally agreed to yet for the collection of data regarding the place where violence occurs. Therefore, it is not yet required. 
+In addition to age, disaggregation by income/wealth, education, ethnicity (including indigenous status), disability status, geographic location, relationship with perpetrator (including sex of perpetrator) and frequency and type of violence (as proxy to severity), can be beneficial. 
+Indicator 5.3.1: Proportion of women aged 20-24 years who were first married or in a union before age 15 and before age 18
+Target 5.3: Eliminate all harmful practices, such as child, early and forced marriage and female genital mutilation
+Goal 5: Achieve gender equality and empower all women and girls
+Definition and Rationale
+This indicator is defined as the percentage of women aged 20-24 years who were first married or in a union before age 15 and before age 18. 
+Concepts:
+Unions refers to both formal (i.e. marriage) and informal cohabiting unions. 
+-Informal union refers to couples living together as if married, but for which there has been no civil or religious ceremony (cohabitation). 
+Rationale and Interpretation:
+Marriage before the age of 18 is a fundamental violation of human rights. Child marriages often compromises a girl’s development by resulting in early pregnancy and social isolation, interrupting her schooling, limiting her opportunities for career and vocational advancement and placing her at an increased risk of intimate partner violence. Child marriage is a direct manifestation of gender inequality and against several international conventions and agreements. 
+The monitoring of this indicator over time would help observe change and assess the effectiveness of policy interventions to eliminate this harmful practice.
+Data Sources and Collection Method
+This data is collected through national censuses or national household surveys which have modules linked to marital status and age at first union of men and women of reproductive age. These surveys are generally conducted by the ministries of health or national statistical offices. The most commonly available sources of nationally representative and internationally-comparable data are the UNICEF-supported MICS and the USAID-supported DHS. 
+Method of Computation and Other Methodological Considerations
+Computation Method:
+The percentage of women aged 20-24 years who were married or in a union (PCM) before the age a can be calculated as:
+￼
+where,
+Wa is the number of women aged 20-24 years who were first married or in union before age 15 (or before age 18); and
+WTotal is the total number of women aged 20-24 years. 
+Comments and limitations:
+The modules used to collect information on marital status and age at first union among women and men of reproductive age (15-49 years) have been fully harmonized between the Demographic and Health Survey (DHS) and Multiple Indicator Cluster Survey (MICS).
+Proxy, alternative and additional indicators: N/A
+Data Disaggregation
+This indicator can be disaggregated by age, income, place of residence, geographic location, education and ethnicity (for some countries).
+Indicator 5.3.2: Proportion of girls and women aged 15-49 years who have undergone female genital mutilation/cutting, by age
+Target 5.3: Eliminate all harmful practices, such as child, early and forced marriage and female genital mutilation
+Goal 5: Achieve gender equality and empower all women and girls
+Definition and Rationale
+Definition:
+This indicator is defined as the percentage of girls and women aged 15-49 years who have undergone female genital mutilation/cutting. 
+Concepts:
+Female genital mutilation/cutting (FGM/C) refers to all procedures involving partial or total removal of the female external genitalia or other injury to the female genital organs for non-medical reasons.  
+Rationale and Interpretation:
+FGM/C is a violation of girls’ and women’s human rights. There is a large body of literature documenting the adverse health consequences of FGM/C over both the short and long term. The practice of FGM/C is a direct manifestation of gender inequality.
+FGM/C is condemned by a number of international treaties and conventions. Since FGM/C is regarded as a traditional practice prejudicial to the health of children and is, in most cases, performed on minors, it violates the Convention on the Rights of the Child. Existing national legislation in many countries also include explicit bans against FGM/C.
+The monitoring of this indicator over time is expected to help observe change in affected countries and assess the effectiveness of policy interventions to eliminate this harmful practice.
+Data Sources and Collection Method
+This data is collected through national household surveys which have questions in which women aged 15 to 49 self-report their experience of FGM/C, and report on their daughters’ experience of the practice (for daughters aged 0-14). These surveys are generally conducted by the ministries of health or national statistical offices. The most commonly available sources of nationally representative and internationally comparable data are the UNICEF-supported MICS and the USAID-supported DHS. 
+Method of Computation and Other Methodological Considerations
+Computation Method:
+The proportion of girls and women aged 15-49 years who have undergone FGM/C (PFGM/C) can be calculated as:
+￼ 
+where,
+ ￼is the number of girls and women aged 15-49 years who have undergone FGM/C; and
+￼ is the total number of girls and women aged 15-49 years. 
+The indicator can similarly be calculated for smaller age cohorts, including among girls aged 15-19 years, which represents the most recent estimate of prevalence since this is the age group which has most recently completed exposure to the risk period. 
+Comments and limitations:
+The modules used to collect information on the FGM/C status of girls aged 0-14 years and girls and women aged 15-49 years have been fully harmonized between the Demographic and Health Survey (DHS) and Multiple Indicator Cluster Survey (MICS).  Please see the statistical overview reference below for more details on methodological issues. 
+Proxy, alternative and additional indicators: N/A
+Data Disaggregation
+This indicator is required to be disaggregated by age, and is typically reported among five-year age cohorts from 15 to 49 years. However, it can also be disaggregated by income, place of residence, geographic location, education and ethnicity (for some countries). 
+Indicator 5.4.1: Proportion of time spent on unpaid domestic and care work, by sex, age and location
+Target 5.4: Recognize and value unpaid care and domestic work through the provision of public services, infrastructure and social protection policies and the promotion of shared responsibility within the household and the family as nationally appropriate
+Goal 5: Achieve gender equality and empower all women and girls
+Definition and Rationale
+Definition:
+This indicator is defined as the proportion of time spent in a day on unpaid domestic and care work by men and women. Unpaid domestic and care work refers to activities related to the provision of services for own final use by household members, or by family members living in other households. These activities are listed in ICATUS 2016 under the major divisions “3. Unpaid domestic services for household and family members” and “4. Unpaid caregiving services for household and family members”. 
+Concepts: 
+Unpaid domestic and care work refers to activities including food preparation, dishwashing, cleaning and upkeep of the dwelling, laundry, ironing, gardening, caring for pets, shopping, installation, servicing and repair of personal and household goods, childcare, and care of the sick, elderly or disabled household and family members, among others. These activities are listed in ICATUS 2016 under the major divisions “3. Unpaid domestic services for household and family members” and “4. Unpaid caregiving services for household and family members”. 
+Rationale and Interpretation:
+Time use statistics:
+(1) provide a measure of quality of life or general wellbeing of individuals and households;
+(2) offer a more comprehensive measurement of all forms of work, including unpaid household service work;
+(3) produce data relevant for monitoring gender equality and the empowerment of women and girls and are essential inputs for the policy and political dialogue on gender equality.
+Data Sources and Collection Method
+Most data on time-use are collected through dedicated national time-use surveys or from time-use modules that are integrated into multi-purpose household surveys. 
+In most countries, national statistical offices are responsible for collecting and compiling this data. 
+Method of Computation and Other Methodological Considerations
+Computation Method: 
+Proportion of time spent on unpaid domestic and care work ( ) is calculated as:
+ ￼
+where 
+￼
+If data on time spent are weekly, data are averaged over seven days of the week to obtain daily time spent. 
+Comments and limitations:
+International comparability of time-use statistics is limited by the following factors:
+(1)    Type of instrument used for time-use data collection. i.e. whether data are collected using a 24-hour diary, a light diary or a stylized questionnaire. The 24-hour time diary yields more granulated data than the stylized questionnaire but it is a more expensive mode of data collection. Data obtained from these two different data collection methods are usually not comparable, and even data collected with different stylized questions might not be comparable given that the level of details asked about activities performed might differ from one instrument to another, thus impacting the total time spent on a given activity;
+(2)    Differences in time-use activity classifications used by countries;
+(3)    Way of reporting time spent on main and secondary activities. To the extent possible, data presented at the global level refer to the “main activity” only;
+(4)    Differences in the target age population and age groups used by countries. 
+Proxy, alternative and additional indicators: N/A
+Data Disaggregation
+This indicator should be disaggregated by the following dimensions: sex, age and location.
+The categories for disaggregation, by dimension, are as follows:
+	▪	Sex: female/male;
+	▪	Age: the recommended age groups are: 15+, 15-24, 25-44, 45-54, 55-64 and 65+
+	▪	Location: urban/rural (following national definitions given the lack of international definition) 
+These categories have been recommended by the Inter-Agency and Expert Group on Gender Statistics (IAEG-GS) during its 11th meeting in Rome, Italy on 30-31 October 2017.
+Indicator 5.5.1: Proportion of seats held by women in (a) national parliaments and (b) local governments 
+Target 5.5: Ensure women’s full and effective participation and equal opportunities for leadership at all levels of decision-making in political, economic and public life
+Goal 5: Achieve gender equality and empower all women and girls
+Definition and Rationale
+Definition:
+Sub-indicator (b) is defined as the proportion of positions held by women in local government. It is expressed as a percentage of elected positions held by women in legislative/ deliberative bodies of local government.  
+Concepts:
+Local government is one of the sub-national spheres of government and a result of decentralization, a process of transferring political, fiscal, and administrative powers from the central government to sub-national units of government distributed across the territory of a country to regulate and/or run certain government functions or public services on their own. 
+The definition of local government follows the 2008 System of National Accounts (SNA) distinction between central, state, and local government (para 4.129). Local government consists of local government units, defined in the SNA as “institutional units whose fiscal, legislative and executive authority extends over the smallest geographical areas distinguished for administrative and political purposes” (para 4.145). What constitutes local government of a given country is defined by that country’s national legal framework, including national constitutions and local government acts or equivalent legislation. 
+Each local government unit typically includes a legislative/ deliberative body and an executive body. Legislative/ deliberative bodies, such as councils or assemblies, are formal entities with a prescribed number of members as per national or state legislation. They are usually elected by universal suffrage and have decision-making power, including the ability to issue by-laws, on a range of local aspects of public affairs.
+Executive bodies, consisting of an executive committee or a mayor, may be elected, appointed or nominated and they prepare and execute decisions made by the legislative/ deliberative body. 
+Elected positions are the most common manner of selection of local government members. They are selected in local elections, based on a system of choosing political office holders in which the voters cast ballots for the person, persons or political party that they desire to see elected. The category of elected positions includes both elected persons who competed on openly contested seats and persons selected during the electoral processes on reserved seats or through a candidate quota. 
+By comparison, members selected on appointed positions (the least common manner of selection of local government members) are nominated, typically by government officials from higher-ranking tiers of government. Appointed members of local government are more frequent among the leadership positions, such as the heads of the executive body, representatives of specific groups (e.g., women, disadvantaged groups, youth); and, temporary committees/delegations/caretakers appointed by government officials when a council has been dissolved. 
+Rationale and Interpretation:
+Women’s and men’s right to exercise their political rights on an equal basis, and at all levels of decision-making, is recognized in the SDGs and enshrined in many human and political rights declarations, conventions and resolutions agreed to by most countries in the world. Indicator 5.5.1b measures the degree to which gender balance has been achieved in, and women have equal access to, political decision-making in local government. 
+Indicator 5.5.1b complements the Indicator 5.5.1a on women in national parliaments, and accounts for the representation of women among the millions of members of local governments that influence (or have the potential to influence) the lives of local communities around the world. All tiers of local government are covered by the indicator, consistent with national legal frameworks defining local government.
+Data Sources and Collection Method
+Administrative data based on electoral records are the main source of data on elected members of local government, and the recommended data source for Indicator 5.5.1b. Electoral records are produced and upheld by Electoral Management Bodies (EMBs) or equivalent bodies tasked with organizing elections at local level. EMBs are part of the National Statistical System, and often specifically mentioned in the national statistics acts as producers of official statistics. 
+The use of electoral records to measure women’s representation in local government and monitoring of Indicator 5.5.1b is cost-effective, straightforward and timely. No adjustments or estimates are necessary to transform the administrative information into statistics for monitoring the indicator. The conceptual framework at the basis of Indicator 5.5.1b is consistent with the conceptual framework at the basis of local elections, as both are provided by national legal framework. The data used to calculate Indicator 5.5.1b refer to information on election winners, disaggregated by sex, and the coverage of the reference population (in this case, the elected officials) should be complete. In countries where the electoral records are electronic and centralized, information on numbers of women and men in elected positions can be made available as soon as the official results of elections are released. 
+Two other types of sources of data may be used in the few instances where electoral records are not electronic or not centralized. One additional type of source is also administrative, and refers to public administration data available to line ministries overseeing local government. However, its use for statistics may be less straightforward compared to centralized electoral records. The scope of public administration records is beyond the elected positions, and information on women and men in elected positions of local government may be mixed with information on public administration employees, which are not covered by this indicator. Therefore, additional data processing and resources may be required to carefully extract the information needed. In some cases, the forms used as the basis for administrative records may need to be modified to ensure recording of the positions as being elected, in legislative/deliberative bodies, as well as the sex of persons in those positions. In other cases, some elected positions may not be covered in the records maintained, for example, if the administrative records are restricted to only those positions that are on the government payroll. 
+Another type of data source that may provide information on women and men in local government in the absence of centralized electronic election records, refers to existing surveys or censuses using local government units as units of observation. These surveys or censuses may be undertaken by National Statistical Offices and/or line ministries and may take the form of (a) local government censuses or surveys; (b) establishment survey; and (c) municipality surveys. These surveys/censuses may already include, in the data collection tool dedicated to their main purpose, a few questions on the number of members of local legislative/deliberative and executive bodies by sex and other individual characteristics such as age and education; or may require the integration of such questions. Similar to other censuses and surveys, a low response rate can result in bias of the statistics obtained. Sampling errors may also add to the bias, in ways that cannot be assessed in the absence of a good understanding of distribution of women’s and men’s representation across different local government units across the territory of a country.
+Method of Computation and Other Methodological Considerations
+Computation Method:
+This indicator is calculated as follows:
+ ￼
+Comments and limitations: 
+Indicator 5.5.1b refers to the representation of women among elected positions of legislative/deliberative bodies of local government. The indicator does not consider other positions in local government. Local government officials holding executive positions who are not simultaneously holding a position within the legislative/deliberative body, or who are appointed and not elected, are not considered in this indicator. 
+Importantly, the indicator refers to representation among members of local government and not the quality of their participation. Countries may therefore consider assessing political participation through national or subnational studies involving qualitative and/or quantitative methods of research. Additional indicators of political participation may also be monitored at national level, such as women’s share among voters and candidates in local elections, to monitor the closing of other gaps on women’s political participation.  
+Proxy, alternative and additional indicators: N/A
+Data Disaggregation
+Data on elected positions in legislative/deliberative bodies of local government must be disaggregated by sex to enable the calculation of the indicator. 
+Indicator 5.5.2: Proportion of women in managerial positions
+Target 5.5: Ensure women’s full and effective participation and equal opportunities for leadership at all levels of decision-making in political, economic and public life
+Goal 5: Achieve gender equality and empower all women and girls
+Definition and Rationale
+Definition:
+This indicator refers to the proportion of females in the total number of persons employed in managerial positions. It is recommended to use two different measures jointly for this indicator: the share of females in (total) management and the share of females in senior and middle management (thus excluding junior management). The joint calculation of these two measures provides information on whether women are more represented in junior management than in senior and middle management, thus pointing to an eventual ceiling for women to access higher-level management positions. In these cases, calculating only the share of women in (total) management would be misleading, in that it would suggest that women hold positions with more decision-making power and responsibilities than they actually do. 
+Concepts:
+-               Employment comprises all persons of working age who, during a short reference period (one week), were engaged in any activity to produce goods or provide services for pay or profit. For further clarification, see: Resolution concerning statistics of work, employment and labour underutilization (2013).
+-               Employment in management is determined according to the categories of the latest version of the International Standard Classification of Occupations (ISCO-08), which organizes jobs into a clearly defined set of groups based on the tasks and duties undertaken in the job. For the purposes of this indicator, it is preferable to refer separately to senior and middle management only on one hand, and to total management (including junior management) on the other. Senior and middle management correspond to sub-major groups 11, 12 and 13 in ISCO-08 and sub-major groups 11 and 12 in ISCO-88. If statistics are not available disaggregated at the sub-major group level (two-digit level of ISCO), then major group 1 of ISCO-88 and ISCO-08 can be used as a proxy and the indicator would then refer only to total management (including junior management). 
+Rationale and Interpretation:
+This indicator provides a meaningful measure of the percentage of females who are employed in decision-making and management roles in government, large enterprises and institutions, thus providing some insight into women’s power in decision-making and in the economy, relative to men’s power.
+Data Sources and Collection Method
+The data for this indicator is collected through labour force surveys or any other household survey which collects such data through a module on employment. Establishment/firm surveys or administrative records can also provide useful data on female-occupied management positions by ISCO groups. Surveys are conducted by national statistical offices or ministries of labour in countries.
+Method of Computation and Other Methodological Considerations
+Computation Method:
+The two recommended measures are the percentage of females in senior and middle-management positions (Psmmgmt) and the percentage of females in managerial positions (Pmgmt). They are calculated as follows:
+￼
+ 
+where,
+Wsmmgmt is the number of women employed in jobs of ISCO-08’s sub-major groups 11, 12 and 13 (which also corresponds to major group 1 minus sub-major group 14) or ISCO-88’s sub-major groups 11 and 12 (which also corresponds to major group 1 minus sub-major group 13); and
+Tmgmt is the total number of persons employed in jobs of ISCO-08’s sub-major groups 11, 12 and 13 (which also corresponds to major group 1 minus sub-major group 14) or ISCO-88’s sub-major groups 11 and 12 (which also corresponds to major group 1 minus sub-major group 13).  
+￼
+where,
+Wmgmt is the number of women employed in ISCO-08’s group 1 or ISCO-88’s group 1 jobs; and
+Tmgmt is the total number of persons employed in ISCO-08’s group 1 or ISCO-88’s group 1 jobs. 
+Comments and limitations:
+The main limitation of this indicator is that it fails to capture the differences in the levels of responsibility of women in their respective managerial position, or the importance of the enterprises and organizations in which they are employed. Its quality is also significantly impacted by the reliability of the employment statistics by occupation at the two-digit level of the ISCO. Whenever data at the two-digit level of the ISCO are not available, data at the one-digit level could be used as a proxy, referring only to major group 1 of ISCO-08 or ISCO-88, rather than to also refer to major group 1 minus category 14 of ISCO-08 or major group 1 minus category 13 of ISCO-88. This implies referring to the female share in total management, rather than also to the female share in senior and middle management exclusively. This proxy should be used only in case of lack of availability of data at the two-digit level of the ISCO, as total management includes junior management, and women tend to be more represented in junior management positions than in senior or middle management positions, and thus, by referring only to total management one may over-estimate women’s impact in high-level decision-making roles.
+Data Disaggregation
+This indicator can be disaggregated by economic activities of the International Standard Industrial Classification (ISIC). 
+Indicator 5.6.1: Proportion of women aged 15-49 years who make their own informed decisions regarding sexual relations, contraceptive use and reproductive health care
+Target 5.6: Ensure universal access to sexual and reproductive health and reproductive rights as agreed in accordance with the Programme of Action of the International Conference on Population and Development and the Beijing Platform for Action and the outcome documents of their review conferences.
+Goal 5: Achieve gender equality and empower all women and girls
+Definition and Rationale
+Definition:
+This indicator is defined as the percentage of women aged 15-49 years who are married (or in union), who make their own decisions on all three areas – sexual intercourse with their partner, use of contraception, and their healthcare. 
+Concepts:
+Married or in union includes both women who are legally married and in informal unions. An informal union is one in which the man and woman live together at the time of the interview, intending to have a lasting relationship, but have not had a formal civil or religious ceremony. 
+A woman is considered to have autonomy in reproductive health decision making and to be empowered to exercise their reproductive rights if they: (1) can say ‘NO’ to sex with their husband/partner if they do not want to; (2) decide on use/ non-use of contraception; and (3) decide on health care for themselves. 
+Autonomy is determined by a ‘yes’ response to the question on sexual intercourse and ‘mainly respondent’ or ‘jointly’ to the questions of contraception and their healthcare, on relevant surveys. 
+Rationale and Interpretation:
+Women’s and girls’ autonomy in decision making over consensual sexual relations, contraceptive use and access to sexual and reproductive health services is key to their empowerment and the full exercise of their reproductive rights. This is well aligned with the idea of sexual autonomy and women’s empowerment. The monitoring of this indicator over time would help observe change and assess the effectiveness of policy interventions.
+Data Sources and Collection Method
+The data for this indicator can be collected through nationally representative surveys which incorporate the three questions mentioned above. Currently, this data is being collected through the Demographic and Health Survey (DHS), with plans to expand data collection to include Multiple-Indicator Cluster Survey (MICS) and other possible national surveys. 
+A sample set of three questions is as follows:
+(1)    Can you say no to your (husband/partner) if you do not want to have sexual intercourse?
+a. Yes b. No c. Depends/Not Sure
+(2)    Would you say that using contraception is mainly your decision, mainly your husband’s/partner’s decision, or did you both decide together?
+a. Mainly Respondent b. Mainly Husband/Partner c. Joint Decision d. Other (Specify) ________________
+(3)    Who usually makes decisions about health care for yourself?
+a. You b. Your Husband/Partner c. You and Your Husband/Partner Jointly d.Someone else 
+Only women who provide the correct answers to all three components are considered as women who “make their own decisions regarding sexual relations, contraceptive use and reproductive health care”. These are women who reported that they “can say no to their husband or partner if they do not want to have sexual intercourse”, who decide about using contraception either by themselves or jointly with husband or partner, and who decide about their own health care either by themselves or jointly with husband/partner. 
+Method of Computation and Other Methodological Considerations
+Computation Method:
+This indicator is computed based on women’s responses to survey questions regarding:
+(1)    Whether they can say ‘NO’ to sex with their husband/partner if they do not want to;
+(2)    Whether they claim that using contraception is mainly their decision and not solely their husband’s/partner’s; and
+(3)    Whether they usually make decisions about their own health care. 
+The percentage of women (15-49 years) who make their own decisions regarding sexual relations, contraceptive use and reproductive health care (PSCR) can be calculated as:
+￼
+where,
+WSCR is the number of married (or in union) women (15-49 years) who respond ‘yes’ to question (1), and ‘mainly respondent’ or ‘jointly’ to questions (2) and (3); and
+Wtotal­ is the total number of women (15-49 years) who are married (or in union). 
+Comments and limitations:
+Currently, this indicator is being estimated solely based on the response of women of reproductive age (15-49 years) who are using any type of contraception, for only those that are currently married or in union. However, in the upcoming Demographic and Health Surveys (DHS) this question is being rephrased to ask about the decision to use or not use contraception of all married (or in union) women of reproductive age. 
+In many national contexts, household surveys, which are the main data source for this indicator, exclude the homeless and are likely to underreport on the statistic. 
+Data Disaggregation
+This indicator can be disaggregated by age, geographic location, place of residence, education level and wealth quintile.
+Indicator 5.a.1: Proportion of total agricultural population with ownership or secure rights over agricultural land, by sex; and (b) share of women among owners or rights-bearers of agricultural land, by type of tenure
+Target 5.a: Undertake reforms to give women equal rights to economic resources, as well as access to ownership and control over land and other forms of property, financial services, inheritance and natural resources, in accordance with national laws
+Goal 5: Achieve gender equality and empower all women and girls
+Definition and Rationale
+Definition:
+This indicator is divided into two sub-indicators:
+Sub-indicator (a) is defined as the prevalence of people in the agricultural population with ownership or tenure rights over agriculture land; and
+Sub-indicator (b) is defined as the share of women in the agricultural population with ownership or tenure rights over agricultural land 
+Concepts:
+Agricultural land is defined, according to the World Census of Agriculture 2020 (WCA 2020), as any land that is under either temporary or permanent crops, meadows and pastures or is temporarily fallow. According to the official definition, lands under farm buildings, farmyards, forests, other wooded land, (inland) areas used aquaculture and other areas not elsewhere classified are not considered ‘agricultural lands’. However, considering the importance of farmyards to the household economy and food security, and since women frequently hold or control this type of land, it was decided to include ‘farmyard’ in the definition of agricultural land used for SDG indicator 5.a.1. 
+Agricultural population refers to adult individuals living in agricultural households, i.e. households that operated land for agricultural purposes and/or raised livestock over the past 12 months, regardless of the final purpose of the production. If household members are engaged in agriculture only as farm labourers, the household is not considered an agricultural household and its members will not be assessed on their ownership / tenure status over agricultural land. 
+Ownership or Tenure rights over agriculture land refer to satisfying three conditions: the presence of legally recognised documents in the name of the individual; the right to sell; and the right to bequeath. 
+Rationale and Interpretation:
+Indicator 5.a.1 aims to monitor the gender balance on ownership / tenure rights over agricultural land. This indicator has two sub-indicators that are based on the same data to monitor ownership/tenure rights from two different angles. While sub-indicator (a) uses the total male/female agricultural population as the reference population, and it gives information on how many male/female own/hold agricultural land, sub-indicator (b) focuses on the agricultural population with land ownership/tenure rights, and it gives information on the share of women among this population. Therefore, to compute these sub-indicators; it is sufficient to have:
+1) The number of adult individuals in agriculture with ownership or tenure rights over agricultural land by sex; and
+2) The total adult agricultural population 
+Data Sources and Collection Method
+Indicator 5.a.1 focuses on adult individuals living in agricultural households – i.e. households that have practiced agriculture over the last 12 months. Thus, it can be collected through Agricultural Surveys or National Household Surveys. Generally speaking, surveys are more cost-effective than censuses because they are carried out on a representative sample which is then used to estimate the parameters at the population level.
+Agricultural Surveys are a recommended data source for two main reasons:
+	1.	The unit of analysis is agricultural holdings and, in most countries, a one-to-one relationship exists between the household-sector agricultural holdings and the agricultural households. Therefore, agricultural surveys capture well the reference population of indicator 5.a.1 (i.e. agricultural households), and there is no need for any pre-screening questions or oversampling to generate nationally representative estimates.
+	2.	Agricultural surveys can easily accommodate questions on agricultural land tenure rights since these surveys frequently collect data regarding rights on agricultural land and data on agricultural production. 
+National Household Surveys (NHS) are also recommended data sources for indicator 5.a.1 for several reasons:
+	1.	National Household surveys are the most common data source available in both developed and developing countries.
+	2.	National Household surveys tend to be very broad in scope, and they are normally used to generate social, demographic and economic statistics. Therefore these surveys: i) can accommodate questions needed for the computation of indicator 5.a.1; ii) allow exploring associations between the individual status on indicator 5.a.1 and other individual or household characteristics, such as education, health, income level, etc; iii) can include additional data for a more detailed analysis of the indicator (eg., land size). However, if NHS are used to monitor indicator 5.a.1, it is necessary to identify agricultural households. In addition, especially in countries/regions with a low proportion of households is engaged in agricultural production. Therefore, in the case of NHS, a pre-screening and oversampling may be needed, especially in urban and peri-urban areas. 
+Alternative sources include Population and Housing Censuses and Agricultural Censuses. In principle, Population and Housing Censuses (PHC) and Agricultural Censuses (ACs) can be considered an alternative data source for indicator 5.a.1 because, like household surveys, these surveys refer to the whole population living in a given area. Nonetheless, censuses present some disadvantages:
+	1.	Low frequency: Censuses are usually conducted every ten years. Therefore they do not allow countries to closely monitor the progress on indicator 5.a.1.
+	2.	Censuses are large scale and costly operations focussing on the structure of the population.
+	3.	Censuses heavily rely on proxy respondents, an approach which is in contrast with the respondents’ selection procedure recommended for indicator 5.a.1. 
+Method of Computation and Other Methodological Considerations
+Computation Method:
+The following formulas can be used to calculate the two sub-indicators:
+￼
+and 
+￼
+Comments and limitations:
+The data for this indicator needs to be collected through appropriate sampling techniques so as to obtain a representative sample. 
+When designing the questionnaire, it is critical to customize the list of legally binding documents to consider only those documents that guarantee the individual’s tenure rights which are enforceable by law in the country. 
+Proxy, alternative and additional indicators: N/A
+Data Disaggregation
+The ‘level of required disaggregation for the sub-indicator (a) relates to the sex of the individuals. Moreover, the ‘recommended’ levels of disaggregation for this indicator are the income level, age groups, ethnicities, geographic location (urban and rural), tenure type, type of legally recognized documents
+Indicator 5.b.1: Proportion of individuals who own a mobile telephone, by sex
+Target 5.b: Enhance the use of enabling technology, in particular information and communications technology, to promote the empowerment of women
+Goal 5: Achieve gender equality and empower all women and girls
+Definition and Rationale
+Definition:
+This indicator is defined as the percentage of individuals who own a mobile telephone.  
+Concepts:
+A mobile (cellular) telephone refers to a portable telephone subscribing to a public mobile telephone service using cellular technology, which provides access to the public switched telephone network (PSTN). This includes analogue and digital cellular systems and technologies such as IMT-2000. 
+An individual owns a mobile cellular phone if he/she has a mobile cellular phone device with at least one active SIM card for personal use. Individuals who have only active SIM card(s) and not a mobile phone device are excluded. Mobile cellular phones supplied by employers that can be used for personal reasons (to make personal calls, access the Internet, etc.) are included. Individual who has a mobile phone for personal use that is not registered under his/her name is included. An active SIM card is a SIM card that has been used in the last three months. 
+Rationale and Interpretation:
+Mobile phone networks have spread rapidly over the last decade and the number of mobile-cellular subscriptions is quasi equal to the number of the people living on earth. However, not every person uses, or owns a mobile-cellular telephone. Mobile phone ownership, in particular, is important to track gender equality since the mobile phone is a personal device that, if owned and not just shared, provides women with a degree of independence and autonomy, including for professional purposes. Research shows the link between mobile phone ownership and empowerment, and productivity growth.
+Data Sources and Collection Method
+The primary source of this data would be the nationally representative household surveys that are conducted by the respective national statistical offices or relevant ministries of countries.  This indicator refers to ownership of mobile-cellular phone by individual household members. The suggested reference period is the last three months. Country practices vary, but ideally, reference periods should be aligned in order to obtain comparable data. 
+Model question is: Do you have a mobile cellular telephone for personal use?  (Yes / No)
+Optional question is: (If yes), how many lines or SIM cards do you have? Please consider only those that are active.
+Method of Computation and Other Methodological Considerations
+Computation Method:
+Percentage of individuals who own a mobile phone (Ps), of the sex s, can be calculated as:
+￼
+where,
+ ￼is the number of individuals of the sex s who own a mobile phone; and
+ ￼is the number of total individuals of the sex s.  
+Similarly, the percentage of all individuals who own a mobile phone (Pmobile) can be calculated as:
+￼
+where,
+￼ is the number of individuals who own a mobile phone. 
+Comments and limitations:
+The International Telecommunication Union (ITU) is encouraging countries to collect this data through their national household surveys as this is a relatively new measure. It is expected to be added to the Partnership on Measuring ICT Development’s Core List of Indicators. 
+Proxy, alternative and additional indicators: N/A
+Data Disaggregation
+This indicator is required to be disaggregated by sex. It can be disaggregated by geographic location (urban/rural), age group, education level, labour force status and occupation.
+Indicator 5.c.1: Percentage of countries with systems to track and make public allocations for gender equality and women’s empowerment
+Target 5.c: Adopt and strengthen sound policies and enforceable legislation for the promotion of gender equality and the empowerment of all women and girls at all levels
+Goal 5: Achieve gender equality and empower all women and girls
+Definition and Rationale
+Definition:
+This indicator is defined as percentage of countries that track budget allocations for gender equality and women’s empowerment (GEWE) throughout the public finance management cycle and make these allocations publicly available. 
+The indicator measures three criteria. The first focuses on the intent of a government to address GEWE by identifying if it has programs/policies on GEWE and corresponding resource allocations to support implementation. The second criterion assesses if a government has mechanisms throughout the public financial management cycle to track resource allocations towards these policy goals. The third focuses on transparency of data by assessing existence of provisions to make information about allocations for GEWE publicly available. 
+While this indicator is monitored at the global level, a country can assess its own status according to the international criteria. It can also track its progress over time and compare its system to those of other countries. 
+Concepts: 
+An assessment of a country’s status in tracking and making public the budgetary allocations for gender equality and women’s empowerment is based on the following questionnaire. 
+Criterion 1. Which of the following aspects of public expenditure are reflected in your government programs and its resource allocations? (In the last completed fiscal year) 
+Question 1.1. Are there policies and/or programs of the government designed to address well-identified gender equality goals, including those where gender equality is not the primary objective (such as public services, social protection and infrastructure) but incorporate action to close gender gaps? (Yes=1/No=0) 
+Question 1.2. Do these policies and/or programs have adequate resources allocated within the budget, sufficient to meet both their general objectives and their gender equality goals? (Yes=1/No=0) 
+Question 1.3. Are there procedures in place to ensure that these resources are executed according to the budget? (Yes=1/No=0) 
+Criterion 2. To what extent does your Public Financial Management system promote gender-related or gender-responsive goals? (In the last completed fiscal year) 
+Question 2.1. Does the Ministry of Finance/budget office issue call circulars, or other such directives, that provide specific guidance on gender-responsive budget allocations? (Yes=1/No=0) 
+Question 2.2. Are key policies and programs, proposed for inclusion in the budget, subject to an ex ante gender impact assessment? (Yes=1/No=0) 
+Question 2.3. Are sex-disaggregated statistics and data used across key policies and programs in a way which can inform budget-related policy decisions? (Yes=1/No=0) 
+Question 2.4. Does the government provide, in the context of the budget, a clear statement of gender-related objectives (i.e. gender budget statement or gender responsive budget legislation)? (Yes=1/No=0) 
+Question 2.5. Are budgetary allocations subject to “tagging” including by functional classifiers, to identify their linkage to gender-equality objectives? (Yes=1/No=0) 
+Question 2.6. Are key policies and programs subject to ex post gender impact assessment? (Yes=1/No=0) 
+Question 2.7. Is the budget as a whole subject to independent audit to assess the extent to which it promotes gender-responsive policies? (Yes=1/No=0) 
+Criterion 3. Are allocations for gender equality and women’s empowerment made public? (In the last completed fiscal year) 
+Question 3.1. Is the data on gender equality allocations published? (Yes=1/No=0) 
+Question 3.2. If published, has this data been published in an accessible manner on the Ministry of Finance (or office responsible for budget) website and/or related official bulletins or public notices? (Yes=1/No=0) 
+Question 3.3. If so, has the data on gender equality allocations been published in a timely manner? (Yes=1/No=0) 
+Rationale and Interpretation:
+Adequate and effective financing is essential to achieve SDG 5 and the gender related targets across the SDG framework. By tracking resource allocations, governments introduce deliberate measures into the planning and budgeting cycle to meet their gender policy objectives. By making these allocations public, governments commit to higher levels of transparency and accountability in budget decision making. 
+This is an indicator about the characteristics of the fiscal system, and not about the quantity or quality of financial resources allocated for gender equality and women’s empowerment. It can incentivize governments to put in place a system to track and make public resource allocations which can then inform policy review, better policy formulation and more effective public financial management. The system should be led by the Ministry of Finance in collaboration with the sectoral ministries and National Women’s Machineries and overseen by an appropriate body such as Parliament or Public Auditors.
+Data Sources and Collection Method
+Globally, the data collection process for the indicator will be undertaken as part of the country-level monitoring conducted through the Global Partnership for Effective Development Cooperation monitoring framework. The Global Partnership monitoring is led by national coordinators appointed by their respective government to coordinate data collection and validation across relevant government ministries, departments and agencies. 
+An electronic questionnaire with accompanying monitoring guidance is used to collect data on this indicator. These are typically sent to the Ministry of Finance, or agency in charge of the government budget. The national coordinator will liaise with the Ministry of Finance, Ministry of Women and other relevant ministries to complete the questionnaire. This will provide information for a country to assess its own status according to the international criteria.
+Method of Computation and Other Methodological Considerations
+Computation Method: 
+Method of computation for global aggregation of the indicator 5.c.1 is defined as follows: 
+￼
+The indicator includes a scoring system structured as a ‘scale’ measure by classifying countries, based on their responses, into one of three categories: ‘fully meets requirements’, ‘approaches requirements’, and ‘does not meet requirements.’ The use of a scaled scoring can incentivize countries to improve tracking systems and to show progress over time. 
+A country’s status for this indicator is calculated based on the table below:
+ 
+Requirements per criterion
+A country will satisfy Criterion 1
+if it answers “Yes” to 2 out of 3 questions in Criterion 1
+A country will satisfy Criterion 2
+if it answers “Yes” to 4 out of 7 questions in Criterion 2
+A country will satisfy Criterion 3
+if it answers “Yes” to 2 out of 3 questions in Criterion 3
+Each question within each criterion has the same weight. A country would need to satisfy the threshold of “yes” responses per criterion to satisfy each criterion. Countries are then classified as: ‘fully meets requirements’ if all Criteria are satisfied; ‘approaches requirements’ if one or two of Criteria are satisfied; and ‘does not meet requirements’ if no Criteria is satisfied. 
+Comments and limitations:
+The indicator does not measure allocation of resources but the existence of mechanisms to track resource allocations and that make that information available publicly. However, there is an optional question in the questionnaire (not scored) that requests countries to report the percentage of the government budget allocated for gender equality programs. Another limitation is that the indicator, which is process oriented, does not provide data on the adequacy or quality of resource allocations. 
+Sub-indicator, alternative and additional indicators: N/A
+Data Disaggregation
+a)      The following two country classification global proportions will also be reported:
+￼
+a)      Additional disaggregation by region as follows:
+￼
+Where x refers to the region of analysis and y refers to the country classification based on the questionnaire.
+SDG 5: Gender equality and women's empowerment
+
+While the world has achieved progress towards gender equality and womens empowerment under the Millennium Development Goals (including equal access to primary education between girls and boys), women and girls continue to suffer discrimination and violence in every part of the world.
+
+Gender equality is not only a fundamental human right, but a necessary foundation for a peaceful, prosperous and sustainable world. Unfortunately, at the current time, 1 in 5 women and girls between the ages of 15-49 have reported experiencing physical or sexual violence by an intimate partner within a 12-month period and 49 countries currently have no laws protecting women from domestic violence. Progress is occurring regarding harmful practices such as child marriage and FGM (Female Genital Mutilation), which has declined by 30% in the past decade, but there is still much work to be done to complete eliminate such practices.
+
+Providing women and girls with equal access to education, health care, decent work, and representation in political and economic decision-making processes will fuel sustainable economies and benefit societies and humanity at large. Implementing new legal frameworks regarding female equality in the workplace and the eradication of harmful practices targeted at women is crucial to ending the gender-based discrimination prevalent in many countries around the world.
+
+Globally, 750 million women and girls were married before the age of 18 and at least 200 million women and girls in 30 countries have undergone FGM.
+In 18 countries, husbands can legally prevent their wives from working; in 39 countries, daughters and sons do not have equal inheritance rights; and 49 countries lack laws protecting women from domestic violence.
+One in five women and girls, including 19 per cent of women and girls aged 15 to 49, have experienced physical and/or sexual violence by an intimate partner with the last 12 months. Yet, 49 countries have no laws that specifically protect women from such violence.
+While women have made important inroads into political office across the world, their representation in national parliaments at 23.7 per cent is still far from parity.
+Only 52 per cent of women married or in a union freely make their own decisions about sexual relations, contraceptive use and health care.
+Globally, women are just 13 per cent of agricultural land holders.
+More than 100 countries have taken action to track budget allocations for gender equality.
+Women in Northern Africa hold less than one in five paid jobs in the non-agricultural sector. The proportion of women in paid employment outside the agriculture sector has increased from 35 per cent in 1990 to 41 per cent in 2015.
+In 46 countries, women now hold more than 30 per cent of seats in national parliament in at least one chamber.
+In Southern Asia, a girls risk of marrying in childhood has dropped by over 40% since 2000.
+The rates of girls between 15-19 who are subjected to FGM (female genital mutilation) in the 30 countries where the practice is concentrated have dropped from 1 in 2 girls in 2000 to 1 in 3 girls by 2017.
+Goal 5 targets
+
+End all forms of discrimination against all women and girls everywhere
+Eliminate all forms of violence against all women and girls in the public and private spheres, including trafficking and sexual and other types of exploitation
+Eliminate all harmful practices, such as child, early and forced marriage and female genital mutilation
+Recognize and value unpaid care and domestic work through the provision of public services, infrastructure and social protection policies and the promotion of shared responsibility within the household and the family as nationally appropriate
+Ensure womens full and effective participation and equal opportunities for leadership at all levels of decisionmaking in political, economic and public life
+Ensure universal access to sexual and reproductive health and reproductive rights as agreed in accordance with the Programme of Action of the International Conference on Population and Development and the Beijing Platform for Action and the outcome documents of their review conferences
+Undertake reforms to give women equal rights to economic resources, as well as access to ownership and control over land and other forms of property, financial services, inheritance and natural resources, in accordance with national laws
+Enhance the use of enabling technology, in particular information and communications technology, to promote the empowerment of women
+Adopt and strengthen sound policies and enforceable legislation for the promotion of gender equality and the empowerment of all women and girls at all levels
+
+                   On average, less than 1 in 3 senior and middle management positions are held by women
+GENDER EQUALITY: WHY IT MATTERS
+To achieve gender equality and empower all women and girls.
+Women and girls represent half of the worlds population and therefore also half of its potential. But, today gender inequality persists everywhere and stagnates social progress.
+As of 2014, 143 countries have guaranteed equality between men and women in their Constitutions but 52 have yet to take this step.
+What happens if gender equality is not ensured?
+Inequalities faced by girls can begin right at birth and follow them all their lives. In some countries, girls are deprived of access to health care or proper nutrition, leading to a higher mortality rate.
+As girls move into adolescence, gender disparities widen. Child marriage affects girls far more than boys. Globally, nearly 15 million girls under age 18 are married every year or 37,000 each day.
+Marrying young also affects girls education. About one third of developing countries have not achieved gender parity in primary education.
+In sub-Saharan Africa, Oceania and Western Asia, girls still face barriers to entering both primary and secondary school.
+How does gender inequality affect women?
+Disadvantages in education translate into lack of access to skills and limited opportunities in the labour market.
+Womens and girls empowerment is essential to expand economic growth and promote social development. The full participation of women in labor forces would add percentage points to most national growth rates double digits in many cases.
+Are there any other genderrelated challenges?
+ Worldwide, 35 per cent of women between 15-49 years of age have experienced physical and/ or sexual intimate partner violence or non-partner sexual violence.
+1 in 3 girls aged 15-19 have experienced some form of female genital mutilation cutting in the 29 countries in Africa and the Middle East, where the harmful practice is most common with a high risk of prolonged bleeding, infection (including HIV), childbirth complications, infertility and death.
+The Spotlight Initative, an EU/UN partnership, is a global, multi-year initiative focused on eliminating all forms of violence against women and girls (VAWG).
+But, why should gender equality matter to me?
+Regardless of where you live in, gender equality is a fundamental human right. Advancing gender equality is critical to all areas of a healthy society, from reducing poverty to promoting the health, education, protection and the well-being of girls and boys.
+Investing in education programmes for girls and increasing the age at which they marry can return
+$5 for every dollar spent. Investing in programs improving income-generating activities for women can return $7 dollars for every dollar spent.
+If you are a girl, you can stay in school, help empower your female classmates to do the same and fight for your right to access sexual and reproductive health services.
+If you are a woman, you can address unconscious biases and implicit associations that form an unintended and often an invisible barrier to equal opportunity.
+If you are a man or a boy, you can work alongside women and girls to achieve gender equality and embrace healthy, respectful relationships.
+You can fund education campaigns to curb cultural practices like female genital mutilation and change harmful laws that limit the rights of women and girls and prevent them from achieving their full potential.
+Goal 5. Achieve gender equality and empower all women and girls
+Gender equality and womens empowerment have advanced in recent decades. Girls access to education has improved, the rate of child marriage declined and progress was made in the area of sexual and reproductive health and reproductive rights, including fewer maternal deaths. Nevertheless, gender equality remains a persistent challenge for countries worldwide and the lack of such equality is a major obstacle to sustainable development.Assuring womens rights through legal frameworks is a first step in addressing discrimination against them. As of 2014, 143 countries guaranteed equality between men and women in their constitutions; another 52 countries have yet to make this important commitment. In 132 countries, the statutory legal age of marriage is equal for women and men, while in another 63 countries, the legal age of marriage is lower for women than for men. Violence against women and girls violates their human rights and hinders development. Most such violence is perpetrated by intimate partners, with available data from surveys conducted between 2005 and 2015, in 52 countries, (including only one country from the developed regions) indicating that 21 per cent of girls and women aged between 15 and 49 experienced physical and/or sexual violence at the hands of an intimate partner in the previous 12 months. Estimates on the risks of violence experienced by women with disabilities, women from ethnic minorities and among women above the age of 50 are not yet included, owing to data limitations. Additionally, human trafficking disproportionately affects women and girls, since 70 per cent of all victims detected worldwide are female. Globally, the proportion of women aged between 20 and 24 who reported that they were married before their eighteenth birthday dropped from 32 per cent around 1990 to 26 per cent around 2015. Child marriage is most common in Southern Asia and sub-Saharan Africa, with 44 per cent of women married before their eighteenth birthday in Southern Asia and 37 per cent of women married before their eighteenth birthday in sub-Saharan Africa. The marriage of girls under the age 15 is also highest in those two regions, at 16 per cent and 11 per cent, respectively. Social norms can and do change, however, with the rate of marriage of girls under the age of 15 declining globally from 12 per cent around 1990 to 7 per cent around 2015, although disparities are found across regions and countries. The most rapid reduction in child marriage overall was recorded in Northern Africa, where the percentage of women married before the age of 18 dropped by more than half, from 29 per cent to 13 per cent, over the past 25 years. The harmful practice of female genital mutilation/cutting is another human rights violation that affects girls and women worldwide. While the exact number of girls and women globally who have undergone the procedure is unknown, at least 200 million have been subjected to the procedure in 30 countries with representative prevalence data. Overall, rates of female genital mutilation/cutting have been declining over the past three decades. However, not all countries have made progress and the pace of decline has been uneven. Today, in the 30 countries, for which data were available, around 1 in 3 girls aged 15 to 19 have undergone the practice, versus 1 in 2 in the mid-1980s. In every region, women and girls do the bulk of unpaid work, including caregiving and such household tasks as cooking and cleaning. On average, women report that they spend 19 per cent of their time each day in unpaid activities, versus 8 per cent for men. The responsibilities of unpaid care and domestic work, combined with paid work, means greater total work burdens for women and girls and less time for rest, self-care, learning and other activities. Globally, womens participation in parliament rose to 23 per cent in 2016, representing an increase by 6 percentage points over a decade. Slow progress in this area is in contrast with more women in parliamentary leadership positions. In 2016, the number of women speakers of national parliaments jumped from 43 to 49 (out of the 273 posts globally); women accounted for 18 per cent of all speakers of parliament in January 2016. 
+Goal 5. Achieve gender equality and empower all women and girls 
+Gender inequality persists worldwide, depriving women and girls of their basic rights and opportunities. Achieving gender equality and the empowerment of women and girls will require more vigorous efforts, including legal frameworks, to counter deeply rooted gender-based discrimination that often results from patriarchal attitudes and related social norms. 
+		On the basis of data from 2005 to 2016 for 87 countries, 19 per cent of women between 15 and 49 years of age said they had experienced physical and/or sexual violence by an intimate partner in the 12 months prior to the survey. In the most extreme cases, such violence can lead to death. In 2012, almost half of all women who were victims of intentional homicide worldwide were killed by an intimate partner or family member, compared to 6 per cent of male victims. 
+		Child marriage is declining, but not fast enough. Around 2000, nearly 1 in 3women between 20 and 24 years of age reported that they were married before 18 years of age. Around 2015, the ratio was just over 1 in 4. The decline is driven by an even steeper reduction in the marriage rate among girls under 15 years of age during that period. 
+		The harmful practice of female genital mutilation/cutting has declined by 24per cent since around 2000. Nevertheless, prevalence remains high in some of the 30 countries with representative data. In those countries, survey data from around 2015 indicate that more than 1 in 3 girls between 15 and 19years of age have undergone the procedure compared to nearly 1 in 2 girls around 2000. 
+		The average amount of time spent on unpaid domestic and care work is more than threefold higher for women than men, according to survey data from 83countries and areas. Available data indicate that time spent on domestic chores accounts for a large proportion of the gender gap in unpaid work. 
+		Globally, womens participation in single or lower houses of national parliaments reached 23.4 per cent in 2017, just 10 percentage points higher than in 2000. Such slow progress suggests that stronger political commitment and more ambitious measures and quotas are needed to boost womens political participation and empowerment. 
+		Women are still underrepresented in managerial positions. In the majority of the 67 countries with data from 2009 to 2015, fewer than a third of senior- and middle-management positions were held by women. 
+		Just over half (52 per cent) of women between 15 and 49 years of age who are married or in union make their own decisions about consensual sexual relations and use of contraceptives and health services. That statistic is based on available data from around 2012 for 45 countries, 43 of which are in developing regions.
+
+Goal 5. Achieve gender equality and empower all women and girls
+While some forms of discrimination against women and girls are declining, gender inequality continues to hold women back and deprives them of basic rights and opportunities. Empowering women requires addressing structural issues such as unfair social norms and attitudes, and progressive legal frameworks that put men and women at the same level.According to data from 2005 to 2016 in 56 countries, one in five ever-partnered adolescent girls aged 1519 years have experienced physical and/or sexual violence by an intimate partner in the 12 months prior to the survey.New data confirm that the practice of child marriage has continued to decline around the world, largely accounted for by the progress in Southern Asia; in that region, a girls risk of marrying in childhood has declined by over 40 per cent since around 2000. Globally, around 2017, about 21 per cent of women from 20 to 24 years were married or in a union before the age of 18.Female genital mutilation is a human rights violation affecting girls and women worldwide, but in particular in communities in which it persists as a social norm. On average, approximately one in three girls aged 15 to 19 has been subjected to female genital mutilation in the 30 countries where the practice is concentrated around 2017, compared with nearly one in two around 2000.According to data from about 90 countries, from 2000 to 2016, on an average day, women spent about three times as many hours in unpaid domestic and care work as men, and significantly more if they had children.Globally, the percentage of women in single or lower houses of national parliament has increased from 19 per cent in 2010 to around 23 per cent in 2018, with the lowest rate in Oceania (excluding Australia and New Zealand), at 5.6 per cent, and the highest in Latin America and the Caribbean, at around 30 per cent. In three quarters of the 79 countries with data available around 2016, less than 38 per cent of senior and middle management positions are occupied by women, with the lowest rates in Northern Africa and Western Asia and in Central and Southern Asia.The right of women and girls to make key decisions regarding sexual relations, contraceptive use and access to sexual and reproductive health services is key to their well-being. According to the latest available data for 47 countries from 2007 to 2016, just over half (53 per cent) of women aged 15 to 49 years who are married or in a union make their own informed decisions about these issues.
+Goal 5. Achieve gender equality and empower all women and girls	
+5.1 End all forms of discrimination against all women and girls everywhere	5.1.1 Whether or not legal frameworks are in place to promote, enforce and monitor equality and non‑discrimination on the basis of sex
+5.2 Eliminate all forms of violence against all women and girls in the public and private spheres, including trafficking and sexual and other types of exploitation	5.2.1 Proportion of ever-partnered women and girls aged 15 years and older subjected to physical, sexual or psychological violence by a current or former intimate partner in the previous 12 months, by form of violence and by age
+	5.2.2 Proportion of women and girls aged 15 years and older subjected to sexual violence by persons other than an intimate partner in the previous 12 months, by age and place of occurrence
+5.3 Eliminate all harmful practices, such as child, early and forced marriage and female genital mutilation	5.3.1 Proportion of women aged 20–24 years who were married or in a union before age 15 and before age 18
+	5.3.2 Proportion of girls and women aged 15–49 years who have undergone female genital mutilation/cutting, by age
+5.4 Recognize and value unpaid care and domestic work through the provision of public services, infrastructure and social protection policies and the promotion of shared responsibility within the household and the family as nationally appropriate	5.4.1 Proportion of time spent on unpaid domestic and care work, by sex, age and location
+5.5 Ensure women’s full and effective participation and equal opportunities for leadership at all levels of decision-making in political, economic and public life	5.5.1 Proportion of seats held by women in (a) national parliaments and (b) local governments
+	5.5.2 Proportion of women in managerial positions
+5.6 Ensure universal access to sexual and reproductive health and reproductive rights as agreed in accordance with the Programme of Action of the International Conference on Population and Development and the Beijing Platform for Action and the outcome documents of their review conferences	5.6.1 Proportion of women aged 15–49 years who make their own informed decisions regarding sexual relations, contraceptive use and reproductive health care
+	5.6.2 Number of countries with laws and regulations that guarantee full and equal access to women and men aged 15 years and older to sexual and reproductive health care, information and education
+5.a Undertake reforms to give women equal rights to economic resources, as well as access to ownership and control over land and other forms of property, financial services, inheritance and natural resources, in accordance with national laws	5.a.1 (a) Proportion of total agricultural population with ownership or secure rights over agricultural land, by sex; and (b) share of women among owners or rights-bearers of agricultural land, by type of tenure
+	5.a.2 Proportion of countries where the legal framework (including customary law) guarantees women’s equal rights to land ownership and/or control
+5.b Enhance the use of enabling technology, in particular information and communications technology, to promote the empowerment of women	5.b.1 Proportion of individuals who own a mobile telephone, by sex
+5.c Adopt and strengthen sound policies and enforceable legislation for the promotion of gender equality and the empowerment of all women and girls at all levels	5.c.1 Proportion of countries with systems to track and make public allocations for gender equality and women’s empowerment
