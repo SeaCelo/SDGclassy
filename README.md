@@ -12,10 +12,12 @@ Observations:
 Make sure to prepare scripts:  
 chmod +x my_cool_script.sh
 
-## Step 1: train and save a classifier  
+### Step 1: train and save a classifier  
 (only needed if updating)  
+In the classifier directory, edit the script to select the desired training data and classifier  
 ./train_model_inferencer.sh  
 
-## Step 2: Apply a Saved Classifier to New Unlabeled Data (infer topics)  
+### Step 2: Apply a Saved Classifier to New Unlabeled Data (infer topics)  
+In the project-xxxx directory, add target data and edit the script with desired classifier and paths  
 ./infer_scores_wess.sh
 
