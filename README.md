@@ -1,8 +1,8 @@
 # SDGclassy
 SDG classification of texts using LDA topic model
 
-Observations:
--Scripts are bash scripts  
+Observations:  
+-Scripts are bash scripts. To run on windows, need to edit the code. This is an open issue    
 -Training sources are one file per topic/SDG  
 -Target sources are one file per publication to be classified  
 -All data should be a mirror. Please keep originals in backup  
