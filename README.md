@@ -5,8 +5,8 @@ Observations:
 -Scripts are bash scripts  
 -Training sources are one file per topic/SDG  
 -Target sources are one file per publication to be classified  
--All data should be a mirror. Please keep originals in backup
--project-xxxx is where target data should be placed and all analysis should be done. Edit script inside that subdirectory
+-All data should be a mirror. Please keep originals in backup  
+-project-xxxx is where target data should be placed and all analysis should be done. Edit script inside that subdirectory  
 -In each script, edit the paths and the desired classifier  
 
 Make sure to prepare scripts:  
