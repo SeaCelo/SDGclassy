@@ -3,7 +3,7 @@
 d='~/Documents/GitHub/SDGclassy/' #specify root path
 p='project-vnr'                  #project subdirectory
 c='cl_base'                       #select classifier name
-f='vnr_pdf'                      #select target files
+f='vnr_test'                      #select target files
 
 cd "${d}" && \
 rm "${d}"/"${p}"/"${f}"/.DS_Store ; \
