@@ -1,7 +1,7 @@
 #!/bin/bash
 set -e     #needed to ignore errors?
 
-d='~/Documents/GitHub/SDGclassy'   #root path
+d='/Users/mlafleur/Documents/GitHub/SDGclassy'   #root path
 c='cl_base'                        #classifier training data subdirectory
 
 cd "${d}" && \
