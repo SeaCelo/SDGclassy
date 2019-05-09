@@ -1,6 +1,6 @@
 #!/bin/bash
 
-d='~/Desktop/themes/sdg_testing' #specify root path
+d='/Users/mlafleur/Desktop/themes/sdg_testing' #specify root path
 c='cl_base'                      #select classifier name
 f='wess-txt'                     #select target files
 

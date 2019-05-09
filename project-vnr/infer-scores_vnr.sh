@@ -1,9 +1,9 @@
 #!/bin/bash
 set -e          #needed to ignore errors?
 
-d='~/Documents/GitHub/SDGclassy/' #specify root path
+d='/Users/mlafleur/Documents/GitHub/SDGclassy/' #specify root path
 p='project-vnr'                  #project subdirectory
-c='cl_base'                       #select classifier name
+c='cl_base_plus_alt'                       #select classifier name
 f='vnr_txt'                      #select target files
 
 cd "${d}" 

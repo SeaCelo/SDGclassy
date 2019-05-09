@@ -1,7 +1,7 @@
 #!/bin/bash
 set -e          #needed to ignore errors?
 
-d='~/Documents/GitHub/SDGclassy/' #specify root path
+d='/Users/mlafleur/Documents/GitHub/SDGclassy/' #specify root path
 p='project-wess'                  #project subdirectory
 c='cl_base'                       #select classifier name
 f='wess_txt'                      #select target files
