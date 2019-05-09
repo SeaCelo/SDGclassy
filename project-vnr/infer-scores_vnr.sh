@@ -4,7 +4,7 @@ set -e          #needed to ignore errors?
 d='~/Documents/GitHub/SDGclassy/' #specify root path
 p='project-vnr'                  #project subdirectory
 c='cl_base'                       #select classifier name
-f='vnr_test'                      #select target files
+f='vnr_txt'                      #select target files
 
 cd "${d}" 
 rm "${d}"/"${p}"/"${f}"/.DS_Store || true   #we ignore any errors here
