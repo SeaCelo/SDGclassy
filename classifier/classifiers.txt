@@ -16,3 +16,4 @@ E) Targets+indicators text (from here: unstats.un.org/sdgs/indicators/indicators
 
 5) cl_base_plus_alt attempts to rebalance SDG 13 to reduce the excessive language on political processes that leads to over correlation with the WPSR. This is a testing exercise to inform the selection of classifier sources.
 6) cl_extreme does as much as possible to achieve best results. Text is manually edited to try to keep only relevant and unique text
+7) cl_large is #5 plus escapee's sources. Does well and has smaller off-diagonal errors. Contender for best classifier (between #5 and #7)
