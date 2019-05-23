@@ -2,7 +2,7 @@
 set -e     #needed to ignore errors?
 
 d='/Users/mlafleur/Documents/GitHub/SDGclassy'   #root path
-c='cl_base'                        #classifier training data subdirectory
+c='cl_base_new'                        #classifier training data subdirectory
 
 cd "${d}" && \
 rm "${d}"/classifier/sources/"${c}"/.DS_Store || true   #we ignore any errors here
