@@ -10,9 +10,9 @@ for c in cl_base_new cl_base ;  do
 
 rm "${d}"/"${s}"/.DS_Store || true   				#we ignore any errors here
 
-mallet import-dir --input "${d}"/"${s}"  --output "${d}"/workshop/test_"${s}"-"${c}".mallet --keep-sequence --remove-stopwords --extra-stopwords "${d}"/workshop/extra-exclude-words_alt.txt --keep-sequence-bigrams --gram-sizes 1,2  --use-pipe-from ~/Projects/SDGclassy/classifier/results/"${c}".mallet   
+mallet import-dir --input "${d}"/"${s}"  --output "${d}"/workshop/test_"${s}"-"${c}".mallet --keep-sequence --remove-stopwords --extra-stopwords "${d}"/workshop/extra-exclude-words_alt.txt --keep-sequence-bigrams --gram-sizes 1,2  --use-pipe-from /Users/mlafleur/Projects/SDGclassy/classifier/results/"${c}".mallet   
 
-mallet infer-topics --input "${d}"/workshop/test_"${s}"-"${c}".mallet --inferencer ~/Projects/SDGclassy/classifier/results/"${c}"-inferencer.mallet --output-doc-topics "${d}"/output/scores_"${s}"-"${c}".txt   
+mallet infer-topics --input "${d}"/workshop/test_"${s}"-"${c}".mallet --inferencer /Users/mlafleur/Projects/SDGclassy/classifier/results/"${c}"-inferencer.mallet --output-doc-topics "${d}"/output/scores_"${s}"-"${c}".txt   
 
 continue
 echo ""${c}" command sequence finished successfully"
