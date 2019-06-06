@@ -14,8 +14,8 @@ np.random.seed(2018)
 stemmer = SnowballStemmer('english')
 stopwords = nltk.corpus.stopwords.words('english')
 files = ".*"
-extra = PlaintextCorpusReader(r"C:\Users\desalegn.biru\mallet\Extra-Stop", files)
-stopwords.extend(extra.words())
+extrastop = PlaintextCorpusReader(r"C:\Users\desalegn.biru\mallet\ExtraStop", files)
+stopwords.extend(extrastop.words())
 
 path =r'C:\Program Files (x86)\Microsoft Visual Studio\Shared\Python36_64\Scripts\cl_base_new'
 all_files = glob.glob(os.path.join(path, "*.txt"))
@@ -51,6 +51,6 @@ counter = 1
 goals = {1:1,  2:10,  3: 11, 4:12, 5:13, 6:14, 7:15, 8:16, 9:17, 10:2, 11:3, 12:4, 13:5, 14:6, 15:7, 16:8, 17:9}
 
 for x in processed_docs.values:
-    np.savetxt(r"C:\Users\desalegn.biru\mallet\Extra\Goal-new" + str(goals[counter]) + ".txt", x, fmt='%s')
+    np.savetxt(r"C:\Users\desalegn.biru\mallet\Result\Goal" + str(goals[counter]) + ".txt", x, fmt='%s')
     counter = counter + 1
 
