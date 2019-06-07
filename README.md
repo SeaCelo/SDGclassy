@@ -2,7 +2,7 @@
 SDG classification of texts using LDA topic model
 
 ### Requires:
-Mallet 2.0.7 (http://mallet.cs.umass.edu)
+Mallet 2.0.8 (http://mallet.cs.umass.edu)
 
 
 ## Notes and Observations:  
