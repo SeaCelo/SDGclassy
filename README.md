@@ -1,26 +1,26 @@
 # SDGclassy
 SDG classification of texts using LDA topic model
 
-###Requires:
+### Requires:
 Mallet 2.0.7 (http://mallet.cs.umass.edu)
 
 
-##Notes and Observations:  
+## Notes and Observations:  
 For Mac OS X:
 -On Os X, scripts are written for bash shell. 
 -OS X Catalina will switch to zsh shell as default.
 
-##For Windows:
+## For Windows:
 -To run on windows, scripts need to be edited. This is an open issue
 -On windows, bigrams command is broken. Need to apply this fix: https://github.com/mimno/Mallet/issues/151    
 
-##Usage:
+## Usage:
 -Pre-trained models are available in /SDGclassy/classifier/results
 -Training sources are one file per topic/SDG  
 -Target sources are one file per publication to be classified  
 -All data should be a mirror. Please keep originals in backup  
 
-###To apply a classifier to your texts ("inferring"), follow these steps:
+### To apply a classifier to your texts ("inferring"), follow these steps:
 	1: create a new project directory ("/Users/myname/Projects/SDGclassy/project-yours")
 	2: create a directory with only the target files ("/project-yours/target-txt/")
 	3: copy "/SDGclassy/scripts/infer-scores_template.sh" to project directory, and rename
