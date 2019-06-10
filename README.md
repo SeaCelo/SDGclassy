@@ -6,11 +6,11 @@ Mallet 2.0.8 (http://mallet.cs.umass.edu)
 
 
 ## Notes and Observations:  
-For Mac OS X:
+### For Mac OS X:
 -On Os X, scripts are written for bash shell. 
 -OS X Catalina will switch to zsh shell as default.
 
-## For Windows:
+### For Windows:
 -To run on windows, scripts need to be edited. This is an open issue
 -On windows, bigrams command is broken. Need to apply this fix: https://github.com/mimno/Mallet/issues/151    
 
