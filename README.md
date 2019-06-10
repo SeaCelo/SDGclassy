@@ -7,27 +7,27 @@ Mallet 2.0.8 (http://mallet.cs.umass.edu)
 
 ## Notes and Observations:  
 ### For Mac OS X:
--On Os X, scripts are written for bash shell. 
--OS X Catalina will switch to zsh shell as default.
+* On Os X, scripts are written for bash shell. 
+* OS X Catalina will switch to zsh shell as default.
 
 ### For Windows:
--To run on windows, scripts need to be edited. This is an open issue
--On windows, bigrams command is broken. Need to apply this fix: https://github.com/mimno/Mallet/issues/151    
+* To run on windows, scripts need to be edited. This is an open issue
+* On windows, bigrams command is broken. Need to apply this fix: https://github.com/mimno/Mallet/issues/151    
 
 ## Usage:
--Pre-trained models are available in /SDGclassy/classifier/results
--Training sources are one file per topic/SDG  
--Target sources are one file per publication to be classified  
--All data should be a mirror. Please keep originals in backup  
+* Pre-trained models are available in /SDGclassy/classifier/results
+* Training sources are one file per topic/SDG  
+* Target sources are one file per publication to be classified  
+* All data should be a mirror. Please keep originals in backup  
 
 ### To apply a classifier to your texts ("inferring"), follow these steps:
 	1: create a new project directory ("/Users/myname/Projects/SDGclassy/project-yours")
 	2: create a directory with only the target files ("/project-yours/target-txt/")
-	3: copy "/SDGclassy/scripts/infer-scores_template.sh" to project directory, and rename
+	3: Copy "/SDGclassy/scripts/infer-scores_template.sh" to project directory, and rename
 	4: Open the .sh script and edit the variables (d,p,f,c). 
 		Note: specify the paths and the classifier you want to use. A good option for a classifier is 'cl_base_new'
 	5: Check all your paths and spellings. 
-	6: on OS X Terminal
+	6: On OS X Terminal:
 		a: Navigate to your project directory: "cd /Users/myname/Projects/SDGclassy/project-yours"
 		b: Get the script ready by making it executable: "chmod +x infer-scores_yourproject.sh"
 		c: Run the script: "./infer-scores_yourproject.sh"
@@ -37,9 +37,8 @@ Mallet 2.0.8 (http://mallet.cs.umass.edu)
 		
 ### To train and save a new classifier  
 (This is only needed if you want to update or create a new classifier)  
-	1: In "/classifier/sources/", create or choose a directory with your source data. One file per SDG.
-	2: In the "/classifier/" directory, edit the script "train_model_inferencer.sh" to point to your root path and to the training data directory  
-		Note: edit variables "d" and "c"
-	3: On OS X Terminal, run the script: "./train_model_inferencer.sh"  
-	4: The model will be placed in "/classifier/results/"
-
+1. In "/classifier/sources/", create or choose a directory with your source data. One file per SDG.
+1. In the "/classifier/" directory, edit the script "train_model_inferencer.sh" to point to your root path and to the training data directory  
+	* Note: edit variables "d" and "c"
+1. On OS X Terminal, run the script: "./train_model_inferencer.sh"  
+1. The model will be placed in "/classifier/results/"
