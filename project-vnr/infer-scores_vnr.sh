@@ -3,7 +3,7 @@ set -e          #needed to ignore errors?
 
 d='/Users/mlafleur/Projects/SDGclassy/' #specify root path
 p='project-vnr'                  #project subdirectory
-c='cl_base_plus_alt'                       #select classifier name
+c='cl_base_new'                       #select classifier name
 f='vnr_txt'                      #select target files
 
 cd "${d}" 
