@@ -42,6 +42,6 @@ Mallet 2.0.8 (http://mallet.cs.umass.edu)
 1. In the "/classifier/" directory, edit the script "train_model_inferencer.sh" to point to your root path and to the training data directory  
 	* Note: edit variables "d" and "c"
 1. On OS X Terminal, run the script: "./train_model_inferencer.sh"  
-	* It is possible that if you edit the script in BBEdit or another non-sandboxed app, that it will be placed in a quarantine. If you get an error in running the script, try: xattr -d com.apple.quarantine /path/to/your/script.sh 
+	* It is possible that if you edit the script in BBEdit or another non-sandboxed app, that it will be placed in a quarantine. If you get an error in running the script, try: " xattr -d com.apple.quarantine /path/to/your/script.sh "
 	* See discussion here: https://talk.automators.fm/t/bash-shell-script-not-able-to-run/4908 
 1. The model will be placed in "/classifier/results/"
