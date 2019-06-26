@@ -8,7 +8,7 @@ Mallet 2.0.8 (http://mallet.cs.umass.edu)
 ## Notes and Observations:  
 ### For Mac OS X:
 * On Os X, scripts are written for bash shell. 
-* OS X Catalina will switch to zsh shell as default.
+* (OS X Catalina will switch to zsh shell as default.)
 
 ### For Windows:
 * To run on windows, scripts need to be edited. This is an open issue
@@ -16,11 +16,12 @@ Mallet 2.0.8 (http://mallet.cs.umass.edu)
 
 ## Usage:
 * Pre-trained models are available in /SDGclassy/classifier/results
+* The mapping of topics-to-sdg is for each classifier is available in /classifier/ 
 * Training sources are one file per topic/SDG  
 * Target sources are one file per publication to be classified  
 * All data should be a mirror. Please keep originals in backup  
 
-### To apply a classifier to your texts ("inferring"), follow these steps:
+### To use a classifier to generate scores for your texts ("inferring"), follow these steps:
 	1: create a new project directory ("/Users/myname/Projects/SDGclassy/project-yours")
 	2: create a directory with only the target files ("/project-yours/target-txt/")
 	3: Copy "/SDGclassy/scripts/infer-scores_template.sh" to project directory, and rename
@@ -41,4 +42,6 @@ Mallet 2.0.8 (http://mallet.cs.umass.edu)
 1. In the "/classifier/" directory, edit the script "train_model_inferencer.sh" to point to your root path and to the training data directory  
 	* Note: edit variables "d" and "c"
 1. On OS X Terminal, run the script: "./train_model_inferencer.sh"  
+	* It is possible that if you edit the script in BBEdit or another non-sandboxed app, that it will be placed in a quarantine. If you get an error in running the script, try: xattr -d com.apple.quarantine /path/to/your/script.sh 
+	* See discussion here: https://talk.automators.fm/t/bash-shell-script-not-able-to-run/4908 
 1. The model will be placed in "/classifier/results/"
