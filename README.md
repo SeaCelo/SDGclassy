@@ -21,20 +21,21 @@ Mallet 2.0.8 (http://mallet.cs.umass.edu)
 * Target sources are one file per publication to be classified  
 * All data should be a mirror. Please keep originals in backup  
 
-### To use a classifier to generate scores for your texts ("inferring"), follow these steps:
-1: create a new project directory ("/Users/myname/Projects/SDGclassy/project-yours")
-2: create a directory with only the target files ("/project-yours/target-txt/")
-3: Copy "/SDGclassy/scripts/infer-scores_template.sh" to project directory, and rename
-4: Open the .sh script and edit the variables (d,p,f,c). 
-	Note: specify the paths and the classifier you want to use. A good option for a classifier is *cl_base_new*
-5: Check all your paths and spellings. 
-6: On OS X Terminal:
-	a: Navigate to your project directory: `cd /Users/myname/Projects/SDGclassy/project-yours`
-	b: Get the script ready by making it executable: `chmod +x infer-scores_yourproject.sh`
-	c: Run the script: `./infer-scores_yourproject.sh`
-7: The results will be in "/project-yours/output/" as a .txt
-	Note: topics are listed in order 0-18. Each topic maps to a specific SDG, with one topic as a filter to be ignored. The mapping for a given classifier is available in: "/classifier/topic-sdg_mapping.xlsx". If you train a new model, the mapping will change and you will need to create your own mapping using the output of the training process. Hint: see which topic is the best match for each of the training files.
-8: Use the output in your favorite app (excel, etc) and analyze the results.
+### To use a classifier to generate scores for your texts ("inferring"), follow these steps: 
+1. create a new project directory ("/Users/myname/Projects/SDGclassy/project-yours")
+2. create a directory with only the target files ("/project-yours/target-txt/")
+3. Copy "/SDGclassy/scripts/infer-scores_template.sh" to project directory, and rename
+4. Open the .sh script and edit the variables (d,p,f,c). 
+   * Note: specify the paths and the classifier you want to use. A good option for a classifier is *cl_base_new*
+5. Check all your paths and spellings. 
+6. On OS X Terminal: 
+   * Navigate to your project directory: `cd /Users/myname/Projects/SDGclassy/project-yours`
+   * Get the script ready by making it executable: `chmod +x infer-scores_yourproject.sh`
+   * Run the script: `./infer-scores_yourproject.sh`
+7. The results will be in "/project-yours/output/" as a .txt
+
+   Note: topics are listed in order 0-18. Each topic maps to a specific SDG, with one topic as a filter to be ignored. The mapping for a given classifier is available in: "/classifier/topic-sdg_mapping.xlsx". If you train a new model, the mapping will change and you will need to create your own mapping using the output of the training process. Hint: see which topic is the best match for each of the training files.
+8. Use the output in your favorite app (excel, etc) and analyze the results.
 		
 ### To train and save a new classifier  
 (This is only needed if you want to update or create a new classifier)  
@@ -48,19 +49,17 @@ Mallet 2.0.8 (http://mallet.cs.umass.edu)
 
 
 ## Other notes
-* It is useful to add Mallet to the $PATH. In Terminal:
-	`echo $PATH`    		this will print the current path, to check. 
-	`nano .bash_profile`		to edit
-	(include this line somewhere:)
-	`export PATH=$PATH:/path/to/your/install/mallet-2.0.8/bin`
+* It is useful to add Mallet to the $PATH. In Terminal: 
+   * `echo $PATH`    		this will print the current path, to check. 
+   * `nano .bash_profile`		to edit 
+   * (include this line somewhere:) 
+   * `export PATH=$PATH:/path/to/your/install/mallet-2.0.8/bin` 
 
-	write out and exit
-	If you don't have this, just navigate to the /mallet-2.0.8/bin and run the command from there.
+   * write out and exit 
+   * If you don't have this, just navigate to the /mallet-2.0.8/bin and run the command from there. 
 
 
-* note: using ngrams causes Mallet to run out of memory. Giving 8gb to Mallet seems to work, and lets the OS manage any paging and vm. To do this, edit the binary. In Terminal:
-		`cd /path/to/your/install/mallet-2.0.8/bin` 
-		`nano mallet`
-		
-	Find the line and edit to read: 
-		`MEMORY=8g`
+* Note: using ngrams causes Mallet to run out of memory. Giving 8gb to Mallet seems to work, and lets the OS manage any paging and vm. To do this, edit the binary. In Terminal: 
+   * `cd /path/to/your/install/mallet-2.0.8/bin` 
+   * `nano mallet` 
+   * Find the line and edit to read: `MEMORY=8g`
