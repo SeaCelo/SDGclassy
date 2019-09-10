@@ -45,3 +45,23 @@ Mallet 2.0.8 (http://mallet.cs.umass.edu)
 	* It is possible that if you edit the script in BBEdit or another non-sandboxed app, that it will be placed in a quarantine. If you get an error in running the script, try: " xattr -d com.apple.quarantine /path/to/your/script.sh "
 	* See discussion here: https://talk.automators.fm/t/bash-shell-script-not-able-to-run/4908 
 1. The model will be placed in "/classifier/results/"
+
+
+
+## Other notes
+* It is useful to add Mallet to the $PATH. In Terminal:
+	echo $PATH    #this will print the current path, to check. 
+	nano .bash_profile		#to edit
+	##include this line somewhere:
+	# MALLET
+	export PATH=$PATH:/path/to/your/install/mallet-2.0.8/bin
+
+write out and exit
+If you don't have this, just navigate to the /mallet-2.0.8/bin and run the command from there.
+
+
+* note: using ngrams causes Mallet to run out of memory. Giving 8gb to Mallet seems to work, and lets the OS manage any paging and vm. To do this, edit the binary. In Terminal:
+		cd /path/to/your/install/mallet-2.0.8/bin 
+		nano mallet
+	Find the line and edit to read: 
+		MEMORY=8g
