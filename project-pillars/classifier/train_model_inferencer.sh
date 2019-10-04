@@ -3,7 +3,7 @@ set -e     #needed to ignore errors
 
 d='/Users/mlafleur/Projects/SDGclassy/project-pillars'   #root path
 
-c='cl_pillars_base'                        #classifier training data subdirectory
+c='cl_pillars_alt'                        #classifier training data subdirectory
 
 w='extra-exclude-words_pillars.txt'			#stop words file
 
