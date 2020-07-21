@@ -1,0 +1,300 @@
+
+Should Financial Flows Be Regulated? Yes
+ Prior to the First World Warin the late th and early th centuries the industrialized economies of Europe and the united_states were characterized by a high degree of global financial integration, a relatively large role for markets, and a philosophy based on limited government regulation (laissez-faire). Capital could flow freely with very light regulation both within and between countries, and there were relatively low barriers to trade in goods and services. Many countries monetary systems were based on a gold standard, which fixed countries exchange rates relative to one another. The Bank of England orchestrated the system with help from central_banks in France and elsewhere on the European continent. This system helped bring great wealth to bankers and industrial capitalists in the richer countries, and spread investments in infrastructure and other projects to the colonial and semi-colonial countries of the New World, enriching some elites in those countries as well.
+However, in the s, this system of free capital mobility collapsed, as did most of the world economy. Figure , due to , shows the rise of capital flows in the late th and early th
+Figure 
+Capital Mobility and the Incidence of Banking Crisis: All Countries, 
+ The author thanks his co-authors and colleagues James Crotty, Ilene Grabel, Arjun Jayadev, and Jomo K. S. for their contributions to his understanding of capital management techniques and for their work, on which he draws liberally here. Of course, they are not responsible for any errors. A version of this paper will be published in Macroeconomic Debates: Competing Views, edited by Mario Seccareccia and Hassan Bougrine. Ottawa: Emond Montgomery Publications Ltd, .
+  
+century, and then their dramatic collapse in the s. Among the key causes of the collapse were the excesses allowed by the laissez-faire approach to financial markets, which led to excessive accumulations of debt and highly speculative investments a significant number of which failed spectacularly. Equally important was the role of international capital flows in worsening the crisis as it broke out, with capital fleeing those countries perceived to be in trouble and flooding into those seen as safe havens (Block ; Kindleberger  Eichengreen ). Figure  also shows that international capital flows tend to precede banking crises.
+In the aftermath of the collapse and the ensuing, catastrophic Second World War, governments in most of the world with the reluctant blessing of the newly created International Monetary Fund (IMF) adopted government controls (exchange and capital controls) to manage the international flows of money and capital. This policy had been strongly advocated by John Maynard Keynes, the most important economist of the th century and co-architect of the Bretton Woods agreements that, in , had established the IMF and the world_bank as well as a global system of fixed exchange rates (Crotty ). For at least the first three decades following the Second World War, controls over the international flow of capital became the norm in most of the world.
+Over time, as the world economy recovered and much of the developed world flourished in the so-called golden age of economic growth in the s and s, memories of the financial crises of the Great Depression faded, and governments began to relax restrictions on the international flow of capital and money (Helleiner ). From  to , the post-war Bretton Woods system of fixed exchange rates broke down and exchange rates became more flexible. A general shift in economic fashion occurred, from an approach (prevalent from the s to the s) based on financial regulation of the market aimed at maintaining stability and achieving social goals to a return to a more laissez-faire approach in which the market dominates. This movement back toward laissez-faire accelerated with the oil crises and stagflation of the s and the coming to power of Margaret Thatcher in the united_kingdom and Ronald Reagan in the United Statesboth very strong advocates of smaller government, less regulation, and more promotion of market dominance and the interests of business as the best approach for economic development (DiazAlejandro, ; Glyn, ). Naturally, these policies were strongly supported by banking and business interests, as well as by some workers and members of the middle class who had suffered during the stagflationary period of the s.
+The next  years witnessed a secular move toward more financial deregulation and the reduction of controls over financial flows in the united_states, Canada, and Europe, as well as in many developing countries. Figure  shows the reductions in capital regulations and the corresponding increases in capital mobility, which rose in most types of countries in the s. Note that figure  is based on capital flow (account) regulations (de jure capital controls), whereas figure  is based on actual flows of capital (de facto capital flows). At the same time, the frequency and severity of banking and financial crises accelerated as well, most, but not all of them, primarily afflicting developing countries (figure ). Still, the majority of economists and the IMF continued to press for financial liberalization and the elimination of capital controls in the developing world.
+Then, in , the so-called Asian financial crisis hit, creating havoc in many highly successful Asian countries including Thailand, South Korea, and Malaysia. This crisis was soon followed by the Russian financial crisis. Figure  reflects these crises and illustrates a general rule. Prior to crises, international financial flows accelerate. Then, when the crisis hits, international capital flows tend to drop precipitously (so-called sudden stops), the inflows exacerbating the build-up to the crisis and then the outflows worsening its severity.
+Should Financial Flows Be Regulated? Yes 
+Figure 
+Capital Account Liberalization, 
+With the Russian and Asian crises, continued pressure for financial liberalization by bankers and economists collided head-on with the reality of unstable financial flows, which were clearly contributing toand even causing financial crises with alarming frequency. This clash was perhaps most apparent in the debate over a proposed amendment to the IMF bylaws that would have made capital account liberalization a requirement of membership; the proposal was made just as the Asian financial crisis was hitting. Dani Rodrik () has been critical of full capital account liberalization, and has offered the following analogy:
+Imagine landing on a planet that runs on widgets. You are told that international trade in widgets is highly unpredictable and volatile on this planet, for reasons that are poorly understood. A small number of nations have access to imported widgets, while many others are completely shut out even when they impose no apparent obstacles to trade. With some regularity, those countries that have access to widgets get too much of a good thing, and their markets are flooded with imported widgets. This allows them to go on a widget binge, which makes everyone pretty happy for a while. However, such binges are often interrupted by a sudden cut-off in supply, unrelated to any change in circumstances. The turnaround causes the affected economies to experience painful economic adjustments. For reasons equally poorly understood, when one country is hit by a supply cutback in this fashion, many other countries experience similar shocks in quick succession. Some years thereafter, a widget boom starts anew. Your hosts beg you for guidance: how should they deal with their widget problem? Ponder this question for a while and then ponder under what circumstances your central recommendation would be that all extant controls on international trade in widgets be eliminated. Substitute international capital flows for widgets above and the description fits todays world economy quite well.
+Indeed, during the Asian financial crises, countries that had strong controls over international financial flows (for example, China and India) were much less negatively affected by the financial crisis than were
+ At the time this article was written, widgets simply meant things; this was before the current use of the term for cool programs connected to your desktop, blog, or cellphone.
+  
+countries that had few controls (see the discussion below). This observation led some economists in academia, the IMF, and other policy circles to question the conventional wisdom that free flows of international capital will lead to the best outcomes.
+More than a decade after it was written, Rodriks analogy it is still highly relevant perhaps even more so than in . The financial crisis, which spread in  from the sub-prime housing markets of the united_states to many other financial markets via international capital (and trade) flows, has placed in focus once again the instability and difficulties that can be created across national borders by the unregulated flow of finance. Once again, then, the question is raised: Should financial flows be regulated? This essay answers the question with a yes.
+The remainder of this essay is organized as follows. The next section includes a brief discussion of the arguments for unregulated (free) capital mobility and a comparison of these with the empirical evidence. The following section discusses the goals of regulating international capital flows and the types of controls that governments can use to manage these flows. The next section presents evidence regarding the costs, benefits, and effectiveness of different types of controls. The final section presents my conclusions.
+Arguments for Unrestricted International Capital Flows
+Economists arguments in favour of minimal government restrictions on the international flows of money and capital stem from their basic faith in the efficiency of the market and the inefficiency and/or inefficacy of government regulation. While this faith is quite general, it is usually applied more specifically in specific contexts. In the case of financial markets, the arguments are rooted in the following perceived functions of money, finance, and financial markets: ) to provide a medium of exchange, means of payment, and unit of account; ) to allocate credit to its most productive uses; ) to serve as an efficient intermediary between savers and investors; ) to allow savers to reduce the risks associated with making investments; and ) to provide an efficient means to save for the future (what economists refer to as smoothing the consumption stream over time). In effect, these economists argue that financial markets free from government regulation can achieve these aims better than regulated markets can (Neely ).
+Economists make a leap when they apply these arguments for the efficiency of the free flows of capital, taken from an analysis of a national economy, and apply them to international flows of finance between countries, despite the fact that there are big differences between purely domestic financial transactions and international ones. Moreover, these arguments are based on a microeconomic logic and do not take into account many key macroeconomic concerns, such as the impact on unemployment, and financial instability.
+In any event, the upshot of these claims is that free capital mobility should be associated with the following, all relative to contexts in which there are more regulations and controls over capital flows:
+ higher levels of output and investment;
+ more rapid productivity growth and economic growth overall;
+ an allocation of financial resources away from those who need them less (rich countries) to those who need them more (poor countries);
+ less risk; and
+ an improved ability to smooth consumption over time.
+Should Financial Flows Be Regulated? Yes 
+What does the evidence show? There is now a large body of empirical literature that investigates these claims over time and across countries (see Lee and Jayadev ;  ; Rodrik and Subramanian ; and Kose et al. ). A number of studies have attempted to examine the link between free capital mobility and growth. Overall, this literature shows a lack of any compelling evidence for a positive link between capital account liberalization and growth. Perhaps the most careful and detailed summary of this literature is provided by Kose and others, who conclude that, taken as a whole, the vast empirical literature provides little robust evidence of a causal relationship between financial integration and growth (, ).
+As figure  shows, there is a strong correlation between capital mobility and financial crisis. Moreover, there is strong evidence that financial crises result in permanent losses of output (Cerra and Saxena ).
+In short, capital account liberalization and integration do not appear to increase economic growth or investment; instead, they contribute to financial crises that can have devastating short-term effects as well as costly long-term effects on output. Furthermore, capital account liberalization and crisis can increase inequality (Lee and Jayadev ). There is very little to no evidence that free capital mobility delivers the benefits suggested by advocates. Still, it is possible that controlling flows with government regulation could make the situation even worse, or, at best, is unnecessary. Moreover, there are many different ways to manage flows and many different types of flows to manage.
+In light of these findings, it is not surprising that many countries use capital controls to manage the flows of finance across borders. What are the main goals of these policies? What types of policies work best, and under what circumstances?
+Goals and Mechanisms for Controlling International Financial Flows
+Types of Controls
+First, it is important to be aware of the techniques that are available for controlling and managing the quantity, type, and impact of international financial flows. Table  presents a list and typology of controls. Controls, first of all, are simply types of government regulations or taxes that affect inflows or outflows of capital or the effects of the latter on the domestic economy. Types of capital flows that are affected are most easily thought of as the buying by domestic residents of foreign assets (outflows) or the selling of assets by domestic residents to foreigners (inflows). These assets are usually financial assets stocks, bonds and securities of various types, currency, and bank deposits but they can also refer to real assets, such as land. These securities and assets can be short term and highly liquid, such as bank deposits and short-term government bonds, or they can be longer term and less liquid, such as significant ownership of businesses (foreign direct investment), long-term government bonds, or real estate. Currency itself (dollars, euros, pesos, and so on) is the most short term and liquid. Increasingly, complex financial assets and liabilities (debts) called derivatives are involved in the flows of capital in and out of countries; these are hard to control, mostly because they are almost completely unregulated and relatively little is known about the roles of these securities in many financial transactions (Dodd ; Garber ).
+ Thanks to Arjun Jayadev for sharing some of his unpublished work in this area, which I have drawn on here.
+ This section draws heavily on my joint work with Ilene Grabel and Jomo K. S. () and on the separate work of Grabel (, ).
+  
+Table . Objectives and Types of Capital Management Techniques
+Objectives
+Price-based
+Quantity-based
+Prudential
+Inflows
+ Keep a stable and competitive real exchange rate Limit excessive debt and maturity or locational mismatch to prevent financial instability
+ Alter the composition of inflows to attract desired inflows
+ Limit foreign ownership of assets for sovereign purposes or to protect domestic industries
+ Tobin tax (tax on foreign exchange transactions)
+ Reserve requirements on inflows of capital (e.g., URR, unrequited reserve requirements)
+ Taxation of capital inflows
+ Quantitative limits on foreign ownership of domestic companies assets
+ Reporting requirements and quantitative limits on borrowing from abroad
+ Limits on ability to borrow from offshore entities
+ Keynes tax (tax on domestic financial transactions)
+ Reporting requirements and limitations on maturity structure of liabilities and assets
+ Reserve requirements on deposits
+ Capital requirements on assets and restrictions on off-balance-sheet activities and derivatives contracts
+Outflows
+ Protect tax base by reducing capital flight  Maintain stability of exchange rate
+ Preserve savings to finance investment
+ Help in credit allocation mechanisms in order to support industrial policy and investments for social objectives
+ Enhance the autonomy of monetary policy in order to reduce inflation or expand employment and economic growth
+ Tobin tax
+ Multiple exchange rates
+ Exchange controls
+ Restrictions on purchase of foreign assets including foreign deposits
+ Limits on currency convertibility
+ Limits on asset acquisition
+ Asset-backed reserve requirements
+Inflows and Outflows
+ All of the above
+ Trip wire and speed bump approach (Grabel, ): identify a set of early warning signals and implement these various qualitative and quantitative policies gradually and dynamically, with an emphasis on controls on inflows.
+Typologies for understanding controls usually distinguish between controls on outflows (domestic buying of foreign assets, including foreign currency) and those on inflows (the buying by foreign residents of domestic assets, including domestic currency). Another key distinction is between controls that work mainly through price measures, such as taxing inflows or outflows, and those that work primarily through quantitative measures, such as placing a quota on buying or selling assets, restricting the types of assets that can be bought or sold, or placing an absolute ban on the buying or selling of particular assets. This distinction is similar to the distinction in international trade, where economists distinguish between restrictive measures that rely on tariffs (price-based measures) and those that rely on quotas (quantity-based measures). (See Neely ).
+Finally, regulations that affect the inflows or outflows of capital directly can be distinguished from those that affect them and their impacts indirectly, by implementing prudential regulations on financial institutions. . These prudential regulations can be capital regulations, regulations concerning maturity mismatches between shortand long-term assets and liabilities, regulations concerning derivative contracts, regulations
+ Another distinction concerns measures that affect only the flows of capital (the so-called capital account) and those that affect trade and inflows and outflows of returns from holding investments (the so-called current account). Since we will not discuss this distinction further, it is not reflected in table .
+Should Financial Flows Be Regulated? Yes 
+concerning the borrowing of domestic currency from offshore banks, and so on. While such regulations might not affect the flows of foreign assets and liabilities directly, they will often affect them indirectly. In many countries, derivative contracts are often entered into with foreign counterparties maturity mismatches often involve foreign flows; dealing with offshore banks often involve buying and selling foreign assets and liabilities, and so on.
+The term capital management techniques is used to refer to the combination of capital and exchange controls plus the financial prudential regulations that indirectly affect these flows and their impacts. In the discussion that follows, we will move interchangeably between the terms capital controls and capital management techniques for ease of exposition.
+Examples of controls that involve taxes are direct taxes on the buying or selling of foreign exchange. An example of this is the so-called Tobin tax, named after Nobel prize-winning economist James Tobin, who proposed such a tax in the s (see Tobin ). The Tobin tax would place a small tax on all foreign exchange transactions, thereby discouraging the buying and selling of foreign exchange for very short-term purposes, which some economists argue tends to be for speculative purposes. The tax could raise significant amounts of revenue if implemented on an international scale. If that were to happen, some economists and policy-makers have urged that any revenues generated be used for a variety of purposes, including aid for economic development (Chang and Grabel ). A Keynes tax would implement a small tax on all domestic transactions and would serve similar purposes to the Tobin tax but on a domestic scale (Pollin ).
+Another example of a tax-based control is the so-called unremunerated reserve requirement (URR), or encaje, used in Chile and Colombia. In Chile, this policy required foreign investors who wanted to invest in the country to place some of the funds in a bank account for a period of time; they received no interest on the funds. This policy works like a tax, since the investors lose out on the interest they could have received if they were able to invest in interest-bearing securities or bank accounts.
+Quantitative regulations include quotas on buying foreign exchange, limits on buying equity in certain industries, limits on ownership shares of firms, and an inability to borrow money from offshore banks unless the funds are used for particular purposes.
+Another important distinction is whether countries utilize controls in a rigid or flexible way. Importantly, countries often use controls in a dynamic fashion, tightening or loosening them as circumstances demand rather than keeping them in place in a fixedand therefore staticway. For example, when a crisis hits, countries may tighten controls; when the crisis eases, they may loosen them again.
+Objectives of Capital Management Techniques
+There are many ways to categorize the goals of capital management techniques (see table  for a detailed list of goals). More generally, capital management techniques are used to achieve the following four objectives: to promote financial stability; to encourage desirable investment and financing arrangements; to enhance policy autonomy, including the maintenance of stable and competitive exchange rates; and to enhance national sovereignty and democracy. The more specific goals in table  can be seen as particular means of achieving these objectives.
+In order to understand the goals, challenges, and trade-offs associated with capital management techniques, we first need to understand the so-called trilemma problem of international finance.
+  
+The Trilemma
+Capital mobility creates challenges for countries that want to set interest rates for domestic purposes. For example, central_banks may want to lower interest rates to reduce the cost of borrowing in order to increase investment, employment, and economic growth. At other times, governments and central_banks may want to raise interest rates to slow down an overheated economy and reduce inflation. International capital mobility can undermine these policies because, in integrated, global financial markets, domestic interest rates are strongly affected by foreign interest rates. Domestic and foreign investors will move capital from countries that have lower interest rates adjusted for political and exchange rate risks to countries that have higher interest rates. So if a central_banks lowers its interest rates to try to encourage domestic investment, capital might leave the country in search of higher interest rates abroad, counteracting the policy. Similarly, if central_banks try to raise interest rates to fight inflation, then investors might send capital flowing into the country, thereby driving down interest rates and undermining the policy.
+Capital mobility also causes problems for countries wishing to fix or smooth their exchange rates. If investors think that risk has increased in a country, then they might sell their investments and take their money out of the country. When they do this, they sell their domestic currency assets and buy foreign exchange, thereby lowering the value (depreciating or putting pressure for a devaluation) of the domestic currency. If the country does not want its currency value to go down, then it will have to raise its interest rates to try to keep domestic assets more attractive and prevent the capital from leaving. But what if the country does not want to raise interest rates, because, say, it is facing a recession and wants lower interest rates to promote domestic investment?
+Here, we see the trilemma. Countries have a very difficult time maintaining all three of these goalsfree capital mobility, autonomous monetary policy directed to domestic concerns, and fixed (or highly managed) exchange ratesat once. In general, they can have at most two out of the three. For example, they can choose free capital mobility and autonomous monetary policy, but then they must let the market determine the exchange rate. Or they can have free capital mobility and a fixed exchange rate, but then they must give up the autonomous monetary policy and use it to keep the exchange rate fixed in the face of market-determined capital flows.
+This problem can also be explained by the so-called interest parity relation, which says that in a financially integrated international economy, domestic interest rates are tied to foreign interest rates (adjusted for expected changes in exchange rates and risks associated with default or political instability).
+If a country wants to have domestically oriented monetary policy and a fixed or highly managed exchange rate, then it must control capital mobility. That is where capital controls or capital management techniques come in.
+Objectives of Capital Management Techniques
+Capital management techniques can promote financial stability
+Capital management techniques can promote financial stability through their ability to reduce currency, flight, fragility, and/or contagion risks. Capital management can thereby reduce the potential for financial crisis and attendant economic and social devastation (Grabel ; Epstein, Grabel and Jomo ).
+Should Financial Flows Be Regulated? Yes 
+Currency risk refers to the risk that a currency will appreciate or depreciate significantly over a short period of time. Investor flight risk refers to the likelihood that holders of liquid financial assets will sell their holdings en masse in the face of perceived difficulty. Lender flight risk refers to the likelihood that lenders will terminate lending programs or will only extend loans on prohibitive terms. Fragility risk refers to the vulnerability of an economys private and public borrowers to internal or external shocks that would jeopardize their ability to meet current obligations. Fragility risk arises in a number of ways: borrowers might employ financing strategies that involve maturity or locational mismatch; agents might finance private investment with capital that is prone to flight risk; or investors (domestic and foreign) might over-invest in certain sectors, thereby creating overcapacity and fuelling unsustainable speculative bubbles. Finally, contagion risk refers to the threat that a country will fall victim to financial and macroeconomic instability that originates elsewhere. Capital management techniques can reduce contagion risk by managing the degree of financial integration and by reducing the vulnerability of individual countries to currency, flight, and fragility risks.
+Capital management techniques can promote desirable types of investment and financing arrangements and discourage less desirable types of investment/financing strategies
+Capital management techniques can influence the composition of the economys aggregate investment portfolio and the financing arrangements that underpin these investments. Capital management techniques particularly those that involve inflow controls can promote desirable types of investment and financing strategies by rewarding investors and borrowers who engage in them. Desirable types of investment are those that create employment; improve living standards; and promote greater income equality, technology transfer, learning by doing, and/or long-term growth. Desirable types of financing are those that are long term, stable, and sustainable. Capital management can discourage less desirable types of investment and financing strategies by increasing their cost or precluding them altogether (Nembhard ).
+Capital management techniques can enhance the autonomy of economic and social policy
+Capital management techniques can enhance policy autonomy in a number of ways. They can reduce the severity of currency risk, thereby allowing authorities to protect a currency peg. They can also keep exchange rates at competitive and stable levels. Capital management can create space for the government and/or the central_banks to pursue growth-promoting and/or reflationary macroeconomic policies by neutralizing the threat of capital flight (via restrictions on capital inflows or outflows). Moreover, by reducing the risk of financial crisis in the first place, capital management can reduce the likelihood that governments will be compelled to use contractionary macroand microeconomic policies, as well as social policy, as a signal to attract foreign investment back to the country or as a precondition for financial assistance from the IMF. Finally, capital management techniques can reduce the spectre of excessive foreign control or ownership of domestic resources.
+Capital management techniques can enhance national autonomy and even democracy
+It follows from the third point that capital management can enhance democracy by reducing the potential for speculators and external actors to exercise undue influence over domestic decision-making either directly or indirectly (via the threat of capital flight). Capital management techniques can reduce the veto power of the financial community and the IMF and create space for the interests of other groups (such as advocates for the poor) to play a role in the design of economic and social policy. Capital management techniques can thus be said to enhance democracy because they create the opportunity for pluralism in policy design.
+  
+Costs of Capital Management Techniques
+Critics of capital management techniques argue that they impose four types of costs: they reduce growth; reduce efficiency and policy discipline; promote corruption and waste; and aggravate credit scarcity, and uncertainty. Critics argue that the benefits that derive from capital management (such as financial stability) come at an unacceptably high price.
+In sum, many critics argue that there are significant costs associated with capital management techniques. However, there is little consensus in the empirical literature on the sizeor even the existenceof these costs. More importantly, researchers have largely failed to investigate the relative weight of costs and benefits.
+Evidence on the Costs, Benefits, and Effectiveness of Capital Management Techniques
+There have been many studies of the impact, effectiveness, and costs and benefits of capital controls and capital management techniques (for recent surveys, see Epstein, Grabel and Jomo , and Magud, Reinhart, and Rogoff ). Some of these offer a statistical/econometric analysis, while others rely on case studies.
+Case Study Evidence
+I first present case study evidence compiled by Epstein, Grabel, and Jomo () (See tables  and ). The researchers undertook case studies of capital management techniques in seven countries: Chile, Colombia, China, Taiwan, India, Malaysia, and Singapore. As table  shows, these countries used quite specific combinations of the types of controls listed in table , and for a variety of purposes (mostly those listed in table ).
+First, consider six commonly heldand mistaken ideas about capital management techniques. One is that these techniques can only work in the short run, not the long run. However, with the exception of Malaysia, all of the cases show that management can achieve important objectives over a significant period of time. Taking China and Singapore as two cases at different ends of the spectrum in terms of types of controls, both countries effectively employed capital management techniques for more than a decade in the service of important policy objectives.
+A second common view is that, for capital management to work over a long period of time, measures have to be consistently strengthened. In fact, the reality is much more complex than this. In Malaysia, Chile, and China, during times of stress it proved necessary to strengthen controls to address leakages that were being exploited by the private sector. However, as these same cases demonstrate, controls can be loosened when a crisis subsides or when the international environment changes, and then reinstated or strengthened as necessary. In short, dynamic capital management techniques have been successfully utilized across a range of countries.
+A third common (but misleading) view is that, for capital management to work, there must be an experienced bureaucracy in place. It is certainly true that having experience helps; China, India, and Singapore are all examples of countries that have long-term experience with government direction of the economy. Malaysia, however, is an important counter-example. The country was able to successfully implement capital management even without having had a great deal of experience in doing so. In the case
+ This section draws heavily on Epstein, Grabel and Jomo ().
+Should Financial Flows Be Regulated? Yes 
+Table . Summary: Types and Objectives of Capital Management Techniques Employed During the s
+Types of capital management techniques
+Objectives of capital management techniques
+Chile
+Inflows:
+ FDI and PI: One year residence requirement  % URR-tax on foreign loans: .% per year Outflows:
+ no significant restrictions
+Domestic financial regulations:
+ strong regulatory measures
+ Lengthen maturity structures and stabilize inflows
+ Help manage exchange rates to maintain export competitiveness
+ Protect economy from financial instability
+Colombia
+Similar to Chile
+Similar to Chile
+Taiwan
+Inflows:
+Non-residents
+ Bank accounts can only be used for domestic spending, not financial speculation
+ Foreign participation in stock market regulated  FDI tightly regulated
+Residents
+ Regulation of foreign borrowing
+Outflows:
+ Exchange controls
+Domestic financial regulations:
+ Restrictions on lending for real estate and other speculative purposes
+ Promote industrialization
+ Help manage exchange rates to maintain export competitiveness
+ Maintain financial stability and insulate itself from foreign financial crises
+Singapore
+Inflows:
+Non-internationalization of the Singapore currency (Singapore$)
+Outflows:
+Non-residents
+ financial institutions cant extend S$ credit to non-residents if they are likely to use for speculation
+ if they borrow for use abroad, must swap first into foreign currency
+Domestic financial regulations:
+restrictions on creation of swaps, and other derivatives that could be used for speculation against S$
+ prevent speculation against S$-support soft peg of S$
+ help maintain export competitiveness
+ help insulate itself from foreign financial crises
+Malaysia ()
+Inflows:
+ Restrictions on foreign borrowing
+Outflows:
+Non-residents
+ -month repatriation waiting period
+ Graduated exit levies inversely proportional to length of stay
+Residents
+ Exchange controls
+Domestic financial regulations: Non-residents
+ Restrict access to Malaysian currency Residents
+ Encourage to borrow domestic borrowing and investment
+ Maintain political and economic sovereignty  Kill the offshore ringgit market
+ Shut down offshore share market
+ Help reflate the economy
+ Help create financial stability and insulate the economy from contagion
+  
+Table  (contd)
+Types of capital management techniques
+Objectives of capital management techniques
+India
+Inflows:
+Non-residents
+ Strict regulation of FDI and PI
+Outflows:
+Non-residents
+ None
+Residents
+ Exchange controls
+Domestic financial regulations:
+ Strict limitations on development of domestic financial markets
+ Support industrial policy
+ Pursue capital account liberalization in an incremental and controlled fashion
+ Insulate domestic economy from financial contagion
+ Preserve domestic savings and foreign exchange reserves
+ Help stabilize exchange rate
+China
+Inflows:
+Non-residents
+ Strict regulation on sectoral FDI investment
+ Regulation of equity investments: segmented stock markets
+Outflows:
+Non-residents
+ No restrictions on repatriation of funds
+ Strict limitations on borrowing Chinese renminbi for speculative purposes
+Residents
+ Exchange controls
+Domestic financial regulations:
+ Strict limitations on residents and non-residents
+ Support industrial policy
+ Pursue capital account liberalization in incremental and controlled fashion
+ Insulate domestic economy from financial contagion
+ Increase political sovereignty
+ Preserve domestic savings and foreign exchange reserves
+ Help keep exchange rates at competitive levels of Chile, to take another example, the central_banks had no previous experience implementing the reserve requirement scheme, though it had had some negative experiences trying to implement capital controls in the s. What is more important than experience is state capacity and administrative capacity more generally.
+A fourth view, which has recently become popular, is that controls on capital inflows work but those on outflows do not. However, in our sample we have seen examples of policy success in both dimensions. For example, Chile and Colombia maintained controls on inflows, while China, India, and Malaysia maintained controls on outflows. In addition, Singapore and Taiwan maintain controls on the ability of residents and non-residents to use domestic currency offshore for purposes of speculating against the home currency. This is a control on outflows that has successfully insulated these countries from crises and helped their governments manage their exchange rates.
+We now turn to the lessons to be drawn from the case studies, which are summarized in tables  and . First and most generally, capital management techniques can contribute to currency and financial stability, macro and microeconomic policy autonomy, stable long-term investment, and sound current account performance. There may also be some costs associated with capital management techniques, such as the fact that they can create space for public corruption.
+Second, successful implementation of controls over a significant period of time depends on the presence of a sound policy environment and strong fundamentals. These include a relatively low debt ratio, moderate rates of inflation, sustainable current account and fiscal balances, consistent exchange rate policies,
+Should Financial Flows Be Regulated? Yes 
+Table . Summary: Assessment of the Capital Management Techniques Employed During the s
+Country
+Achievements
+Supporting factors
+Costs
+Chile
+ Altered composition and maturity of inflows
+ Currency stability
+ Reduced vulnerability to contagion
+ Well-designed policies and sound fundamentals
+ Neo-liberal economic policy in many domains
+ Good returns offered to foreign investors
+ State and administrative capacity
+ Dynamic capital management
+ Limited evidence of higher capital costs for Small and Medium sized Enterprises
+Colombia
+ Similar to Chile, but less successful in several respects
+ Less state and administrative capacity than in Chile, meaning that blunter policies were employed
+ Economic reforms in the direction of neo-liberalism
+ No evidence available
+Taiwan
+ Competitive exchange rate and stable currency
+ Insulated from financial crises  Enhanced economic sovereignty
+ Debt burdens and financial fragility are insignificant
+ High levels of state and administrative capacity
+ Policy independence of the central_banks
+ Dynamic capital management
+ Limited evidence of concentration of lending to large firms, conservatism of banks, inadequate auditing of books, and risk and project assessment capabilities
+ Large informal financial sector  Limited evidence of inadequate liquidity in financial system
+Singapore
+ Insulated from disruptive speculation
+ Protection of soft peg
+ Financial stability
+ Strong state capacity and ability to use moral suasion
+ Strong economic fundamentals
+ Possibly undermined financial sector development
+ Loss of seigniorage
+Malaysia ()
+ Facilitated macroeconomic reflation
+ Helped maintain domestic economic sovereignty
+ Public support for policies
+ Strong state and administrative capacity
+ Dynamic capital management
+ Possibly contributed to cronyism and corruption
+India
+ Facilitated incremental liberalization of capital flows  Insulated from financial contagion
+ Helped preserve domestic saving
+ Helped maintain economic sovereignty
+ Strong state and administrative capacity
+ Strong public support for policies
+ Experience with state governance of the economy
+ Success of broader economic policy regime
+ Gradual economic liberalization
+ Possibly hindered development of financial sector  Possibly facilitated corruption
+China
+ Facilitated industrial policy
+ Insulated economy from financial contagion
+ Helped preserve savings
+ Helped manage exchange rate and facilitate export-led growth
+ Helped maintain expansionary macro-policy
+ Helped maintain economic sovereignty
+ Strong state and administrative capacity
+ Strong economic fundamentals  Experience with state governance of the economy
+ Gradual economic liberalization
+ Dynamic capital management
+ Possibly constrained the development of the financial sector
+ Possibly encouraged nonperforming loans
+ Possibly facilitated corruption
+  
+public sectors that function well enough to be able to implement coherent policies (administrative capacity), and governments that are sufficiently independent of narrow political interests to be able to maintain some degree of control over the financial sector (state capacity).
+Third, we can see that causation works both ways: from good fundamentals to successful capital management techniques, and from successful capital management techniques to good fundamentals. Good fundamentals are important to the long-run success of capital management techniques because they reduce the stress on these controls and thereby enhance the chance that they will be successful. On the other hand, capital management techniques also improve fundamentals. Thus, there is a synergy between capital management techniques and fundamentals.
+Fourth, the dynamic aspects of capital management techniques are perhaps their most important feature. Policy-makers need to retain the ability to implement a variety of management techniques and alter them as circumstances warrant.
+Fifth, capital management techniques work best when they are coherent and consistent with the overall aims of the economic policy regime, orbetter yetwhen they are an integral part of a national economic vision. To be clear, this vision does not have to be one of widespread state control over economic activity. Singapore is a good example of an economy that is highly liberalized in some ways, but where capital management techniques are an integral part of an overall vision of economic policy and development.
+Sixth, there is not one type of capital management technique that works best for all countries; in other words, there is no single best practice when it comes to capital management techniques.
+As I suggested earlier, despite the economic crisis, there is still pressure on developing countries to liberalize their capital accounts more than they already have. Epstein, Grabel and Jomo () suggest that, in many cases, it is not in the interests of developing countries to seek full capital account liberalization. The lesson of dynamic capital management is that countries need to have the flexibility to both tighten and loosen controls. Thus, if countries completely liberalize their capital accounts, they might find it very difficult to re-establish any degree of control when the situation warrants or even demands it. This is because market actors might see the attempt to re-establish capital management as abandonment of a liberalized capital account, and might then react rather radically to this perceived change. By contrast, if investors understand that a country is maintaining a system of dynamic capital management, they will expect management to tighten and loosen over time. It is therefore less likely that investors will overreact if management techniques are tightened in these circumstances.
+Statistical Analysis of Capital Controls
+Magud, Reinhart, and Rogoff () recently summarized and synthesized more than  statistical studies of the impact of capital controls. Their results are instructive, though subject to further scrutiny. They distinguish between controls on inflows and outflows, and find that while capital controls on inflows appear to make monetary policy more independent; alter the composition of flows (to longer term); [and] reduce real exchange rate pressures, they seem not to reduce the volume of net flows. As for outflows, the authors find that there is Malaysia and there is everybody else. In Malaysia, controls reduce outflows and may give room for more independent monetary policy. There is little evidence of success in other countries attempting to control flows, either in terms of altering the volume or regaining monetary independence (Magud, Reinhart, and Rogoff : .)
+Hence, there is a great deal of evidence in support of the ability of inflow controls to help achieve important goals; the evidence on the impacts of outflow controls is more mixed. One lesson from this is that capital management techniques that control the quantity\0xF3and especially the quality\0xF3of inflows are likely to reduce the necessity of countries engaging in outflow controls for lengthy periods of time if problems arise. Conclusions As the instability and difficulties associated with uncontrolled international financial flows become more apparent in the crisis of 1997, and now 2007 -2009, interest in capital management techniques has been revived. Studies reveal that there are many different types of capital management techniques that can be custom fit to different countriesi needs and circumstances. Of course, capital management techniques are no panacea for economic problems, and they will not work well unless they are part of an overall, appropriate framework of economic management. For countries navigating the treacherous waters of international finance, however, they can be useful components of the macroeconomic toolkit.

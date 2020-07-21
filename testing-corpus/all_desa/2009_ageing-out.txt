@@ -1,0 +1,705 @@
+
+The present report updates and extends the 2002 and 2007 editions of World Population Ageing,1 including new features on ageing in rural and urban areas, the coverage of pension systems and the impact of the 2007-2008 financial crisis on pension systems.
+The Madrid International Plan of Action on Ageing and the Political Declaration adopted at the Second World Assembly on Ageing in April 20022 marked a turning point in how the world addresses the key challenge of building a society for all ages. The Plan focuses on three priority areas: older persons and development; advancing health and well-being into old age; and ensuring enabling and supportive environments. It represents the first time Governments have adopted a comprehensive approach linking questions of ageing to other frameworks for social and economic development and human rights, most notably those agreed to at the united_nations conferences and summits of the 1990s.
+Issues related to population ageing and older persons have played a prominent role in the three major international population conferences organized by the united_nations during the past quarter century. For example, the International Conference on Population and Development, held in 1994, recognized that the economic and social impact of population ageing is both an opportunity and a challenge to all societies.3 More recently, the key actions for the further implementation of the Programme of Action of the International Conference on Population and Development, adopted by the General Assembly at its twenty-first special session on 2 July 1999, reiterated the need for all societies to address the significant consequences of population ageing in the coming decades.4
+In 2007, the united_nations Commission on Population and Development focused its work on the changing age structures of populations and their implications for development. The Commission adopted a resolution that identified specific issues for policy attention in regard to changing population age structures. The resolution also requested the Secretary-General to continue his substantive work on changing age structures and the implications of those changes for development.5
+The Population Division of the united_nations has a long tradition of studying population ageing, including by estimating and projecting the size and characteristics of ageing populations and by examining the determinants and consequences of population ageing. From the groundbreaking report on population ageing published in 1956,6 which focused mainly on population ageing in the more developed countries, the Population Division has consistently sought to bring population ageing to the attention of Governments and the international community.
+The united_nations Commission on Social Development undertook the first review and appraisal of progress made in implementing the Madrid Plan of Action on Ageing in 2007 and 2008, and is preparing to carry out the second review and appraisal in 2012. Furthermore, the
+1World Population Ageing, 1950-2050 (united_nations publication, Sales No. E.02.XIII.3) and World Population Ageing, 2007 (united_nations pulication, Sales No. E.07.XIII.5).
+3Population and Development, vol. 1: Programme of Action adopted at the International Conference on Population and Development, Cairo, 5-13 September 1994 (united_nations publication, Sales No. E.95.XIII.7).
+4Review and Appraisal of the Progress Made in Achieving the Goals and Objectives of the Programme of Action of the International Conference on Population and Development, 1999 Report (united_nations publication, Sales No. E.99.XIII.16).
+5Report on the fortieth session of the Commission on Population and Development, (10 May 2006 and 9-13 April 2007), Economic and Social Council Official Records, 2007, Supplement No. 5 (E/2007/25).
+6The Ageing of Populations and its Economic and Social Implications, Population Studies, No. 26 (united_nations publication, Sales No. 1956. XIII.6.
+united_nations Department of Economic and Social Affairs/Population Division vii
+General Assembly has stressed the need for population data disaggregated by age and sex. This report provides the demographic foundation for the latter exercise and other follow-up activities of the Second World Assembly on Ageing. It considers the process of population ageing for the world as a whole, for more and less developed regions and major areas and regions.
+The contents of this report underscore four major findings:
+1. Population ageing is unprecedented, a process without parallel in the history of humanity. A population ages when increases in the proportion of older persons (that is, those aged 60 years or over) are accompanied by reductions in the proportion of children (persons under age 15) and then by declines in the proportions of persons in the working ages (15 to 59). At the world level, the number of older persons is expected to exceed the number of children for the first time in 2045. In the more developed regions, where population ageing is far advanced, the number of children dropped below that of older persons in 1998.
+2. Population ageing is pervasive since it is affecting nearly all the countries of the world. Population ageing results mainly from reductions of fertility that have become virtually universal. The resulting slowdown in the growth of the number of children coupled with the steady increase in the number of older persons has a direct bearing on both the intergenerational and intragenerational equity and solidarity that are the foundations of society.
+3. Population ageing is profound, having major consequences and implications for all facets of human life. In the economic area, population ageing will have an impact on economic growth, savings, investment, consumption, labour markets, pensions, taxation and intergenerational transfers. In the social sphere, population ageing influences family composition and living arrangements, housing demand, migration trends, epidemiology and the need for healthcare services. In the political arena, population ageing may shape voting patterns and political representation.
+4. Population ageing is enduring. Since 1950, the proportion of older persons has been rising steadily, passing from 8 per cent in 1950 to 11 per cent in 2009, and is expected to reach 22 per cent in 2050 (figure I). As long as old-age mortality continues to decline and fertility remains low, the proportion of older persons will continue to increase.
+Figure I. Proportion of population 60 years or over: world, 19502050
+1950 2009 2050 Year viii
+World Population Ageing 2009
+Percentage
+The other main findings of this report are the following:
+Because fertility levels are unlikely to rise again to the high levels common in the past, population ageing is irreversible and the young populations that were common until recently are likely to become rare over the course of the twenty-first century.
+In 2000, the population aged 60 years or over numbered 600 million, triple the number present in 1950. In 2009, the number of older persons had surpassed 700 million. By 2050, 2 billion older persons are projected to be alive, implying that their number will once again triple over a span of 50 years.
+Globally the population of older persons is growing at a rate of 2.6 per cent per year, considerably faster than the population as a whole, which is increasing at 1.2 per cent annually. At least until 2050, the older population is expected to continue growing more rapidly than the population in other age groups. Such rapid growth will require far-reaching economic and social adjustments in most countries.
+Marked differences exist between developed and developing regions in the number and proportion of older persons. In the more developed regions, over a fifth of the population is currently aged 60 years or over and by 2050, nearly a third of the population in developed countries is projected to be in that age group. In the less developed regions, older persons account today for just 8 per cent of the population but by 2050 they are expected to account for a fifth of the population, implying that, by mid-century, the developing world is likely to reach the same stage in the process of population ageing that the developed world is already at.
+The pace of population ageing is faster in developing countries than in developed countries. Consequently, developing countries will have less time to adjust to the consequences of population ageing. Moreover, population ageing in developing countries is taking place at lower levels of socio-economic development than has been the case for developed countries.
+Today the median age for the world is 28 years, that is, half the worlds population is below that age and the other half is above it. The country with the youngest population is Niger, with a median age of 15 years, and the country with the oldest is Japan, with a median age of 44 years. Over the next four decades, the worlds median age will likely increase by ten years, to reach 38 years in 2050. At that time, the median age is expected to remain below 25 years in nine countries, most located in Africa, whereas the oldest populations are expected to be in Japan and Macao Special Administrative Region of China, whose median ages are projected to surpass 55 years.
+The population of older persons is itself ageing. Among those aged 60 years or over, the fastest growing population is that of the oldest-old, that is, those aged 80 years or over. Their numbers are
+united_nations Department of Economic and Social Affairs/Population Division ix currently increasing at 4.0 per cent per year. Today, persons aged 80 years or over account for close to 1 in every 7 older persons (60 or over). By 2050, this ratio is expected to increase to nearly 1 person aged 80 or over among every 5 older persons.
+The potential support ratio (PSR), that is, the number of persons aged 15 to 64 for each older person aged 65 years or over, indicates how many potential workers there are per older person. As a population ages, the potential support ratio tends to fall. Between 1950 and 2009, the potential support ratio declined from 12 to 9 potential workers per person aged 65 or over. By 2050, the potential support ratio is projected to drop further to reach 4 potential workers per older person (figure II). The reduction of potential support ratios has important implications for social security schemes, particularly for pay-as-you-go pension systems under which taxes on current workers pay the pensions of retirees.
+Because women live longer than men, women constitute the majority of older persons. Currently, women outnumber men by an estimated 66 million among those aged 60 years or over. Among those aged 80 years or over, women are nearly twice as numerous as men, and among centenarians women are between four and five times as numerous as men (figure III).
+Older persons living alone are at greater risk of experiencing social isolation and economic deprivation, and may therefore require special support. Because of higher survivorship and lower propensities to remarry, older women are much less likely than older men to be currently married, and older women are also more likely to live alone. Globally, 80 per cent of men aged 60 years or over but under half of women in that age group are living with a spouse. An estimated 19 per cent of older women live alone, whereas just 9 per cent of older men do.
+Figure II. Potential support ratio (PSR), 1950-2050
+1950 2009 2050 Year x
+World Population Ageing 2009
+Ratio
+Figure III. Proportion of women among persons aged 40-59, 60+, 80+ and 100+ years: world, 2009
+40-59 60+
+80+ 100+
+Age
+Both rural and urban populations are growing older. However, in most countries, rural areas face a double demographic burden they have higher numbers of both children and older persons in relation to the numbers in the main working ages who are available to provide support to the young and the old. This situation results from the combination of higher fertility in the rural areas and sustained out-migration of working-age adults from rural to urban areas. Access to basic social and health services also tends to be more limited in rural than in urban areas and poverty rates are higher.
+Illiteracy is still common among the older population of less developed regions. Currently, it is estimated that nearly half of all persons aged 65 or over in developing countries are illiterate. Only about 40 per cent of older women and about two thirds of older men in developing countries have basic reading and writing skills. In the more developed regions, literacy among the older population is nearly universal in all but a few countries.
+The effective age at retirement varies considerably among populations. In countries with high per capita incomes, older persons can retire earlier and thus tend to have lower labour force participation rates at older ages. Thus, just 14 per cent of men aged 65 years or over are economically active in the more developed regions, whereas 35 per cent are in the labour force of the less developed regions. The difference is similar among women. In the more developed regions, 8 per cent of older women are economically active, compared to 19 per cent in the less developed regions. Older persons remain economically active for longer in the less developed regions because of the limited coverage of pension programmes and the relatively small incomes they provide.
+In most countries the statutory age at which a full pension can be obtained provided a minimum period of contributions to the pension system is completed (i.e., the pensionable age) is the same
+united_nations Department of Economic and Social Affairs/Population Division xi
+Percentage for women and men, but where there is a difference, the pensionable age is lower for women. In about 40 per cent of countries, women become eligible for full pension benefits at lower ages than men, typically five years lower, even though women generally survive longer than men. For both men and women, pensionable ages tend to be higher in developed than in developing countries.
+The global economic and financial crisis that started in 2007 and unfolded during 2008 and 2009 brought about sharp reductions in the value of pension funds in many countries in the world. The downturn is partly due to reduced employment and contributions, but is mainly the result of large negative rates of return on pension funds investments. As a consequence, retirement savings have contracted substantially in both more developed and less developed countries. This, together with lower home prices, has translated into significantly reduced assets upon which older persons rely for their retirement years.7
+The impact has been the greatest among workers approaching retirement, retirees who did not annuitize their retirement savings, and those drawing a large portion of their pensions from defined-contribution schemes, which are directly affected by the negative rates of return. Some of the most severe impacts, however, may be on the large number of workers and older persons who have no social security protection at all. According to recent world_bank estimates, at the global scale, only about one-fourth of the labour force is currently accruing pension rights, and 4 out of 5 older persons do not have any pension coverage.
+Intergenerational support from family members plays an important role during all the stages of the life cycle. Especially during periods of crisis, the family can serve as a buffer from the negative shocks in the economy. However, given the systemic nature of the current crisis, the scope for family support to compensate for the reduction of labour and asset income seems to be rather limited. Thus governmental social protection programmes should be maintained or strengthened to effectively counter the impacts of the crisis, and to improve social protection in the future. Confronting the downturn in tax receipts and the stable or increased public spending produced by the current crisis will entail a fiscal gap which could be as low as 1 per cent or as high as 13 per cent of GDP, depending on the ultimate severity and duration of the recession. Although some increase in public debt seems inevitable, care must be taken not to increase unduly the burden of the adjustment on future generations.
+xii World Population Ageing 2009
+In conclusion, as a result of the transition from high to low fertility and the continuous reduction of adult mortality, the population of most countries of the world is ageing. This unprecedented demographic change, which started in the developed world in the nineteenth century and more recently in developing countries, is already transforming many societies. The ageing process is expected to accelerate in the near future, particularly in developing countries. Because they have a shorter time to adapt to the changes associated with population ageing, it is urgent that the Governments of developing countries begin taking steps to face the challenges and make the best of the opportunities that population ageing brings. This report provides the demographic basis for ascertaining the extent and depth of population ageing today and in the years to come in each country of the world.
+united_nations Department of Economic and Social Affairs/Population Division xiii
+Population ageingthe process whereby older individuals account for a proportionally larger share of the total populationwas a key demographic outcome of population trends during the twentieth century and will surely be the distinctive trait of populations during the twenty-first century. Starting first in the more developed countries, population ageing has now become apparent in much of the developing world and it will affect virtually all countries over the medium-term, although its intensity will vary considerably among countries.
+The shift in age structure associated with population ageing has a profound impact on a broad range of economic, political and social processes. For example, concerns are growing about the long-term viability of intergenerational social support systems, which are crucial for the well-being of both the older and younger generations (Cliquet and Nizamuddin, 1999). Such concerns are especially acute in societies where provision of care within the family becomes increasingly difficult as family size decreases and women, who are traditionally the main caregivers, engage in employment outside the home.
+As people live longer, certain benefits, such as pensions, health care or old-age support, need to be paid over longer periods. Consequently, to remain sustainable, social security systems need to change (Creedy, 1998; Bravo, 1999). Increasing longevity may also result in rising medical costs and increasing demands for health services, since older people are typically more vulnerable to chronic diseases (de Jong-Gierveld and van Solinge, 1995; Holliday, 1999).
+This report provides an overview of population ageing worldwide, focusing on trends relevant for public policy. Particular attention is given to the course of the ageing process, which has not been the same in all countries. There has been considerable variation in the timing, levels and patterns of population ageing. Therefore, the assessment of trends is made on the basis of groups of countries, disaggregated according to development levels and major geographic areas.
+The first chapter of this report focuses on the demographic determinants as well as the magnitude and speed of population ageing. First, it examines the worldwide decline in fertility and mortality that underlies population ageing. The analysis is based on three indicators: the total fertility rate, life expectancy (at birth and at ages 60, 65 and 80), and the probability of survival to older ages.
+Particularly at the earlier stages of the demographic transition, reductions in fertility are the primary determinants of the timing and extent of population ageing. However, as later stages of the transition are reached, reductions in mortality, particularly at older ages, contribute more to increasing the number of older persons, thus accelerating population ageing.
+An important consequence of the reductions of fertility is a progressive reduction in the availability of kin on whom future generations of older persons may rely upon for support. This change may significantly impact on the well-being of older persons, especially in the less developed regions where social support for older persons is largely provided by the immediate family (Hoyert, 1991; Wolf, 1994). At the same time, improved chances of surviving to the older ages are likely to spur efforts to improve the health status of the older population and lead to reforms in pension and health systems.
+The first chapter of this report also examines regional differences in the progression of the ageing process through the analysis of the share and growth rate of the number of older persons (i.e., those aged 60 years or over, 65 years or over, and 80 years or over).
+united_nations Department of Economic and Social Affairs/Population Division 1
+As the impact of population ageing on socio-economic conditions may be amplified by the speed at which it occurs, it is important to consider not only the degree of population ageing but also the pace of change in the age structure. When the proportion of older persons in the total population increases rapidly over a short period, as is currently the case in some developed and developing countries, it becomes particularly difficult for the institutions to adjust.
+The second chapter considers the changing balance between age groups and analyses changes in the relative size of the older and younger groups of the population from various perspectives. Indicators examined include the median age, various types of dependency ratios (total, youth and old-age) and the potential support ratio. When the proportion of older persons increases, the shares of other age groups change. The shifting weights of the various age groups tend to create social and political pressures that may result in changing patterns of resource allocation among generations, sometimes giving rise to intergenerational conflict (Walker, 1990; Jackson, 1998). Complementarities may also rise. Thus, as children account for a declining proportion of the population, there may be a reduction in the number of schools just as the increasing share of the older population begins to require more long-term care facilities.
+A decrease of the potential support ratio, which implies a rise in the old-age dependency ratio, indicates in most societies that an increasing number of beneficiaries of health and pension systems (that is, persons aged 65 years or over) have to be supported by a relatively smaller number of contributors (that is, persons of working age, usually between the ages of 15 and 64). Such a change is likely to pose heavier demands on the working-age population, whether in the form of higher taxes or other contributions, so as to maintain a stable flow of benefits to the older population. Even though there may also be a sharp decline in the youth dependency ratio, this reduction may not be sufficient to offset the increased costs related to an ageing population because the costs involved in supporting older persons are, in general, higher than those involved in supporting children and adolescents (united_nations, 1988, 2007c; Baldacci and Lugaresi, 1997).
+The third chapter of this report presents a demographic profile of the older population, drawing attention to two important features of the ageing process: the progressive ageing of the older population itself and its feminization. It also examines the significant gender differences with regard to marital status and living arrangements of older persons.
+The rapid growth of the oldest groups among the older population is of special relevance in terms of public policy. In most parts of the world, the group aged 80 years or over is growing faster than any other age group and is expected to continue growing at very rapid rates until at least 2050. Although this group constitutes a small proportion of the total population, the number of persons involved is increasingly significant, especially in developing countries. Because health status typically declines with advancing age, higher numbers of oldest-old imply a growing demand for long-term care (Pollard, 1995; Crimmins, 1997).
+The increasing female share of the older population is also relevant to public policy. Because mortality rates are usually higher among men than among women, even at older ages, the older the population age group that is considered, the higher the proportion female tends to be. In most countries, older women greatly outnumber older men. The implications of this gender imbalance for public support and planning can be significant because older women typically have less education, less work experience and less access to public assistance and other private income sources than older men (Higuchi, 1996; united_nations, 1999b). Older women are also more likely to be living without a spouse, mainly because they are more likely to be widowed. Hence, they are also more likely to live alone than older men. As a result, older women are less likely than older men to receive assistance from close relatives, including spouses. In most countries, the major concern about providing adequate support to the oldest-old centres primarily on older womens need for support.
+The fourth chapter focuses on the socio-economic characteristics of the older population, considering several dimensions that can greatly affect the well-being of older individuals: their residence in urban or rural areas; their literacy status; their labour force participation; and the statutory pensionable age. The chapter also discusses the coverage of pension systems and the impact of the 2007-2008 financial crisis on pension systems.
+In most countries, rural areas face a double demographic burdenthey have both higher child dependency and higher old-age dependency than urban areas. This situation results from the combined effects of higher fertility in the rural areas and sustained out-migration of younger adults from rural to urban areas. Access to basic social and health services also tends to be lower in rural than in urban areas, while poverty rates are higher.
+Labour force participation among the older population is considerably higher in developing countries than in developed countries, mainly because of the lack of adequate pension and retirement programmes in most developing countries. Furthermore, in many developing countries there are still large concentrations of older workers in agriculture and in the informal sector, both of which are generally not covered by social security systems or pensions (International Labour Organization, 2000). In terms of gender, labour force participation rates have dropped among older men and have risen among older women, resulting in an increasing female share among the older work force.
+Although lower levels of labour force participation at older ages are generally associated with higher levels of social security coverage, the decline in the labour force participation of older men in both developed and developing countries is likely to be related to factors such as a shortage of employment opportunities, skill obsolescence and deficient knowledge and training to keep abreast of new developments (Drury, 1994; Taylor and Walker, 1996). Factors that may push older persons into retirement in some countries include mandatory retirement ages, negative attitudes of employers towards older workers and inflexible employment rules that make it difficult to work part time (OECD, 2006; European Commission, 2007).
+Lastly, there appears to be general agreement that higher levels of educational attainment result in better health and economic status among older persons. Improvements in the educational attainment of older persons may also alleviate any cultural gap between generations that may have widened over the past century. In developing countries, in particular, illiteracy is still high at all ages but especially among older persons. Higher levels of literacy among younger generations are expected to improve their prospects as they age and thus result in a better quality of life for those reaching old age.
+Annex III to this report presents summary tables on the older population and ageing indicators for major regions and individual countries or areas with at least 100,000 inhabitants in 2009, as presented in World Population Prospects: The 2008 Revision (united_nations Department of Economic and Social Affairs, Population Division, 2009b). For the composition of the geographic major areas or regions used, see annex II.
+united_nations Department of Economic and Social Affairs/Population Division 3
+I. DEMOGRAPHIC DETERMINANTS AND SPEED OF POPULATION AGEING
+The process underlying global population ageing is known as the demographic transition, a process whereby reductions in mortality, particularly at young ages, are followed by reductions in fertility. Decreasing fertility along with increasing life expectancy (figure 1) has reshaped the age structure of the population in most regions of the planet by shifting the relative weight of the population from younger to older groups. The role of international migration in changing age distributions has been far less important than that of fertility and mortality (Lesthaeghe, 2004; united_nations, 2007a).
+Figure 1. Total fertility rate and life expectancy at birth: world, 1950-2050
+2009
+Total fertility
+Life expectancy
+1950-55 1970-75 2000-05 2025-30 2045-50
+A. REDUCTIONS IN FERTILITY
+Decreasing fertility has been the primary cause of population ageing because, as fertility moves steadily to lower levels, people of reproductive age have fewer children relative to those of older generations, with the result that sustained fertility reductions eventually lead to a reduction of the proportion of children and young persons in a population and a corresponding increase of the proportions in older groups.
+The reduction of fertility has been dramatic since 1950. At the world level, total fertility has dropped almost by half, from 4.9 children per woman in 1950-1955 to 2.6 in 2005-2010, and it is expected to keep on declining to reach 2.0 children per women in 2045-2050.
+Fertility is well below replacement level in the more developed regions
+As a result of the sustained decline in fertility that occurred in developed countries during the twentieth century, total fertility in the more developed regions has dropped from an already low level of 2.8 children per woman in 1950-1955 to an extremely low level of 1.6 children per woman in 2005-2010. This level is well below that needed to ensure the replacement of generations (about 2.1 children per woman). In fact, practically all developed countries are currently experiencing below-replacement fertility.
+Total fertility (births per woman)
+Life expectancy (years)
+Fertility decline in the less developed regions started later and has proceeded faster
+Major fertility reductions in the less developed regions occurred, in general, during the last three decades of the twentieth century. From 1950-1955 to 2005-2010, total fertility in the developing world dropped by over half from 6.0 to 2.7 children per woman (figure 2).
+Figure 2. Total fertility rate: world and development regions, 1950-2050
+World
+More developed regions
+Less developed regions
+Least developed countries
+2009
+1950-55 1970-75
+2000-05 2025-30
+2045-50
+However, great disparities persist. In the least developed countries, total fertility is now 4.4 children per woman. In particular, in Eastern Africa, Middle Africa and Western Africa, total fertility is still in excess of 5.2 children per woman. Nonetheless, in Eastern Asia, South-eastern Asia, the Caribbean and Central and South America, total fertility is below 2.5 children per woman. In 31 developing countries, the total fertility rate is estimated to be already below replacement level.
+Regional differences in fertility are expected to decrease
+Since the transition towards lower fertility levels is expected to continue in developing countries and fertility levels in developed countries are expected to increase slightly, differences in fertility among regions are expected to decrease in the future. Total fertility in the less developed regions is expected to drop from the current 2.7 children per woman to 2.4 children per woman by 2025-2030, and to 2.0 by 2045-2050. Fertility in the more developed regions is projected to rise from the current 1.6 children per woman to 1.7 children per woman in 2025-2030 and 1.8 children per woman in 2045-2050. A particularly sharp reduction is expected for the least developed countries, where total fertility may reach 2.4 children per woman in 2045-2050, down from 4.4 children per woman in 2005-2010 and 3.5 children per woman in 2025-2030 (figure 2). These projected values for the least developed countries are contingent on the occurrence of major changes regarding desired family size and the use of contraception in those countries.
+B. REDUCTIONS IN MORTALITY
+As fertility levels drop, mortality has also continued to decline, especially at older ages. When fertility reaches low levels and remains low, reductions in mortality at older ages gain importance as a cause of population ageing. In developed countries, in particular, where low fertility has prevailed for
+united_nations Department of Economic and Social Affairs/Population Division 5
+Total fertility (births per woman)
+over three decades, increases in the proportion of the older population are now primarily caused by increasing survival to advanced ages (Grundy, 1996; National Research Council, 2001; united_nations, 2007a).
+People are living longer, but large variations remain
+Since 1950, life expectancy at birth increased globally by 21 years, from 46.6 years in 1950-1955 to 67.6 years in 2005-2010 (figure 3). On average, the gain in life expectancy at birth was 24.6 years in the less developed regions and 11.1 years in the more developed regions. Nevertheless, a considerable advantage still persists in favour of the latter. At current mortality rates an individual born in the more developed regions is expected to outlive an individual born in the less developed regions by more than 11 years. If the individual is born in the group of least developed countries, this disadvantage increases to 21 years.
+Figure 3. Life expectancy at birth: world and development regions, 1950-2050
+W orld
+More developed regions
+Less developed regions
+Least developed countries
+2009
+1950-55
+1970-75
+2000-05
+2025-30
+2045-50
+Great variations in life expectancy exist within the less developed regions
+While in some developing countries or areas, such as Hong Kong and Macao Special Administrative Regions (SAR) of China, Israel and Singapore, life expectancy at birth is currently higher than 80 years, in others, such as Afghanistan and Zimbabwe, it does not surpass 45 years. In many countries, especially those classified as least developed, low levels of life expectancy at birth are partly due to the spread of HIV. On average, life expectancy in the least developed countries lengthened by 19.5 years since 19501955, substantially less than the average gain recorded by developing countries as a whole (figure 3).
+Among developed countries, the range of variation in life expectancy is significantly narrower than among developing countries. Life expectancy at birth is above 70 years in the developed countries, apart from a few countries in Eastern Europe, including Belarus, the Republic of Moldova, the russian_federation and Ukraine, where it is currently between 66 and 69 years. Among the rest of the developed countries, life expectancy ranges from 72 years in Latvia and Lithuania to nearly 83 years in Japan.
+Life expectancy (years)
+Regional differences in life expectancy at birth are expected to decrease
+Over the next four decades, life expectancy at birth is projected to increase globally by about 8 years, to reach 75.5 years in 2045-2050 (figure 3). As mortality becomes more concentrated at older ages, the difference in life expectancy among regions will tend to decrease. By 2025-2030, life expectancy at birth is expected to reach, on average, about 80 years in the more developed regions and 71 years in the less developed regions. By 2045-2050 it is expected to rise to almost 83 years in the more developed regions and to 74 years in the less developed regions. Thus, the gap between the two is expected to remain at about 8 years by 2045-2050, down from 11 years at present.
+Figure 4. Projected survival curves: world and development regions, 2005-2010 and 2045-2050
+A. World
+B. More developed regions
+Age
+D. Least developed countries
+Age
+Age
+C. Less developed regions
+Percentage Percentage
+Percentage Percentage
+Age
+2005-2010 2045-2050
+More people will survive to older ages
+As a result of the generalized shift of mortality to older ages, the survival curve is expected gradually to approach an almost rectangular shape in all regions of the world (figure 4). Under current mortality conditions, 3 out of every 4 newborns in the world are expected to survive to age 60, and about 3 out of every 8 to age 80. Under the mortality conditions projected for the period 2045-2050, nearly 7 out of every 8 newborns would survive to age 60, and more than half would survive to age 80. In the more developed regions, by 2045-2050, nearly 95 per cent of those born would survive to age 60 and two thirds of newborns would reach age 80.
+Although substantial improvement in mortality is expected in all regions in the next several decades, survival prospects in the least developed countries will continue to lag behind the rest of the world. By
+united_nations Department of Economic and Social Affairs/Population Division 7
+2045-2050, the survival curve in the least developed countries is expected to be close to the world average 40 years earlier, in 2005-2010 (figure 4). This will, however, represent a significant advance from current conditions, since, at the mortality rates in 2005-2010, about 3 in 5 of those born in the least developed countries can expect to reach age 60 and only about 1 in 5 can expect to reach age 80.
+In proportional terms, gains in life expectancy are expected to be higher at older ages
+Not only are more people surviving to old age, but once there, they tend to live longer. At the regional level, too, better prospects of attaining old age are linked to higher expectation of life after reaching older ages (figure 5). In the more developed regions, people who survive to age 60 can expect to live 22 more years on average, while the average is only 18 years in the less developed regions and 16 years in the least developed countries. In the more developed regions, those who survive to age 80 can expect 9 more years of life, compare to 7 years for those in the less developed regions and 6 years for those living in the least developed countries.
+Figure 5. Life expectancy at ages 60, 65 and 80 in 2005-2010: world and development regions
+World
+More developed Less developed regions regions
+Least developed countries
+Over the next four decades, global life expectancy at age 60 is expected to increase from 19.7 years in 2005-2010 to 22.4 years in 2045-2050 (a 13 per cent gain); from 16.2 to 18.5 years (by 14 per cent) at age 65, and from 7.9 to 9.1 years (by 16 per cent) at age 80. According to these figures, the higher the starting age, the higher the relative gain in life expectancy. The same holds for the more developed regions, whose average life expectancy at age 80 is projected to increase by 24 per cent over the next four decades as compared with 16 per cent at age 60 and 7 per cent at birth. Similarly, average life expectancy at age 80 in the less developed regions is expected to increase by 21 per cent as compared with 18 per cent at age 60 and 13 per cent at birth. In contrast, for the least developed countries, where mortality levels at young ages remain high, proportional improvements in life expectancy during the next four decades are expected to be higher at birth than at older ages.
+The female advantage in life expectancy at birth has widened; future trends are expected to follow different paths
+Except for a small number of countries, where cultural factors have resulted in lower life expectancy for females than for males, reductions in mortality have been substantially higher among females than
+Percentage males in practically all age groups. As a result, the female advantage in life expectancy at birth increased from 2.7 years in 1950-1955 to 4.5 years in 2005-2010 globally. By 2045-2050, the female to male difference in life expectancy at birth is expected to increase to 4.6 years at the world level (figure 6a).
+In the more developed regions, where women currently outlive men by 6.9 years on average, the gender gap in life expectancy at birth is expected to narrow gradually to reach 5.7 years by 2045-2050 (figure 6b). In the less developed regions, where the female to male difference in life expectancy at birth is smaller, it is expected to continue increasing, passing from 3.5 years in 2005-2010 to 4.3 years by 2045-2050 (figure 6c). A similar trend is expected in the least developed countries, where the gender gap in life expectancy is estimated to be 2.5 years in 2005-2010 and is projected to increase to 3.7 years by 2040-2050 (figure 6d).
+Figure 6. Male and female life expectancy at birth and gender gap: world and development regions, 1950-2050
+A. World
+C. Less developed regions
+Male
+Female
+Gender gap
+B. More developed regions
+D. Least developed countries
+Lif e 60   6Ge ex 50   5nd pe cta 40
+nc p y 30 3 (ye at ars birt 20  2)
+er 4ga
+In Japan, women have a life expectancy at birth of 86 years, the highest in the world. In 31 other countries, female life expectancy at birth now equals or exceeds 82 years. These countries include the following 11 developing countries or areas: Cyprus, Hong Kong SAR China, Israel, Macao SAR China, the Republic of Korea and Singapore in Asia, as well as Chile, Guadeloupe, Martinique, Puerto Rico and the U.S. Virgin Islands in latin_america and the Caribbean.
+united_nations Department of Economic and Social Affairs/Population Division 9
+Gender gap (years)
+Gender gap (years) Gender gap (years)
+Life expectancy at birth Life expectancy at birth
+Life expectancy at birth
+By 2045-2050, female life expectancy at birth is expected to reach 91 years in Japan and at least 86 years in 35 other countries. Under the mortality conditions projected for the middle of this century, 59 per cent of the worlds female newborns would survive to age 80 if they were subject during all their lives to the mortality projected for 2045-2050, up from 44 per cent under current mortality conditions. In 52 countries, including 22 developing countries, this proportion is projected to exceed 70 per cent. However, in 20 countries, mostly located in sub-Saharan Africa, this proportion is expected to remain below 35 per cent even by 2050.
+C. MAGNITUDE AND SPEED OF POPULATION AGEING
+The number of older persons has more than tripled since 1950; it will almost triple again by 2050
+In 1950, there were 205 million persons aged 60 or over throughout the world. At that time, only 3 countries had more than 10 million people aged 60 or over: China (41 million), India (20 million), and the united_states (20 million). By 2009, the number of persons aged 60 or over had increased three and a half times to 737 million and there were 12 countries with more than 10 million people aged 60 or over, including China (160 million), India (89 million), the united_states (56 million), Japan (38 million), the russian_federation (25 million) and Germany (21 million). By 2050, the population aged 60 or over is projected to increase again nearly threefold to reach 2 billion (figure 7).
+Figure 7. Population aged 60 or over: world and development regions, 1950-2050
+World
+More developed regions Less developed regions
+1950 1975 2009 2025 2050
+Also by 2050, 32 countries are expected to have more than 10 million people aged 60 or over, including five countries with more than 50 million older people: China (440 million), India (316 million), the united_states (111 million), Indonesia (72 million) and Brazil (64 million).
+The older population is growing faster than the total population in practically all regions of the world and the difference in growth rates is increasing
+In 1950-1955, the average annual growth rate of the number of persons aged 60 years or over (1.7 per cent) was similar to the rate of growth for the total population (1.8 per cent, as is shown in figure 8).
+Millions
+In 2005-2010, the growth rate of the older population, at 2.6 per cent annually, is more than twice that of the total population (1.2 per cent). Over the mid-term future, the difference between those two growth rates is expected to increase as the baby boom generation reaches age 60 in several parts of the world. By 2025-2030, projections indicate that the population aged 60 or over will be growing about 4 times as rapidly as the total population, at an annual growth rate of 2.8 per cent compared to 0.7 per cent for the total population (figure 8). Although the growth rate of the population aged 60 or over is expected to decline to 1.8 per cent in 2045-2050, it will still be more than 5 times the growth rate of the total population at that time (0.3 per cent).
+Figure 8. Average annual growth rate of total population and population aged 60 or over: world, 1950-2050
+2005-10
+Total
+60+
+1950-55 1970-75
+2000-05 2025-30
+2045-50
+The proportion of older persons in the world will double by 2050
+Since the older population has grown faster than the total population, the proportion of older persons relative to the rest of the population has increased considerably. At the global level, 8 per cent of the population was at least 60 years of age in 1950 (figure 9), and 5 per cent was at least 65 years of age. By 2009, those proportions had increased to 11 per cent and just under 8 per cent, respectively. By 2050, 22 per cent of the world population is projected to be 60 years or over, and 16 per cent will likely be 65 years or over.
+More developed regions have relatively high proportions of older persons
+Already by 1950, developed countries as a whole had a higher proportion of their population aged 60 years or over than developing countries (12 per cent vs. 6 per cent). Developed countries continue to be at a more advanced stage of the demographic transition and have populations that are already showing strong signs of ageing. Furthermore, their populations are projected to remain considerably older than those of developing countries as a whole. Currently, 21 per cent of the population in the more developed regions is aged 60 years or over, whereas about 8 per cent of that in the less developed regions is in that age group (figure 9). By 2050, almost 33 per cent of the population of the more developed regions is projected to be 60 years or over, whereas the equivalent proportion will likely be 20 per cent in the less developed regions. A large difference is also evident regarding the proportions aged 65 years or over, which are projected to be 26 per cent in the more developed regions but under 15 per cent in the less developed regions.
+united_nations Department of Economic and Social Affairs/Population Division 11
+Percentage
+Figure 9. Proportion of population aged 60 or over: world and development regions, 1950-2050
+World
+More developed regions Less developed regions
+1950 1975
+2009 2025 2050
+High proportions of older persons in Europe; low proportions in Africa
+Europe is currently the major area with the highest proportions of older persons and is projected to remain so until 2050. Nearly 35 per cent of the population of Europe is projected to be 60 years or over in 2050, up from 22 per cent in 2009. About 27 per cent is projected to be 65 or over, up from 16 per cent in 2009. In contrast, only 11 per cent of the population of Africa is projected to be 60 or over in 2050, up from 5 per cent in 2009. The proportion aged 65 or over in Africa is projected to rise from 3 per cent in 2009 to 7 per cent in 2050.
+In some countries, more than 40 per cent of the population will be 60 years or over in 2050
+People aged 60 years or over currently constitute more than 25 per cent of the population of Germany, Italy and Japan, and there are 26 other countries with proportions of older persons ranging from 20 per cent to 25 per cent. By 2050, more than 40 per cent of the population is expected to be 60 years or older in Macao SAR China, Japan and the Republic of Korea. In addition, persons aged 60 or over will constitute at least 33 per cent of the population in another 28 countries, including 7 developing countries. In Italy, Macao SAR China, Japan and the Republic of Korea, 33 per cent or more of the population will be aged 65 years or over in 2050, and in 36 additional countries, including 9 developing countries, individuals aged 65 years or over will constitute between 25 per cent and 33 per cent of the population.
+The older population is growing at a faster rate in the less developed regions
+In contrast with the relatively slow process of population ageing experienced so far by most developed countries, the ageing process in the majority of developing countries is occurring at a faster pace and, therefore, over a shorter period. Furthermore, with the large populations that characterize many developing countries, large numbers of older persons live in those countries even if they constitute still relatively low proportions of the total population.
+In 1950-1955, the number of persons aged 60 years or over was growing slightly more rapidly in the more developed regions (1.9 per cent per year) than in the less developed regions, (1.6 per cent per year) as shown in figure 10.
+Percentage
+From that time on, the growth rates of the older population increased in the less developed regions but declined at first in the more developed regions, only to increase markedly in recent times. Currently, the average annual growth rate of the population aged 60 years or over is 3.0 per cent in the less developed regions and 1.9 per cent in the more developed regions (figure 10). By 2025-2030, this rate is expected to rise to 3.4 per cent in the less developed regions and to decrease to 1.1 per cent in the more developed regions. After 2030, the growth rate of the population aged 60 years or over is expected to decline in both the more developed regions and the less developed regions. Yet, by 2045-2050, the growth rate of the older population in the less developed regions is projected to be over five times as high as that in the more developed regions (2.1 per cent vs. 0.4 per cent).
+Figure 10. Average annual growth rate of population 60 or over: world and development regions, 1950-2050
+World
+More developed regions
+Less developed regions
+Least developed countries
+2005-10
+1950-55
+1970-75
+2000-05
+2025-30
+2045-50
+In the least developed countries, the growth rate of the older population is projected to continue increasing at least until 2040. By 2045-2050, the population aged 60 years or over in the least developed countries is projected to be growing at a rate of 3.5 per cent per year, about nine times that of the more developed regions (0.4 per cent annually).
+The older population will increasingly be concentrated in the less developed regions
+Although the proportion of older persons is higher in the more developed regions, their number is increasingly larger in the less developed regions. From 1950 to 2009, the number of persons aged 60 years or over increased globally by an average of 9 million persons per year. Sixty-eight per cent of that increase occurred in the less developed regions and 32 per cent in the more developed regions. As a result, the proportion of all persons aged 60 years or over living in the less developed regions rose from 54 per cent in 1950 to 64 per cent in 2009 (figure 11).
+Over the next four decades, the concentration of older persons in the less developed regions will intensify. The number of people aged 60 years or over living in the less developed regions is expected to increase more than threefold, passing from 473 million in 2009 to 1.6 billion in 2050. In contrast, the number of older persons in the more developed regions is projected to increase by about 60 per cent, passing from 264 million in 2009 to 416 million in 2050. Consequently, by 2050, nearly 80 per cent of the worlds older population is expected to live in developing countries (figure 11).
+united_nations Department of Economic and Social Affairs/Population Division 13
+Percentage
+II. THE CHANGING BALANCE AMONG AGE GROUPS
+A. DISTRIBUTION OF THE POPULATION BY BROAD AGE GROUPS
+The balance between young and old is shifting in favour of the old throughout the world
+In most populations, the increasing proportions of older persons have been accompanied by steady reductions in the proportion of young persons. At the world level, the proportion of children (that is, persons under 15 years of age) dropped from 34 per cent in 1950 to 27 per cent in 2009 (figure 12a). By 2050, the proportion of children is projected to decline by over one fourth and the proportion of persons aged 60 years or over (22 per cent) will, for the first time in history, exceed that of children (20 per cent). During 2009-2050, the proportion of persons whose ages range from 15 to 59 will change slightly, passing from 62 per cent in 2009 to 58 per cent in 2050.
+In the more developed regions, the proportion of older persons already exceeds that of children; by 2050 it will be double that of children
+In 2009, the proportion of persons aged 60 years or over in the more developed regions (21 per cent) is already higher than the proportion of children (17 per cent) as is shown in figure 12b. By 2050, the proportion of children is projected to decline slightly to 15 per cent, while the proportion of older persons is projected to reach 33 per cent. As the baby boom generations reach old age and there is a declining inflow of young people, the proportion of persons aged 15 to 59 in the more developed regions is also expected to decline substantially over the coming four decades, from 62 per cent in 2009 to 52 per cent in 2050.
+Changes in the age distribution of the less developed regions have been slow, but will accelerate over the coming decades
+From 1950 to 2009, the proportion of people aged 60 years or over in the less developed regions increased only slightly, from 6 per cent to 8 per cent, while the proportion of children (persons under 15 years of age) declined from 37 per cent to 30 per cent (figure 12c).
+In future, the change in age distribution in the less developed regions is expected to be more marked. The proportion of older persons will increase by a factor of 2.4 to reach 20 per cent in 2050 and the proportion of children will fall by about a third to reach a projected 20 per cent. The share of the population aged 15 to 59 is projected to change slightly, passing from 62 per cent in 2009 to 59 per cent in 2050.
+In the least developed countries, the proportion of the population aged 60 years or over has remained at about 5 per cent up to the present but is projected to increase to 11 per cent by 2050 (figure 12d). Fertility has only recently begun declining in most of these countries, and the proportion of children is still very high at 40 per cent in 2009. That proportion is projected to decline by about one third to reach 27 per cent in 2050. Over the same period, the proportion aged 15-59 will increase from 55 per cent to 62 per cent.
+united_nations Department of Economic and Social Affairs/Population Division 15
+Figure 12. Distribution of population by broad age groups: world and development regions, 1950-2050
+A. World
+2009
+1950 1975 2000 2025 2050
+1950 1975
+2000 2025 2050
+B. More developed regions
+1950 1975
+< 15
+15-59
+2000 2025 2050
+60+
+C. Less developed regions
+1950 1975
+2000 2025 2050
+D. Least developed countries
+B. MEDIAN AGE
+During 2009-2050, the median age of the world population is projected to increase by about 10 years
+The median age is the age that divides the population into two equal parts, one with ages below the median age and the other with ages above the median age. From 1950 to 2009, the median age of the worlds population increased only by 4 years, from 24 years to 28 years (figure 13). From 2009 to 2050, it is expected to increase by about 10 years. That is, in 2050, half of the worlds population is projected to be older than 38 years.
+The median age in the more developed regions is more than 13 years higher than in the less developed regions and 20 years higher than in the least developed countries
+The median age of the population in the more developed regions was approaching 40 years in 2009, up from 29 years in 1950. In the less developed regions, the median age was 26 years in 2009, about 4 years higher than in 1950 when it was below 22 years. In the least developed countries, as a result of
+Percentage Percentage
+Percentage Percentage their continued high fertility, the median age changed very little between 1950 and 2009 and remained below 20 years (figure 13).
+Figure 13. Median age of the population: world and development regions, 1950-2050
+(years)
+1950 2009
+2050
+World
+More developed regions Less developed regions Least developed countries
+From 2009 to 2050, the median age of the population of the more developed regions is projected to reach an unprecedented level of nearly 46 years. In the less developed regions, the median age will increase by 11 years to reach 37 years in 2050, a level approaching that currently observed in the more developed regions. During 2009-2050, the median age is also projected to increase significantly in the least developed countries, although its level in 2050 (29 years) will still be 8 years lower than that for the less developed regions as a whole.
+The median age of Europe is double that of Africa
+In 2009, the median age of Europe was 40 years, more than twice as high as the median age of 19 years in Africa. By 2050, the median age in Europe is projected to rise to 47, a level 18 years higher than that projected for Africa. At the country level, the median age in 2009 ranged from 15 years in Niger and Uganda to 44 years in Germany and Japan, followed by Italy with a median age of 43 years. Thirteen other European countries, as well as Hong Kong SAR China and Singapore, have median ages above 40.
+By 2050, the oldest populations are expected to be those of Macao SAR China and Japan, where over half the population is projected to be at least 55 years old. The Republic of Korea and Singapore will come next with median ages between 53 and 54 years. In 9 other countries or areas, at least half of the population will be aged over 50 years. At the opposite extreme, in 9 countries, most located in Africa, persons under 25 years of age are expected to be the majority of the population.
+C. DEPENDENCY RATIO
+The total dependency ratio is a commonly used measure of potential social support needs. It is calculated as the ratio of the number of children (persons under age 15) and older persons (persons aged 65 years or over) to the number of persons in the working ages (that is, those aged 15 to 64) expressed per 100 population. The interpretation of the ratio is based on the notion that all persons under age 15 and those aged 65 or over are likely to be in some sense dependent on the population in
+united_nations Department of Economic and Social Affairs/Population Division 17
+the working ages. Those in the working ages are assumed to provide direct or indirect support to those in the dependent ages (Kinsella and Gist, 1995). Such support may be provided within the family, through religious or communal institutions, or through the State.
+It must be recognized, however, that the dependency ratio provides at best, only a rough approximation of the actual dependency burden in a society. Not all children and older persons require support, nor do all persons of working age provide direct or indirect support to children and older persons (Taeuber, 1992). In fact, evidence indicates that older persons in many societies are often providers of support to their adult children (Morgan, Schuster and Butler, 1991; Saad, 2001). Thus, although it is a useful indicator of trends in potential support needs, the dependency ratio, and more specifically, the old-age dependency ratio, should be interpreted with caution.
+At the global level, the ratio between the dependent and the working age populations has decreased since 1950 but is expected to increase in the future
+At the world level, the total dependency ratio increased from 65 in 1950 to 74 in 1975 (figure 14). This change was mainly due to substantial increases in the proportion of children in most developing countries, which in turn resulted from declining infant and child mortality and continued high fertility. Then, as fertility dropped, the total dependency ratio also declined to reach 53 in 2009. This decline in the total dependency ratio occurred despite the increasing proportion of older persons over the period. As these trends continue, the total dependency ratio is projected to remain nearly constant between 2009 and 2025, when it is projected to reach 52, but it will start increasing soon after to reach 56 in 2050.
+In the more developed regions, the increase in the total dependency ratio is expected to start earlier, so that it will likely rise from 48 in 2009 to 58 in 2025 and keep on rising to reach 71 in 2050.
+Figure 14. Total dependency ratio: world and development regions, 1950-2050
+World
+More developed regions
+Less developed regions
+Least developed countries
+2009
+1950 1975
+2000 2025 2050
+A profound shift is expected in the composition of the total dependency ratio
+Although the worlds total dependency ratio is projected to change little between 2009 and 2050, the composition of the ratio will undergo important changes over the period. Currently, the child population accounts for the large majority of the worlds dependent population. In the future, the contribution of the child component of the dependency ratio will become similar to that of the old-age
+Figure 15. Composition of the total dependency ratio: world and development regions, 1950-2050
+A. World
+2009
+1950 1975 2000 2025 2050
+1950 1975
+2000 2025 2050
+B. More developed regions
+1950 1975
+2000 2025 2050
+D. Least developed countries
+Youth
+1975 2000 2025 2050
+Old age
+C. Less developed regions component. This shift will be the result of the combined effects of fertility reduction and increasing longevity. Currently, the old-age component constitutes about 22 per cent of the worlds total dependency ratio. By 2050, its share will more than double to reach 45 per cent (figure 15a).
+In the more developed regions, where the share of older persons in the numerator of the dependency ratio is already large (49 per cent in 2009), the old-age component is projected to rise to 63 per cent by 2050 (figure 15b). In the less developed regions, the old-age component will still account for less than half (42 per cent) of the total dependency ratio by 2050 (figure 15c), and in the least developed countries the old-age component will account for under one quarter of the total dependency ratio by that date (figure 15d).
+united_nations Department of Economic and Social Affairs/Population Division 19
+Percentage Percentage
+Percentage Percentage
+The old-age dependency ratio will almost double in Africa, Europe, Northern America and Oceania; it will almost triple in Asia and will more than triple in latin_america and the Caribbean
+The old-age dependency ratio is the ratio of the population aged 65 or over to the population aged 15 to 64 expressed per 100 population. Although the current differences among major areas in the old-age dependency ratio are expected to persist until 2050, all major areas will experience remarkable increases in that ratio. From 2009 to 2050, the ratio of persons aged 65 or over to those of working age is projected to grow from 6 per 100 to 11 per 100 in Africa, from 10 to 27 in Asia, from 10 to 31 in latin_america and the Caribbean, from 16 to 30 in Oceania, from 19 to 36 in Northern America and from 24 to 47 in Europe (figure 16).
+Figure 16. Old-age dependency ratio: major areas, 2009 and 2050
+Europe Northern America
+Oceania
+latin_america and the Caribbean
+Asia
+Africa
+2009 2050
+The world s highest old-age dependency ratio will more than double in the next four decades
+Currently, Japan has the worlds highest old-age dependency ratio of 34 older persons per 100 persons of working age. It is followed closely by Italy and Germany, with ratios of 31. Over the next four decades, the old-age dependency ratio is projected to increase substantially in most countries of the world. By 2050, Japan, with an old-age dependency ratio of 74, will still have the worlds highest level of old-age dependency, followed by Macao SAR China (64), the Republic of Korea (63) and Italy (62). In another 16 countries, most located in Europe, the old-age dependency ratio is projected to be higher than 50 older persons per 100 persons of working age. At the same time, in 29 countries or areas, most located in Africa, the population aged 65 years or over is expected to be less than one tenth the size of the working-age population.
+D. POTENTIAL SUPPORT RATIO
+The potential support ratio is an alternative way of expressing the numerical relationship between those more likely to be economically productive and those more likely to be dependants. It is the inverse of the old-age dependency ratio, that is, the number of persons of working age (i.e., aged 15 to 64) per person aged 65 or over.
+The number of working-age people per older person is expected to drop globally by more than 50 per cent over the next four decades
+Between 1950 and 2009, the ratio of people aged 15-64 to persons aged 65 or older decreased globally by about 25 per cent, from 11.8 to 8.7. The decrease was particularly important in the more developed regions, where the ratio dropped by almost half, from 8.2 in 1950 to 4.3 in 2009.
+During this same period, the potential support ratio decreased by 25 per cent in the less developed regions (from 15.2 in 1950 to 11.4 in 2009) and showed little change in the least developed countries (declining from 18.1 in 1950 to 17.2 in 2009) (figure 17). Large decreases, however, are expected to take place over the first half of this century. By 2050, the number of persons in the working ages per older person is projected to be 3.9 globally, a decrease of 55 per cent relative to 2009; 2.2 in the more developed regions, implying a decrease of 48 per cent relative to 2009, and 4.4 in the less developed regions, representing a decrease of 61 per cent with respect to the level reached in 2009. The decline in the least developed countries will amount to 49 per cent, leading to a support ratio of 8.8 persons of working age per older person in 2050.
+Figure 17. Potential support ratio: world and development regions, 1950-2050
+World
+More developed regions
+Less developed regions
+Least developed countries
+2009
+1950 1975
+2000 2025 2050
+Currently, there are little more than four persons of working age per older person in Europe and by 2050 their number will have decreased to little more than two
+In Europe, there are 4.2 persons aged 15-64 per person aged 65 or over in 2009, the lowest potential support ratio among the major areas. Relatively low potential support ratios also characterize Northern America (5.2) and Oceania (6.1). In Africa, Asia and latin_america and the Caribbean, the potential support ratios are higher, at 16.5, 10.2 and 9.6, respectively (figure 18).
+Over the next four decades, the potential support ratio is projected to drop substantially in all major areas, particularly in Asia and latin_america and the Caribbean. By 2050, that ratio is projected to drop to about 2 in Europe, about 3 in latin_america and the Caribbean, Northern America and Oceania, and about 4 in Asia. In Africa, there will still be over 9 persons of working age for every person aged 65 or over by 2050.
+united_nations Department of Economic and Social Affairs/Population Division 21
+Figure18. Numberofpersonsaged15-64perpersonsaged65 or over: major areas, 2009 and 2050
+Europe Northern America
+Oceania
+latin_america and the Caribbean
+Asia
+Africa
+2009 2050
+Important variations in the potential support ratio will remain at the country level
+In 2009, the potential support ratio is under 5 in 37 countries or areas, most of which are in Europe. In three countries, namely, Germany, Italy and Japan, the potential support ratio is under 3.5. At the same time, the potential support ratio is above 20 in 22 countries, most of which are located in subSaharan Africa and Western Asia.
+By 2050, the potential support ratio is projected to be below 3.5 in 85 countries and will nowhere remain above 20. In 20 countries, including 7 developing countries, the potential support ratio is expected to decline to under 2 persons of working age for every older person. In Japan, the potential support ratio is expected to drop below 1.5. At the other extreme of the distribution, 18 countries are expected still to have potential support ratios above 12 by 2050.
+III. DEMOGRAPHIC PROFILE OF THE OLDER POPULATION
+A. AGE COMPOSITION
+Older populations are themselves ageing
+A notable aspect of the global ageing process is the progressive demographic ageing of the older population itself. In most countries, regardless of their geographic location or level of development, the population aged 80 or over is growing faster than any younger segment of the older population.
+At the world level, the average annual growth rate of the number of persons aged 80 or over, 4.0 per cent per year, is currently over 50 per cent higher than the growth rate of the population aged 60 or over, which averages 2.6 per cent per year (figure 19). Although the growth rates of both age groups are expected to decline over the next four decades, by 2045-2050 the growth rate of the population aged 80 or over, at 3.0 per cent per year, will still be well above that of the population aged 60 or over, which is expected to be 1.8 per cent per year.
+Figure 19. Average annual population growth rate at ages 60 or over, 65 or over and 80 or over: world, 1950-2050
+2005-10
+60+
+65+
+80+
+1950-55
+1970-75
+2000-05
+2025-30
+2045-50
+In 1950, 1 in 14 persons aged 60 or over was aged 80 or over but by 2009, that ratio had increased to almost 1 in 7, and by 2050 it is expected to reach nearly 1 in 5 (figure 20).
+The number of persons aged 80 or over is increasing substantially
+Persons aged 80 or over comprise 1.5 per cent of the total population at present but their share is projected to reach 4.3 per cent in 2050. Currently, the population aged 80 or over accounts for 5 per cent or more of the population in five countries: France, Germany, Italy, Japan and Sweden.
+In 1950, persons aged 80 or over numbered less than 15 million. By 2009 their number had risen to 102 million persons and it is expected to almost quadruple by 2050, to reach 395 million (figure 21).
+united_nations Department of Economic and Social Affairs/Population Division 23
+Percentage
+Figure 20. Distribution of population aged 60 or over by age: world, 1950-2050
+1950 1975
+80+
+70-79
+60-69
+2009
+2000 2025 2050
+Six countries are the home of half of the world s population aged 80 or over
+In 2009, six countries account for over 50 per cent of the population aged 80 or over. They are: China with 18 million, the united_states with 12 million, India with 8 million, Japan with 8 million and Germany and the russian_federation with 4 million each. In 2050, six countries will have more than 10 million people aged 80 or over: China with 101 million, India with 43 million, the united_states with 32 million, Japan with 16 million, Brazil with 14 million and Indonesia with 12 million. Together they will account for 55 per cent of the population aged 80 years or over.
+Figure 21. Population aged 80 or over: world, 1950-2050
+(Millions)
+2050
+2025
+2009
+1975
+1950  14.5
+394.7
+31.8
+160.8 101.9
+Percentage
+The proportion of persons aged 80 or over is significantly higher in the more developed regions than in the less developed regions
+People aged 80 or over currently comprise over 4 per cent of the population of Europe and nearly 4 per cent of the population of Northern America. The proportion of persons aged 80 or over is considerably lower in the major areas of the developing world. Thus, they constitute 1.4 per cent of the population of latin_america and the Caribbean, 1.1 per cent of that of Asia and 0.4 per cent of that of Africa. Such regional differences are projected to persist until 2050.
+By mid-century, about 1 in every 10 individuals will be aged 80 years or over in the more developed regions, compared with about 1 in 30 in the less developed regions. In the least developed countries as a whole, only about 1 in every 100 persons is projected to be aged 80 or over in 2050. By then, 24 countries, many located in Europe but also several in the Caribbean and Eastern Asia, are projected to have at least 10 per cent of their population aged 80 years or over.
+Most people aged 80 years or over now live in the more developed regions but soon the majority will live in the less developed regions
+Currently, slightly more than half of all persons aged 80 years or over (51 per cent) live in the more developed regions (figure 22). In the course of the next four decades, however, the population aged 80 years or over is expected to grow significantly faster in the less developed regions. As a consequence, by 2025, 56 per cent of the population aged 80 or over will live in the less developed regions and by 2050 that proportion will rise to 69 per cent (figure 22).
+Figure 22. Distribution of world population aged 80 or over by development regions, 1950-2050
+1950 1975
+2009 2025 2050
+Less developed regions
+More developed regions
+By 2050, the number of centenarians is expected to increase nine times
+Although the proportion of people who live to be a hundred is still very small, their number is growing rapidly. In 2009, there were an estimated 455,000 centenarians in the world. By 2050 their number is projected to rise to 4.1 million, a nine-fold increase (figure 23). Currently, the great majority of centenarians (69 per cent) live in the more developed regions and, although that proportion is projected to decrease to 60 per cent by 2050, by that time developed countries will still be the home of the majority of centenarians in the world.
+united_nations Department of Economic and Social Affairs/Population Division 25
+Percentage
+Figure 23. Distribution of world centenarians by development regions, 2009-2050
+2009 2025 2050
+Less developed regions More developed regions
+In the less developed regions, a significant increase in the number of centenarians is projected to occur during 2009-2050, when their numbers will rise from 141,000 to 1.6 million.
+Within the more developed regions, Japan will experience a remarkable increase in the number of centenarians, from less than 76,000 in 2009 to almost 800,000 in 2050. Consequently, by mid-century Japan is expected to have the worlds largest number and proportion of centenarians, since nearly 1 per cent of Japans population will be aged 100 years or over.
+B. SEX RATIO OF THE OLDER POPULATION
+Women comprise a majority of the older population and their share of the older population increases with age
+Because womens life expectancy is greater than that of men, women represent a majority of the older population. At the global level, the sex ratio of the population aged 60 or over is 83 males per 100 females (figure 24). Women aged 60 or over outnumber men of the same age by 66 million. Assuming that past mortality trends will continue, by 2050 it is expected that there will be 86 men per 100 women aged 60 or over and 82 men per 100 women aged 65 or over. Among the population aged 80 or over, the sex ratio is projected to be 64 men per 100 women.
+Sex ratios at older ages are significantly lower in the more developed regions than in the less developed regions
+In the more developed regions, large gender differences in longevity translate into low sex ratios among the older population. In 2009, there are 74 men per 100 women among persons aged 60 or over in the more developed regions and just 49 men per 100 women among those aged 80 or over (figure 25).
+In the less developed regions, older women outnumber older men by smaller margins because the sex differentials in life expectancy are generally smaller. Thus, there are currently 89 men per 100 women among persons aged 60 or over in the less developed regions and 70 men per 100 women among those aged 80 or over (figure 25).
+Thousands
+Figure 24. Number of men per hundred women at ages 60 or over, 65 or over and 80 or over: world, 1950-2050
+1950 1975
+2009 2025 2050
+Trends in sex ratios at older ages are expected to differ between the more developed and the less developed regions
+Over the next decades, the sex ratio of the older population is projected to increase in most of the more developed regions as a result of a faster decline in mortality among older men than among older women. By 2050, the average sex ratio in the more developed regions is projected to be 81 men per 100 women among persons aged 60 or over and 60 men per 100 women among persons aged 80 or over, implying a significant increase with respect to the levels estimated for 2009 (74 among those aged 60 or over and 49 among those aged 80 or over), as is shown in figure 25.
+Figure 25. Number of men per hundred women at ages 60 or over and 80 or over: development regions, 1950-2050
+More developed, 60 or over
+More developed, 80 or over Less developed, 60 or over Less developed, 80 or over
+2009
+1950 1975 2000 2025 2050
+united_nations Department of Economic and Social Affairs/Population Division 27
+In the less developed regions, mixed trends are projected over the next four decades. Women are expected to constitute an increasing proportion of the older population in most developing countries. However, in some countries in Africa, the share of men in the population aged 60 or over is expected to increase. An increase is also expected in the share of men in the population aged 80 or over in several countries in Asia where the proportions of older persons are already relatively high. Consequently, the average sex ratio in the less developed regions in 2050 is projected to be 87 men per 100 women among persons aged 60 or over and 65 among those aged 80 or over, only slightly lower than the levels estimated for 2009, namely, 89 and 70 men per 100 women, respectively (figure 25).
+As a result of the differing trends projected for the more developed and the less developed regions, the difference in the sex ratios of their populations aged 60 or over is expected to decrease from 15 points in 2009 to 6 points in 2050. During that period, the difference between the sex ratios of the population aged 80 or over in the more developed and the less developed regions is projected to decrease from 21 to 5 points.
+Sex ratios at older ages vary greatly among major areas and countries
+Among the major areas, Europe has today the lowest sex ratio at older ages (70 men per 100 women among people aged 60 or over and 46 men per 100 women among persons aged 80 or over) owing both to its large sex differentials in life expectancy and to the effects of the Second World War. Asia, in contrast, has the highest sex ratio among persons aged 60 or over (90 men per 100 women), while Africa and Asia have the highest sex ratios among persons aged 80 or over (68 men per 100 women), as is shown in figure 26.
+Figure 26. Number of men per hundred women at ages 60 or over and 80 or over: major areas, 2009
+Asia Oceania
+Africa
+latin_america and the Caribbean
+Northern America
+Europe
+In several countries, most of which are located in Eastern Europe and Northern Europe, women currently outnumber men by more than 5 to 3 among the population aged 60 or over. In 8 countries, the sex ratios at ages 60 or over are lower than 60 men per 100 women. In 11 countries, the sex ratio of the population aged 80 or over is below 40 men per 100 women. At the other extreme of the distribution, men outnumber women at older ages in some countries, most located in Western Asia. In 16 countries, the sex ratio of the population aged 60 or over surpasses 100 men per 100 women and in 7 countries, sex ratios higher than 100 are found among the population aged 80 or over.
+The range of variation of sex ratios at older ages is particularly wide among developing countries. While there are more older men than older women in Kuwait, Qatar and the United Arab Emirates,
+countries such as Argentina, Kazakhstan and South Africa have a higher proportion of women at older ages than many European countries. However, the range of variation is expected to narrow over the next four decades.
+C. MARITAL STATUS
+The majority of older men are married but most older women are not
+Marital status can strongly affect the emotional and economic well-being of older persons, particularly those with an illness or disability, since marital status often determines living arrangements and the availability of caregivers. Most older persons who are not living with a spouse have been widowed, although some never married and others have divorced or separated.
+In general, older men are more likely to live with a spouse than older women because of a combination of factors, including the higher life expectancy of women, the tendency of men to marry women who are younger than they are, and the higher remarriage rates among older widowed men than among widowed women. The implication of such a situation is that older men are more likely than older women to receive assistance from their spouses, especially when their health fails.
+At the global level, an estimated 63 per cent of older people are married. There are marked differences between men and women. Among older women, 48 per cent are married and living with a spouse, while among older men the proportion married reaches 80 per cent. On average, there are only 39 older men without a spouse per 100 older women in the same situation.
+The general pattern whereby older men are more likely to have a spouse than older women is observed in both the more developed and the less developed regions. In both of these groups the gender gap in proportions married amounts to 32 percentage points (figure 27). For the group of least developed countries, however, the proportion of men with spouses (84 per cent) is above the world average and that of older women with spouses (41 per cent) is below the world average, producing a very large gender gap of 43 percentage points.
+Figure 27. Percentage currently married among persons aged 60 or over by sex: world and development regions, around 2005
+World
+More Less developed developed regions regions
+Least developed countries
+Total Male Female
+united_nations Department of Economic and Social Affairs/Population Division 29
+Percentage
+The proportions of older men with spouses are considerably higher than those of older women with spouses in all major areas
+The proportion of persons aged 60 or over who are currently married varies from 58 per cent in latin_america and the Caribbean and in Europe to 66 per cent in Asia. The gender gap in the percentage married among older persons is highest in Africa, where older men are more than twice as likely as older women to have a spouse (85 per cent among older men versus 39 per cent among older women), and lowest in Oceania, where the corresponding proportions are 73 per cent among older men and 50 per cent among older women (figure 28).
+The proportions of older men and women who are still married varies considerably among countries
+The proportion married among persons aged 60 or over ranges from 37 per cent in French Guiana to 81 per cent in Nepal. In the majority of countries, more than half of older persons have a spouse. The few countries where that is not the case are located mostly in or near the Caribbean. At the high end of the distribution, there are 17 countries, mostly in Africa and Asia, where more than 70 per cent of the older population are currently married. In no country does the proportion married among older women surpass that of older men, and in only one, French Guiana, are less than half of older men married. The gender gap in the percentage married varies from 15 percentage points in Swaziland to 69 percentage points in Chad. In 32 countries, the gap is less than 25 percentage points, while in 12, the gap is greater than 50 percentage points.
+Figure 28. Percentage currently married among men and women aged 60 or over and gender gap: major areas, around 2005
+Africa
+Europe
+latin_america and the Caribbean
+Asia Northern America Oceania
+Gender gap Female Male
+D. LIVING ARRANGEMENTS
+About one out of every seven older persons, over 100 million people, live alone
+Older persons living alone constitute a group that is of natural social and policy concern. Those living alone are more likely to need outside assistance in the case of illness or disability, are at greater risk of social isolation and, even in countries with well-developed systems of social security, are disproportionately likelyespecially if they are older womento be poor (Casey and Yamada, 2002).
+For the world as a whole, the proportion of the population aged 60 or over who live alone is estimated to be 14 per cent (figure 29).
+Figure 29. Percentage of population aged 60 or over living alone, by sex: world and development regions, around 2005
+World More developed regions
+Less developed regions
+Total Male Female
+Older persons are more likely to live alone in the more developed regions than in the less developed regions
+On average, 1 out of every 12 persons aged 60 or over (8 per cent) lives alone in the less developed regions, whereas in the more developed regions, nearly 1 out of every 4 (24 per cent) lives alone (figure 29). In Africa, Asia and latin_america and the Caribbean, the levels of solitary living among persons aged 60 or over range from 8 per cent to 11 per cent, whereas in both Europe and Northern America 26 per cent of older people live alone (figure 30). Within Europe, the different regions show markedly different proportions of older persons living alone, ranging from 19 per cent in Southern Europe to 34 per cent in Northern Europe.
+Figure 30. Percentage of population aged 60 or over living alone, by sex: major areas, around 2005
+Europe
+Northern America
+latin_america and the Caribbean
+Africa
+Asia
+Total Male Female
+united_nations Department of Economic and Social Affairs/Population Division 31
+Percentage
+At the country level, the proportion of older persons living alone varies considerably
+Among the 136 countries or areas for which data are available, the proportion of the population aged 60 or over living alone ranges from less than 1 per cent in Bahrain in to almost 40 per cent in Denmark. In general, the proportion living alone is lowest in countries or areas of Africa and Asia and highest in Europe or in countries whose populations are mainly of European origin. Proportions of older persons living alone tend to be higher in latin_america and the Caribbean than in the other major areas of the developing world. However, there is considerable variation within regions and a few developing countries have values more typical of European countries. For instance, several Caribbean countries and Israel have more than 20 per cent of their older population living alone. Conversely, in about a quarter of all European countries the proportion of older persons living alone is below 20 per cent, with the lowest values ranging from 10 per cent to 15 per cent, found in Malta, Romania, Spain and the former Serbia and Montenegro. In general, within Europe, Southern European countries display the lowest proportions of older persons living alone.
+Older women are usually more likely than older men to live alone
+At the global level, the average proportion of women aged 60 or over living alone is 19 per cent, more than double the proportion of older men living alone (9 per cent). Gender differences are significantly larger in the more developed regions, where levels of solitary living are higher for both sexes than in the less developed regions (figure 29). More older women than older men live alone because older women are more likely to be widowed and hence less likely to be living with a spouse (figure 27). Among persons without spouses, however, older men are more likely than older women to live alone in most countries; that is, if a man survives to old age without a spouse, he often has a higher risk of living alone (united_nations, 2007a).
+Gender differences in solitary living vary greatly among both regions and countries
+The gender gap in solitary living is particularly large in Western Europe, where 41 per cent of older women and 15 per cent of older men live alone. In both Africa and Asia, around 11 per cent of older women and 6 per cent of older men live alone, while in latin_america and the Caribbean, the averages are 12 per cent for older women and 9 per cent for older men (figure 30). Only in the Caribbean does a higher proportion of older men live alone than that of older women (11 per cent of older men compared to 9 per cent of older women).
+In all but a few individual countries, the proportion of older persons living alone is higher among women than among men. The exceptions are mostly found in Central America and the Caribbean. The gender difference in the proportion of older persons living alone ranges from 6 percentage points in favour of men in Panama to 27 percentage points in favour of women in Germany.
+IV. SOCIO-ECONOMIC CHARACTERISTICS OF THE OLDER POPULATION
+A. AGEING IN URBAN AND RURAL AREAS
+More developed regions have an older and more urbanized population...
+In 2005, more than half (51.5 per cent) of the worlds older population lived in urban areas. Slightly over one fourth of older persons (174 million) lived in the urban areas of the less developed regions and another fourth lived in the urban areas of the more developed regions. The rural areas of the less developed regions still housed the largest share of the older populationnearly 40 per cent or 254 million in 2005whereas the rural areas of the more developed regions were home to just about 10 per cent of the older population or 72 million persons. These numbers reflect the fact that the more developed regions have a higher proportion of older persons and are also more urbanized than the less developed regions.
+Older women outnumber older men in both urban and rural areas, especially in the more developed regions where women constitute 58 per cent of the older urban and rural population. In the less developed regions, women constitute 52 per cent of the older population in the rural areas and 54 per cent in the urban areas.
+...but the number of older persons is growing most rapidly in the urban areas of less developed regions
+Rapid urbanization has led to a very rapid increase in the number of older persons in the urban areas of the less developed regions: between 1975 and 2005, their number increased at an annual rate of 4.4 per cent, nearly quadrupling over the period. In comparison, the rate of growth of the overall older population in the less developed regions averaged just 2 per cent per year.
+In the more developed regions, the pace of increase of the older population in urban areas was slower, at 1.8 per cent per year during 1975-2005, while that of the older population in rural areas was 0.8 per cent per year. It is noteworthy that, while the older population in the rural areas of the more developed regions increased by nearly 10 per cent between 1975 and 2005, the overall rural population in the more developed regions decreased over the same period.
+In most countries, the proportion of older persons is higher in rural areas than in urban areas
+The transition to low mortality and low fertility has usually started first and advanced the most in urban areas (united_nations, 2001 and 2008b; Montgomery and others, 2003). Consequently, the urban population would be expected to have an older age distribution than the rural population. That is the case at the world level since, in 2005, the percentage of older persons was higher in urban areas (10.9 per cent) than in rural areas (9.7 per cent).
+However, contrary to expectations, in both the more developed regions and the less developed regions, the proportion of the population aged 60 years or over is somewhat higher in the rural than in urban areas (figure 31). Rural-to-urban migration is the main cause of this unexpected difference in the age distributions of rural and urban areas. Because the majority of persons migrating from rural to urban areas are adults of working age, migration reduces the proportion of persons in the working ages in rural areas and increases that proportion in urban areas. Thus, the share of older persons increases in the
+united_nations Department of Economic and Social Affairs/Population Division 33
+population of rural areas and decreases in that of urban areas. As a result, in most countries, the proportion of older persons in the population is higher in rural areas than in urban areas.1
+Figure 31. Percentage of the population aged 60 or over in rural and urban areas: world and development regions, 2005
+22.9 19.1
+10.9
+9.7
+7.7 8.4
+4.1
+5.4
+World More developed regions
+Less developed regions
+Least developed countries
+Urban areas Rural areas
+In most of the major areas, the proportion of older persons is higher in rural areas than in urban areas (figure 32). The exceptions are latin_america and the Caribbean, where the proportion of older persons is slightly higher in urban areas than in rural areas, and Oceania, where it is much higher in urban areas than in rural areas (17 per cent versus 6 per cent). The higher proportion of older persons in the urban areas of Oceania reflects the large weight that the populations of Australia and New Zealand have in that major area. Their large and highly urbanized older populations are not counterbalanced by the younger and less urbanized populations of, for instance, Fiji and Papua New Guinea. Australia and New Zealand account for over 90 per cent of the regions urban population but only for about 30 per cent of its rural population.
+The difference between the proportion of older persons in rural and urban areas is generally small. Thus, in one third of the countries with data available, the proportion of the rural population aged 60 or over is within one percentage point of the equivalent proportion in the urban population. However, in 15 countries, ten of which are developed countries, including eight in Europe, the proportion of older persons in the rural population surpasses that in the urban population by at least 5 percentage points. The countries with the largest differences, ranging from 15 to 18 percentage points, are Belarus, Bulgaria and the Republic of Korea. In Lebanon, Romania and Spain the equivalent differences range from 10 to 12 percentage points.
+The fact that, at the world level, the urban population is older (10.9 per cent aged 60 or over) than the rural population (9.7 per cent) stems jointly from (a) the generally lower proportions of older persons in the populations of the less developed than in those of the more developed regions and (b) the circumstance that the worlds rural dwellers are more heavily concentrated in the less developed regions than are those who live in urban areas. In 2005, 91 per cent of the worlds rural population and 72 per cent of the urban population lived in the less developed regions. The global percentage aged 60 or over in the urban areas, 10.9 per cent, is the weighted average of the corresponding percentages aged 60 or over in the less developed and the more developed regions:
+10.9 = (0.72)(7.7) + (1-0.72)(19.1) and similarly for the rural areas:
+9.7 = (0.91)(8.4) + (1-0.91)(22.9).
+World Population Ageing 2009
+Figure 32. Percentage of the population aged 60 and over in rural and in urban areas: major geographic areas, 2005
+23.3 19.6
+18.0 16.4
+17.3
+6.6
+8.9 9.4
+9.1 8.7
+4.6 5.6
+A f r i c a
+A s i a
+L a t i n
+A me r i c a and the Caribbean
+Eu r o p e
+N o r t h e r n A me r i c a
+O c e a n i a
+Urban areas Rural areas
+In 17 countries, the proportion of older persons in the urban population surpasses that in the rural population by at least one percentage point. Seven of those countries are in latin_america and the Caribbean and another four are the Asian successor States of the former USSR. The countries or areas with the largest differences, amounting to 6 percentage points, are Australia and Puerto Rico.
+Rural areas usually have more children as well as older persons in relation to the working-age population
+Large numbers of children and older persons, supported by relatively few adults, imply high dependency ratios in rural areas, especially in developing countries. Figure 33 shows the child dependency ratio (the number of children under age 15 per one hundred persons aged 15 to 64) and the old-age dependency ratio (the number of persons aged 65 or over per one hundred persons aged 15 to 64) in the rural and urban areas of the major areas of the world. The total dependency ratio, that is, the sum of the child and the old-age dependency ratios, is higher in rural than in urban areas by at least 10 points in all major areas of the world with the exception of Northern America. In Africa and latin_america and the Caribbean, the rural dependency ratio is higher by over 20 points, due to a high child dependency ratio. The rural areas of Africa and latin_america and the Caribbean have the highest total dependency ratios, at 92 and 74 dependants per 100 adults of working age, respectively. Asias total urban dependency ratio is the lowest, at 43 dependants per 100 adults of working age, largely because of the low dependency ratio in China. The old-age dependency ratio is higher in rural than in urban areas in all major areas except Oceania.
+Thus, rural areas typically face the double demographic burden of having a higher child dependency ratio and a higher old-age dependency ratio than urban areas. Added to this demographic disadvantage is the limited access to basic social and health services in rural areas and higher poverty rates than in urban areas (Montgomery and others, 2003; united_nations, 2008b).
+Populations are ageing in both rural and urban areas
+Between 1975 and 2005, the proportion of older persons increased in both the urban and rural populations. In 1975, 17 per cent of the rural population in the more developed regions was aged 60 or over, and this proportion increased to 23 per cent by 2005. The proportion aged 60 or over in urban areas increased from 15 per cent to 19 per cent during the same period. Comparable figures for the less
+united_nations Department of Economic and Social Affairs/Population Division 35
+Figure 33. Old-age and child dependency ratios in urban and rural areas: major geographic areas, 2005
+Old-age dependency  Child dependency
+URURURURURUR Africa Asia Europe latin_america Northern Oceania
+U: urban R: rural and Caribbean America developed regions show an increase in the proportion 60 or over from about 6 per cent to 8 per cent in both rural and urban areas.
+In 1975, people aged 60 or over constituted more than 25 per cent of the population in rural areas of only one country, Sweden. By 2005, in ten countries more than one quarter of the rural population was aged 60 or over: Belarus, Bulgaria, Greece, Italy, Japan, Lithuania, the Republic of Korea, Spain, Ukraine and the united_kingdom. In addition, the number of countries where older persons accounted for between 20 per cent and 25 per cent of the rural population increased from seven in 1975 to 21 in 2005, 19 of which were in the more developed regions.
+In urban areas, the proportion of older persons did not reach 25 per cent in any country in 1975 and by 2005 that proportion was above 25 per cent in just one country, Germany. The number of countries where older persons constituted between 20 per cent and 25 per cent of the urban population increased from twoAustria and Germanyin 1975 to 15 in 2005.
+B. ILLITERACY RATES
+In developed countries, literacy among the older population is nearly universal
+The attainment of universal primary education has been a reality in most developed countries for a long time. As a result, literacy in these regions is believed to be nearly universal even among the older population, and most developed countries no longer gather information on illiteracy. However, some developed countries having age-specific data on literacy, most of which are in Eastern Europe and Southern Europe, still record high levels of illiteracy at older ages. In the former Yugoslav Republic of Macedonia, for instance, 21 per cent of persons aged 65 or over were illiterate, as were between 17 per cent and 20 per cent of those in Bosnia and Herzegovina, Malta and Portugal, in 2000 or later years.
+In developing countries, illiteracy remains high among older people, especially among older women
+In developing countries, levels of educational attainment have generally improved over time, with the result that younger generations have higher levels of literacy than older ones. However, even for younger generations, levels of educational attainment remain low in many developing countries. The proportion of illiterate persons among those aged 65 or over in developing countries is estimated at 46 per cent. With few exceptions, the proportion illiterate is higher among older women than among older men. On average, in developing countries, 58 per cent of women and 34 per cent of men aged 65 years or over are illiterate, a gap of 24 percentage points (figure 34).
+Figure 34. Average illiteracy rate at ages 65 or over by sex: less developed regions, 2005-2007
+Total Male
+Female
+Levels of illiteracy among older persons vary markedly among major areas of the developing world
+Within the developing world, levels of illiteracy are highest in Africa and lowest in latin_america and the Caribbean. Data on illiteracy levels by age are available for 47 countries in Africa, 44 in Asia and 28 in Latin American and the Caribbean. Based on those data, 67 per cent of the population aged 65 or over in Africa is estimated to be illiterate, as is 42 per cent of that in Asia and 27 per cent of that in Latin American and the Caribbean (figure 35).
+Figure 35. Average illiteracy rate at ages 65 or over by sex: major areas, 2005-2007
+Africa Asia
+latin_america and Caribbean
+Total Men Women
+united_nations Department of Economic and Social Affairs/Population Division 37
+Per c entage Per c entage
+The gender gap in levels of illiteracy among older persons is lower in latin_america and the Caribbean than in either Africa or Asia
+The estimated average level of illiteracy among women aged 65 or over is 78 per cent in Africa and 53 per cent in Asia. Illiteracy levels among men aged 65 or over are 58 per cent in Africa and 29 per cent in Asia, implying differences of 20 and 24 percentage points, respectively, in favour of older men. In latin_america and the Caribbean, the gender gap in illiteracy levels among persons aged 65 or over amounts to just 6 percentage points, with illiteracy among older women estimated at 29 per cent and that among older men at 23 per cent (figure 35).
+There is considerable variability in illiteracy levels among the older populations of developing countries
+There are huge differences in illiteracy levels among older persons in developing countries. In some countries in Africa, such as Burkina Faso, Chad, Ethiopia and Guinea-Bissau, over 90 per cent of persons aged 65 years or over were illiterate around 2005, with illiteracy levels in those countries being higher among older women (95 per cent or higher) than among older men (84 per cent or higher). At the other end of the distribution, in countries such as Armenia, Cuba, Kazakhstan and Tonga, less than 3 per cent of persons aged 65 or over are illiterate, though illiteracy still tends to be higher among older women than among older men. This wide range of variation is expected to decrease in the future as educational attainment continues to improve in most countries.
+C. LABOUR FORCE PARTICIPATION
+At the world level, labour force participation among the older population has been falling for men but rising for women
+About 20 per cent of persons aged 65 or over are economically active worldwide, almost the same level as in 1980. However, this stability over time masks important changes in labour force participation rates by sex. Among older men, the labour force participation rate decreased from 32 per cent in 1980 to 28 per cent in 2009, and is expected to decline further to 26 per cent by 2020. Among older women, the labour force participation rate has been increasing, from 9 per cent in 1980 to 15 per cent in 2009, and is projected to reach 17 per cent by 2020 (figure 36). By that time, the overall labour force participation rate of older persons is projected to increase slightly from the current 20 per cent to 21 per cent.
+Figure 36. Total, male and female labour force participation at ages 65 or over: world, 1980-2020
+Total
+Male
+Female
+2009
+1980 1990
+2000 2010
+2020
+The female share of the older work force is increasing
+Traditionally, the proportion of older men who are economically active has been markedly higher than the proportion of older women. However, because labour force participation at older ages has dropped among men and risen among women, the female share of the older labour force has increased over the past decades, especially in the more developed regions. In 1980, women accounted for 39 per cent of workers aged 65 or over in the more developed regions and 24 per cent of those in the less developed regions. By 2009, womens share had increased to 45 per cent in the more developed regions and to 39 per cent in the less developed regions. At the global level, womens share of the older work force rose from 28 per cent in 1980 to 40 per cent in 2009 (figure 37).
+Figure old38. Distribution of economically active population aged 65 or over by sex: world, 1980-2020
+1980 1990
+Women
+Men
+2009
+2000 2010 2020
+The labour force participation rates of older persons are higher in the less developed regions
+Old-age pension systems and retirement programmes have much lower coverage in developing countries than in developed countries. Consequently, people in developing countries lacking other forms of support are compelled to continue working into old age, thus producing higher labour force participation rates at older ages in developing countries than in developed countries. Other factors may also play a role in maintaining such differences. Mandatory retirement ages, where they exist, are more likely to affect workers in formal-sector jobs, which predominate in developed countries but constitute a small share of employment in developing countries. Even in developed countries, older persons who remain in the labour force are more likely than are younger workers to be self-employed or to be engaged in agriculture, which often involves working on a family farm (European Commission, 2007).
+In both 1980 and 2009, the labour force participation rate among people aged 65 or over was about 27 per cent in the less developed regions and close to 10 per cent in the more developed regions. Those levels are projected to change very little between 2009 and 2020.
+The labour force participation rate among older persons is lowest in Europe and highest in Africa
+Among the worlds major areas, Africa has by far the highest proportion of economically active people among those aged 65 or over, while Europe has the lowest. Between those two extremes, labour
+united_nations Department of Economic and Social Affairs/Population Division 39
+Percentage force participation rates among the older population are relatively low in Oceania and Northern America and higher in Asia and latin_america and the Caribbean.
+During 1980-2009, the labour force participation rate among older persons decreased in Africa and Europe, remained nearly unchanged in Asia and increased in latin_america and the Caribbean, Northern America and Oceania (figure 38). Between 1980 and 2009, the labour force participation rate of persons aged 65 or over declined from 8 per cent to 6 per cent in Europe and from 46 per cent to 40 per cent in Africa. Over the same period, the participation rate increased from 23 per cent to 25 per cent in latin_america and the Caribbean, from 9 per cent to 12 per cent in Oceania, and from 12 per cent to 15 per cent in Northern America. There was little change in Asia, where the labour force participation rate of persons aged 65 or over remained at about 25 per cent.
+Figure 38. Labour force participation at ages 65 or over: major areas, 1980 and 2009
+Africa
+Asia
+latin_america and the Caribbean
+Northern America Oceania Europe
+1980 2009
+In some major areas, older men and women showed divergent trends in labour force participation between 1980 and 2009. In Asia and latin_america and the Caribbean, the labour force participation rates of older men declined while those of older women rose but, in Europe, the rate declined only for men. In Africa labour force participation decreased for both sexes, though the decline was greater for men. The participation rate increased for both men and women in Northern America and Oceania.
+In 30 countries, at least half of the population aged 65 or over continues to work
+In 18 countries, fewer than 4 per cent of persons aged 65 or over are currently working according to estimates by the International Labour Organization (ILO). In four of them (France, Luxembourg, Malta and Slovakia), the proportion of older persons in the labour force is lower than 1.5 per cent. At the other end of the distribution, there are 30 countries where at least half of the population aged 65 or over continues to work, most of which are located in Africa. In Burundi, Malawi and Mozambique, over three fourths of persons aged 65 or over are in the labour force.
+In 2009, labour force participation rates among older men ranged from less than 2 per cent in some European countries (France, Luxembourg and Slovakia) to more than 85 per cent in some African countries (Chad, the Gambia and Malawi). Among older women, labour force participation rates ranged from nearly zero in Luxembourg and Malta to more than 70 per cent in Burundi, Malawi and Mozambique.
+Some countries have experienced dramatic declines in the labour force participation of older people
+The labour force participation of older persons has declined in the majority of countries. In 12 countries, the participation rates of persons aged 65 or over declined by at least 70 per cent since 1980. The largest relative decrease was observed in Luxembourg, where the labour force participation rate of older persons dropped from an already low 4 per cent in 1980 to 0.5 per cent in 2009. In absolute terms, very large decreases, amounting to 20 percentage points or more, occurred in nine developing countries between 1980 and 2009. Bangladesh and Ghana experienced declines of 30 percentage points or more in the rate of labour force participation of older persons.
+The labour force participation of older people is increasing in some countries
+In about a third of all countries the reported labour force participation rates of older persons have increased since 1980. In six countries with economies in transitionBosnia and Herzegovina, Kyrgyzstan, the Republic of Moldova, Serbia, Tajikistan and Uzbekistanthe participation rates more than tripled, albeit from levels that were initially quite low. For instance, in Serbia, the labour force participation rate among those aged 65 or over increased from about 1 per cent in 1980 to 12 per cent in 2009. In countries where the labour force participation rates of older persons have risen since 1980, those rates have typically increased for both men and women.
+In some developed countries where the labour force participation rates of older men had been falling until 1990, there has since been a reversal of that trend. In Australia, Latvia, the Netherlands, New Zealand, Portugal and the united_states, labour force participation rates among men aged 65 or over declined between 1980 and 1990 but then increased by between 3 and 11 percentage points between 1990 and 2009. Several other European countries show a similar but smaller upward trend after 1990. In those cases, the labour force participation of men aged 55 to 64 has also followed similar trends. Such trends respond, at least in part, to changes in policy. As a means of improving the financial sustainability of their pension systems, the Governments of many developed countries have been changing pension regulations in ways that reduce incentives to retire early (OECD, 2006, 2009).
+D. STATUTORY PENSIONABLE AGE
+In most countries, qualifying for pension benefits is conditional on both completing a specified period of contributions, most commonly ranging from 30 to 40 years of employment, and attaining a specified age. In recent years, the minimum age required before workers can claim a pension entitlement has increased in some countries, mainly in response to the budgetary constraints arising from population ageing.
+In most countries, the pensionable age is the same for women as for men, but if there is a difference, the pensionable age is lower for women. In about 40 per cent of countries, women become eligible for full pension benefits at lower ages than men do, typically five years earlier, although women generally survive longer than men do. Based on information for 157 countries or areas the statutory pensionable age as of 2009 was 65 years or higher for men in 29 per cent of those countries and for women in 17 per cent of them. The pensionable age for men was lower than 60 years in 17 per cent of the countries considered and for women in 38 per cent of them (figure 39).
+united_nations Department of Economic and Social Affairs/Population Division 41
+Figure 39. Distribution of countries by statutory pensionable age of men and women, 2009
+Men Women
+Betw een 60 and 64 years Less than 60 years
+However, there is an emerging trend toward equalizing the statutory pensionable age between the sexes. As of 2009, men and women had the same statutory pensionable age in about 60 per cent of the countries with the required data (figure 40). The same pensionable age for men and women was particularly common in developing countries: in two thirds of the developing countries having the required information, the pensionable age was the same for both sexes. In over half of the developed countries with the required information, the pensionable age remained higher for men than for women.
+Figure 40. Percentage of countries for which the statutory pensionable age is either the same for both sexes or higher for men than for women, 2009
+All countries (157)
+Developed countries (41)
+Developing countries (116)
+Same for men and w omen
+Higher for men than for women
+For both men and women, pensionable ages tend to be higher in developed countries than in developing countries
+Men become eligible for full pension benefits at age 65 or over in about 60 per cent of developed countries and in under 20 per cent of developing countries (figure 41). In no developed country is the pensionable age for men lower than 60 years, whereas that is the case in over 20 per cent of developing countries. For women, the pensionable age is 65 years or over in about 40 per cent of developed countries and in only 9 per cent of developing countries (figure 41). In 35 per cent of the developing countries, the
+Percentage Percentage pensionable age for women is 55 years or lower, whereas the pensionable age is that low in only 3 of the 41 developed countries with information available, namely, Belarus, the russian_federation and Ukraine. Differences in the pensionable age reflect, to a certain extent, differences in life expectancy, which is lower in developing countries.
+Figure 41. Percentage of countries for which the statutory pensionable age is 65 years or higher by sex, 2009
+Developed countries (41)
+Developing countries (116)
+Males Females
+Among developing countries, pensionable ages tend to be higher in latin_america and the Caribbean and lower in Africa
+In 45 per cent of the countries in Latin American and the Caribbean, the statutory pensionable age for men is higher than 60 years. Only one country (Haiti) in that major area has a pensionable age below 60 years (figure 42). In contrast, the pensionable age for men is below 60 years in about one fourth of the countries in Africa, while it is higher than 60 years in just 14 per cent of African countries. In Asia, the proportion of countries with a pensionable age for men that is below 60 years is similar to the corresponding proportion in Africa, while the proportion of Asian countries with a pensionable age for men above 60 years (about 30 per cent) is higher than the corresponding proportion in Africa and lower than that in Latin American and the Caribbean (figure 42).
+Figure 42. Distribution of countries by statutory pensionable age of men: major areas, 2009
+Africa (43)
+Asia (36)
+latin_america and Caribbean (31)
+Higher than 60 years 60 years
+Low er than 60 years
+united_nations Department of Economic and Social Affairs/Population Division 43
+Percentage Percentage
+E. IMPACT OF THE FINANCIAL AND ECONOMIC CRISIS ON OLDER PERSONS
+The global financial and economic crisis that emerged in 2007 and unfolded in 2008 and 2009 has affected social security systems, pension funds and other sources of income of older persons across the globe. Some of its most visible short-term effects have been the dramatic declines in the value of assets in retirement savings accounts (Hinz and others, 2009) and in the prices of land and housing that, taken together, comprise the bulk of the wealth and sources of asset income of retirees (Mason and others, 2009).
+The crisis affected pension funds and the rates of return of retirement savings
+During 2007-2008, the value of the assets of private pension funds in OECD countries, expressed as a percentage of gross domestic product (GDP), remained approximately constant in countries like Germany and Italy, fell a few percentage points in Austria, Mexico, Poland, Portugal and Spain, but plunged very sharply (by between -25 per cent and -12 per cent of GDP) in Australia, Canada, Finland, Iceland, the Netherlands, and the united_states (OECD, 2009). Pension funds in other countries, such as Chile, Hong Kong special administrative region of China, and Israel, also suffered sharp reductions as a result of the crisis. Part of those declines was caused by the contraction of employment and contributions, but their main driver was the large negative rate of return of the funds, which, for OECD countries, averaged -17.4 per cent in 2008 (figure 43).2 The losses were greatest in Belgium, Canada, Hungary, Iceland and Japan, where annual rates of return were between -23 per cent and -20 per cent, and in Australia, Ireland and the united_states, with rates of return between -38 per cent and -26 per cent.
+Figure 43. Real return on investments of private pension funds in 23 countries, 2008
+-37.5
+Ireland Australia
+united_states Iceland
+Belgium
+Canada Hungary
+Japan
+Finland
+Poland
+united_kingdom Netherlands Sweden Denmark Austria
+Portugal Switzerland Norway
+Spain
+Slovak Republic Germany
+Czech Republic Mexico
+Wweighted Average: -23
+-22.9 -21.6
+-21.4 -21
+-20.1 -19.5
+-17.7 -17.4
+-16.9 -16.9 -16.8 -16.7
+-13.8 -12.6
+-11.8 -11.7
+-10.5 -8.5
+-7.2 -5.2
+-26.7 -26.2
+Unweighted Average: -17.4
+-40 -35 -30 -25 -20 -15 -10 -5 0
+Percentage
+Note: Includes countries where pension fund assets in 2007 were worth more than 4 per cent of GDP.
+Because of the large absolute size of the pension funds of Australia, Canada and the united_states, which suffered larger than average losses, the fund-weighted average of -23 per cent is even more negative than the un-weighted average of -17.4 per cent cited in the text (see figure 43).
+During 2009, pension funds in some countries had begun to show signs of recovery in tandem with the turnaround in stock markets, but in most cases those upturns had not compensated for the large losses recorded in 2007 and 2008.
+Retirees and workers near retirement age have been most severely affected
+The crisis also had major negative effects on employment. Unemployment increased almost everywhere and the hours worked and the wages of those employed have declined in many countries. In some cases, employers have negotiated a reduction or temporary elimination of their contributions to employees retirement schemes in order to maintain jobs. All these changes will translate into lower pensions when the affected individuals reach retirement age.
+The negative impact of the crisis has been greatest for workers nearing retirement who are inscribed in defined-contribution schemes, which had become popular in many countries starting in the early 1990s. Also severely affected have been recent retirees who did not annuitize their pension savings (OECD, 2009; Hulbert, 2009). Both the current and past crises make clear that, although defined-contribution schemes appear to offer attractive rates of return over the long term, they can lead to substantial losses in the short term for particular cohorts of workers. Consequently, there has been a renewed appreciation of the stability and protective value of public and private defined-benefit schemes that pool the risks over time and across cohorts of workers within occupational groups or even the entire national labour force. A recent world_bank (2009) report calls for strengthening pension systems in order to manage risks and protect vulnerable individuals, especially those nearing retirement.
+Social security coverage remains low in most developing countries
+Notwithstanding the substantial impact of the crisis on pension systems and on workers covered by them, it should be recalled that, especially in developing countries, those affected most severely by the crisis are likely to be the much larger number of workers and older persons lacking any form of social security coverage. As Holzmann and Robalino (2009) report, in non-OECD countries, the share of the labour force covered by pension systems remains low, averaging 44 per cent in east_asia (including just 20 per cent in China), 34 per cent in the Middle East and North Africa, 32 per cent in latin_america and the Caribbean, 13 per cent in South Asia and only 6 per cent in sub-Saharan Africa (figure 44).
+Recent estimates of social security coverage suggest that, at the world level, only 1 in 4 persons in the labour force is currently accruing pension rights (Hinz, Pallares-Miralles and Romero, forthcoming, 2010, cited in Forteza and others, 2009) and that 4 in every 5 older persons have no pension coverage.
+The role of familial transfers
+The situation described above implies that a large majority of older people in the world have had to resort either to their reduced wealth holdings to face the effects of the crisis or to family members for support and sustenance (Mason and others, 2009). At least in some instances, relatives provide emergency support to those most severely affected by job losses and the reduction of asset income. There is evidence that upward family transfers (from young and middle-aged adults, to elderly parents) are common and significant in several Asian countries, although they are of much lower quantitative import in developed countries and in several Latin American countries (Lee, 2009; Mason, 2009; Bravo, 2009). Furthermore, in countries such as Brazil, Costa Rica and Uruguay, net private family transfers flow mostly downward, from the older to the younger generations.
+united_nations Department of Economic and Social Affairs/Population Division 45
+Figure 44. Coverage as measured by active members of mandatory pension systems as a share of labour force: world 2000-2008
+In planning a response to the crisis, Governments should take into consideration that social protection programmes geared to the older population often help improve the lives of younger persons as well, particularly in developing countries. In Brazil, for example, the universal, non-contributory old-age pension constitutes an important source of household income, especially in households with co-resident older persons (Turra and Queiroz, 2009). Because in most developing countries, high proportions of older persons live with relatives, the benefits of public transfers to older persons are generally shared with other household members.
+Given that the current crisis is systemic and is affecting most economic sectors and occupational groups, the scope of family transfers to older persons will probably be modest and inadequate to support the majority of the older population. In countries where the economic conditions are such that private transfers cannot provide the needed protection, the result will be increased poverty and reduced standards of living of the non-poor. These consequences are especially worrisome in countries where poverty rates among the elderly are higher than among the rest of the population (OECD, 2009) and where the older population may turn out to be a key economic shock absorber (Mason and others, 2009, p. 21).
+Compensatory government programmes are still needed.
+In view of the current crisis, Governments have to face the fiscal deficits that will result from maintaining or increasing the benefits provided by social programmes as tax revenues fall. According to Hinz and others (2009), the aggregate cumulative fiscal gap of pension systems could range from less than 1 per cent of GDP, if the crisis turns out to be moderate and recovery is fast, to 13 per cent of GDP, if not. Current deficits imply the expansion of public debt, which can spur economic recovery but, at the same time, transfers some of the burden of adjustment to future generations. The ultimate generational impact will also depend on the effects of population ageing in each country and the policy and institutional responses adopted to provide for the health and pension needs of the elderly of the future (united_nations, 2007; Hagemejer, 2009; Hinz and others, 2009).
+V. CONCLUSION
+Global population ageing is a by-product of the demographic transition in which both mortality and fertility decline from higher to lower levels. Currently, the total fertility rate is below the replacement level in practically all industrialized countries. In the less developed regions, the fertility decline started later and has proceeded faster than in the more developed regions. Yet, in all regions people are increasingly likely to survive to older ages.
+The older population is growing at a considerably faster rate than that of the worlds total population. In absolute terms, the number of older persons has more than tripled since 1950 and will almost triple again by 2050. In relative terms, the percentage of older persons is projected to double worldwide by the middle of this century. However, notable differences exist between regions in the numbers and proportions at higher ages. Although the highest proportions of older persons are found in the more developed regions, this age group is growing considerably more rapidly in the less developed regions. As a consequence, the older population will be increasingly concentrated in the less developed regions.
+The young-old balance is shifting throughout the world. In the more developed regions, the proportion of older persons already exceeds that of children, and by 2050 it is expected to be more than double that of children. In the less developed regions, age-distribution changes have been slow but will accelerate over the coming decades. Currently, the median age in the more developed regions is more than 13 years higher than in the less developed regions and is 20 years higher than in the least developed countries.
+An increase in the old-age dependency ratio indicates a situation in which an increasing number of potential beneficiaries of health and pensions (mainly those aged 65 or over) are supported by a relatively smaller number of potential contributors (those in the economically active ages of 15 to 64). This trend tends to impose heavier demands on the working-age population, in the form of higher taxes and other contributions, in order to maintain a stable flow of benefits to the older groups. Even the sharp decline in youth dependency that has accompanied the increase in old-age dependency may not be enough to offset the increased costs, since the relative expense of supporting the old is, in general, higher than that of supporting the young.
+As the numbers and relative proportions of the older population increase, their demographic characteristics are also changing. For instance, the older population is itself undergoing a process of demographic ageing. At the global level, the most rapidly growing age group is the aged 80 and over. Although the oldest-old still constitute a small proportion of the total population, their numbers are becoming increasingly important, especially in the less developed regions.
+In most countries, older women greatly outnumber older men. In many cases, the difference is so large that the concerns of the older population should in fact be viewed primarily as the concerns of older women. This is especially true in the case of the oldest-old populations, as the female share increases markedly with age.
+Older men are much more likely to be married than are older women due to a combination of factors that include the higher female life expectancy, the tendency for men to marry slightly younger women, and the higher remarriage rates among older widowed men than women. As a consequence, older men are in general, more likely than older women to receive assistance from a spouse, especially when health fails.
+Because older women are less likely than older men to be married, mainly because of widowhood, a significantly higher proportion of older women than older men live alone, particularly in the more
+united_nations Department of Economic and Social Affairs/Population Division 47
+developed regions. Older women living alone constitute a group of special social and policy concern as they are at greater risk of social isolation and economic deprivation. It is worth noting, however, that among the unmarried, older men are more likely than older women to live alone in most countries.
+Labour force participation of the older population has remained stable worldwide over the last decades and is considerably higher in the less developed than in the more developed regions. Nearly everywhere, however, the trend has been towards lower levels of economic activity among older men and higher levels among older women, thus increasing the female share of the older work force. Although lower levels of labour force participation at older ages are usually a sign of higher levels of social security coverage, they may also result from other factors, such as a shortage of employment opportunities and obsolescence of skills and knowledge.
+Illiteracy remains high in the less developed regions among older people, especially women. In those regions, an estimated one third of men aged 65 or over and nearly 60 per cent of women in this age group cannot read or write. This situation is of special concern as higher levels of education are generally associated with better health and economic status within the older population.
+As the twentieth century drew to a close, population ageing and its social and economic consequences were drawing increased attention from policy-makers worldwide. Many countries, especially in the more developed regions, had already achieved population structures older than any ever seen in human history. In most cases, the ageing societies also experienced rapid economic growth during the second half of the twentieth century. While major shortcomings and unmet needs remained, most developed countries expanded and diversified their systems of social security and health care and, on the whole, the standard of living of the old as well as the young improved as populations aged. However, strains were building in those support systems, as the older population continued to grow more rapidly than that of younger adults and as earlier withdrawal from the labour force added to the demands on public pension systems. In the first decade of the twenty-first century, the financial and economic crisis that began in 2007 and unfolded in 2008 and 2009 has put additional pressure on pension systems and on the prospective pension benefits of many workers nearing retirement age.
+The twenty-first century will witness even more rapid population ageing than did the twentieth century. Worldwide, the percentage of the population aged 60 years or over increased by 3 points from 8 to 11 per centbetween 1950 and 2009. Until the middle of the twenty-first century, that percentage is projected to increase by 11 percentage points, to 22 per cent. By that time, the population of the less developed regions will have about the same percentage of persons aged 60 years or over as the current percentage in the more developed regions. The developing countries will reach that stage over a shorter period than that required by the more developed regions. In many cases, rapid population ageing will be taking place in countries where the level of economic development is still low. The challenge for the future is to ensure that persons everywhere are able to age with security and dignity and to continue to participate in their societies as citizens with full rights (united_nations, 2002, para. 10).

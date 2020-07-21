@@ -1,0 +1,305 @@
+A New Model of Climate and Development
+ Summary
+This paper describes a new model, Climate and Regional Economics of Development (), which is designed to analyze the economics of climate and development choices. Its principal innovations are the treatment of global equity, calculation of the optimum interregional flows of resources, and use of McKinsey marginal abatement cost curves to project the cost of mitigation. The unconstrained, optimal climate policy in  involves very large capital flows from high-income to developing countries, to an extent that might be considered politically unrealistic. Under more realistic constraints, climate outcomes are generally worse; climate stabilization requires either moderate capital flows to developing countries, or a very low discount rate. In , more equitable scenarios have better climate outcomes; the challenge of climate policy is to persuade high-income countries to accept the need for both international equity and climate protection. The paper ends with an agenda for further model development. A technical appendix describes the model relationships and parameters in greater detail.
+The climate policy debate has largely shifted from science to economics. There is a well-developed consensus, at least in broad outlines, about the physical science of climate_change and its likely implications. That consensus is embodied in massive general circulation models (GCMs) that provide detailed projections of average temperatures, precipitation, weather patterns, and sea-level rise.
+Even the best models of physical processes, however, cannot answer the key questions about climate economics that are becoming increasingly central to policy debate: How much will it cost to stabilize the climate and avoid dangerous climate_change? How should the costs be shared? Does climate protection promote or compete with economic development for lower-income countries?
+For the economics of climate_change, there are a multitude of integrated assessment models (IAMs), but there is little or no consensus about the appropriate assumptions and techniques for such models (Stanton and others ). IAMs must grapple with inescapable uncertainties, not only about the physical processes of climate_change, but also about the pace of technological innovation, the future evolution of mitigation costs, and the extent of economic damages caused by temperature increases, among other unknowns. Crucial parts of the modelling apparatus, such as the discount rate applied to future outcomes, are often deduced from economic theories, which are the subject of ongoing debate (Ackerman and others ).
+  
+In view of the high level of uncertainty surrounding IAMs, there is a case to be made for relatively simple, transparent modelling. A complex, detailed model can project an aura of spurious precision that distracts from the critical underlying assumptions. A simpler model may do a better job of organizing the modellers assumptions and presenting their implications in a coherent, comprehensible framework. Above all, simpler models may be more accessible to policymakers, and therefore stand a greater chance of actually influencing real-world decisions. The official calculation of a social cost of carboni.e., marginal damages from an incremental ton of carbon dioxide emissionsfor use in US policy evaluation rests on three of the simplest IAMs in widespread use: DICE, FUND, and PAGE (see Ackerman and Stanton  for references and discussion).
+This article presents a new model, Climate and Regional Economics of Development (). It is intentionally designed at the same level of complexity as the simpler existing models, for policy relevance and ease of use. Selected features are borrowed from DICE, although the differences are more important than the similarities.  presents two major innovations and a range of additional modelling choices:
+ Our treatment of utility maximization and international equity sheds new light on the questions of climate and development.
+ Our approach to abatement costs, using McKinsey cost curves, is unique in the IAM literature.
+ Several other aspects of  are modifications of outdated practices in IAMs.
+The next three sections address these topics in turn, followed by results of initial  runs, interpretation of those results, and our agenda for further model development.
+Utility maximization and international equity
+Our first major innovation consists of taking parts of the traditional apparatus of economic analysis seriously; its implications for international equity have frequently been ignored. In particular, the optimal level of resource transfers from high-income to developing countries turns out to be quite high. Although limits to these transfers may be politically inevitable,  shows that such limits lead to increased climate risk.
+Defining utility
+, like many IAMs, is an optimization model, designed to calculate the scenarios that maximize a global utility function. No broad philosophical statement about utilitarianism is implied; utility may be interpreted either as a complete measure of human well-being, or as a measure of those aspects of well-being that can be expressed in monetary terms, or simply as a compact expression of a value judgment about the relative weights to assign to differing levels of consumption. The traditional (and eminently reasonable) principle of diminishing marginal utility implies that utility increases with consumption, but at a diminishing rate: u(c), the utility of an individuals consumption of c, is a concave function, i.e. u(c) >  and u(c) < .
+A mathematically convenient function satisfying these conditions is based on constant relative risk aversion: () u(c) = c    for  > ,  = , and u(c) = ln c for = .
+In this equation,  is both a measure of risk aversion, and of inequality aversion:
+: A New Model of Climate and Development 
+ If  = , every dollar of consumption yields equal utility, regardless of who consumes it.
+ If  = , a one per cent increase in consumption yields equal utility for rich and poor alike.
+ If  > , a one per cent increase in consumption yields more utility for the poor than for the rich.
+Most discussion assumes  > ; it can certainly be argued on ethical grounds that  should be greater than  (Dasgupta ). We have assumed  = , so that utility is the logarithm of consumption. This choice is the least egalitarian, in its policy implications, of the commonly used values for . In analyses with , we have found that the optimal solution using logarithmic utility implies rapid equalization of income, more than any leading policy proposals contemplate at present. So a larger value for , tipping the scales even further toward equalization, would not qualitatively change the policy implications of the model.
+More precisely speaking,  determines the level of each regions savings, and the allocation of those savings to investments, that maximize the cumulative present value of population-weighted utility:
+() U = r,t [( + )-t * populationr,t * ln (per capita consumptionr,t) ]
+The summation is taken over the nine regions (indexed by r) and the -year time span (indexed by t) of the model;  is the rate of pure time preference, the appropriate rate to use for discounting utility. Equity implications
+Although equations () and (), and the discussion up to this point, are completely conventional, they have unconventional implications in the context of a highly unequal world economy. Table  presents the baseyear () levels of per capita consumption for the nine regions in .
+Table :
+Per capita consumption, 
+Per capita consumption, 
+( US $ at market exchange rates)
+USA
+,
+Other High Income
+,
+Europe
+,
+Middle East
+,
+latin_america & Caribbean
+,
+Russia & non-EU Eastern Europe
+,
+Africa
+South and Southeast Asia
+ These figures are expressed in market exchange rate terms, not purchasing power parity (PPP). It is difficult to use PPP calculations in a long-term model examining interregional financial flows. Calculations are based on gross domestic product (GDP) per capita, from world_bank GDP and united_nations population data, minus investment as a percent of GDP, from IMF data.
+  
+There is a ratio of  to  between the richest and poorest regions, so the logarithmic utility function implies that $ consumed in the united_states yields the same utility as $ in South Asia. There is also a sharp divide between the three high-income regions and the rest of the world: Per capita consumption in the high-income regions is  to  times as high as in the Middle East or latin_america, the most prosperous of the developing regions.
+The degree of inequality displayed in Table  may seem unusually extreme, for two reasons. First, the table compares per capita consumption, not income. China, for example, has a much higher savings rate than the united_states; the gap between the two countries is larger, therefore, in per capita consumption than in per capita income. Second, the data in the table, and throughout , are expressed at market rates, not in purchasing power parity (PPP) terms. For India, the largest country in the poorest  region, income per capita in  was three times as large in PPP terms as in market prices.
+For those who view the world in PPP terms,  effectively applies a larger value of , implying greater aversion to inequality. If incomes in  were three times as great in PPP terms as at market rates throughout South and Southeast Asia, then in PPP terms, the richest  region would have about  times the per capita consumption of the poorest region. With a : ratio in per capita consumption, CREDs weighting of the two regions (marginal utility is  times as great in the poorest region as in the richest) occurs if  is roughly .. Other interregional comparisons would similarly be consistent with values of  between  and ..
+With the disparities seen in Table , it is not surprising that global utility maximization involves massive resource transfers from high-income to developing regions. Moreover, it should be clear that this is a generic consequence of an inequality-averse (i.e., concave) utility function, not an artifact of specific modelling choices in .
+Why have other integrated assessment models of climate economics failed to identify and emphasize this point? Some, such as PAGE, are not optimization models, and some, such as DICE, do not disaggregate the world into separate regions. Among multi-region optimization models, however, one would expect the redistributive implications of a concave utility function to be inescapable.
+The Negishi solution
+In fact, the use of a concave utility function does promote one form of equity in many IAMsbut it is equity across time, not space. Future generations are typically projected to be richer than the current one, so inter-temporal equity is increased by spending money on the (relatively) poverty-stricken present, rather than investing it for the benefit of our wealthier descendants. The analogous redistribution across space, between rich and poor today, is often blocked by the use of Negishi weights (Stanton ). Negishi () was an economic theorist who outlined a procedure for calculating a solution to complex general equilibrium models, by assuming that everyone had the same marginal utility of consumption. In effect, the Negishi solution suppresses information about inequality in order to find an equilibrium consistent with the existing distribution of income. Negishi weights are widely used in regionally disaggregated IAMs; in the words of one research paper on the subject,
+ Based on data from 
+ The ratio of PPP to market rate income generally declines as incomes rise; in China, where average income is higher than in India, the ratio was about . in . So the comparison of richest to poorest should be the most affected by PPP calculations. (PPP and market rate incomes are equal by definition for the united_states.)
+: A New Model of Climate and Development 
+The Negishi weights ... prevent large capital flows between regions. ... [Although] such capital flows would greatly improve social welfare, without the Negishi weights the problem of climate_change would be drowned by the vastly larger problem of underdevelopment. [Keller and others ]
+In the realm of economic theory and policy, early neoclassical economists such as Alfred Marshall and Arthur Pigou were well aware of the redistributive implications of diminishing marginal utility. As Marshall (, Book III, Chapter VI) put it, A pounds worth of satisfaction to an ordinary poor man is a much greater thing than a pounds worth of satisfaction to an ordinary rich man. On that basis, they advocated what would now be called extensions of the social safety net, or expansion of the welfare state.
+An abrupt break with this style of economics occurred in the s, in what has been called the ordinalist revolution (Cooter and Rappoport ), as Lionel Robbins and others successfully argued against interpersonal comparisons of utility (see Stanton  for a more detailed account).
+The rejection of interpersonal comparisons, however, makes it impossible to calculate an optimal strategy for climate protection, or anything else. The definition of the objective to be maximizedin this case, the global utility functioninevitably depends on comparisons among individuals. Out of computational necessity, IAMs have rolled back the ordinalist revolution to the welfarist economics of Marshall and Pigouand then, perhaps inadvertently, used Negishis technical procedure to block the equity implications of that economics for an unequal world.
+, in contrast, highlights the result that the welfare-maximizing solution to an IAM involves large capital flows between regions. Indeed, CREDs non-Negishi solutions contain important implications for economic development as well as for climate_change, as discussed below.
+Optimization in 
+Optimization, for , means determining the levels of savings and investment, for each region and time period, that maximize global utility. By definition, total global savings are equal to total global investment in every year. (As explained below, optimization also includes a choice between two types of investment, one of which reduces emissions.) To allow for interregional flows of investment, we initially modelled investment through a global pool of funds: All regions savings are pooled, and the model determines where to invest them. This could be viewed as implementing the familiar dictum that efficiency can be separated from equity; the model finds the most efficient way to invest the worlds total savings, regardless of whether it is equitable.
+As discussed in the results section below, complete, unconstrained pooling of investment produces extreme results, allowing high-income consumption levels to fall while dedicating most of the worlds savings to investment in developing regions. This is well outside the realm of realistic policy proposals. To produce solutions with greater policy relevance, we have constrained  to guarantee a (small, but positive) minimum rate of growth in per capita consumption for every region, and to include a limit on the fraction of each regions savings that can be invested outside the region.
+  
+Modelling abatement costs
+Our second major innovation is the treatment of abatement costs, which has three related parts:
+a. Abatement occurs as a result of choosing green rather than standard investment.
+b. Costs of abatement are based on the McKinsey cost curves.
+c. The level of abatement is determined by the carbon price, set separately for high-income coun-
+tries and for the rest of the world.
+Green capital and productivity
+ models two kinds of investment in each region: standard and green investment. The choice between the two is crucial for economic growth and for emission reduction. Standard investment increases the capital stock that is used to produce output, but does not change the emissions intensity of production. Green investment increases the stock of green capital, reducing greenhouse gas emissions.
+The economic impact of green investment is less obvious: Does it produce desirable green jobs, or place a burden on the economy? In more formal terms, what is the productivity ratio for the two kinds of capital, i.e. the productivity of green capital, compared to the productivity of standard capital?
+In some models, such as DICE, money can be spent either on investment that produces output, or on abatement; the latter choice produces nothing of economic value except reduced emissions. This is unrealistic, since investments in energy efficiency and renewable energy clearly do create jobs and incomes. On the other hand, a dollar of green investment does not produce as much economic output and growth as a dollar of standard investment; if it did, the market could solve the climate problem on its own. So the productivity ratio should not be either  or .
+In the absence of systematic evidence, we made the provisional assumption that the productivity ratio is .. To implement this assumption, we defined the aggregate capital stock, used in the Cobb-Douglas production function that determines output, as standard capital plus  per cent of green capital. Both types of capital depreciate at the same rate; depreciation must be replaced by the next periods gross investment.
+Abatement cost curves
+For empirically based, regionally differentiated abatement cost estimates, we relied on recent research by McKinsey & Company , which appears to represent the state of the art in this area.
+Several steps were involved in conversion of the McKinsey cost curves into tractable formulas for use in ; additional details are provided in the appendix. We began with two McKinsey marginal abatement cost curves for each of the nine regions, one for what we called land use sectors (agriculture and forestry) and one for industry (all other sectors). These curves contain an unmanageably large amount of data; some of the individual curves contain several hundred observations. To create a more compact representation, we fitted a simple two-parameter equation to the positive-cost portion of each of the McKinsey curves. The equation, suggested by visual inspection of the McKinsey data, is
+() MC= Aq B q
+ McKinsey Climate Desk, https://solutions.mckinsey.com/climatedesk. We thank McKinsey & Co. for making their data available for our research.
+Figure :
+Marginal abatement costs: South/Southeast Asia Industry
+$ $ $ $
+$ -$ -$ -$ -$ -$
+.
+.
+.
+.
+.
+.
+.
+.
+MC is the marginal cost of abatement, and q is the quantity of abatement. B is the upper limit of feasible abatement, and A is the marginal cost at q = B/. By design, () implies zero marginal cost for zero abatement.
+In the example shown in Figure , the blue line is the negative-cost portion, and the red line is the positive-cost portion, of the McKinsey abatement cost
+: A New Model of Climate and Development 
+Abatement potential,  (GtC)
+curve for industry sectors in South and Southeast Asia. The solid dots are the curve we fitted to the positivecost portion of the McKinsey data; the open dots are the extrapolation of that curve to lower abatement levels. The dashed line is the vertical asymptote, representing the B parameter, or the estimated upper limit of technically feasible abatement for these sectors in . Our fitted curves provide close approximations to the positive-cost McKinsey data, with r above . in  of the  cases, and above . in  of them.
+As Figure  suggests, we assigned positive, but near-zero costs (shown by the open-dot portion of the curve) to the categories of abatement for which McKinsey reports negative costs. This conservative assumption sidesteps any debates about the meaning and the reliability of negative-cost abatement opportunities. In practice, the costs assigned to these measures are so low that the model implements them very quickly.
+Using additional McKinsey data, we estimated the capital requirements for each level of abatement in each sector. McKinseys abatement cost for each measure is roughly equal to annualized capital cost net of fuel savings; for details on the relationship of capital costs to marginal abatement costs, see the appendix.
+Our estimates of B, the technical potential for abatement, were consistently below total emissions for industrial sectors; that is, the McKinsey abatement curves for  appear to turn vertical at a point that falls short of complete de-carbonization. We assumed that technological change will increase B to reach the full extent of each sectors emissions by , making it technically feasible to fully de-carbonize the world economy by that time. After , B is assumed to grow in proportion to regional emissions.
+In land-use sectors, the estimates of B slightly exceed total emissions, implying that a modest amount of net sequestration is achievable. For land-use sectors, B is assumed to be constant, since the potential for abatement is based on land area.
+Marginal abatement cost (US $ / tC)
+  
+Two prices for carbon
+In theory, the model could select the optimal level of abatement separately in each region of the world. It seems likely, however, that there will be a growing role for international carbon markets, implying a degree of coordination in abatement decisions. We assumed that there are two carbon prices: one for high-income regions, and one for the rest of the world. Such a split could occur, for instance, if high-income countries require that a significant fraction of their investments in emission reduction must occur at home. In that case, the price of carbon would be higher in high-income countries, which is routinely the case in  runs.
+The model chooses both carbon prices to optimize abatement. The price of carbon determines the level of abatement in each region: all abatement measures with marginal cost less than or equal to the regions price of carbon are adopted. This results in one pace of abatement in high-income countries and another in developing countries, governed by their respective prices.
+Other modelling choices
+We used the DICE climate sub-model with no change to the structure of the equations. We re-estimated those equations so that they reproduce the results of the MAGICC models WRE scenarios as closely as possible; this led to moderate changes in some of the climate equation parameters (details available on request). We used the MAGICC exogenous forcings for non-CO greenhouse gases.
+We assumed that the climate sensitivitythe temperature increase, in oC, resulting from a doubling of atmospheric CO concentrationsis ., responding to the growing discussion of risks that the formerly standard value of  may be too low.
+We used the structure of the DICE damage function, in which global output net of damages is a function of gross output (prior to climate damages) and temperature T:
+() Net output = Gross output  + k T
+Based on our analysis of potential climate damages in the united_states (Ackerman and Stanton ), we used a value of k roughly double the DICE value. For an argument that the DICE damage estimates should be quadrupled, see Hanemann (). We have argued elsewhere (Ackerman and others ) that larger exponents on temperature should be considered in (), in order to represent risks of more rapidly rising damages. In practice, however, the optimization routine behaves erratically when damages become large or grow too rapidly relative to gross output.
+Regional climate damages are based on the global damages implied by (), multiplied by a regional vulnerability index. That index is based on the fraction of gross domestic product (GDP) originating in agriculture and tourism, the most climate-sensitive industries; the fraction of the population living in coastal areas; and freshwater resources per person.
+ allows modelling subject to climate constraints, expressed as a maximum allowable temperature or CO concentration; however, climate constraints are not used in the results reported here.
+ MAGICC is the emissions model used in the IPCC assessment reports; see cgd.ucar.edu/cas/wigley/magicc.
+: A New Model of Climate and Development 
+Initial results
+Unconstrained results: too much equality?
+CREDs unconstrained optimum scenario portrays a world transformed by the drive toward equality. The high-income regions have very large, sustained increases in savings rates, and invest more than half of their savings in lower-income regions throughout the -year time span of the model. Due to the muchincreased savings, per capita consumption in the high-income regions falls to the level of latin_america or the Middle East, then grows at the same rate as all other regions, roughly . per cent per year. In the base year, the richest region has  times the per capita consumption of the poorest region; this ratio quickly drops to less than . The massive influx of investment funds into low-income regions allows extensive green investment and de-carbonization of the world economy, reducing emissions fast enough to keep temperature increases under oC and atmospheric concentrations of greenhouse gases under  ppm COe.
+This result shows that under CREDs assumptions, the world has sufficient resources to achieve substantial equality, growth, and climate stabilization. Yet the unconstrained scenario implies what would very likely be viewed as politically implausible reductions in high-income living standards.
+In response, we first added the constraint that no regions per capita consumption ever decreases, while still allowing unlimited investment pooling. In this scenario, per capita consumption in the highincome regions is constant for the first  to  years before starting to grow. High-income savings rates, and investment of the savings in other regions, rise steadily but more gradually than in the unconstrained case. The ratio between the richest and poorest regions per capita consumption takes a century to fall below . The peak temperature is just above oC, or .oC more than in the unconstrained case; the peak atmospheric concentration is  ppm COe.
+It seems unrealistic to expect high-income countries to accept two to three generations of absolutely unchanged living standards, while investing heavily in the rest of the world. Therefore, we added the further constraint that every region must have a positive rate of growth in per capita consumption in every period; we settled, arbitrarily, on . per cent per year minimum growth. We also added an upper bound on the fraction of a regions savings that could be invested outside the region; in our work to date, we have used values from zero to  per cent.
+Five scenarios contrasted
+This initial analysis compares five  scenarios, all of which contain the constraints discussed above. One is a business-as-usual (BAU) scenario, with no abatement (green investment) options; the world economy and the associated emissions continue to grow along their current paths, with no investment flows between regions.
+The other four scenarios, in which the model determines the optimal level of abatement, are based on varying:
+ Pure time preference: either . per cent or . per cent per year (the rates used in the Stern Review and the DICE model, respectively);
+ Investment pooling limit, i.e. maximum fraction of a regions savings that can be invested outside the region: either  or  per cent.
+The climate results for these scenarios are shown in Figures  and . Under BAU (the dashed black line), both temperatures and CO concentrations rise steadily, reaching levels widely viewed as dangerous
+  
+within the first century and continuing upward in later years. Among the other four scenarios, the one based on a higher discount rate and no investment pooling (dotted red line) also fails to control the climate and leads to runaway outcomesalbeit somewhat more slowly than under BAU. In the other three scenarios, both temperatures and CO concentrations reach peaks within about a century, and then decline.
+Figure :
+Global Temperature Increase
+Figure :
+Atmospheric CO concentration
+. . . . . . . . . . .
+        
+  
+No Pooling, .% Time Preference % Pool, .% Time Preference BAU
+No Pooling, .% Time Preference % Pool, .% Time Preference
+No Pooling, .% Time Preference % Pool, .% Time Preference BAU
+No Pooling, .% Time Preference % Pool, .% Time Preference
+The growth of per capita consumption in the richest and poorest regions is shown in Figures  and . The scenarios in which  per cent of each regions savings can be invested in other regions (blue lines) have higher incomes in South Asia, but lower incomes in the united_states, than the scenarios with no global pooling of investment (red lines). Both figures have log scales on the vertical axis, so a constant slope represents a constant annual growth rate. Note that both vertical axes span a -torange, but start at different points; this means that slopes on the two graphs are directly comparable, but absolute levels are not. The flatter, first portion of the  per cent pooling scenarios (blue lines) for the united_states represent growth at . per cent per year, the minimum growth constraint in .
+Using either savings assumption, a change in the discount rate (solid versus dotted line of the same colour) makes almost no difference to the growth of consumption. For each region, the BAU scenario is, coincidentally, roughly equivalent to the less attractive savings option in terms of consumption growth.
+Degrees C above 
+ppm
+Figure :
+Consumption per capita: USA
+Figure :
+Consumption per capita: South/Southeast Asia
+,,
+,
+,
+,
+,
+,
+    
+No Pooling, .% Time Preference No Pooling, .% Time Preference
+: A New Model of Climate and Development
+BAU
+No Pooling, .% Time Preference
+% Pool, .% Time Preference
+No Pooling, .% Time Preference % Pool, .% Time Preference
+BAU
+No Pooling, .% Time Preference % Pool, .% Time Preference
+The ratio of consumption per capita in the richest versus poorest regionsthat is, the ratio of Figure  to Figure is shown in Figure . The ratio begins at ; under the scenarios with no pooling of investment, it is close to the same value  years later. With  per cent pooling, on the other hand, the ratio drops quickly to , and eventually to about . This is not as egalitarian as the unconstrained scenario, where the same ratio falls below ; it is, however, a major step toward equity among regions.
+Figure :
+Consumption per capita ratio, USA/South Asia
+BAU
+No Pooling, .% Time Preference
+% Pool, .% Time Preference No Pooling, .% Time Preference % Pool, .% Time Preference
+A final pair of graphs presents the carbon emissions from the high-income regions combined, and from the developing regions combined. Note that the vertical scales are identical on both graphs. Figure  shows that, under all four scenarios
+  
+(excluding BAU), emissions from high-income countries are declining within a few decades, and eliminated within a century. Significant differences in emissions trajectories are confined to developing countries, as seen in Figure .
+ Although  scenarios span  years, we report outcomes for only  years to avoid end effects. Economic decisions with long-term consequences cannot be modeled correctly in the final time periods of a finite-horizon model.
+Consumption per capita ratio  $ per capita
+ $ per capita
+  
+Figure :
+High-Income Country Emissions
+     
+     
+     
+     
+     
+     
+     
+Figure :
+Developing Country Emissions
+ -
+    
+% Pool, .% Time Preference % Pool, .% Time Preference No Pooling, .% Time Preference No Pooling, .% Time Preference
+% Pool, .% Time Preference % Pool, .% Time Preference No Pooling, .% Time Preference No Pooling, .% Time Preference
+With either savings assumption, a lower discount rate leads to more rapid reduction in developing country emissions (compare the solid line to the dotted line, of either color), a result that is consistent with many other analyses. With  per cent pooling of global savings (blue lines), developing country emissions are eliminated within a century; the discount rate has a marked effect on the time path of emissions, and hence on the area under the curve, or cumulative emissions. Negative net emissions in the second century are a result of the complete de-carbonization of industry sectors, combined with net sequestration in land-use sectors.
+With no pooling of global savings (red lines), the discount rate is decisive: At a low discount rate, developing countries will invest in enough abatement to bring their emissions under control; at a higher discount rate, they will not. The no-pooling, high-discount-rate scenario (dotted red line) represents a failure to control climate_change, as seen in Figures  and  as well as Figure .
+The bottom line for this set of  scenarios is that climate stabilization requires either a low discount rate, or significant transfers of investment funds from high-income to developing countriesor, of course, both.
+Interpretation
+The pattern of results seen in the preceding section is a logical consequence of CREDs concave utility function. In each region and time period, the model allocates resources between current consumption and emission abatement, in whatever manner maximizes global utility. The costs of abatement, based on the McKinsey cost curves, vary somewhat between regions, but not by nearly as much as the initial differences in per capita consumption. So in simplified, schematic terms,  could be viewed as setting priorities among three competing uses: high-income consumption, developing-country consumption, and abatement.
+The least efficient way to increase global utility is to raise consumption in high-income countries, since their marginal utility is already low. The model is willing to trade reductions in high-income consumption for increases in either of the competing uses. This is why all (non-BAU) scenarios show that the optimal
+Gt C / year
+Gt C / year
+: A New Model of Climate and Development 
+path includes fairly rapid elimination of high-income emissions: Reductions in these emissions produce worldwide benefits, which can be bought with resources that were yielding little utilitythat is, they can be bought by marginal reductions in high-income consumption.
+The analogous trade-off looks less attractive in developing countries. If they finance their own emission reductions, they are buying long-run, worldwide benefits with resources that would otherwise be yielding high utilitythat is, they would have to reduce low-income consumption. At a sufficiently low discount rate, it is still worthwhile to make this trade. At the discount rates recommended by many economists, however, developing countries will come to the opposite conclusion, and will not pay for enough abatement on their own to control their emissions.
+If even a fraction of high-income savings are available for investment in developing countries, then the problem can be solved: Developing-country emissions can be reduced by spending low-utility resourcesthat is, high-income savingson abatement (and at the same time spending some of those resources on developing-country economic growth). This looks attractive across a broader range of discount rates, similar to abatement in high-income countries.
+In short, high-income countries that care about climate_change should either plan to make largescale investments in abatement in developing countries, or they should hope that developing countries believe the Stern Review, rather than more conservative economic analyses, about the appropriate discount rate for climate policy.
+The unconstrained optimum solution to  projects that the world has ample resources to stabilize the climate and to promote equitable long-run growth. This scenario has the best climate outcomes of any we have examined (peak temperature increase below oC, peak atmospheric concentration below  ppm of CO), but is not politically credible because it would be so clearly unacceptable to high-income regions. Among the constrained scenarios which we examined in more detail, temperatures rise by as much as oC, and atmospheric concentrations exceed  ppm of CO, before declining (see Figures  and ).
+The climate policy problem, as seen by , could be framed as a pair of questions: How far we can we afford to deviate from the unconstrained optimum and still stabilize the climate? And, how far are we compelled to deviate from the optimum in order to win support for climate policy in high-income countries? There is a strong hope, but no guarantee, that the two answers overlap.
+Model development: An unfinished agenda
+Our agenda for development of the  model is far from finished. This final section suggests some of the principal features we hope to add to  in the future.
+We want to develop more realistic estimates of climate damages, including uncertain, catastrophic risks as well as expected damages. This could take the form of disaggregated, regional empirical estimates; or a different functional form for the aggregate damage function (as explored in Ackerman and others ); or temperature-dependent, probabilistic modelling as in PAGEor a combination of these approaches.
+We also want to add a more sophisticated treatment of technological change.  rests on the empirical basis of the McKinsey cost curves, but extrapolates them forward at an exogenous rate, reaching the potential for full abatement a century from now. Ideally, the pace of technological change, and the cost
+  
+of abatement, should be endogenous, influenced by past investment decisions. While clearly appropriate in theory, incorporation of endogenous technical change raises significant challenges in model design.
+We have already received requests for downscaling  to smaller regions, or even individual countries. Some of the nine  regions are extremely heterogeneousperhaps most dramatically, South/ Southeast Asia and Europe. Questions of equity, costs, and burden sharing arise within our current regions, as well as between them, and the same  framework can be applied at a more fine-grained resolution.
+Ours is not the only methodology for analyzing questions of global equity and climate policy. We are interested in comparing and integrating our approach with others, such as the greenhouse development rights framework, a well-known approach that raises similar questions of equity and cost-sharing for climate mitigation (Baer and others ).
+Finally, the purpose of a model like  is to engage with policy debates and policy-making processes. We plan to model more realistic, detailed policy scenarios, to assess the impacts of major proposals for a new climate agreement.
+Appendix:  .  Model description in brief
+This is a brief, technical outline of the structure of version . of the Climate and the Regional Economics of Development () model.  is an integrated assessment model, projecting global climate and development scenarios at -year intervals over a  year time span, starting from a  base year.
+ equations are programmed in GAMS (General Algebraic Modelling System), a high-level language used for complex economic and engineering applications that require mathematical optimization. The  user interface in MS Excel  gathers and configures scenarios from the background dataset, model assumptions and parameters and other selections; runs the model and its optimization; and writes the solutions results, including a comprehensive package of pre-formatted tables and charts, to another Excel workbook.
+Regions
+There are
+        
+  
+nine regions of the world in , three high-income and six developing ones:
+united_states
+Europe (EU-, Norway, Switzerland, Iceland, and Turkey)
+Other high-income (Japan, South Korea, Canada, Australia, New Zealand)
+latin_america and the Caribbean
+Middle East (excludes North Africa)
+Russia and non-EU Eastern Europe (European ex-USSR, ex-Yugoslavia, and Albania) Africa (includes North Africa)
+China
+South and Southeast Asia (includes Asian ex-USSR and Pacific)
+Regional boundaries were defined in part to ensure compatibility with McKinsey data. Europe, in , includes all of the EU-, plus Norway, Switzerland, Iceland, and Turkey.
+Earlier versions were used solely in the internal development process; this is the first public report on the model. Calculations are performed for  years; the last  years are then discarded, to avoid end effects.
+
+: A New Model of Climate and Development 
+Regional boundaries were defined in part to ensure compatibility with McKinsey abatement cost data. For example, Turkey is in Europe, while North Africa and the Middle Easttreated as one region in many modelsare in separate regions.
+Regional data is aggregated from individual country data from major international data sources. All monetary amounts are in  US dollars, at market exchange rates, not in purchasing power parity terms. Population is based on the UN median forecast through , and assumed constant in each region thereafter.
+Climate module
+ uses the DICE equations for climate dynamics, based on a three-compartment model (atmosphere, shallow oceans, and deep oceans) with separate carbon concentrations and transition probabilities for movement between them. The climate module was calibrated to reproduce the results of the MAGICC model for the five WRE scenarios (WRE  through ); this required modest but significant changes in the DICE parameters.
+In effect, we are using a reduced-form approximation of MAGICC, which yields very close agreement with MAGICC across a range of scenarios. We also adopted the MAGICC exogenous estimates of non-CO forcings, rather than DICEs piecewise linear formula (Figure A). The inputs to the climate module are current global emissions and non-CO forcings, previous temperature, and previous concentrations of carbon dioxide in the three compartments. The outputs are current temperature and concentrations.
+Figure A:
+ vs DICE non-CO Forcings
+. . . . . . .
+Economy module
+For the climate sensitivity parameter the temperature increase, in degrees Celsius, resulting from a doubling of atmospheric CO concentrationsCRED uses a default of ., reflecting the growing concern that the oncecommon value of . may be too low in light of recent evidence and analysis.
+An optional climate constraint can be applied to enforce an upper bound on the global atmospheric temperature increase, or alternatively an upper bound on the concentration of CO in the atmosphere, starting at a selected future date.
+-.
+   
+   (MAGICC) DICE
+ uses a Cobb-Douglas production function for each region, with a capital exponent of . (the most common value in the literature):
+(A) Output(t, r) = TFP(t, r) * Capital(t, r). * Labor(t, r).
+ The Model for the Assessment of Greenhouse-gas Induced climate_change (MAGICC), cgd.ucar.edu/cas/ wigley/magicc.
+ The WRE scenarios are carbon dioxide stabilization pathways defined by Wigley et al. () that assume changes to global emissions needed to achieve stabilization of CO concentrations at , , , , and  parts per million (ppm).
+W/m^
+  
+Here and later, r is region and t is time. TFP is a region-specific estimate of total factor productivity; it grows at a constant rate of  per cent per year in each region. Labour is represented by population (in effect, assuming constant labour force participation rates over the long run). Capital, in (A), combines standard and green investments, where the latter is investment in mitigation (discussed below):
+(A) Capital = Standard capital + s * Green capital
+DICE and many other models assume that investment in mitigation does not enter into the production function, in effect assuming s =  in (A). This is unrealistic, as the green jobs discourse makes clear. However, it would also be unrealistic to assume that green capital was just as productive of income as standard capital; if that were the case, there would be a trivial win-win solution to the climate problem, and markets would simply carry out the needed investments in mitigation on their own. Thus s =  is also unrealistic. Lacking an empirical basis for an estimate,  assumes s = .. In other words, mitigation investment is half as productive of income as standard investment.
+Both standard and green capital depreciate at the same rate,  per cent per year, compounded over the ten-year time periods of the model:
+(A) Capital(t) = (depreciation) * Capital(t-)
+A minimum rate of growth of per capita consumption applies across all regions and all time periods; the default value is . per cent per year.
+An optional development constraint can be applied to enforce a lower bound on all regions per capita consumption, starting at a selected future date.
+The savings rate and the allocation of savings for each region are chosen in the optimization process, described below.
+Climate damages
+For global damages,  uses the equation
+(A) Output net of damages(t) = Gross output(t) / [ + k * Temperature(t)]
+Temperature is measured in degrees Celsius above the  level. Gross output in (A) is the global total of output calculated in (A). A quadratic function of temperature is used despite the arguments we have made elsewhere for a higher exponent (Ackerman and others ); our initial experiments with a higher exponent found that optimization becomes problematical when rapid surges in damages are allowed.
+Global damages, as a per cent of output, are multiplied by a regional vulnerability index to yield regional damages as a percentage of regional output. The regional vulnerability index is based on the proportion of GDP in agriculture and tourism, two of the most climate-sensitive industries; the fraction of the population living in coastal areas; and freshwater resources per person. The vulnerability index is scaled so that regional damages sum to global damages. The index is assumed to be constant over time.
+Regional output net of damages is regional gross output minus regional damages. Output net of damages is the total available for savings and consumption.
+: A New Model of Climate and Development 
+Emissions and Mitigation
+Emissions are calculated on a gross basis, prior to abatement; then abatement is calculated and subtracted from gross emissions. ( has the capacity to model emissions of several greenhouse gases, but version . only models CO, and uses the MAGICC exogenous forcings for all other greenhouse gases.) Gross emissions in all sectors except land-use changes are assumed to be proportional to output; the base year () emissions intensity for each region is calculated from historical data. Thereafter, emissions intensity (E-intensity, the ratio of gross emissions to output) is assumed to decline slowly as per capita output (pc-output) rises:
+(A) E-intensity(t, r) = E-intensity(, r) / [pc-output(t, r) / pc-output(, r)].
+(A) CO-emissions(t, r) =
+E-intensity(t, r) * Output(t, r) + LandUse-CarbonFlux(r) Abatement(t, r)
+Emissions (carbon flux) from land-use changes are assumed to be constant over time at the  level.
+Abatement is set to zero by definition in ; calculations for later years represent incremental abatement beyond practices prevailing in . Abatement costs and potential for each region are based on the McKinsey cost curves, modified for use in .
+McKinsey data for each region, downloaded from the McKinsey Climate Desk, were divided into agriculture and forestry (land-use for short), versus all other sectors (industry). We performed parallel analyses on each of the  sets of data (land-use and industry sectors, for each of  regions). As in the familiar McKinsey cost curves, we graphed cumulative abatement on the horizontal axis, versus marginal cost per ton of abatement on the vertical axis, arranging the measures in order of increasing marginal cost. Although each set of data includes significant negative-cost abatement opportunities, we did not model these potential cost savings, due to the continuing controversies about the meaning of negative-cost opportunities. Instead, we estimated a curve that goes through the origin (i.e., a marginal cost of zero at zero abatement), and fits as closely as possible to the positive-cost portion of each empirical curve.
+We obtained good approximations to each of the  data sets with a curve of the form (A) Marginal cost (q) = A * q / (B  q)
+Here q is the cumulative quantity of abatement. B is the upper limit on feasible abatement; the cost curve turns increasingly vertical as q approaches B (a pattern that fits well to the McKinsey data). A is the marginal cost at q = B/. We extrapolated this fitted curve across the negative-cost measures in the McKinsey data, which amounts to assuming that those measures have near-zero, but positive marginal costs.
+Equation (A) can be inverted, to solve for the quantity of abatement available at a marginal cost less than or equal to a carbon price p:
+(A) q = B * p / (A + p)
+ The fitted curves over the positive-cost McKinsey data have r values above . in all but  of the  curves and above . in  of them.
+  
+The McKinsey data separately provide estimates of the capital costs associated with each abatement measure; the marginal cost in (A) is typically the annualized capital cost minus the fuel savings from abatement. To smooth the somewhat noisy capital cost data, we modelled the cumulative capital cost required (in each of the  cases) to reach abatement level q; this can be well approximated by a quadratic
+(A) Cumulative abatement capital cost (q) = E * q + F * q
+With estimated values of A, B, E, and F for each of the  data sets, (A) yields the amount of abatement occurring at a given carbon price, and (A) yields the total green capital needed to achieve that level of abatement. The required new investment in each period is the difference between the abatement capital cost, from (A), and the existing green capital, after depreciation, remaining from the previous time period.
+(A) AbateInvestment(t, r) = CumulativeAbateCapitalCost(t, r) 
+(depreciation) * CumulativeAbateCapitalCost(t-,r)
+In the land-use sectors, we assume that emissions and mitigation potential are proportional to land area, and hence constant over time. Therefore, A, B, E, and F are also constant over time for land-use sectors. The McKinsey estimates for land-use mitigation potential exceed the base year land-use emissions; this gives rise to a small ongoing potential for negative emissions, or net sequestration, the only such potential in .
+For the industry sectors, note that the estimated values of B, setting upper bounds on mitigation, were developed using McKinsey data for . We first scale them back to the  base year, dividing by the growth in business-as-usual (unabated) emissions in each region between  and . The values of B are well below total industrial emissions in most cases. We assume that technological progress raising the value of B will occur uniformly throughout the models first century, such that  per cent abatement of industrial emissions becomes possible in each region in . After that time, B grows in proportion to the regional economy.
+Optimization: solving the model
+ is an optimization model in which the GAMS non-linear solver explores values of decision variables across time periods and regions to determine the optimum values that maximize a global utility function U. The  decision variables, subject to the constraints discussed below, are
+ the two carbon prices in each time period, one for high-income regions and one for the rest of the world;
+ the savings rate in each region and time period; and
+ the uses of those savings either standard or green investment, and when permitted, in any region of the world.
+ For measures where McKinsey reported a positive marginal abatement cost but no capital cost, we assumed that the marginal abatement cost was the annualized capital cost, using a  per cent cost of capital and  year lifetime; this implies a capital cost of roughly  times the marginal abatement cost.
+ The fits for the capital cost curves had r values above . in all  cases, with  of them above ..
+ To keep capital costs tied to the expanding marginal cost curve in a natural manner, we let F decline such that the product B * F remains constant. A and E are held constant in all cases.
+  uses the CONOPT non-linear optimization solver, one of several offered by GAMS.
+Both carbon prices are constrained to be non-decreasing over time. As noted above, per capita consumption is constrained to grow at 0.5 per cent or more per year, in every region, throughout the time span of the model. The utility function CRED seeks to maximize is the cumulative present value, or discounted sum, of the logarithms of per capita consumption, weighted by population: (A11) U = ?r,t[ population(t, r) * ln (pc-consumption(t, r) ) ] / (1 + ?) t The summation is over all regions and years; ? is the rate of pure time preference, used for discounting utility. The default value of ? in CRED is 0.1 per cent per year, the same as in the Stern Review (Stern 2006).18 Global pooling of investments is a key option in CRED. When inactive (no global pooling), each region must provide all the savings necessary for its own abatement and economic growth (its green and standard investments, respectively). In this case, savings must equal total investment for each region in each time period. When global pooling of investments is allowed, a specified fraction of each regionis savings can be used outside the region; the location as well as the type of investment becomes a decision variable for the solver. In this case, global savings must equal global total investment for each time period.

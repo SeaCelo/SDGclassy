@@ -1,0 +1,509 @@
+Assessing the success of microinsurance programmes in meeting the insurance needs of the poor
+. Introduction
+Risk and vulnerability to risk are fundamental causes of underdevelopment (world_bank , Dercon , Islam ). Shocks, in the shape of sudden misfortunes causing a loss of income and productive potential, typically force poor people exposed to them to dispose of productive assets, which may force them into lower productivity, lower income, and higher vulnerability in the future a process known as the poverty-vulnerability vicious circle. In addition, the expectation of such shocks motivates the vulnerable to invest their resources in low-yield activities, such as production of drought-resistant subsistence crops, to protect themselves against those shocks, and thus depresses the potential income of the poor below what it would be if they were not exposed to shocks. For both reasons, the costs of risk to the livelihoods of poor people are severe. Stefan Dercon, in his survey of income shocks suffered by individuals covered by the Ethiopian Rural Household Survey between  and , estimates that if these shocks had been insured and smoothed, poverty would have been lower by about a third (Dercon , p. ). The specific shock of the Ethiopian drought of  is estimated to have pushed one million additional people below the poverty line into destitution (Hess, Wiseman and Robertson , page ). And drought is only one of the many sources of vulnerability which poor people encounter.
+Insurance, potentially, is one of the basic institutions which can provide a defence against social and financial exclusion for people whose existing coping strategies are failing. And if peoples livelihoods are effectively protected, that should encourage investment among lower-income groups and raise overall investment and growth rates. And yet, as the  World Development Report on poverty puts it, there are almost no insurance markets in developing countries because of problems of contract enforcement and asymmetric information (world_bank , ). Slightly over the top though this description of the situation is, there is no doubt that the provision of one of the potentially most poverty-reducing services is seriously deficient especially at the bottom end of the market where risk-coping capacity is at its worst. Thus the spotlight is thrown on what the microfinance movement, so dynamic in other parts of the financial spectrum, is able to do to redeem this deficiency. In this paper, we examine what this contribution might be, and how its effectiveness might be optimised in the light of experiments with insurance for the poor so far.
+Insurance, everywhere, is traded in a highly imperfect market. The research which has been done on microfinance customers expressed need for risk management and insurance services (Alderman and Paxson , world_bank : Chapter , Sebstad and Cohen ) suggests a substantial thwarted demand for insurance services, a demand which probably increases in intensity as one moves down the income scale, and substantial use of informal emergency loans, rotating savings and credit associations and other insurance-
+ This paper was prepared as a contribution to the united_nations wess  . Many thanks to Nazrul Islam, David Hulme, Paul Siegel, Joanna Syroka, an anonymous reviewer, and participants at the Helsinki Conference on Fragile States in June  for comments on an earlier draft.
+  
+substitutes. A component of this repressed demand appears to be gender-specific: as Elson argues (, p. ) in general, risk-reducing mechanisms have been much more a feature of male forms of market participation such mechanisms include trade unions, job security rights, social insurance benefit, business and professional associations. But for all poor people, information asymmetries are extremely serious, with very many people on the demand side of the insurance market quite unaware not only of the quality of the product they are buying, but even of its nature. Finally, we may note, and it is a key theme of this paper, that much of the benefit from insuranceand therefore the demand for itcomes from persons other than those who buy the insurance contract. This is not only because the reduction of poverty and inequality is a public good, benefiting the community as a whole. It is also because insurance, if it works, stabilises income and thus saves financial institutions the costs of chasing unpaid loans; protects human capital by enabling households hit by a shock to continue to make school fee payments and seek medical treatment for their families; and protects social capital by preventing groups of all kinds (including families) from breaking up because one of their number has a debt which is unpaid as the consequence of an insurable shock. This combination of externality and hidden information creates a compelling case for external agency to fill the gaps in financial markets referred to above.
+External agency has indeed entered the market for risks to low-income people in the past, often in the form of crop yield guarantee schemes for smallholders. The results have often, however, been disastrous, which explains much of the scepticism still currently expressed towards microinsurance. A review from the s (Hazell, Pomareda and Valdes : chapter ) reported that multiple-hazard insurance has proved costly, and governments would be well advised to stop and look carefully before entering this market. The message from these studies is of course not that the demand for insurance is not there, but rather that the supply side needs reconfiguring. The lessons usually drawn (e.g. Hazell, Pomareda and Valdes ibid. ; Hazell ) have been that the supply should be of insurance against one insurable hazard only, such as hail, death of the insured, or burglary; that it should be protected against the moral hazard and adverse selection problems which render insurance so vulnerable to financial collapse; and that the provision of insurance should move from the state to the private sector or an NGO.
+ Elson continues: Labour market institutions have typically been constructed on the assumption that women employees were secondary earners who could draw upon the assets and earnings of men (male partners, husbands, fathers, brothers etc) to cushion them against risk. That is, labour market institutions have assumed that men have extended entitlements which do not have the force of law, but are sanctioned by accepted norms about what is a legitimate claim. women very act of participating in the labour market, however, may weaken their extended entitlements, if it involves stepping outside what have been accepted as the normal roles for women. The possibility of earning an income of their own may empower them to take more decision about their own livesbut it may also cut them off from support by male kin, leaving them on their own, and newly vulnerable to market forces.
+ As one SEWA loan supervisor explained, They put money in, as with savings, so they do not understand when they cannot draw out the whole of the money they have put in whenever they want... so they ask for their money back, and they are surprised when in the early days of the insurance contact it is less than they put in. (interview,  April ). This kind of unawareness is not confined to India, or to developing countries.
+ As McCord comments (, p. ), Illness often creates a downward financial spiral in a household where ineffective measures are used and paid for until the illness becomes a crisis and the patient requires hospitalisation. With hospitalisation, the patient then needs continuous care, usually by the mother/wife/daughter. The family experiences a liquidation of available resources, climbing debt and a reduced ability to earn money since the woman is not at her business. Business assets are then sold to generate the needed funds to pay the medical bills. This cycle often returns improving households to poverty...
+ State-financed agricultural insurance schemes have operated at a large loss in the united_states, India, the Philippines, Brazil and Mexico (leading to the closure of the insurer in the last three cases; Mosley and Krishnamurthy ()). Often this has been because they insure against deficient crop yield or even deficient crop income thereby inviting moral hazard and deficient husbandry.
+Assessing the success of microinsurance programmes ... 
+What has actually emerged in developing countries after that first wave of failure is the cluster of activities known as microinsurance, within which agriculture and insurance against climatic risk currently play a lagging role, and the leading role is played by life and health insurance. Microinsurance has been defined by Churchill as the protection of low-income people against specific perils in exchange for regu-
+lar premium payments proportionate to the likelihood and risk of cost involved (Churchill , p. ). The microinsurance movement has, essentially, three components, each of which springs from a distinctive historical root. The first is experimental schemes set up by NGOs (or, uncommonly these days, the state) to insure against single perils such as property, health and life insurance risks; the scheme operated by FINCA Uganda, to be discussed below, is a good example of these. These attempt to draw on the lessons from the failure of multiple-risk schemes, and aim at financial sustainability over the medium term; often they are connected with micro-lending operations, and originate in emergency fund life insurance schemes which repay the outstanding balance of a loan in the event that the borrower dies . The second strand is profitmaking schemes set up by the private sector (Gono Bima of Bangladesh is one of the largest examples), not specifically to cater for the bottom end of the market, but willing to offer small insurance contracts (especially to cover personal effects, etc.) to low-income borrowers; these derive essentially from a movement downmarket by commercial insurance businesses observing the profits to be made out of microfinance. The third strand, which overlaps with the first, is schemes operated by not-for-profit organisations which explicitly on behalf of disadvantaged groups insure a range of social functions, generally beginning with family health but often extending into a range of personal asset insurances. One of the oldest and most famous of these, for exampleSEWA of north-western Indiais also a registered trade union, and has aimed since the s to provide work and income security, food security and social security (Sinha , p. xi); and to supply many of the functions of social protection conventionally supplied by the welfare state in industrialised countries. As a women organisation, it addresses the asymmetry of risk between men and women described by Elson. A similar gender bias characterises the Grameen Kalyan (Grameen Welfare Organisation) established in  to handle the health insurance business of the Grameen Bank, arising from the realisation that illness was the major reason for % of our defaults (Daiyan , p. ). Other schemes of this type, such as BRACs rural health scheme, are less strongly focussed on women clients, but share the same social objectives. The crux is however that at least in this third sector of microinsurance what is going on is not at all a neo-liberal retreat, but rather an expansion into areas of social protection not covered by conventional loan-based microfinance. Indeed, rather than the private sector expanding at the expense of the public, the NGO sector is expanding at the expense of bothmotivated both by the potential synergies between different elements in microfinance programmes, and by the deficiencies in developing-country social protection systems . We discuss the synergies in detail in Appendix , pages below, and the overall social protection dimension of microinsurance is covered in more detail in Chapter  of Mosley ().
+Illustrations of the distribution of microinsurance institutions by region and type are provided in Table . As discussed by Brown and Churchill () and by Churchill (), progress during the recent phase of microinsurance development has been most marked in the fields of life and health insurance, with agricultural and climatic risks a long way down the list. This ordering, and in particular the salience of health, only in a limited way reflects the ordering of specific risks by the respondents to the  World
+ An example is the original emergency fund of the Grameen Bank of Bangladesh, which since inception in  has imposed a surcharge of % on the standard interest rateessentially a life insurance premium as a contribution to an emergency fund which pays out only in the event of the members death. (The Grameen Health Insurance Scheme is a separate operation developed much later, in .)
+ For more illustrations of this social welfare and employment protection model of microinsurance, fromAsia, latin_america and Africa, see Lund and Srinivas ().
+  
+Table . Classification of microinsurance organisations
+(Number of persons covered in  in brackets)
+Group  Not-for-profit, single risk
+Group  Not-for-profit, multiple risk
+Group  Private sector for-profit
+Asia
+Life
+Grameen Life, Bangladesh(,)
+Health
+BRAC Health, Bangladesh(,)
+ASA, Bangladesh(,)
+Society for Social Services, Bangladesh, (,)
+Mutuelles de sante
+(francophone West Africa)
+Climatic/agricultural BASIX Agricultural, India(c.)
+VimoSEWA, India(,)
+Groupe de Recherche et dEchanges technologiques (GRET), Cambodia
+Gono Bima, Bangladesh National Life, Bangladesh latin_america
+IPTK, Bolivia
+Seguro Basico de Salud, Bolivia
+Servi Peru(,)
+COLUMNA de Seguros, Guatemala (,)
+La Equidad Seguros, Colombia(,)
+Africa
+Health
+FINCA Health, Uganda
+Christian Enterprise Trust (CETZAM), Zambia
+Bima ya Afya, Tanzania Climatic/agricultural
+Centenary Rural Development Bank weather insurance, Uganda(in preparation)
+world_bank Ethiopia schemes (pilots) ()
+world_bank Malawi scheme(pilot) ()
+Elsewhere
+TUW SKOK (Poland)
+Development Report. Notable among the differences is the deficiency in insurance schemes to cover drought and flood risks, mentioned by Dercon (  ) as the most severe risk by low income Ethiopian rural people. In addition, the supply of insurance schemes, relative to their demand, to cover against damage to and theft of assets (e.g. livestock, equipment, local infrastructural assets), can be considered to be deficient especially in poor developing countries. A major theme of this paper will be that the current supply of microinsurance does not meet the demand from the poorest people, and to ask what can be done to right the balance.
+ Of  (mostly urban) Bolivian microfinance clients asked What do you perceive as the main risk to your livelihood? in  and ,  (%) mentioned health and accidents (%) mentioned competition and market collapse, and (%) mentioned crime and theft. See Mosley (b): table , p.. By contrast, in rural Ethiopia health problems were the third most salient risk (at % of households affected) after harvest failure (%)and policy problems such as resettlement or taxation(%). After this came oxen problems(%), land problems(%) asset losses(%) and war/civil disturbance risks(%). See Dercon and Krishnan (: Table )
+Assessing the success of microinsurance programmes ... 
+Our task in this paper is, therefore, to examine how well, in the light of the experience so far, the sector is reconciling the requirements of viability and poverty reduction, and where possible to make proposals for how this could be done better. In section  we initially examine design issues at the level of risks to cover, and then propose a formula for setting the insurance premium. In section  we examine the performance of some microinsurance schemes to date, and present a small selection of some quantitative impact assessment results. In section  we consider whether the insurance function can be performed by what we call quasi-insurance, or close substitutes for insurance, rather than by insurance proper. The concluding Section  presents a map of tentative policy recommendations.
+. Basic principles: organisation, pricing and incentives
+(i) Underlying principles
+Our approach, following Siegel et al. () is that microinsurance should be seen as one possible instrument of social risk management, i.e. the control of risk in the interests of low-income people. In other words, it is one possible instrument of risk management which may be useful and practicable in some contexts and places, but not in others. In determining whether insurance is to be the selected instrument for the control of risk, it is important to acknowledge that the effectiveness of any risk management instrument depends on the nature of risks, household and group characteristics and dynamics, and the availability of alternative risk management options. It is possible to distinguish between risk anticipation, risk mitigation and risk-coping strategies: the many possible varieties of insurance mechanisms (listed in bold in the table) are just one possible strategy for the mitigation of risk, which is just one of three different options for risk management. Some of these alternative risk management options are illustrated in Table .
+In this paper, we are interested in the links between the approaches to risk defined in the three parts of the table (risk-anticipating, risk-mitigating and risk-coping strategies), and especially interested in the comparative advantage, or otherwise, of insurance, within the category of risk-mitigating strategies. It has often been noted that microfinance institutions which offer some insurance function (savings, or insurance,
+or emergency loans) within their portfolio are more effective both in cost recovery and in downreach to the poorest than institutions which do not ( see for example, Hulme and Mosley , table .; also Hulme and Mosley ), but the question of whether the insurance component should be supplied by microinsurance has not been researched. Indeed, in the known cases where a breakthrough has been made to incorporate extremely poor people previously out of reach of financial services, of which the classic example is the IGVGD schemes of BRAC, Bangladesh, this has not been achieved by microinsurance as such, but rather by the provision of micro-savings and food aid in kind, both of which make feasible, for some clients, a low-risk transition from the relatively non-risky environment of the subsistence economy to the risky environment of the cash economy (Matin and Hulme ; Halder and Mosley ). All of this forces us to consider both the question of how microinsurance institutions can make this transition possible, and how non-microinsurance institutions can best fulfil a risk mitigation function. After a discussion of microinsurance proper through the remainder of sections  and , we then return to the second question in section .
+(ii) Coverage and incentives
+If risk mitigation is the chosen instrument of risk management, and insurance is the chosen instrument of risk mitigation, then in order to reconcile the objectives of viability and poverty reduction, the hurdles which have to be overcome are the following:
+  
+Table . Instruments available for rural households to manage risk
+Micro(household level)
+Meso(community level)
+Macro(extra-community level)
+Risk anticipation
+Investment to protect, maintain and enhance assets
+Adopt new technology
+Adjust asset portfolio and income-generating activities
+Permanent migration
+Investments in physical and social infrastructure
+Social ties and networks
+Participation in community institutions and decisionmaking
+Rights and security
+Information on risk and risk reduction
+Rules and regulations
+Guaranteed rights and security
+Stable macro-economy, policy regime, and political system
+Functioning markets
+Investments in public goods, physical and social infrastructure
+Risk mitigation
+Asset portfolio management
+Adjust asset portfolio and income-generating activities
+Hold financial or nonfinancial assets (eg. livestock, food stocks, jewellery) for precautionary savings
+Seasonal migration
+Markets for household assets
+Physical and social infrastructure
+Markets for household assets
+Market information
+Investments in physical and social infrastructure
+Insurance
+Formal insurance
+Informal insurance based on intra-household social capital claims
+Interlinked contracts
+Informal insurance based on community social capital claims
+Formal community insurance pooling associations
+Formal insurance, private and public sector, and international organisations (e.g. crop insurance, health insurance)
+Disaster aid funds
+Finance
+Formal and informal credit Interlinked contracts
+Community credit unions and savings clubs, and banks for other asset stocks
+Financial systems, national and international
+Inter-community credit associations and banks for other stocks
+Risk coping
+Draw down assets (e.g. skip meals, mine soil, not pay school fees).
+Use underemployed assets (e.g. off farm employment, child labour)
+Sell assetsEncroach on assets of others
+Illegal activities
+Formal and informal credit Depend on charity
+Draw down community assets (e.g. reduce maintenance, harvest or mine natural resources)
+Depend on charity or aid from outside community
+Targeted safety nets (transfers, public works)  cf IGVGD Bangladesh
+Social investment projects (eg social funds)
+Depend on charity or aid from national or international organisations
+International food aid Donor assistance
+Assessing the success of microinsurance programmes ... 
+Moral hazardthe tendency for the existence of insurance to create perverse incentives to claim spuriously and behave carelessly, causing resource costs which may wipe out the benefits of insurance.
+Adverse selectionthe tendency for the demand for insurance to concentrate among the worst risks.
+Effective targetingthe possibility that poor clients may not opt, or be able to opt, for insurance. Administrative costthe risk that the overcoming of all the above problems may bankrupt the insurer.
+As mentioned earlier, the current generation of microinsurance institutions has been engaged in a strenuous process of learning from the failures of previous insurance experiments in order to try and achieve some reasonably satisfactory solution to the problems mentioned above. This process has been improvisatory, and we begin by enumerating (in Table ) the solutions which have been adopted to these design problems by a group of six microfinance institutions in Africa and South Asia. The criterion for inclusion is that the schemes are in intention explicitly poverty-related, and that we have some performance data on them which go beyond financial ratios and look also at social impact, although the data we have under this heading have been collected by several different hands for different purposes and are therefore for many evaluation criteria not conformable. Of the schemes described, four (Grameen, BRAC, SEWA and FINCA) fit within the not-for-profit multiple risk and two (BASIX, and the world_bank Ethiopia and Malawi weather insurance schemes) fit within the not-for profit single risk classification. Information on weather insurance schemes is mainly unpublished, and a more detailed summary of these is given at Appendix . We note, in particular, the following points of common experience:
+(i) All these schemes are typically confined to named insurable risks such as life, funeral expenses, hospitalisation, accidental damage, theft and droughtinsurable in the sense that their likelihood of occurrence can be predicted within reasonable limits. The exception is BASIX agricultural insurance, which in the old Indian tradition guarantees a minimum return; but even here there are exclusions to defend against moral hazard.
+(ii) Premiums are set by these non-profit organisations in order to broadly cover costs, already marking a huge advance on the old generation of hugely loss-making insurance schemes. In addition, in the health schemes the indemnity payout is limited by confining payments to a fixed sum, which can be visualised as the cost of the risk, less an excess designed to discourage excessive or improper claims.
+(iii) Additional controls against fraud and moral hazard consist of ex-post checking of claims in the case of the medical schemes, and a payout based on rainfall deficiency (not on a short crop)
+in the case of the world_bank Ethiopia micro and macro weather-insurance schemes, which are of particular importance to this paper since they insure against the hazard which for the poorest people in the world is the greatest hazard to livelihood, namely drought. In the Ethiopia micro scheme, based like other pilots on the model set out by Gautam, Hazell, and Alderman(), the defence against moral hazard is exceptionally powerful because payouts are based not on information provided by claimants but purely on the weather, which neither claimants nor anybody
+ In Ethiopia, the world_bank operates two types of pilot scheme: a micro scheme in which payouts are made to farmers if rainfall at local weather stations falls below its target level, and a macro scheme in which a social safety net of foodfor-work schemes is activated on a national basis if rainfall falls below its target level. Details of these schemes, and other experimental weather index schemes within the world_bank portfolio, are provided in Appendix .
+ In particular, payouts for crop losses have been conditional on proof of good husbandry.
+ In the Appendix to Chapter  of Mosley () we examine how the value of this excess should be computed.
+  
+Table . Six new-generation microinsurance schemes: Summary description
+Scheme
+SEWA, GujeratMultiple: life, health and housing
+FINCA Health
+Grameen Kalyan, Bangladesh Health
+BRAC Health, Bangladesh world_bank pilots Weather, Ethiopia and elsewhere
+BASIX,Hyderabad, India
+Weather/ agricultural production
+Location
+Multiple within Gujerat state, India
+Urban Kampala, Uganda
+Multiple within Bangladesh
+Multiple within Bangladesh
+Alaba wereda, S. Ehtiopia; Malawi;Ukraine; others in preparation
+Multiple within Andhra Pradesh, S. India
+Date established
+ (parent organisation established )
+ as health insurance scheme
+ as Rural Health Programme (reconstituted as Grameen Kalyan, )
+ (parent organisation established )
+Pilot established 
+Initiated as trial scheme , remodelled , remodelled again 
+Organisational type
+Registered trade union involved in political and organisational support to self-employed women. This operates a bank and an autonomous social insurance scheme.
+Company limited by guarantee and NGO Operates partner-agent model, with insurance services provided by a specialist health insurance company (MicroCare) and reinsurance by DFID.
+Health insurance offshoot of microfinance NGO. Operatesfull-service model:
+Grameen Kalyan is the insurer.
+Health insurance offshoot of microfinance NGO. Operatesfullservicemodel: BRAC is the insurer.
+Commercial bank.
+Proposed scheme operates fullservice model, with insurance being provided by the Ethiopian Insurance Corporation
+NGO. Now operates partneragent model: as of , insurance is provided by a separate insurance company
+Customers
+Any selfemployed woman, whether member of parent SEWA organisation or not. Insurance of husbands lives and hospital charges available at additional charge
+Patients of six named hospitals who hold an insurance card (some of them FINCA customers)
+Any, but Grameen Bank customers pay a discounted premium
+Any, but BRAC customers pay a discounted premium
+Any: voluntary participation
+BASIX members only
+Risks covered
+Health, life and asset insurance against fire, flood and natural calamities; husbands death and hospitalisation
+Hospital costs
+Maternal and child health, check-ups, subsidised drugs
+Maternal and child health, check-ups, subsidised drugs, hospitalisation partly paid for
+Rainfall more than % below moving average
+Original scheme: shortfall of yield below specified level
+Table  (contd)
+Assessing the success of microinsurance programmes ... 
+Defences against moral hazard
+Co-payment (registration fee), exclusions*, payments limited to cases where patients hospitalised
+Single risk which the insured cannot influence
+Single risk which the insured cannot influence
+Single risk which the insured cannot easily influence
+Peer monitoring of claims; claims assessed and verified by a village committee which includes a BASIX representative.
+At least % of indemnity value must come from members own deposit in village fund
+Defences against adverse selection
+. Life insurance compulsory for all borrowers
+. More than % of all members must enrol before coverage is extended to a village bank
+Hospitalisation claims reviewed by doctor
+Under rainfall insurance the risk suffered by all claimholders is uniform in the event of deficient rainfall, and individuals with low yields do not have a superior incentive to seek insurance in relation to individuals with high yields.
+Premium($/ annum)
+Three options: I:$.
+II: $.
+III: $.
+$ (Ushs ) per  family members
+Taka -/$. (nonmembers);
+Taka /$ (members)
+ taka plus  taka/ visit(members);
+ taka plus  taka/ visit (non-members)
+% of basic loan amount for rainfall insurance
+Charged on a per acre basis, linkthe product to total agricultural activity rather than loan size and giving the farmer the flexibility to buy multiple units based on affordability.
+Targeting devicesand other special features
+Richer members can become life members of scheme through fixed deposit of Rs ; these payments cross-subsidise poorer members. Two-thirds of premium is subsidised by grants from GTZ and Ministry of Labour
+Discounts for ultra-poor.
+Discounts for ultrapoor
+Village selfmanagementof the % mentioned above, % goes to a village fund, % to an intervillage fund (which finances payouts) and % to BASIX.
+* FINCA exclusions: the scheme will not cover  complex dental surgery other than as a result of accident; optical appliances; hearing aids; cosmetic surgery; intentional self-inflicted injury or illness; injury or illness arising out of intentional involvment in riot, civil commotion, affray, political or illegal act by a member; alcoholism or drug addiction.
+  
+else can influence. In the BASIX crop-insurance scheme the payout is based on the deficiency in the value of the harvest, which would appear to invite moral hazard, but the defence remains, by contrast with the old Indian crop insurance schemes, that this payoutsee (i) above is based on evidence of good husbandry during the planting and growing season.
+(iv) Of the schemes mentioned, only FINCA health employs an explicit defence against adverse selection, which is to require at least two-thirds of all group members to be members of the insurance scheme.
+(v) None of the insurance schemes listed below is free-standing, except the world_bank Ethiopia micro weather insurance scheme; all are layered on top of an existing microfinance operation (and in the case of SEWA, a number of trade-union and social-welfare functions also). This has multiple implications:
+ There is a cost saving on the administration and in particular the salesmanship of insurance, since the infrastructure with which to disseminate information about the scheme is already in position.
+ Specifically, many clients only join insurance schemes because of their existing bond with the parent microfinance organisation. This often, sometimes in conjunction with an external shock (see below), acts as a recruiting device for a new and unfamiliar microinsurance scheme that overcomes, for new members, the barriers of cost, unfamiliarity and distrust associated with membership. Often pre-existing groups of microfinance members have joined the scheme together.
+ In this sense, social capital is an input into, as well as hopefully an output of, the microinsurance scheme.
+ Over and above the social benefits of a lower disaster risk for a given level of assets and income, the sponsoring microfinance organisation, in all of these cases, reaps the benefits of lower default rates (this was precisely the purpose of the scheme in Grameen Bank, as we saw).
+(vi) All of the schemes have negotiated reinsurance for themselves on local or international marketssomewhat in contradiction of Brown and Churchills claim that (, p. xiii) reinsurance is largely unavailable for microinsurers.
+(vii) Explicit targeting on the poor, in the sense of concessional benefits for those below a certain income level, is practised only by the Bangladesh institutionsGrameen and BRACeach of whom offer lower premiums to the ultra-poorand by the Ethiopia macro scheme, which has the advantage of being available to landless workers and other vulnerable individuals who are damaged by drought indirectly rather than directly. There may also be a certain amount of self-targeting, in the sense that it may be particularly the most vulnerable who are risk-averse, and the risk-averse who opt for insurance. As an additional offset, it seems to be that the fraud/ moral hazard problem may be less with low-income customersas there is some evidence from the insurance trade that moral hazard risk declines with income. As the general manager of the COLUMNA insurance company in Guatemala put it, Thinking about how to take advantage of an insurance policy seems to be something that declines with income and education (cited in Brown and Churchill , p.. In other words, targeting on poor clients acts as a multiplier as an additional defence against moral hazard, as in the case of microfinance.
+ For other attempts to apply the Gautam, Hazell and Alderman model in Africa see Skees, Varangis, Larson and Siegel() and Mosley(a), also Appendix  below.
+Assessing the success of microinsurance programmes ... 
+The question now for discussion is whether some further learning may be possible from the experience of these schemes which may make possible an enlargement and a diffusion of their benefits. This must be placed in context: microinsurance is by no means the only instrument of poverty reduction or even of risk reduction. Prima facie there is a great deal to commend Brown and Churchills observation (, p. xii) that savings are more effective than insurance for providing protection against common stresses (whereas insurance provides protection against larger losses that occur more infrequently). The role of savings and other non-insurance forms of microfinance is discussed in Section .
+In the hope of stimulating such learning we take as point of departure a simple model of the pricing decision, based on the break-even condition that the typical microinsurance organisation is a nonprofit organisation seeking to maximise social benefit subject to the basic requirement of financial sustainability, or break-even. We shall begin by presenting the model in its simplest possible form, leading to an optimal premium formula which we then elaborate for externalities and anti-moral hazard defences.
+The simple break-even condition may be written:
+Net revenue from premiums > (cost of claims + administrative expenses + cost of reinsurance)
+In symbols: (-p)R > I + a + r ()
+where: p = default rate for insurance premiums, R = level of insurance premium, I = value of indemnities (claims), a = administrative expenses (salaries, costs of data-gathering and monitoring, etc.) and r = costs of reinsurance, all expressed as a proportion of the total portfolio value.
+Given that for moral hazard reasons an excess has to be deducted (see Appendix below):
+I = (-e)V, where V = the estimated value of the asset at risk () Combining () and (), the break-even insurance premium solves as
+R* = ((-e)V +a +r)/(-p) ()
+It can be expected that the value of the break-even premium R* will fall as the volume of business increases, with the spreading of set-up, administrative and promotion costs over a larger and larger number of accounts (Figure a). This basic downward-sloping relationship, exhibiting economies of scale, will shift upward with the range of risks covered, the level of insurability, and the size of the insurance premium.
+It shifts downward as defences against moral hazard, such as those discussed in table , are built into the system. The danger in such a case is that if demand is mainly latent and in any case very steeply price-responsive, the market for insurance may be initially very small. With high break-even premiums and low volume, the infant insurer is very fragile and is at risk of never becoming viable and never learning the lessons of experience, because it never has the resources with which to do that. At the beginning of its life, at a point
+ In those several cases (e.g. weather insurance) where the potential claim consists of an adverse shock (e.g. a drought) multiplied by the response of peoples livelihoods to that shock, it may be useful to write that claim I as the product of the shock  and the elasticity of response of livelihood  to the shock, such that the break even premium becomes
+R* = (-e)  +a +r)/(-p) ()
+ The experience of SEWA, Ahmedabad, is relevant on this point:
+In the early days many claims were rejected and many took a long time to settle insurance companies were reluctant to send assessors into a curfew-affected areaand to provemany clients had never seen a photocopier. So our costs were extremely high then. Now all claims are settled within a week to ten days, and our costs have come down a great deal. But they have only come down because we were able to keep going for a number of loss-making years while our demand built up (interview, SEWA Welfare,  April ).
+  
+such as A on Figure , it is in a precarious position. Charging a high break-even premium to a, by hypothesis, unknown clientele, it may never be able to build up a market, and if it gambles on charging less than break-even, the risk of financial collapse is ever-present. The organisation needs to move speedily down its cost-curve from A to B, building up its clientele, or else die, a predicament which David Hulme and I (, Chapter ) have referred to as the knife-edge.
+The solution to this problem has typically been found either in the form of subsidy from an external sponsor, or in the form of support from a parent microfinance organisationoften, as in the case of BRAC and Grameen, an organisation with an established reputation which expects insurance to be able to confer financial and other synergies to it (see Appendix  below). Luckily, such external or internal support can be justified from the external benefits which insurance confers, and does not have to be justified on purely pragmatic grounds.
+These external benefits are essentially of four kinds:
+(i) Knowledge achieved by experimentation. By experimenting with different institutional designs, pioneer insurers create for their successors ideas and information concerning what will and will not work in a particular environment. They also provide support for other parts of the organisation, as in the case of Grameen Kalyan previously discussed (see page  above). This information is free to the beneficiaries, inside and outside the microinsurance organisation, and thus confers an external benefit on them. But it can only exist if the pioneer is able to survive for long enough to develop and test the original design. The issue of complementarity and positive interaction between different parts of a microfinance organisation is potentially important, and not much discussed within the vast microfinance literature (see e.g. Hermes and Lensink ). Some experimental discussion of complementarity is therefore attempted in Appendix  below.
+(ii) Bonding social capital benefits achieved through lower individual and group vulnerability. An insured group of microfinance clients is less vulnerable than an uninsured group (providing that payouts happen reliably and on time). Similarly, the variability of income within the group is in principle less and the likelihood that clients will be stopped from making loan instalments by a sudden negative shock is reduced, enabling trust between clients within groups (bonding social capital) to increase. This improvement in social capital is an external benefit to the groupa reduction in its costs of doing business, caused by the insurance, for which it does not pay.
+(iii) Linking social capital benefits achieved through an improvement in clients awareness of service quality. Evidence from BRAC (discussed below) suggests that the consumption of insurance, in combination with training, acts as an empowering mechanism: clients meet more often and as a consequence discuss more frequently the quality of the healthcare they are receiving, putting pressure on the provider to improve that service. In this way, the introduction of the insurance appears to trigger social capital between group members and health service providerbenefits for which, again, the group members do not pay, so that they constitute an external benefit of the scheme.
+ From the point of view of making microfinance schemes work, a lot depends on the practicalities of whether this is in fact the case. For the case of the Indian Comprehensive Crop Insurance scheme of the early s, where payouts were restricted to so few individuals and happened so late that the variance of the incomes of the insured was actually greater than the variance of the incomes of the uninsured, see Mosley and Krishnamurthy ()
+ For a general discussion of the social capital concept in relation to the data from our institutions, see Mosley et al. (), Chapter  .
+Assessing the success of microinsurance programmes ... 
+Table . FINCA Uganda: computation of elements in optimum premium formula ()
+Symbol
+Meaning
+Actual estimated value, mid-
+Estimated optimal value(%)
+Method of computation
+$ per (insured) family of four
+% of average loan ($)
+V
+Average value of asset at risk; here expected value of medical claims per annum
+Estimated annual average claims Sh p.a. per person ()
+e
+Value of excess (deductible)
+.
+a
+Average administrative cost (staff, IT, etc.)
+Estimates from MicroCare, interviews / and / 
+p
+Average default rate on premiums
+.
+.
+.
+Average FINCA default rate for insured patients, see Mosley et al. , Table ..
+r
+Costs of reinsurance
+.
+.
+.
+Imputed cost estimated from Africa Reinsurance, Nairobi r* = ((-e)V +a +r)/(-p)
+Break-even premium, financial criterion
+Application of formula in first column
+Actual premium
+Sh , per family of four.
+X
+Value of external benefits to noninsured:
+(ii) bonding social capital benefits through stabilisation of income(Note:
+No attempt to estimate external impacts (i), (iii) and (iv)
+Estimated externality = % of increase in investment of insured over uninsured (see Mosley et al. , Table .)
+R* = ([(-e)V +a +r)/(-p)]  x)
+Break-even premium, economic criterion
+Application of formula in first column (breakeven formula corrected for externalities)
+Sources: () Average of data from MicroCare (interview //) and sample A (interviews // and //)
+Note: The implication would appear to be (i) that MICROCARE/FINCA is currently, on financial criteria, charging too little for its insurance, however (ii) that there are very substantial externalities for which sponsor subsidy would be appropriate.
+  
+  
+  
+  
+  
+Assessing the success of microinsurance programmes ... 
+(iv) Beneficial contagion in which benefits acquired by the insured by virtue of their insurance then increase the utility of the uninsuredcures from a contagious disease which the sick seek only because they are insured are an obvious example.
+Let the combined value of these four externalities be X; in that event, the economic criterion for break-even, by contrast with the financial criterion () will be
+R* = [{(-e)V +a +r)}X)]/(-p) ()
+which takes account of the value of these external benefits. If these are paid, for example by an aid donor or other sponsor, then the long-run cost curve represented by () falls. As this new cost curve is depicted in the lower part of Figure , the introduction of the new criterion enables the institution to make a surplus (to the extent of the shaded area between the demand curve and the new cost curve ()), so that it becomes viable.
+For one institutionFINCA Ugandawe can try and put some empirical flesh on these bones. We estimate the value of the parameters for that institution as follows:
+The implication would appear to be (i) that MICROCARE/FINCA is currently, on financial criteria, charging too little for its insurance, however (ii) that there are very substantial externalities for which sponsor subsidy would be appropriate.
+How can a microinsurance organisation traverse the knife-edge from A to B, and make itself safe? Churchill et al. (, pages -) suggest two particular routes by which this can be done.
+ limit the benefits offered (one practical suggestion made is to stick to life insurance or credit protection, as safe, predictable-risk insurance instruments. Another idea, used in practice by SEWA and other organisations, is to put an upper limit on the payout that can be made. A third is to focus on major perils, such as hospitalisation in the case of health insurance )
+ focus on cost-efficiency (for example, use low-cost premium payment methods, such as automatic deductions from a members savings account, and low-cost distribution systems, such as microfinance institutions themselves. Churchill et al. () argue that, as in microfinance, minimising default on premium payments is also crucial; and subsidies obtained from government and inside the parent organisation can also help).
+As a survival strategy, seen from the point of view of the vulnerable microinsurance organisation, all this is fineand, to state the obvious, an organisation which cannot survive cannot provide benefits to the poor or to anyone else. However, from the above list of ideas it is not clear which ones will help the poor and which ones will not. So let us bring poverty reduction into the story: there are various ways in which a microinsurance organisation can traverse the knife-edge, some of them poverty-reducing and some of them not. Taking Figure  into three dimensions, let us examine what options are available. The cost-curve of Figure  now appears not as a slope but as a mountain, and the initial position, point A, is an exposed and dangerous mountain-top, from which the infant microinsurance organisation can descend either in a poverty-reducing (A to B) or a non-poverty reducing route, from A to C. How can we ensure that the mountaineer will take the correct route, from A to B?
+  
+We now suggest four ways in which the mountaineer can attempt to descend the mountain by the correct route, and make sure that his expansion path is pro-poor. Exploring these pro-poor routes off the mountain will occupy the rest of the paper.
+(i) The organisation can diversify its product in a poverty-oriented direction .
+Thus Grameen and BRAC of Bangladesh have diversified from life insurance into health insurance; BASIX from agricultural insurance, which it has now given up, into livestock and weather insurance; and SEWA, which began by offering only a basic life insurance product, into insuring healthcare for clients, their spouses and now () their children. Even more exciting, it may be possible to diversify, as the world_bank is seeking to do in Ethiopia and other African countries, into weather insurance at the macro level in support of the national productive safety net, which potentially may be supportive of people at a level of poverty not covered by previous insurance schemes.
+(ii) The organisation can seek to make itself more accessible to the poorest, by a range of routes:
+Direct subsidy, as practised by the Grameen Bank and BRAC through charging lower premiums to the ultrapoor;
+Savings linkages, to make a safe savings instrument available to the insured person and provide additional protection both for the client and the insurer;
+Assessing the success of microinsurance programmes ... 
+Direct targeting of client organisations with high impact on the poorest (these will not necessarily be the poorest entrepreneurs, as it is often possible to achieve indirect impact on poor members of the labour force by targeting the nonpoor individuals who employ themsee Mosley and Rock ();
+Marketing to overcome misperception by poor clients of the risks to which they are exposed. Imaginative marketing strategies have been used by some organisations to overcome this blockage. But often what has caused a big surge in demand has nothing to do with marketing policy, but rather was an extraneous event which has made individuals only too well aware of the risks to which they are exposedsuch as the Gujerat earthquake of January , following which membership of the SEWA insurance scheme rose.
+(iii) The organisation can subsidise the provision of those external impacts mentioned above which are pro-poor, as indicated in the lower part of Figure .
+(iv) The organisation can (recalling the argument of Table ) use methods of what we call quasiinsurance, social protection delivered by an instrument which formally is not insurance, to supplement the poverty-reducing impact of its microinsurance measures.
+We can sum up our basic hypotheses about what microinsurance is expected to deliver in terms of a simple metaphorical construct, reproduced here as Figure .The low-income household is visualised as trying to steer a desired course between the two objectives of reduced vulnerability to risk (represented on the horizontal axis) and increased yield on its assets(represented on the vertical axis). In relation to this diagram, we shall argue that all of the strategies to be discussed in the final part of this paper (pro-poor targeting, pro-poor product diversification, and quasi-insurance; see table  below) as seeking to move the client in the direction indicated by the thick black arrowrisk reduction, without significant reduction in expected assets, for low-income individuals. But is this what is actually achieved on the ground? We now turn to some impact assessment studies of microinsurance to help us answer this question.
+. What does microfinance achieve? Some preliminary findings
+We have impact data for five microinsurance schemes, four of them in the general field of health and one in the field of weather insurance; however the evaluations have been carried out by different people, and therefore are of only limited comparability. All of the evaluations use classical control-group methods on a group of insurance clients and non-clients in both institutions. The schemes in question are the health insurance schemes of the giant Bangladeshi microfinance conglomerates, such as BRAC, Grameen and Society for Social Services (SSS), plus FINCA Uganda, another health microinsurance scheme, and the World Banks Ethiopia weather schemes. The results are recorded in Table , and they are divided into four groups: indicators of operational performance; indicators of client-level impact; indicators of wider impact which go beyond the individual client; and side-effects. Only in the second and third cases can we get any clear picture of the poverty dimension of impact.
+ As the director of Grameen Kalyan put it, people are not aware of their health before they become bedridden : Interview, Sheikh Abdud Daiyan, Dhaka,  January .
+ The Peruvian microinsurance organisation IFOCC created simple figures to help clients understand the benefit and the relative cost of the insurance. In addition, IFOCC helped clients to understand the relative size of the premium payments by asking them to think of the funds received from a loan as a jaguar, the interest paid on the loan as a rabbit, and the insurance premium as a cuy or guinea pig. Brown and Churchill(), page . More broadly rapid diffusion of insurance membership may be used by imaginative use of local opinion leaders, see the case of BRAC below.
+  
+Key to symbols:
+Zones of the capital market and patterns of borrower behaviour:
+A : low risk, low yield, very low income and asset levels, financial services demanded as protectional services, mainly in the form of savings. Social capital almost entirely bonding (e.g. solidarity groups)
+B : moderate risk, moderate yield, financial services demanded mainly for working capital with very small fixed capital investment (see Table ). Social capital mainly bonding, some linking to groups in other activities and regions.
+C : high risk (unless insurance available), high average yield, financial services demanded for fixed capital equipment (esp. housing and vehicles) and labour hiring as well as fixed capital. Social capital linking, bonding and bridging to upper levels of administration.
+Trajectories:
+(i)  biased towards avoidance of risk, as is to be expected at low levels of income
+(ii)  the centre of the river  a / balance between yield and vulnerability, more to be expected at higher levels of income.
+(iii)  an adverse shock, partly corrected in the diagram by recourse to insurance.
+The two parallel lines sloping north-eastwards represent the upper and lower boundaries of the capital market, which can be seen as a rather dangerous river to be navigated by means of a livelihood strategy ; empirical observation (e.g. Sebstad and Cohen ; world_bank ) suggests that poor clients will typically do anything to avoid the right bank of the river, where lurk the crocodiles of financial exclusion, and will therefore attempt while they are poor to steer a trajectory such as (i). Households in a more secure position, in relation either to physical or social assets, may gravitate towards trajectory (ii). In this context we can see the potential role of insurance  households which experience an adverse shock, and which risk being caught in a vicious circle of decapitalisation, may be able to pull themselves out of a drift towards catastrophe by drawing on an insurance facility which fulfils the urgent need of making them less vulnerable, at the cost of only a small reduction in rate of return (trajectory (iii)).
+Assessing the success of microinsurance programmes ... 
+Table . Microinsurance institutions: Indicators of targeting and impact
+Activities supported
+Health schemes
+Weather schemes
+FINCA Uganda
+BRAC Bangladesh
+Grameen Kalyan
+SSS
+BASIX, India
+Health insurance in support of microfinance activities
+Health insurance in support of multiple development activities
+Health insurance in support of multiple development activities
+Health insurance in support of microfinance activities
+Indexbased weather insurance, freestanding
+. Operational indicators
+Profitability
+About % of costs of claims plus operations currently covered from premiums.
+About % of costs of claims plus operations currently covered from premiums.
+% costs are being recovered from revenue generation in the old health centres
+% costs are being recovered from revenue generation
+More than % costs recovered; no subsidy
+Arrears rates
+.% of insured, .% for uninsured (i.e. dfference positive but insignificant)
+No difference in the arrears rate between program and control areas
+Arrears rate in the program area is .%, but it is zero in control areas
+Minimal
+. Indicators of direct impact
+Savings
+Positive (significant at % level)
+Mean difference between program and control areas is positive (significant at % level)
+Mean difference between program and control areas is negative, but not significant
+Investment
+Positive* (significant at % level)
+Positive
+Mean difference between program and control area is positive (significant at % level)
+Mean difference between program and control area is positive (significant at % level)
+Substantially higher among clients than among a control group of nonclients
+Educational expenditure
+Positive* (significant at %level) .
+Positive
+Mean difference Negative (not significant)
+Mean difference between program and control area is positive (not significant)
+Loan growth
+Positive (significant at % level)
+-
+-
+Vulnerability
+% of respondents say that membership of the scheme gives more peace of mind
+% of the microentrepreneurs in program area compared % in control area say that they do not have any anxiety in managing medical expenditure
+% of the microentrepreneurs in program area compared % in control area say that they do not have any anxiety in managing medical expenditure
+Health indicators
+Mean difference of ADl index between program and control area is positive (significant at %level)
+Mean difference of ADl index between program and control area is positive (insignificant)
+Income
+Scheme members are better off than non-scheme members)
+The scheme has been extended to a number of ultrapoor clients
+Average beneficiary income range Rs  pa (ie below $/day)
+Assets
+% have land holding less than  hectares
+  
+Table  (contd)
+Activities supported
+Health schemes
+Weather schemes
+FINCA Uganda
+BRAC Bangladesh
+Grameen Kalyan
+SSS
+BASIX, India
+Health insurance in support of microfinance activities
+Health insurance in support of multiple development activities
+Health insurance in support of multiple development activities
+Health insurance in support of microfinance activities
+Indexbased weather insurance, freestanding
+. Indicators of indirect (wider) impact
+Financial risk to sponsor
+% of respondents feel less likely to get into financial trouble since joining the scheme
+Stability of income
+Insignificant difference between treatment and control group
+Positive*
+Positive but insignificant difference between program and control areas
+No difference between program and control areas
+Higher amongst clients than in control group
+Social capital and intra-group relations
+Improved levels of trust within solidarity groups
+The scheme has encouraged us to take more interest in the quality of healthcare we are receiving
+Incorporation of socially excluded
+Little evidence (indeed, scheme members are better off than nonscheme members)
+The scheme has been extended to a number of ultrapoor clients
+Generally progressive (eg average beneficiary income below $/day)
+. Side-effects
+Relations with project staff
+Became more neglectful in some cases
+Care for personal health (moral hazard)
+No evidence of moral hazard (DPT vaccination and malaria protection rates same between treatment and control group)
+Sources: BRAC: field tests, Sultanpur, April . FINCA.
+ Survey of  clients, January , from FINCA records;
+ Survey of  clients from Nsambya and Mukisa branches, Kampala, interviewed February . Data for survey () available from p.mosley@sheffield.ac.uk and more detailed results are provided in Mosley(), chapter . Ethiopia results from world_bank(). BASIX: from BASIX () and Manuamorn (). Malawi and Ethiopia micro: from world_bank(); Ethiopia macro: from Syroka and Willcox().
+We may briefly summarise the general thrust of these impacts as follows. All the insurance schemes are quite close to being viable in their own right, and there is some, at this stage very mild, evidence that they improve loan repayment rates; insurance appears to have a positive impact on physical and human capital expenditures, apparently mediated via higher absorptive capacity for loans; insurance clients perceive themselves as less vulnerable than non-clients; and several of the wider impacts on which we speculated above do indeed materialise, as we discuss below.
+ As movingly described by respondent , an insurance scheme member: My children were sickly and I used to spend so much at a time I wasnt expecting, but now I have a plan to spend I get enough time to look for the money (because) when illness comes it doesnt give you time to first look around for money.
+Assessing the success of microinsurance programmes ... 
+Now let us focus on the poverty reduction impacts, both client-level and wider; the effects in Table  (except in the world_bank Ethiopia scheme) are measured separately for clients falling below the poverty line and others, and only the effects for clients below the poverty line are recorded in the table. These effects fall, as discussed earlier, into five distinct categories:
+() Effects operating via individual well-beingfor example, all the Bangladesh schemesGrameen, BRAC, and SSSimprove self-reported health in relation to that of a control group.
+() Effects operating via stability of income and expenditure, which transmitted scheme benefits from clients to the wider community of non-clients. These appear, in both countries, to have raised physical investment; often in the business(e.g. respondent , a chicken farmer: Before the scheme began I used to have less birds and I used to feed them in home-made feeders. Now all my hens have factory-made feeders. Ive so far bought  feeders. Drugs for them are now more affordable), but even more typically in the home, e.g. respondent  who initially bought building materials to improve sanitation by constructing bathrooms and toilets. When the income doubled she would buy a motorcycle for business transactions. Land purchase was the most commonly cited form of investment under this heading. Sometimes insurance raised human capital investment also, e.g. respondent : I feel as a result (of this scheme) I have put my children in better schools as an investment. There were also, in Uganda, minor effects on labour hiring and this had a small multiplier effect on poverty reduction. Note that the persons quoted were members of the control group, i.e. non-clients who benefited from the scheme as a consequence of local expenditure patterns becoming more stable and clients investing more. For this impact to happen what is vital is that insurance have the effect of making peoples expenditures more stable and predictable: likely, but not inevitable.
+() Effects operating via social capital and interpersonal relations. These are both positive and negative. Within local communities there is compelling evidence that bonding social capital, in the sense of trust, has indeed been strengthened as a consequence of the advent of insurance. In many cases this was as a consequence of expenditures, and liabilities, becoming more predictable, so that individuals had an increased incentive to trust one another. A particular aspect of this predictability was reduced reliance on informal emergency borrowing, e.g. respondent : because of the medical insurance scheme I am not worried of borrowing money from friends and family; respondent  in case of emergency I dont have to borrow money to pay for medicine; indeed, for some respondents largesse was now possible e.g. respondent : I am now not worried when my relatives visit with their endless problems.
+The effect of insurance on linking social capitalbetween those local communities and other organisationsis much more complex: in Bangladesh, there is evidence that the insurance scheme has incentivised clients to find out more about, and improve, the quality of the medical service, but among nearly half of the Ugandan clients who answered our questionnaire it was clear that they felt service had deteriorated and that they were not in possession of any levers by which they could improve it. Many of them were responding based on actual or perceived exclusions from the scheme: for example respondent  stated: No, relations with the hospital have not improved. When I was introduced to this scheme I was told all illness shall be treated... Respondent : They want cash so the scheme only meets less expensive illnesses like malaria, cough etc but not blood pressure, diabetes, TB, AIDS etc. Respondent : I wish (blood) pressure patients could be included on the scheme. As it happens, the true exclusions from the scheme are few, but there is a stipulation that continuous medication for chronic diseases (e.g. diabetes, high blood pressure) is
+ It was a very common observation that availability of insurance reduced the need to deplete investment by raiding the business to finance working capital.
+  
+excluded; the definition of continuous is clearly ambiguous but there is a clear policy of not excluding any patient according to diagnosis. Most doctors in the scheme appeared to interpret it as meaning that they should not prescribe for drugs in excess of specified cash limits per patient per cycle. There are also criticisms based on quality of care. For example, respondent  complained that the insurance patients were treated as second-class citizens: (The doctors) attend to those with the cash first yet they (the insured patients)
+have (also) paid. She also complained that the hospital staff whose job it is to confirm the insured status of patients do not provide round-the-clock cover (especially at weekends), resulting in cash payments being demanded of insured patients. A fairly typical grumble is respondent : Relationship is not good because Micro-Care clients are treated as though they are not paying any money and also the nurses take too long to attend to Micro-Care clients, discouraging from going back to the hospital. It was also complained (e.g. by respondent ) that doctors working for the insurance scheme reduce the dosage prescribed by other hospital doctors; but this complaint, we may note, came from a client who insisted that the Micro-Care doctor was never there. Some restrictions on membership were also resented e.g. respondent  noted that I wish we were allowed to add more people on the card (presumably from outside the group); Again, these appeared to be based on a misperception, since patients can be added to a family policy without difficulty at speci-
+fied rates; but this is one more illustration of the proposition that misperceptions can be powerful. What has happened is that FINCA (by contrast with BRAC) has become a junior partner with a rapidly-growing insurance enterprise to whom low-income microfinance clients are nothing special, and as described above, feel they are being exploited. This suggests that the often-praised partner-agent model of microinsurance, under which a microfinance provider buys insurance from a third party for its clients, may have its problems if the insurance provider, as here, grows too large to care about the quality of service provided to a poor and ill-favoured group of clients.
+In the world_bank Ethiopian weather schemes, the social impact was limited, in the case of the microscheme, by the choice of partner NGOs. The Bank was only willing, in their pilot scheme, to work with NGOs and with financial institutions linked to the ruling coalition partyand hence forfeited the opportunity to penetrate to the ultra-poor. (Stefan Dercon, private communication,  May ) .This limited the downreach of the Ethiopian micro crop insurance scheme in Alaba Wereda, in contrast with several crop insurance schemes in India, notably the BASIX scheme, which have been implemented by NGOs independent of government and were better able to reach the poor.
+() There are also effects operating via the downward extension of the market for financial services. Especially in Bangladesh, pressure has been exerted to make sure that some ultra-poor clients join the scheme, and so a social inclusion impact has been deliberately engineered into the implementation of the scheme. Again, this effect is not guaranteed. In Uganda, for example, in spite of our prior hypothesis that the demand for insurance would be greatest amongst the poorest, insurance scheme members are actually richer than the control group of non-members.
+ As a matter of policy MicroCare does not screen clients for particular diseases or exclude according to diagnosis. We strongly feel that HIV-positive people should have equal access to medical services. Interview, MicroCare Kampala,  February .
+ In the same vein, respondent  They push us behind the queue. Especially when it comes to payment because we have to show our cards and they decide to put all the scheme members behind and deal with those who have money.If I arrive early the nurses and doctors will treat us but after that is when the problem starts since I arrive at for example am I will leave the hospital at pm which (makes it just as sensible to) go to a private clinic and pay rather than go to hospital.
+ See for example McCord(), Brown and Churchill()
+Assessing the success of microinsurance programmes ... 
+() Finally, there are effects operating through the provision of an institutional model. (We have not attempted to quantify these in Table ). For example, information on the design of the existing, pioneering, microinsurance institutions and the lessons which can be learned from their experience can be transmitted almost costlesslyvia the internet and other means to those wishing to emulate and improve on the precedents.
+The crux of our argument is that since the beneficiaries of nearly all these impacts are not those who pay the premium, there will be under-investment in a state of nature at the bottom end of the microinsurance market (as the world_bank eloquently noted) and there is a case for institutional intervention to remedy a situation which is still not very far away from total market failure. One way of doing this is by means of a subsidy which enables the scheme to break even on economic, rather than on financial, criteria (as per our formula (); but what needs to be subsidised is not only the level of premium, but rather the creativity which enables institutional models which are properly adapted to local environments to be brought into being. So far, just a very few NGOs have managed this, but at least their number is growing.
+. Quasi-insurance: Financial substitutes for microinsurance proper
+As discussed above (Table ), many organisations which are not insurers, including lenders, nonetheless provide an insurance function: as remarked by Morduch (, pages -): microfinance borrowing is shown to improve the ability to smooth consumption across seasons, and entry into the programs is driven in part by insurance concerns... Substantively, the results suggest that benefits from risk reduction may be as important (or more important) than direct impacts on average levels of consumption. In every case where a choice has to be made concerning choice of risk management strategies it is desirable to assess whether such non-insurance options may offer a lower-cost or more effective method of protecting the poor than microinsurance. We call this approach quasi-insurance. The ways in which microfinancial services may be able to achieve this function are multiple. For illustration, we consider here just four outstanding cases:
+ Risk-minimising credits for the ultra-poor. The very poorest, who are most exposed to risk,
+do not often take advantage of microfinancial services, or a fortiori of microinsurance; and yet, precisely because they are most exposed to shocks, they are most in need of support services essentially fulfilling an insurance function, as above which may help them smooth consumption. The Bangladeshi NGO BRAC (formerly Bangladesh Rural Advancement Committee) sought to break into this vicious circle by providing under its IGVGD (Income Generation for Vulnerable Groups Development) and CFP (Challenging the Frontiers of Poverty) schemes for ultra-poor single women, first providing food aid on its own, then requesting that a part of that food aid be converted into small cash savings, then linking the savings to training in a low-capital lowrisk enterprise (such as poultry raising, goat-keeping, small-scale fish-farming or sericulture), and then finally for those who wished to receive providing conventional microfinance loans. For the ultra-poor and risk-averse client (cf. Figure  above) an escalator was thus established, beginning at minimal levels of riskas appropriate for destitute people frightened of the cash economy -, providing them with insurance via savings, and then gradually increasing both risk and potential
+ The scheme was established in , and now caters for more than , low-income women in Bangladesh, in the majority of cases single women abandoned by their partners. The income and asset threshold for admission to the scheme is: less than  decimals of land, and income less than Tk  per capita per month, or about a quarter of the world_bank dollar-a-day poverty line. For more detail on IGVGD see Halder and Mosley() or Matin and Hulme()
+  
+return via a loan facility. It is the escalator which provides the insurance, therefore, rather than a standalone microinsurance institution.
+ Emergency loans from village banks. The Bolivian NGOs Promujer and CRECER (which cater for a lower stratum of the population than any others in the country) practise a village bank model, in which training, maternal and child health and legal advice services are provided alongside group credit for those desiring them. They also offer an emergency loan facility. Essentially this loan facility (known in Bolivia as a cuenta interna or internal account) functions like a rotating savings and credit associationit takes a fortnightly or monthly subscription from clients, which goes into a common pool from which, in case of need such as a sudden income shock, members are entitled to draw emergency loans supplementary to their existing borrowings, if approved by a vote of the members of their borrower group. Such emergency loans, alongside progressive lending relating loan size to loan repayment, protect clients against the risk of ejection from the credit market due to unanticipated shocks (Lenton and Mosley ). This facility therefore provides a form of quasi-insurance: it shelters those most prone to shocks, financing the shelter by means of a subscription which is not called an insurance premium but nonetheless acts as one. When put under pressure in the civil emergencies in Bolivia of October  and June , it protected not only the livelihoods of clients but also repayment ratesand it was supplemented by additional improvised measures to protect repayment rates, such as emergency in-kind food donations and home collections of loans from clients who were apprehensive of having to cross a barricade to make their repayments (Aliaga and Mosley ).
+ Micro-savings schemes. Savings, classically, enable the protection function of insurance to be performed by enabling the low-income household to draw on a cash reserve, rather than an insurance policy, at times of crisis. As described in Hulme, Barrientos, and Moore (), microsavings remain a neglected element in microfinance, historically of great importance since the nineteenth century as an instrument by which poor households buffered themselves against shocks, and in the twenty-first century, at least in potential, fulfilling the role, since the consequences of shocks are worst for the poorest, as a highly progressive component of the microfinance operation.
+This potential is not fulfilled at present: a majority of microfinance schemes do not offer any savings facility. Of the  microfinance institutions (MFIs) globally for which  data were available, two-thirds ( institutions) showed no savers at all, and of the remaining ,  had fewer savers than active borrowers (Hulme et al. :). These institutions data on client poverty status are very limited, but given that the function of savings is principally of protection, and that protection against shock is needed by people in inverse proportion to their wealth (cf. Figure  above), it seems probable that the narrow scope of savings institutions acts, like the constraints on formal microinsurance, as a limitation on the anti-poverty leverage of the microfinance sector as a whole.
+Part of this undersupply of savings services is caused by regulatory restrictions which prevent microfinance NGOs from taking deposits (and, at the same time, from offering insurance facilities, except in the form of informal emergency funds or loan facilities). Even those MFIs which offer savings facilities are often unsympathetic to the savings needs of the poor (eg. BancoSol of Bolivia will not accept deposits less than $). A way around these restrictions is offered by the kind of linkage arrangements described in the next paragraph.
+ See Marconi and Mosley ()
+Assessing the success of microinsurance programmes ... 
+ Loan-savings linkages. In a number of countries, NGOs, which are the dominant form of microfinance organisation, are not authorised to take savings deposits, which as discussed above represent the least risky mode of contact with the financial system. Consequently, in the assumed absence of microinsurance, individuals who wish to receive financial services are obliged to take loans, and are not able to protect themselves by savings against the risk of decapitalisation caused by the combination of overborrowing and external shock (see Hulme et al. ). One important potential way around this problem is by the formation of linkages between microfinance NGOs and banks or nonbank financial intermediaries. Under this approach, savings services, and their associated quasi-insurance function, are supplied to customers of microfinance NGOs via such linkages rather than directly. These linkages provide a buffer against the risk of decapitalisation, and in industrialised countries, where much microfinance takes the form of small loans to unemployed people caught in the debt trap, such linkages may enable an improvement in the debt management capacity of people previously unable to save, and enable them to utilise the savings buffer previously referred to in case of emergency (Mosley, Lenton, Dayson and Vik ).
+Especially in environments where microinsurance is not available but even in environments where it is, therefore, it may be appropriate to consider quasi-insurance options as a strategy for protecting the poorthese may be able to provide particular forms of protection against risk at lower cost than microinsurance proper.
+. Conclusions for policy and institutional design
+There are, therefore, various ways off the mountain of Figure : microinsurance organisations can pursue the quest for viability either in a poverty-reducing or a non-poverty reducing way. The impact analysis of the previous section has presented some findings concerning the extent to which different institutional development strategies may impact favourably on the poor, and these are presented in Table . In the light of this table, we can now recapitulate the lessons of this paper concerning how microinsurance and substitutes for it can help to move the right way off the mountaintopto reduce poverty, in the light of the empirical evidence just presented.
+As mentioned earlier, we may take six possible approaches, either separately or in combination, to making microinsurance more poverty-focussed. In the sequence in which these have been presented in our argument above, these are:
+. Lower the cost of microinsurance by enabling microinsurance firms to move down their cost curve. This is essentially the approach taken by Churchill () in his final chapter. It is vital, because if microinsurance is not viable it cannot supply services to the poor or anyone else. In our judgement, however, it can usefully be supplemented by the following pro-poor options:
+. Vary the microinsurance product-mix. As indicated by our previous argument, the availability of insurance types does not match well to the needs of the poorest: those most vulnerable to risks either cannot insure at all or cannot insure against the risks which matter most to them. Ultimately this requires ingenuity both in designing insurance against risks which are crucial but historically have proved hard to insure againstsuch as weather riskand in making potential clients aware of the options which exist. This has been successfully achieved, on the available evaluation evi-
+  
+Table . Approaches to making microinsurance more poverty-responsive
+Approach
+Illustration
+Remarks; evidence from impact assessments
+Within microinsurance:
+. Measures to increase viability (without any obvious poverty cost)
+(i) Limit benefits
+(ii) Practise cost-effective ways
+
+. Measures to vary product-mix of microinsurance towards poor
+(i) Shift to more poverty friendly insurance products e.g. drought insurance)
+(ii) Within-product shifts to more poverty-friendly applications (e.g. maternal and child health)
+BASIX, India
+(see Appendix  below) world_bank  Ethiopia macro (see Appendix  below )
+Grameentype schemes (see Table  above) SSS Bangladesh  (see Table  above)
+Achieved substantial poverty reductions, see Hamid ().
+. Design measures to increase accessibility of the poor:
+(i)interest rates concessions for ultra-poor (ii)Nonfinancial measures to bring ultra-poor within the ambit of microinsurance -form of support -links to other poverty-friendly financial services Search/publicity methods
+BRAC Health
+(see Table  above) Ethiopia macro scheme (linked to food aid) Savings schemes:
+(i) see Hulme et al. () (ii) savings schemes to make premia affordable, e.g. SEWA
+Discussion of savings linkages also in Churchill (), sections ., .. Could be accompanied by sponsor smart subsidies, see Appendix 
+. Design microinsurance schemes so that spillovers (wider impacts) spill over more effectively to the very poor
+FINCA Uganda
+Evidence of wider community-level impacts on income stabilisation, see Table  Could be accompanied by sponsor smart subsidies, see Appendix 
+. Other poverty-friendly risk mitigation methods with an insurance function (quasi-insurance)
+Lending: (i) escalator-type schemes keeping initial risk minimal for poorest, eg (ii) emergency loans schemes,
+Savings:
+BRAC ultra-poor schemes (see Matin and Hulme , and Halder and Mosley )
+Bolivia bancos comunales (village bank model with internal account), see Lenton and Mosley () Microsavings schemes, eg Safe Save Bangladesh
+. Other poverty-
+friendly methods for risk anticipation and risk coping
+In agriculture, note in particular possibilities for drought-resistant crops dence, by BASIX and SEWA, both of which have broadened their basic insurance product so that it reaches further down the income scale. In principle, the World Banks experimental weather insurance schemes also achieve this, but we do not yet have hard data on whether this is happening.
+. Make microinsurance services more affordable by the ultra-poor. This may be done by a range of methods:
+ interest-rate subsidy (as practised by BRAC, Bangladesh), which has been successful in bringing a number of ultra-poor clients into the fold of microinsurance.
+by offering a savings facility which gradually enables the poor to pay their premiums (as in SEWA, India) . The manual by Churchill ( section 2.3, pages 111-130 ) also mentions a number of schemes which link insurance to savings so as to make premiums easier to repay. \0xEF by bending the design of the microinsurance scheme so that it focuses on services especially consumed by the poor (such as maternal and child health). This was successfully achieved by BRAC and SSS. 4. Design microinsurance schemes so that they maximise spillovers to the very poor. Table 5 showed that for FINCA, Uganda, BRAC Bangladesh and SSS Bangladesh , there are substantial spillovers to non-borrowers through income stabilisation, through health and through empowerment. (Effects 3 and 4 can be supplemented by sponsors providing a results-based subsidy) (Another crucial element is lobbying and persistence. Any number of regulatory obstacles can be invented by an obstructionist person or environment.) 5. Where microinsurance is not available or not suitable, provide \0xEBquasi-insurancei services which provide protection against shocks even though not labelled as insurance. Illustrations of how this may be approached are provided in the previous section 4. 6. Where the option exists of anticipating rather than simply providing insurance against shocks, use that as a complementary approach. One approach to this is to incentivise, via agricultural extension, the planting of drought-resistant varieties. It is of course feasible for both local and national branches of government to support pro-poor actions at the local level by maintaining an appropriate regulatory and policy framework\0xF3in particular through support for informal and labour intensive activities. Thus there is substantial empirical evidence already to back the proposition that microinsurance, if the appropriate complementary policies and design features are embedded into it, may be a powerful instrument against poverty. Substantial additional research is however needed both to validate the tentative and incomplete impact assessments provided in Table 5, and, above all, creativity and experimentation is needed to devise and locally test new poverty-focussed insurance instruments, and dedication and courage are needed to pursue the case for these in face of inevitable opposition from those who see radical designs as \0xEBnot fitting into the boxi . Insurance is, of its nature, a conservative profession, dedicated to the minimisation of risks, and what is needed in the present cause is to combine that conservatism in the control of costs and risks with extreme daring and perseverance in the process of including the very poor and vulnerable in design and implementation. 

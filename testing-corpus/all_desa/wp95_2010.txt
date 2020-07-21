@@ -1,0 +1,489 @@
+Estimating the amount of a global feed-in tariff for renewable electricity
+ Summary
+We present a simple model aiming to estimate the subsidy cost embedded into a global feed-in tar-
+iff (GFIT) whose purpose would be to stimulate at the same time electrification and the take-up of renewable energy sources for electricity generation in developing countries. The GFIT we contemplate would subsidize developing countries for investments they make in generation capacity for renewable electricity up to a threshold level of electricity consumption per capita. Our estimates are based on the assumption that between  and , countries below this threshold strive to bridge the gap and achieve the threshold by , the date when the subsidy to new investments ends. The subsidy amount associated with the GFIT is based on the difference between the costs of renewable technologies and the cost of conventional energy sources. We use country-level data and estimates, regional projections for the technical potential of various renewable technologies, and projected future costs of renewable technologies to calibrate the model. Our results indicate that the corresponding subsidy could at its peak be much higher than current official development assistance. However, not all countries may be able to reach the threshold by , so that the actual subsidy could also be lower.
+Energy is a crucial piece of the puzzle linking two fundamental global issues, climate_change mitigation and development. On the one hand, the use of energy based on fossil fuel is largely responsible for the accumulation of large quantities of carbon dioxide in the atmosphere, triggering climate_change. Most scientists believe that swift and drastic reduction in emissions is necessary to avoid dangerous or catastrophic climatic changes. A global shift to renewable energies is believed to be one necessary step that all countries have to take in order to limit such changes.
+On the other hand, access to energy and energy use are critically linked with development. For example, indicators of development such as the Human Development Indicator (HDI) computed by the united_nations Development Programme (UNDP) are highly correlated to energy consumption at the national level (Figure ).
+ We are grateful to David OConnor for comments on this paper. The views expressed in this paper are those of the authors and do not necessarily reflect the views of the united_nations.
+ . . . . . . . . .
+Electricity consumption per capita and HDI
+y = .Ln(x) + . R = .
+  
+Figure :
+Electricity consumption and human development index in a cross-section of countries
+This correlation also holds in a dynamic setting. When one follows the trajectories of countries over time, the same pattern is observed (Figure ), although trajectories differ across countries reflecting differences in the structure of national economies and differing levels of energy efficiency. Thus, energy consumption and human development seem to go hand in hand. Beyond macro-level correlations, energy access has been identified as a basic enabling element of local development, among other things through positive effects on education, income generation opportunities, and health (see e.g. UNDP, ).
+,
+,
+Electricity Consumption per capita (kWh)
+,
+,
+,
+,
+,
+Figure :
+For developing countries, energy is therefore a crucial com-
+ponent of development strategies. However, replicating the development path of industrialized countries based almost exclusively on fossil fuels would result in a level of emissions that would preclude reaching meaningful global targets with respect to . emissions reductions. Renewable energies could in theory address both issues, allowing developing countries to develop while limit-
+ing the growth in emissions from that part of the world. However,
+many renewable technologies with large technical potential in terms of capacity such as solar PV,
+solar concentration, and wind,
+are currently more expensive than
+ Of course correlation does not imply causality. Such causality is best demonstrated at the micro level. There is a wide body of literature showing how access to energy, especially clean cooking energy and electricity, radically improves livelihoods and basic development indicators.
+Changes in energy use per capita and human development index for selected countries
+Energy Use per capita vs. HDI in  most populated countries
+. Turkey
+Spain united_kingdom France
+. Philippines
+China
+Indonesia
+Pakistan Nigeria
+South Korea Iran
+UK
+Germany
+Spain
+India
+Pakistan
+Nigeria
+Mexico
+Ethiopia
+Turkey
+Congo, Dem. Rep russian_federation
+Germany
+russian_federation
+South Korea Brazil
+China Indonesia Banglades h Japan Phillippines Egypt
+Iran France
+. . . . .
+HDI (-)
+HDI
+           Ene rgy Use pe r capita (kwh/day,  )
+Estimating the Amount of a Global Feed-in Tariff for Renewable Electricity 
+traditional technologies based on fossil fuels. This is reflected inter alia in the tensions over a global climate agreement, where many developing countries see emission reductions as a threat to the expansion of the energy networks that will enable them to develop, or as a constraint to be forced to develop in a cleaner, far more expensive way than the developed nations which industrialized before them.
+While on average the cost of renewable electricity is still higher than for electricity based on coal and gas, the costs are coming down and will continue to decline as technological learning proceeds. For some renewable technologies, it is believed that scale economy effects could drive costs down more rapidly, if efforts to expand the markets for these technologies are made (see Ferioli,  and Jacobsson et al, ). This has been the subject of a number of studies in the energy and climate literature. The experience in a range of countries, e.g. Denmark (see Agnolucci, ), Germany (see Runci,  and Jacobsson and Lauber, ), Spain (see Ragwitz and Huber, ) and the U.S. (see Short et al, ), has yielded tried and tested policies for promoting and stimulating renewable sources of energy, while allowing production costs to decrease rapidly.
+If one accepts the need to shift rapidly to renewable energies on a global scale, a possible way out of the impasse would be to support developing countries, where the need in new energy infrastructure is currently the highest, to do so inter alia by subsidizing the investment in renewable energies in those countries. Such subsidies would be justified on the ground of global mitigation of climate_change alone, beyond their relevance for development. They would yield the additional benefit of radically expanding the markets for renewables worldwide, thereby potentially contributing to drive production costs down faster. They could therefore help to strike the delicate balance between promoting economic development in the developing world, and mitigating the detrimental effects that growth and the increased energy consumption that results from it have on natural sinks.
+The objective of this paper is to examine the potential of a global subsidy for investment in renewable electricity generation. Specifically, we try to estimate the order of magnitude of the subsidies that would be embedded in a variant of a global feed-in-tariff (GFIT), which would subsidize developing countries for investments they make in generation of renewable electricity, based on the difference between (declining) costs of renewable technologies and the cost of conventional energy sources. The subsidy we examine would be limited to investments undertaken before a given date (in our numerical simulations, ). Apart from political attractiveness compared to a subsidy without pre-set time bounds, the rationale for this, is that beyond the limit date renewable technologies would be significantly cheaper than they currently are, and some of them would compete favorably with conventional technologies on a cost basis. Major reductions in the costs of renewable technologies for electricity generation such as solar PV, geothermal, and wind are expected during the period  to . Also, a subsidy limited in time would give countries a strong incentive to accelerate electrification and reach a level of energy consumption compatible with a high development level by the end date for the subsidy. By then, they could presumably assume the lower costs of national feed-intariffs with no or less need for assistance from the international community.
+ See references in e.g. Neuhoff, .
+ We are not arguing that subsidies are the only or preferred way to spur the uptake of renewable energy technologies in developing countries. Technology transfer and related capacity-building have been the focus of the UNFCCC and more generally of international agreements treating of development.
+  
+Feed-in tariffs (FIT) have been a successful tool in the promotion of renewable energy sources (RES) for many years. According to Bechberger and Reiche (),  out of the  countries in the european_union (EU) that use financial incentives to subsidize and support the development and installation of RES employ a FIT system of some form. An FIT most importantly guarantees the owner of a RES a particular price over a set period of time for the electricity produced, thereby helping the infant technology to be economically competitive with conventional, fossil fuels. In order for this to work effectively, the grid operators must be required to provide the producers of renewable electricity with access to their grids and the tariff rate must be reduced every year in order to promote innovation (E-Parliament, ).
+As FITs have been successfully tested in a large number of developed countries and especially Germany, their benefits are known and widely documented (see e.g. Couture and Gagnon, , Mendonca, , Stryi-Hipp,  and REACT, ). According to Ragwitz and Huber (), these include, but are not limited to: an increase in the market penetration of renewable energy technology; protection of the climate and environment through sustainable_development; minimization of the risk premium required by investors due to high level of price security in the system; low administration and transaction costs; and job creation.
+Therefore the question of the feasibility of such tariffs in the developing world merits attention. In fact, countries such as China, India, and South Africa are already adopting variants of a feed-in tariff. But scaling up and replicating these initiatives in developing countries probably requires financial support. The subsidies we estimate could for example be financed by a global fund for renewable energy, under the auspices of UNFCCC or another institution.
+This paper presents a simple model of a feed-in tariff, in order to estimate the total subsidy cost that would be associated with such a tariff. For the purpose of illustration, all our calculations are made under the assumption that the subsidy would assist developing countries currently operating under  kWh per capita per year of total electrical consumption to put in place enough new capacity to reach that level by . The reasons for the choice of this particular threshold are made explicit below.
+The objectives of the paper are twofold. First, we want to assess whether such a global subsidy would be of an order of magnitude compatible with the current and envisioned financial flows going from developed to developing countries such as Official Development Aid (ODA), and figures put forward in the discussions under UNFCCC. Perhaps as importantly, we try to critically highlight the various steps needed to arrive at a final subsidy cost for a global feed-in tariff, and the numerous assumptions related to those steps. A main conclusion from the analysis is that uncertainty over the dimension of such a subsidy is large, and is mainly related to uncertainties in how costs of renewable technologies change over time, in the mixes of renewables that individual countries choose to adopt, and in the share of new investment for electricity generation that is channeled into renewables. While the former class of parameters will ultimately be determined ex post, the latter two are policy parameters which will probably depend on many global and national factors, making any assumptions in an aggregated model rather ad hoc.
+The remainder of the paper is constructed as follows. Section  presents our general methodology and the main parameters and variables included in the estimation of a global feed-in-tariff. Section  presents the main results from the model. Section  discusses the lessons from the modeling exercise and the limits of the approach taken here. Section  concludes.
+Estimating the Amount of a Global Feed-in Tariff for Renewable Electricity 
+Methodology
+As discussed above, the global feed-in-tariff (GFIT) discussed here has the following characteristics:
+ It would apply only to countries whose per capita electricity consumption is under a target threshold (the value of which is the same for all countries);
+ It would apply only during a limited time, set in advance;
+ The subsidy would cover the difference between the costs of renewable investments made dur-
+ing the subsidy period and the costs of investments in conventional technologies. This difference is measured by levelized costs per kilowatt-hour for the chosen technologies at the time the investment is undertaken.
+To fix ideas, let us denote as C the additional electricity capacity investment (measured in kilowatt-hours per year) undertaken by a country in a given year. Let R be the share of renewable technologies in that investment. Let pr be the unit cost per kilowatt-hour for the renewable energy mix invested that year (as determined by the GFIT schedule), and pc the unit cost of the conventional energy mix used in  in that country (note that both pr and pc depend on the year considered). Then the subsidy paid to the country from the GFIT each year for the whole economic life of the investment is simply:
+S= R C (pr-pc) ()
+Of course, this is only one variant of what a global feed-in-tariff could be. In particular, we assume that the subsidy would vary depending on the technologies chosen by countries. Another possibility would be to announce a single tariff schedule for renewable electricity (which would decrease over the time period of the subsidy), and to let renewable technologies compete for the subsidy. However, adopting differentiated tariffs among technologies has been the choice of many countries which have adopted FITs, Germany being a prominent example. Presumably, the rationale behind this choice is to allow a portfolio of technologies to mature and develop, perhaps at the expense of larger medium-term subsidies, but with the hope that some technologies such as solar PV, which are more expensive than other technologies today but have very large capacity potential, will eventually become cheaper. However, in order for costs to decrease, these technologies need markets to develop in the first place. Thus, allowing differentiated tariffs for the various renewable technologies can be easily justified in terms of industrial policy and the creation of a diversified renewable energy mix.
+Due to this choice of tariff, in order to estimate the size of the associated subsidy we have to proceed at the country level, because the mix of renewable energies chosen by each country, and therefore the subsidy associated with it, will vary among countries. All the calculations are thus made at the country level, and aggregated in a second step when needed.
+For the purpose of this paper, it is supposed that developing countries use the opportunity created by the feed-in tariff to accelerate electrification, so that by the time the subsidy ends, they all reach the consumption threshold. This reflects the underlying idea of a big push for renewables exposed in the introduction. Given this, for each country, the factors playing a role in the estimation of the size and time profile of the subsidy for the GFIT described above are the following:
+  
+. Current electricity consumption;
+. Value of the target threshold for per capita electricity consumption;
+. Duration of the subsidy program, that is, the period of time during which new investment in renewable electricity is subsidized by the GFIT;
+. Time schedule for the investment in generation capacity chosen by the country;
+. Current conventional energy mix used in the country, which serves as a basis for the subsidy calculation;
+. Proportion of the electricity generation capacity investment that goes to renewable technologies;
+. Renewable energy mix chosen by the country for investment;
+. Costs of the various renewable and conventional energy sources over time; and
+. Disbursement schedule for the subsidy.
+While all these parameters figure in the subsidy calculation, they are not independent from each other. For example parameters ,  and  are obviously linked, since in a situation without subsidy, the overall cost of renewables would determine a countrys willingness to invest in renewable technologies, and the differences in costs among renewable technologies would influence the mix of technologies that is adopted. However, note that the subsidy largely neutralizes those two effects, because it compensates for the difference in costs between renewable and conventional energy sources, and takes into account the differing costs of renewable technologies. Therefore, the subsidy allows countries to focus on the technologies that have the greatest resource potential under prevailing local conditions, without being hindered by high costs, at least for the duration of the subsidy.
+Each parameter is now discussed more in detail. Tables a and b summarize the sources for the data used in this article, as well as the values of the main parameters used in the subsidy calculation.
+Table a:
+Data used in the estimation model
+Data / Parameters Country-level Data
+Source
+Number of countries for which information is available
+Current energy mix for electricity world_bank, World Development Indicators  (gathered from the IEA).
+XX
+Electricity consumption per capita
+UNDP Human Development Report . Tables were constructed using  default.cfm
+XX
+Population
+(estimations and projections)
+world_bank HNPStats, Population Projections 
+Estimating the Amount of a Global Feed-in Tariff for Renewable Electricity 
+Table b:
+Parameters used in the estimation model
+Source / value
+Comments
+Fixed parameters
+Electricity consumption threshold
+ KWh/capita/year
+Based on Figure .
+Projected levelized cost data ($/kWh)
+Data for most renewable sources taken from the German Ministry of Environment (BMU) (Nitsch, ).
+Also EIAs Annual Energy Outlook 
+
+Renewable energy mix for new investment
+Based on Hoogwijk and Graus, . Global Potential of Renewable Energy Sources: A Literature Assessment, Background Report.
+Available on a regional scale only. For several countries possible targets for several renewable energy sources for  are given in the report.
+Time profile for subsidy disbursement
+ years for each new project.
+This corresponds to the value of the economic life of the investment as used for the calculation of levelized costs.
+Variable Simulation parameters
+Years to reach electricity consumption threshold
+= ( through ) is the default value for the model. However, this variable can be changed.
+Percentage of new investment channeled into renewable technologies
+Determined by the user of the model. The default value is ..
+Some results are presented in the text for increasing values going from . in  to . in .
+Current Electricity Consumption
+The values for total electricity consumption are taken from the World Development Indicators produced by the world_bank. They are converted to per capita consumption on the basis of population figures from the world_bank.
+Value of the target threshold for per capita electricity consumption
+The rationale for the GFIT examined here is to support the least developed countries to develop their energy access while doing so based on clean energy technology. Countries eligible for the subsidy need to be energy poor, and at the same time have low human development indicators. We choose the criterion for the latter to be a value of the Human Development Indicator (HDI) below .. This value has been used by UNDP and development agencies as a threshold differentiating countries with high human development and low-tomedium human development.
+Based on Figure  above, one can see that the value of . for HDI corresponds to a per capita electricity consumption lying in the range of , to , kilowatts per capita per year. The fitted regression line based on HDI and electricity consumption data intersects the . value for HDI at a consumption level equal to , kilowatt-hours, which corresponds to . kilowatt-hours per day. We use this value as the target for per capita electricity consumption in the remainder of the paper.
+ Of course, in the real world, the value of this parameter, which critically influences the size of the subsidy, would probably be the subject of intense negotiations, and for legibility reasons, a round value (such as , or , KWH/capita) would probably be chosen.
+  
+Choosing a threshold based on a cross-country examination of current electricity consumption as we do here is subject to the criticism that we do not take into account energy efficiency improvements that would be made in the coming years by developed countries and would decrease their electricity consumption. Thus, by taking current electricity consumption as a reference, one would fix the threshold too high. However, as Figure  makes clear, over the period energy consumption per capita has not decreased significantly in all developed countries. Therefore, the ground for arguing that technological progress would allow development to occur at lower values of electricity consumption per capita seem tenuous.
+Table  below shows that the value of the threshold, provided it remains between , and , Kwh/year, has little influence on the eligibility to the subsidy of the  most populated developing and transition economies. Among these, only South Africa is already well above the threshold, while Ukraine, with a per capita consumption of , Kwh per year, lies somewhere in the potential range for the threshold. The most populated countries such as China, India, Indonesia, Brazil, Pakistan, Bangladesh, Nigeria and Mexico would be eligible for the subsidy whatever the value for the threshold is chosen within the ,-, KWh range. Therefore, threshold value influences the size of the subsidy almost entirely through the amount of investment capacity that could be eligible in each country, and not through the list of beneficiary countries.
+Table :
+Population, electricity consumption, and electricity gap for the most populated countries in the developing world
+Country
+Population in  (million)
+Electricity power consumption per capita,  (kwh)
+Total electricity consumption gap* (billion KWh/year)
+China
+.
+.
+India
+.
+.
+Indonesia
+.
+.
+Brazil
+.
+.
+Country
+Population in  (million)
+Electricity power consumption per capita,  (kwh)
+Total electricity consumption gap* (billion KWh/year)
+Pakistan
+.
+.
+Bangladesh
+.
+.
+Nigeria
+.
+.
+Mexico
+.
+.
+Philippines
+.
+.
+Vietnam
+.
+.
+Ethiopia
+.
+.
+Egypt
+.
+.
+Turkey
+.
+.
+Iran
+.
+.
+Thailand
+.
+.
+Congo, Dem. Rep.
+.
+.
+Myanmar
+.
+.
+Ukraine
+.
+//
+South Africa
+.
+//
+Colombia
+.
+.
+* Based on the threshold value of  KWh/capita/year.
+Estimating the Amount of a Global Feed-in Tariff for Renewable Electricity 
+Whatever the case, this parameter can easily be changed in our simulations. In section  we investigate the sensitivity of the size of the subsidy as the threshold is moved upwards.
+Duration of the subsidy program
+In the numerical application, the duration of the GFIT is taken to be  years, commencing in  and ending in . That is, the tariff would subsidize all the new investments in renewable electricity generation for that period only. This particular value was chosen for reasons mentioned in the introduction, and also because a subsidy with a short time span would probably be more palatable politically to developed nations who would finance it. Again, as for the consumption threshold, this value can be changed in the simulation model. Note that even though the tariff would cover only investments made until , the disbursement of the subsidy can extend well beyond that date, depending on the choices made for disbursement.
+Time schedule for investment in electricity generation capacity chosen by the country
+As mentioned above, for the purpose of this paper it is assumed that countries with current per capita consumption below the target threshold would make full use of the GFIT and aim to bridge the gap between current per capita consumption and the target by the end of the GFIT, i.e. .
+Obviously, this represents a different investment effort for countries which are currently close to the target, and countries which are significantly below it. For example, from Table , we note that the total consumption gap is twice as high for India as it is for China, in spite of a population size  per cent lower, because of much lower current electricity consumption. Population size and current electricity consumption translate into capacity and total consumption gaps as illustrated in Figure . China and India,
+which have by far the largest total gaps, are not represented on this figure.
+Figure :
+Population, per capita electricity consumption, and total electricity gap
+Population, per capita electricty consumption, and electricity gap
+Iran Thailand
+Turkey
+Brazil
+Mexico
+Egypt
+Colombia
+Vietnam
+Philippines Pakistan
+Indonesia
+Ethiopia Congo, Dem. Rep.
+Myanmar
+Nigeria Bangladesh
+Note that replacement or upgrading of obsolete facili-
+ties is not included in this gap calculation. For all purposes, they should be considered as additional needed investments. However, in many developing countries the needs for replacement of existing facilities from now to  will probably be dwarfed by the needs for new generation capacity. Thus, we do not include replacement needs in our gap calculations. In addition, as far as policies are concerned, it is to be noted
+        population (million)
+Annual electricity consumption per capita (Kwh)
+  
+that many countries with low HDI and low income per capita are exporting electricity that they produce. Therefore, assuming that all the installed capacity will be for the purpose of national consumption is a simplifying assumption.
+In order to calculate the subsidy embedded in the GFIT, we have to make assumptions on the investment pattern that will be followed by countries to bridge the electricity consumption gap. Identifying the year in which the investment occurs is necessary, because the costs of renewable electricity decrease over time, and so does the associated subsidy. Therefore, a vintage investment model is needed.
+We choose to consider an investment schedule that is linear in per capita consumption, starting from the current value to the target threshold value. Due to population increase over time, this translates into an increasing physical investment schedule over time, whose slope differs among countries according to the rate of population growth. We use population projections published by the world_bank. The projections are given in five-year increments. We estimate annual figures by linear interpolation.
+Conventional energy mix used in the country
+In our model, the base cost of conventional energies used in the calculation of the subsidy is based on the current mix of conventional energies used in each country. As far as we know, there are no worldwide data available at the country level on electricity consumption by source. Therefore, we use data on energy sources for electricity production. The difference between electricity production and consumption at the country level is made by electricity trade, on the one hand, and transmission and distribution losses, on the other hand. Many countries are exporting and/or importing electricity. However, the ratio of production and consumption as recorded in the world_bank data is not far from , except in a few cases, as demonstrated by Figure . Energy sources for imported electricity are not available. Transmission losses probably differ among production technologies, a main factor being grid versus off-grid technologies. However, we found that using the production mixes was the best proxy we could get for the consumption mixes.
+Therefore, for the purposes of this model we assume that electricity consumption in each country is based on the same conventional energy mix as electricity production. Those mixes are obtained from world_bank data (World Development Indicators ). The data distinguish four non-renewable energy sources of electricity: coal, oil, natural gas, and nuclear. Additionally, hydro and other renewables are also included in the world_bank statistics. We use the proportion of each non-renewable energy source in  as the mix upon which the subsidy calculation is based. This mix does not change over the subsidy period.
+Other options could of course be considered. In any case, the current energy mix used in a given country reflects a stock of accumulated generation capacity that does not reflect current investment mixes. The choice of the mix could certainly be refined and based on recent capacity investment data at the country level. We leave this refinement for further studies.
+ The world_bank gathers these indicators from the International Energy Agency (IEA). IEA data for nonOECD member countries are based on national energy data adjusted to conform to annual questionnaires completed by OECD member governments. According to the IEA, estimates are sometimes made to complete major aggregates for which key data are missing, and adjustments are made to compensate for differences in definitions. The IEA makes these estimates in consultation with national statistical offices, oil companies, electric utilities, and national energy experts.
+Estimating the Amount of a Global Feed-in Tariff for Renewable Electricity 
+Figure :
+Electricity production and consumption for selected countries, 
+Proportion of the electricity generation capacity investment that goes to renewable technologies
+This factor, denoted R in formula () above, di-
+rectly affects the size of the subsidy, and proportionally so. The first thing to note is that R would be endogenous to any incentive such as a GFIT. In other words, because the GFIT would significantly lower the cost of renewable technologies compared to other technologies, energy mixes chosen by countries would be influenced by the scope of the GFIT and by the depth of the subsidy embedded in it. Therefore, any choice of a fixed time profile for R as we do here may be subject to criticism. In the last resort
+        
+ Peru
+BelgiumSingapore
+Electricity production versus consumption
+Switzerland Austria
+Brunei Darussalam Germ any
+Japan France Korea, Rep.
+Netherlands
+Denmark
+Ireland Hong Kong, China
+Israel Saudi Arabia
+Spain Czech Republic united_kingdom
+Cyprus russian_federation Estonia
+Italy
+Trinidad and Tobago Greece Netherlands Antilles
+Slovak Republic Malta
+Portugal
+Hungary Bulgaria
+South Africa
+Croatia Chile
+Poland Om an Libya
+Belarus Latvia
+Uruguay
+Malaysia Kazakhstan
+Jam aica Brazil
+Costa Rica Mexico Nam ibia Arm enia
+Tunisia
+Morocco Bolivia India
+Paraguay
+Ghana
+     
+Production per capita (KWh/year)
+Thousands the changes in the shares of renewable that one can expect in reaction to the introduction of a GFIT depend on both the reactions of private sector energy companies to price incentives, and strategic national policy decisions (whether or not the share of renewables figures explicitly as a target in national development or energy sector strategies).
+In a refined version of this or other models that would seek to estimate countries responses to the introduction of a GFIT, a reasonable way to proceed would be to examine such strategies wherever they exist and deduce the time pattern for the share of electricity generation capacity that will be invested in renewables directly from them by means of ad hoc assumptions regarding the price elasticity of supply for various technologies. As this paper is interested in orders of magnitude, we do not enter into such detail and assume a geographically homogeneous time pattern of investment in renewables. In our base scenario, each year from  to 
+ per cent of new capacity is in renewables. Alternative results are presented for a more ambitious scenario in which the proportion of renewable sources increases from  percent in  to  per cent in .
+Energy mix chosen by the country for investment in renewables
+We suppose that the mixes of renewable energies chosen by countries reflect the capacity potential for the respective technologies in the corresponding region of the world, as determined by the recent study by REN  (Hoogwijk and Graus, ). The REN  study examines the potential for renewable energy sources for electricity generation, heat and cooling, and transport fuels. We suppose that investment in renewable
+New Zealand
+Consumption per capita (KWh/year)
+Thousands
+  
+electricity each year is divided among renewable sources according to their technical potentials for electricity generation as identified in that study. The corresponding figures, at the regional level, are given below in Figure . In the basic version of the model, each country within a region is assumed to adopt the same mix, as determined by the regional potential. A more detailed study would have to consider national and subnational differences in production possibilities for the various technologies.
+Figure :
+Shares of renewable energy sources in regional technical potential for electricity generation
+Renewable energy potential by region
+% % % % % %
+Costs of the various renewable and conventional energy sources over time
+The mixes are assumed to remain fixed over the subsidy period. Note that, as argued above, the fact that the GFIT examined here has different tariffs for the various technologies is an incentive for countries to focus on the energy sources that have the highest technical potential, irrespective of their cost relative to other technologies. Therefore, using technical potentials to divide the investment in renewables among the various technologies makes sense relative other alternatives such as considering the actual choices made by countries currently, in the absence of external support for renewable energy sources.
+Geothermal Electric Ocean
+Wind off-shore Windo onshore Hydro-power
+Solar PV Solar CSP
+The basic economic argument for subsidizing renewable energy technologies, and therefore for a GFIT like the one studied here, is that costs will decline over time, reflecting technological learning. This effect has been observed in the past, not only for renewable electricity technologies such as wind and solar PV, but also in other fields such as information technologies. Thus, we would expect cost projections for the various renewable technologies to have the usual hyperbolic shape, with unit costs decreasing at a declining rate over time.
+ See Hoogwijk and Graus, ECOFYS REN, Global Potential of Renewable Energy Sources: A Literature Assessment, Background Report (). Technical potential is defined as the total amount of energy (final or primary) that can be produced taking into account the primary resources, the socio-geographical constraints and the technical losses in the conversion process. Technical potential is defined by natural and climatic factors, land use and land cover limitations, as well as technical limitations. Economic potential and limitations, which are also considered in the study, are not used here.
+ See for example NREL, , and Nitsch, , p , for cost curves for off-shore and on-shore wind electricity in Germany.
+Proportion of poteintal (percent)
+North America OECD Europe
+Non-OECD Europe and FSU Africa and Middle East
+Asia latin_america
+Oceania WORLD
+Estimating the Amount of a Global Feed-in Tariff for Renewable Electricity 
+However, cost projections for the various renewable technologies for electricity generation are most difficult to find in a format compatible with the rest of the data. Many recent studies on these issues exist, but no two studies seem to be strictly comparable, due to differences in the scope of renewable technologies considered, the choice of the base year, the factors incorporated in the calculation of costs and the related assumptions concerning interest rates and other economic factors influencing those costs, the number of years for which projected data are available, etc. Many studies have good information regarding installed capacities but do not contrast such findings with cost projections. Thus, to obtain a complete data set, we have had to combine different sources.
+Sources examined for this study include:
+ The recent study done by the Federal Ministry for the Environment, Nature Conservation and Nuclear Safety of Germany (BMU) on the future development of renewable energies in Germany (Nitsch, ). This study includes projected cost curves for both renewable and conventional technologies for electricity generation;
+ US average levelized costs for the generating technologies represented in the National Energy Modeling System (NEMS) as configured for the updated Annual Energy Outlook  (US Energy Information Administration, );
+ LAZARDs Levelized Cost of Energy Components (High End and Low End) (Lazard, );
+ NRELs cost curve analysis (NREL, );
+ The Technical and Economic Assessment of Off-Grid, Mini-Grid and Grid Electrification
+Technologies done by the World Banks Energy Sector Management Assistance Program (world_bank, );
+ Data produced by various solar and wind energy organizations.
+Our first choice was to work with the EIA cost projections, because it was the most complete, and hence most comparable, set of data available. The EIA has levelized cost projections extending through  and for each renewable and conventional technology. Levelized costs represent the total cost of building and operating a generating plant over its financial life, converted to equal annual payments and amortized over expected annual generation from an assumed duty cycle. It quickly appears, however, that the applicability of renewable and conventional cost data from that study is limited, as the data are based on US costs and are shaped by features of the US domestic electricity market, as well as geographic and political factors.
+In fact, much of the projected cost data until  is influenced substantially by macroeconomic factors, such as interest rates and the cost of construction commodities. For example, the AA Utility bond rate, used by the EIA as a proxy for utility-sector borrowing costs, increases significantly through . A similar pattern arises in the metals producer price index, which is used by EIA as a proxy for the underlying cost of construction commodities. Those two factors level off in later years but they clearly drive the trends in projected costs for the initial years. Overall, the assumptions made about macro-economic factors translate in projected cost curves that do not have the expected technology learning effect shape, as illustrated by figure .
+ The key factors contributing to levelized costs include the cost of constructing the plant, the time required to construct the plant, non-fuel costs of operating the plant, fuel costs, the cost of financing, and the utilization of the plant. Additionally, other parameters are incorporated at various steps of the calculation. For a review of the technical explanatory notes behind the cost projections, see the EIAs detailed assumptions at: eia.doe.gov/oiaf/aeo/assumption/renewable.html
+  
+Figure :
+Costs of renewable electricity by source, projected to  by US-EIA
+Levelized cost for renewable electricity by source, as projected by US-EIA
+. . . . . . . . .
+   
+Year
+We therefore choose to use the
+German data for renewable electric-
+ity costs. Costs in the German study are expressed in  euros. They are converted to dollars by multiplying them by ., which represents an aver-
+age of the euro vs. dollar exchange rate during . The cost of electricity from all sources is expected to decline regularly between  ad ,
+except for hydropower, whose cost is expected to increase slightly. Apart from solar photovoltaic and hydro, all renewable technologies are projected to . deliver electricity at costs below  cents per KWh in . .
+One drawback of the German data is that they do not include costs  
+for the solar thermal (CSP) technology.
+We therefore have to make assumptions regarding the costs of that particular technology. We assume that the cost starts a US$ . per KWh, which is the value used in the US-EIA study, and then declines at a decreasing rate over time to reach US$ . per KWh in .
+The data produced by BMU for Germany, on the other hand, do not seem to suffer from the same problems. The shapes of the cost curves used in the BMU study are much closer to both theoretical expectations and the observed past pattern of costs for renewable electricity technologies (see for example curves for evolution of the costs of off-shore and on-shore wind electricity in Nitsch, , p). This is illustrated in figure .
+Solar Thermal
+Wind
+Wind-Offshore
+Solar PV
+Geothermal
+Biomass
+Hydro
+Figure :
+Costs of renewable electricity by source, projected to  by BMU
+Electricity costs for renewable electricity by source as projected by BMU
+. . . . .
+Hydro
+Photovoltaic
+Geothermal
+Wind offshore
+Wind onshore
+Biomass
+Costs (Euros per Kwh)
+Cost per Kwh (US $)
+Costs from the US-EIA study are used to calculate the cost of conventional electricity generation, except for hydro, for which we use the German data for the sake of consistency, as hydro is also included in the renewable sources. We use the cost curve for Conventional Coal from the US-EIA study for both natural gas and oil costs. The cost of Conventional Coal is used as
+Figure :
+Levelized costs of conventional electricity by source, projected to  by US-EIA
+Estimating the Amount of a Global Feed-in Tariff for Renewable Electricity 
+Cost of conventional electricity sources
+. . . . . . .
+Levelized cost for conventional electricity by source, as projected by US-EIA
+Conventional Coal Natural Gas-fired Advanced Nuclear Hydro the indicator cost for all coal production.  is the first year when all technologies are available to enter service due to
+EIAs assumptions for construc-
+tion and planning lead-time.
+For Conventional Coal and
+Advanced Nuclear, numbers are unavailable for some years.
+In those cases we used the first data point available for the missing years. The corresponding cost curves are shown on Figure . The costs for the four technologies are projected to remain in an US cents/Kwh band over the subsidy period.
+Disbursement schedule for the subsidy
+Several options can be considered when it comes to the disbursement of the subsidy for investments undertaken in a given year. A first natural option is to consider an upfront delivery of the subsidy, which covers the delivery of electricity for the full economic lifetime of the investment (in most cost scenarios,  years). While this option has the advantage of providing upfront cash that can be used to finance the physical projects, it also has the unattractive feature of implying very high subsidies from the first year of the project. Presumably, if a financing mechanism was put in place at a global level, the corresponding fund would build up progressively, so that a system in which the subsidy amounts grow progressively too would be more convenient.
+We chose to consider a disbursement schedule that matches the economic life time of the investments, as considered in the calculations of levelized costs made by various authors. In line with many of these studies we take  years as the economic life time of the investment. Subsidies for an investment undertaken in a given year will extend for  years. For example, renewable electricity capacity installed in  will benefit from subsidies, based on the levelized cost of the kilowatt-hour, from  to .The resulting time profile of subsidies is shown in Figure  below.
+  Year
+   
+Cost per Kwh (US $)
+  
+Figure :
+Subsidy disbursement schedule.
+In any given year after the start of the project,
+the total subsidy amount that will have to be disbursed will be the sum of the subsidies for past investments that have not yet reached their twentieth year. This is represented by vertical grey bars in Figure . The resulting total subsidy profile, in turn, is shown in figure  below for Brazil. The shape of the profile is shown for Brazil but looks similar for all countries. The subsidy first increases every year as new investment in renewables is made. However, it does so at a decreasing rate, because the price of the renewable energy mix decreases over time. After  no new investment is eligible so that the subsidy peaks and remains constant until , after which the subsidies corresponding to investments realised in  and later are progressively terminated. This results in a rapid decrease of the subsidy amount until  when the subsidy is finally phased out.
+Results
+This section presents the results of the model. We first focus on the most populated countries and on the estimation of the magnitude of the subsidy at the global level. We then examine the sensitivity of
+Figure :
+Subsidy profile for Brazil*
+. . . . . .
+Total subsidy from FIT Brazil the results to alternative assump.
+tions for selected policy variables,
+.
+. focusing on individual countries. .
+The baseline scenario considers that each year,  percent of the investment is made in renewable electricity. We also consider a more ambitious scenario where the share of renewable sources increases from  percent in  to  per cent
+. . . . .
+   
+*Assumptions: constant share of  per cent of investment in renewable sources.
+Year
+Amount (US$ billions)
+    
+    
+    
+    
+   
+  
+Estimating the Amount of a Global Feed-in Tariff for Renewable Electricity 
+in . We also examine what happens when the threshold for electricity consumption is increased from its base value (, Kwh/capita/year) to , Kwh/capita/year, which corresponds to the symbolic value of Kwh/capita/day.
+Table :
+Values of the parameters in the base scenario and alternative scenarios
+Figure  presents the time profile of the subsidy in the base case for the developing countries with more than  million people, which together represent about  per cent of the population living in developing and transition economies. From Figure , one can gather that the cost of the subsidy associated with the GFIT is substantial, topping US$ billion at the peak of the subsidy between  and . Extrapolated to all eligible countries, the amount of the subsidy would reach between US$billion at its peak. Also visible in Figure  is that India would be by far the largest recipient of the subsidy, followed by China, and a group of countries composed of Indonesia, Bangladesh, Nigeria, and Pakistan. This reflects the gaps highlighted above in Figure .
+Parameters
+Base value
+Variant
+Proportion of investment in renewable sources
+. for all years
+From . in  to . in 
+Electricity consumption threshold
+, Kwh/capita/year
+, Kwh/capita/year
+Figure :
+Total yearly amount for the GFIT subsidy for the  most populated eligible countries
+Figure  illustrates how the size of the subsidy changes when the target consumption threshold is increased from , Kwh/
+capita/year to , Kwh/ capita/year for three countries in the sample: China, Brazil, and Indonesia. Given the way incremental investment is calculated in this paper, the impact on the subsidy size is necessarily greater than the ratio of the two thresholds (approximately .); that is, at the global level, the subsidy increases by more than  per cent. The relative increase is the highest for countries that are the closest to the threshold. Thus, in the case of Brazil and China, the size of the subsidy is multiplied almost by a factor , whereas for Indonesia, the relative increase is only  per cent.
+Total yearly subsidy amount,  most populated eligible countries
+Congo, DR
+Thailand
+Iran Turkey Egypt
+Ethiopia
+Vietnam Philippines Brazil Pakistan
+I ndonesia Bangladesh
+Nigeria Mexico
+India
+China
+Year
+Value ( US$ billion)
+  
+Figure :
+Impact of a change in the target electricity consumption level from Kwh capita to  kwh/capita on the size of the subsidy.
+Another key parameter of the size of the subsidy is R, the share of renewables in the new investment. Given formula (), a uniform increase in this share during the whole subsidy period simply results in a proportional increase in the subsidy size, and thus presents limited interest for discussion here. More interesting is what happens when the time profile of investment in renewables is tilted towards the future, that is, when R increases over time. Figure  illustrates how the size of the subsidy changes when investment in renewable energies changes from the base case to a scenario where R increases from  percent in  to  percent in , for
+Change in the value of the subsidy associated with a change in target electricity consumption threshold
+    
+    
+    
+    
+    
+    
+    
+    
+    
+China base
+China high target
+Brazil base
+Brazil high target
+Indonesia base
+Indonesia high target
+  
+China, Brazil, and Nigeria. As the portion of renewable sources increases over time and the costs of related technologies decreases, total subsidy costs compared to the base case increase less than the ratio of the average shares in renewables under the two investment scenarios (., that is  percent on average in the progressive case compared to  percent in the base case).
+Discussion
+Figure :
+Impact of an increase in the proportion of renewables over time from . to .
+The simulations presented in section  show that the costs of a GFIT in terms of implied subsidy are extremely high. Extrapolated to all eligible countries,
+the amount of the subsidy would reach between US$billion at its peak. This is more than twice the annual Official Development Assistance (ODA) figures during the past decade. ODA from OECDs Development Assistance Committee members in  totaled
+Change in the value of the subsidy associated with increasing shares of renewables over time
+China base
+Brazil base
+China high renewables
+Nigeria high renewables
+Nigeria base
+Brazil high renewables
+Subsidy amount(US$ billion)
+Subsidy amount(US$ billion)
+Estimating the Amount of a Global Feed-in Tariff for Renewable Electricity 
+US$  billion dollars (OECD, ). Moreover, one could argue that these figures were obtained under a quite conservative scenario, as the share of renewables in new capacity, which is the only one being subsidized, is only  per cent. Targeting a share of renewables in new investment of  or  per cent by , for example, would result in transfers to a few countries that have no equivalent today. In addition, our calculations do not include the need for replacement of existing capacity. Thus, obviously total cost is one important limiting factor as far as political feasibility of a GFIT is concerned.
+As discussed above, the assumption that all developing countries will reach the target electricity consumption threshold by  can seem excessively optimistic. It is highly likely that, even if technology transfers were scaled up compared to the present and market barriers preventing the further penetration of renewable technologies would be lifted in most countries, not all countries would meet the target. At the same time, it can be argued that our base scenario does not go far enough with respect to the share of new capacity which is devoted to renewable energy sources. With respect to these issues, let us note that the parameter R can be used as a composite parameter to explore other scenarios reflecting lower ambitions in terms of electricity generation capacity and higher ambitions in terms of renewables share. For example, if we assume that countries that are presently below the target consumption threshold will only go halfway to bridging the gap from now to , but that the share of renewable energy sources is  per cent instead of  per cent, the subsidy size does not change. So, the results presented here are also valid for that scenario.
+Low per capita income is one factor limiting investment in electricity generation capacity in the first place, and this is not addressed by the GFIT. In low-income countries, potential electricity consumers may not be able to finance the baseline price for conventional technology. In such cases, having a subsidy for renewables based only on cost differentials is not sufficient; additional funding would be necessary. Also, other market or non-market factors may impede investments in electricity, and those likely vary from country to country. In order to check the plausibility of our assumptions, one could compare the projected investments in capacity implied by our model each year with past investment flows observed in the various countries. This would give a hint of which countries are likely to achieve the threshold by , and which are not. This cross-checking work is left for further study.
+One solution to a subsidy perceived as too costly would be a system in which only a portion of the cost differential is subsidized. Such a system would be reminiscent of incentives used in other areas, such as matching grants used in official development cooperation and advanced market commitments in health. The challenge would be to find a subsidy ratio that both keeps the total subsidy amount politically reasonable for those who would have to finance it, and is large enough to provide real incentives for governments, private sector investors and technology developers in developing countries to invest in renewable electricity.
+Conclusion
+In this paper we present a simple model aiming to estimate the subsidy cost embedded into a global feed-in tariff (GFIT) whose purpose would be to stimulate at the same time electrification in developing countries and the take-up of renewable energy sources for electricity generation. Such a tariff could be justified from both a development and a climate mitigation perspective. We use country data and estimates, regional projections for the technical potential, and projected future costs of renewable technologies to calibrate the model.
+  
+The basic parameter determining the eligibility of investments in renewable electricity to the GFIT is an annual electricity consumption threshold of , Kwh per capita. Most developing countries are currently below that threshold. Our estimates are based on the assumption that between  and , countries below the threshold strive to bridge the gap and achieve the threshold by . The period  to  corresponds to the period where major reductions in the cost of renewable technologies for electricity generation such as solar PV, geothermal, and wind are expected.
+The results indicate that the corresponding subsidy would at its peak be much higher than current ODA, with estimated order of magnitude of US$ billion (in constant  US$) from  to . While not infeasible, such an amount is clearly very high and not currently in the range of discussion of what developed countries might be willing to commit without hard negotiations. On the other hand, it is highly plausible that not all countries would be able to reach the threshold we have used for our calculations by , so that the subsidy that would need to be actually disbursed would be lower.
+This paper is limited to cost calculations and does not consider how a GFIT would be implemented. However, many other issues would probably arise in the implementation process. Which developed countries should provide funds for the GFIT, and how should the contributions of developed countries to the GFIT be divided? On the ground, how should the subsidy be delivered and to whom, producers or consumers? Should the GFIT be associated with other development finance to overcome poverty barriers? These are only some of the questions that would arise (on these issues, see Couture and Gagnon, , and Cory et al., ).
+Availability of reliable cost data for the various technologies is the most serious limiting factor in this paper, and for all the studies looking at similar issues. Cost projection data extending twenty years for all renewable and conventional energy technologies and covering the whole world simply do not seem to exist. When we did find estimates, they were for regions in the united_states or for individual countries. Another respect in which our model is a very crude representation of the real world is in the parameters that describe the mixes of renewable technologies that are likely to be adopted by the various countries. Should one be interested in regional and sub-regional results, better estimates could be obtained by working at the country level for all the parameters described in this paper.
+Notwithstanding, we hope this model instigates a dialogue among those seeking ways to assist developing countries to limit the growth in their greenhouse gas emissions while still developing fast. This model will hopefully encourage more detailed studies, including studies on cost projections for renewable energy technologies that are comparable, complete, extend for long periods, and incorporate country by country analysis.
+As far as the promotion of renewable energy technologies is concerned, a GFIT such as the one considered in this paper would address only a part of the problem electricity is not the whole story. Energy used for heating and cooling is another important component of total energy use that seems to have a high potential for decarbonization. Fuel for transport, on the other hand, seems to present a much bigger challenge, at least given what we know today (REN, ).
+

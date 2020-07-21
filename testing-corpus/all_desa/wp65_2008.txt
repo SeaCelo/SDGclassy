@@ -1,0 +1,493 @@
+New Thinking on Poverty: Implications for Globalisation and Poverty Reduction Strategies
+... progress on poverty has been achieved by pursuing a strategy that has two equally important elements. The first element is to promote the productive use of the poor s most abundant asset labour. It calls for policies that harness market incentives, social and political institutions, infrastructure and technology to that end. The second is to provide basic social services to the poor. Primary health care, family planning, nutrition and primary education are especially important ...a program of well-targeted transfers and safety nets [is] an essential complement to this basic strategy (world_bank, : ).
+The new evidence and broader thinking do not negate earlier strategies  such as that of WDR . But they do show the need to broaden the agenda. Attacking poverty requires actions that go beyond the economic domain ... Acknowledging the need for a broader agenda, this report proposes a general framework for action in three areas:
+Promoting Opportunity: expanding economic opportunity for poor people by stimulating overall growth and by building up their assets and increasing the returns on those assets.
+Facilitating Empowerment: making state institutions more accountable and responsive to poor people, strengthening the participation of poor people in political processes and local decision-making and removing the social barriers the result from distinctions of gender, ethnicity, race and social status.
+Enhancing Security: reducing poor peoples vulnerability to ill health, economic shocks, policy induced dislocations, natural disaster, and violence, as well as helping them cope with adverse shocks. (world_bank, ).
+Something has changed in the discourse on poverty. The above two quotes are from the World Banks flagship annual World Development Reports. The  and  versions of the World Development Report focused on poverty. The  report presented the so-called . point strategy based on labour-intensive growth, social sector investments and transfers/safety-nets for those excluded. The  report does not repudiate the  vision but broadens it, using the language of opportunity, empowerment and security. The rhetoric has indeed changed.
+Arguably this change in rhetoric reflects three main changes in thinking about poverty which have gained increasing currency over the past decade.
+First, the concept of poverty has been broadened. This is reflected in the move from a physiological model of deprivation to a social one, and subsequently, in the increasing attention afforded issues of vulnerability, inequality and human rights. Section  reviews these changes.
+Change # Broadening the Causal Framework
+  
+Figure  New Thinking on Poverty: Three Changes
+Change # Broadening the Concept of Poverty
+Inequality
+Strategies of Poverty Reduction
+Economic Capital
+Political Capital
+Human Capital
+Coercive Capital
+Social Capital
+Natural Capital
+Forms of Capital
+Physiological Deprivation
+Conceptions of Deprivation
+Social Deprivation
+Human Rights
+Vulnerability (Downside Risk)
+Change # Deepening the Causal Framework
+Shocks
+Exposure to Downward Pressures
+Stresses
+Coping Strategies
+Individual/Community Response
+Survival Strategies
+Strategies of Social Protection
+Second, the causal structure has been broadened to include a range of causal variables which previously received little attention. These have been phrased as forms of capital and include social, political, cultural, coercive and environmental capital. Section  reviews these changes and discusses their relevance in the context of globalisation.
+New Thinking on Poverty: Implications for Globalisation and Poverty Reduction Strategies 
+Third, the causal structure has been deepened to focus on flows of individuals into and out of poverty, rather than on changes in the stock of poverty, and on strategies of social protection vs. poverty reduction. The final section of this paper reviews recent empirical findings associated with the focus on flows and discusses the implications for globalisation.
+There are at least four caveats which should be kept in mind when reviewing the analysis.
+First, the above changes are new only in the sense that they are now being increasingly incorporated within the mainstream discourse on poverty. All of the underlying ideas, however, are quite old, and have appeared in different guises over the years.
+Second, the opening quotations from the World Banks World Development Reports were used because they provide good statements of the major changes in thinking about poverty. This does not imply that the world_bank spearheaded most of these changes, which it did not. Further, it doesnt imply that the world_bank has taken the lead in putting these changes into practice, which remains to be determined.
+Third, diagrams are used throughout to visually present the major points in the paper. These can be skipped without loss for those who prefer the textual exposition.
+Fourth, the paper is written with the developing world in mind. Some of the ideas may generalise more broadly but the examples and illustrations all relate to the experience of poverty reduction in this region.
+Broadening the Concept of Poverty
+The concept of poverty has undergone at least four changes over the past decade:
+First, there has been a shift form a physiological model of deprivation, focused on the non-fulfilment of basic material or biological needs to a social model of deprivation model, focused on such elements as lack of autonomy, powerlessness, lack of self-respect/dignity, etc.
+Second, there has been renewed emphasis placed on the concept of vulnerability and its relationship to poverty (however defined).
+Third, the concept of inequality, and its relationship to poverty, has re-emerged as a central concern.
+Fourth, the idea that poverty should be conceptualised as the violation of basic human rights has been powerfully argued of late by UN system agencies, among others.
+From Physiological to Social Deprivation
+The physiological deprivation model has been the conception of poverty which underlies the most widely used approaches to poverty analysis in the developing world. The two main poverty approaches which rely on the physiological model are: the Income/Consumption (I/C) Poverty approach and some versions of the Basic Human Needs (BHN) Approach
+ See Laderchi, Saith and Stewart () for a comparative analysis of the approaches to poverty found in this section.
+  
+The Income/Consumption (I/C) Approach
+A person is poor in any period if, and only if, her or his access to economic resources is insufficient ... [to]
+acquire enough commodities to meet basic material needs adequately (Lipton, : ).
+The I/C approach to poverty is used extensively in applied welfare economics. The approach combines two distinct elements: first, well-being is conceived as preference fulfilment and represented in terms of equivalent income or consumption (money metric utility); second, an income/consumption poverty line is drawn which represents a need adequacy level. The poor are those whose income or consumption falls below this poverty line. Poverty may be conceived of as non-fulfilment of basic preferences.
+The physiological deprivation model underlies the specification of the poverty level. While there are different ways to derive this poverty line, two techniques are in widespread use. The first, the food energy method, estimates a food energy minimum required to satisfy dietary energy (caloric) requirements and then determines the level of income/consumption at which this minimum is typically met. The second, the foodshare method, estimates the minimum cost of a food basket which satisfies the food energy minimum and multiplies this by the non-food share in total consumption of a sub-group classified as poor (e.g. the bottom  per cent of the distribution). While both of these approaches allow for more than simply dietary energy needs (food consumption), they are anchored on the physiological deprivation model.
+The Basic Human Need (BHN) Approach
+Basic needs may be interpreted in terms of minimum specified quantities of such things as food, clothing, shelter, water and sanitation that are necessary to prevent ill health, undernourishment and the like... (Streeten and others, : )
+The BHN approach reached the height of its popularity in the s though have made a come-back lately in the form of the mdgs. While there are a number of different versions of the BHN approach, a prominent variant affords primacy to basic physiological deprivation. Deprivation is conceived of as inadequate fulfilment of a number of different basic needs relating to nutrition, health, education, shelter, water, sanitation, etc. The BHN approach differed from the I/C approach to poverty in three ways: first, it usually specifies a complete basket of basic need goods/services (food, health, education, water, sanitation, etc.) or related achievements (nutrition, life expectancy, mortality, etc.) rather than relying on the indirect methods of the FEM and FSM approaches to determine non-food needs; second, it represents relevant aspects of well-being in terms of the different need goods/services or achievements (or in some cases a composite indicator) but not in terms of equivalent income/consumption; third, it sets an adequacy level for each of the different need goods/services instead of specifying an income/consumption poverty line based on dietary energy adequacy.
+The social deprivation model challenges the physiological deprivation model on two different levels: first, it rejects the representation of relevant aspects of well-being in terms of equivalent income/consumption (I/C approach) or basic need goods/services and achievements (BHN approach); second, it rejects the specification of a need adequacy levels in terms of basic physiological deprivation in both I/C and BHN approaches. In practice, these two critiques coalesce because reliance on non-physiological components of well-being often precludes exclusive reliance on a physiologically-based need adequacy level.
+ See, inter alia, Lanjouw () Lipton (), Ravaillon (), Laderchi () and Streeten ().
+ See, inter alia, Gasper (a, b), Streeten and others () and Streeten ().
+New Thinking on Poverty: Implications for Globalisation and Poverty Reduction Strategies 
+Of the many different formulations of the social deprivation model, three are particularly relevant to the developing world.
+Human Poverty Approach
+It is in the deprivation of the lives that people can lead that poverty manifests itself. Poverty can involve not only the lack of the necessities of material well-being, but the denial of opportuni-
+ties for living a tolerable life. Life can be prematurely shortened. It can be made difficult, painful or hazardous ... deprived of knowledge and communication ... robbed of dignity, confidence and self-respect... All are aspects of poverty that limit and blight the lives of many millions in the world today (UNDP, : )
+The Human Poverty approach has been advanced recently by UNDP in its Human Development Reports. The approach draws heavily on the conceptual framework provided by Amartya Sen. Sen conceptualises poverty or deprivation in terms of the absence of certain basic capabilities to function. Sens underlying idea is that poverty should include both what we feasibly could or could not do (the capability set), the commodity requirements of these capabilities which differ interpersonally and over time, and what we are or are not doing (functionings). UNDP draws on this conceptual framework and proceeds to specify some of the basic capabilities in question. It includes the capability to lead a long, healthy, creative life and to enjoy a decent standard of living, freedom, dignity self-respect and the respect of others (UNDP, : ).
+Social Exclusion Approach
+The Social Exclusion approach has recently been propounded by the International Institute for Labour Studies at the ILO. As a conceptualisation of poverty or deprivation, it comes very close to the relative deprivation conception of poverty expounded, inter alia, by British sociologist Peter Townsend. The underlying idea is that poverty or deprivation is best regarded as lack of resources required to participate in activities and enjoy living standards which are customary or widely accepted in society. The Social Exclusion approach connects poverty closely with issues of citizenship and social integration and their associated resource requirements.
+Participatory Approach
+...deprivation and well-being as perceived by poor people...question the degree of primacy often attributed to income-poverty...Income matters, but so too do other aspects of well-being and the quality of life health, security, self-respect, justice, access to goods and services, family and social life... (Chambers, : )
+The Participatory approach is really not a way of conceptualising poverty/deprivation as it is a means of determining who should do the conceptualising. It argues that conceptualisations of poverty and deprivation must follow an interactive process involving Participatory Poverty Assessment (PPA) facilitator and local people engaged as participants in dialogue. It is an example of the social deprivation model, however, because local definitions of deprivation often go beyond physiological deprivation and sometimes afford greater weight to social than physiological elements of deprivation. Elements of deprivation which often figure prominently in the PA approach in lack of dignity, self-respect, security, justice, etc.
+Vulnerability
+Vulnerability is not poverty, however defined. It is the likelihood of falling into poverty or falling into greater poverty. This may be phrased as downside risk. Vulnerability is a function of two main variables: exposure and response to downward pressures. Downward pressure are sometimes referred to as stresses and shocks, the former gradual and cumulative and latter sudden and unpredictable. The relatively recent attention given to the concept of vulnerability, within the discourse on poverty, is due to at least three considerations: ) the fact that vulnerability is often cited as a major concern in participatory poverty assessments; ) the recent availability of panel data which allows one to track individual households over time; ) the Asian crisis which brought out starkly the dire social consequences of vulnerability in countries which had fared quite well in reducing long-term chronic poverty.
+The emphasis on vulnerability is very closely linked with the third change in thinking about poverty discussed in the section on the deepening of the causal framework. The policy consequences of a vulnerability-focused approach are discussed at length in this section.
+Inequality
+Inequality is also different from poverty, however defined. Inequality is usually concerned with the distribution of some well-being indicator (often, consumption or income) over an entire population. Inequality has been rediscovered in recent years for a number of reasons including: (i) research results affirming that on average, the rate at which growth reduces poverty is higher, the lower the level of inequality (Ravallion, ); (ii) a growing, though still inconclusive, body of evidence suggesting the higher inequality reduces the rate of growth (Aghion and others ); (iii) the fact that some social ills, such as crime and conflict, appear to be a function of inequality and not absolute poverty levels (Bourguignon, ); (iv) the rapid rise in inequality in some OECD, transition and developing countries in recent years (Cornia, ); and (v) the apparent increase in global income inequality in recent years (though this is sensitive to the time frame and measurement assumptions (Milanovic, , ).
+The policy implications of the dual focus on inequality and poverty relate to disentangling the relationship between inequality reduction, poverty reduction and growth. In practice, this entails examining the distributional and growth effects of specific policy measures and, in cases of trade-off, making a decision about the relative importance to be afforded growth or equity objectives. Certain potential areas of trade-off will be highlighted in the text.
+ See in particular Sinha and Lipton (), Chambers and Conway () and Moser ().
+ This is a somewhat arbitrary distinction given that vulnerability often figures as a major dimension of deprivation in PPA findings. The distinction is useful however, as it does have operational significance.
+ See in particular, Atkinson (), Kanbur and Lustig () and Kanbur ().
+ It is closely related to some measures of income/consumption poverty, such as those which base the poverty line on a percentage or mean or medium income, and also causally related to poverty. It is not the same thing however.
+New Thinking on Poverty: Implications for Globalisation and Poverty Reduction Strategies 
+Violation of Basic Human Rights
+...a decent standard of living, adequate nutrition, health care and other social and economic achievements are not just development goals. They are human rights inherent in human freedom and dignity (UNDP, : )
+The conceptualisation of poverty as the violation of basic human rights has received attention recently due largely to the efforts of UN System Agencies and human rights organisations. The case to conceive of poverty in human rights terms is largely due to the affirmation of the equal status of economic, social and cultural rights on one hand and civil and political rights on the other. Though economic, social and cultural rights appeared alongside civil and political rights in the  Universal Declaration of Human Rights, they were subsequently separated in two Covenants adopted by the UN in . The separation of the two sets of rights was driven largely by Cold War geo-political considerations with the Socialist bloc and allies favouring the former and the liberal democracies favouring the latter.
+The language of human rights adds to the expanded conceptualisation of poverty the notion that poverty is the denial of an entitlement, a right which is unfulfilled. Many of the specific rights in question however, including the civil and political rights, already figure in some way in the expanded conception of social deprivation. For example, issues of discrimination and unequal treatment figure prominently in the social exclusion approach. For this reason, it is likely that the real value-added of the language of rights is to redirect attention to different types of tools, in particular legal and juridical, which may be used in the fight to reduce poverty. In addition, the language of rights may have an important motivational and empowering effect in the struggle to reduce poverty. This is due to the fact that rights, unlike preferences and (probably) needs, imply a claim and a duty for their fulfilment.
+Broadening the Causal Framework
+The second major change in thinking about poverty has been the broadening of the causal framework to include a range of causal variables which previously received little attention. This second change may be conceptualised in terms of broadening the forms of capital which have figured in poverty analysis. The Section below explains what is meant by capital and provides examples.
+As discussion in the preceding section, the first major development in thinking about poverty dynamics has been the introduction of different forms of capital into standard poverty analysis.
+The present section outlines some of the policy implications, schematically depicted in Figure . It explores the evolution in thinking about poverty beginning with the poverty reduction strategy advanced by the world_bank in its  World Development Report.
+ See Alston (), Maxwell (), Nickel (), Osmani (), Pogge (, ), UN-OHCHR () and UNDP ().
+ Much of this section is drawn from Shaffer (a).
+  
+Causal Variables: Forms of Capital
+One way of thinking about causal variables, which has recently been applied in the poverty literature, is in terms of different forms of capital. The term capital is being used in the broadest sense as resources or assets which may be utilised to achieve social objectives, however defined.
+A decade ago, standard analysis of poverty dynamics was based largely, if not exclusively, on economic and human capital. Over the past decade, five additional forms of capital have come to play an increasingly important role: social, political, cultural, coercive and natural capital. It is useful to briefly review the central characteristics of all seven of these forms of capital, schematically depicted in Figure .
+. Economic Capital corresponds broadly to those factors of production (land, labour, capital) which generate primary income as well as economic assets (livestock, jewellery, etc.) and credit.
+. Human Capital refers to individual characteristics or attributes which are central for the achievement of human goals. A short list would include satisfactory levels of physical and cognitive development due to adequate health, nutrition and education.
+. Social Capital refers to those social organisations, relationships and networks which facilitate co-ordination and management of extra-market and collective tasks and which provide critical support in times of crisis. Social capital relates closely to concepts of trust and reciprocity.
+. Political Capital comprises the network of informal and formal political alliances which provide access to resources and confer decision-making authority.
+. Cultural Capital includes those norms, beliefs and values which assign roles, confer status and determine entitlements and obligations of different social groups (based on gender, caste, age, ethnicity, etc.).
+. Coercive Capital which includes sources of violence, intimidation, force, etc., is a means of enforcing social norms and maintaining (at times, repressive) social relationships.
+. Natural Capital refers to the quality and quantity of the stock of available natural resources, including common property resources, and to the knowledge/skills required for natural resource management and conservation.
+Changes in any one of the above forms of capital interact in complex ways with other forms of capital to constitute poverty-relevant social change. In many cases, changes in forms of capital are mutually supportive and promote the same social objective. For example, social mobilisation by scheduled caste members (social capital) to extricate themselves from repressive patron-client relationships may in turn have positive implications for cultural capital (status, roles) and coercive capital (fear, intimidation). Furthermore, there may be mutual reinforcing links between the different forms of capital and different underlying conceptions of well-being. For example, a positive change in economic capital (income) may effect a positive change in cultural capital (status) and political capital (decision-making authority). In cases such as these, analyses
+ The analysis of processes of social change in terms of forms of capital is found in Bebbington (), Bevan and Ssewaya (), Bevan and Joireman () and Bourdieu (). Similar analyses are provided in Moser (), UNDP () and some of the entitlements literature which uses the terminology of assets instead of capital (Gasper, ; Swift, ).
+ Primary income refers to income generated directly through the production and exchange of goods and services (Stewart, ). It is transmitted through markets, in particular labour and product markets. It is distinguished from secondary income which refers to the distribution of income after taxation and benefits through public or private transfers. These include, inter alia, subsidised goods (food) and services (health, education), remittances, pension receipts, etc.
+ Social capital has become a vogue concept and spawned a huge literature. See Woolcock () for an overview and, inter alia, Narayan () for its relevance to poverty.
+New Thinking on Poverty: Implications for Globalisation and Poverty Reduction Strategies 
+based on different forms of capital may very well lead to similar policy prescriptions (e.g. Grameen Banktype social organisation for credit access).
+There are cases, however, where the analyses either conflict or diverge, with implications for policy prescription. Three scenarios present themselves.
+First, changes in forms of capital may have conflicting effects on each other and on different aspects of well-being. Thus, increases in economic capital (income) and corresponding declines in physiological deprivation may come at the expense of dignity, self-respect and social capital, if employment is particularly degrading or humiliating and if it undercuts existing social organisations or the capacity to organise (e.g. by reinforcing patron-client relationships.).
+Second, different emphasis may be placed on the relative importance of different forms of capital in promoting a given social objective even if they move in the same direction. Thus, the relative importance afforded say, economic (income) or human (nutrition) capital in promoting nutritional improvements may very well determine the types of intervention deemed appropriate.
+Third, different types of capital and different aspects of wellbeing may be unrelated. Thus, changes in cultural and social capital for the sake of ending practices such as slavery, rape, violence, etc. may bear little relation to changes in economic capital and economic aspects of well-being.
+In all three of these cases, policy prescriptions derived from analyses of different forms of capital would differ. The following section provides other examples of different policy prescriptions generated by analyses of different forms of capital.
+The  Approach: Economic and Human Capital
+World Development Report  heralded a major policy shift for the world_bank. Poverty reduction became the World Banks overriding operational objective based on the dual strategy of labour-intensive growth and investment in human capital (health, education) with safety nets/transfers proposed for those excluded from growth. This position represented a widely held view of the main causal forces which would serve to reduce poverty in the years to come.
+This strategy is based on a physiological model of deprivation and on human and economic capital based conceptions of social change. It is an amalgam of three different approaches to poverty reduction, the direct transfer, human capital and production function approaches, all of which will be discussed in turn.
+Direct Transfer Approach/Interventions
+The Direct Transfer Approach to poverty reduction is the only one which doesnt rely on the above analyses of forms of capital. It is included, however, because of its importance as an anti-poverty strategy. This
+ One example is provided by Jodha () who analysed data on income and quality of life indicators in two villages in Rajastan, India in and -. He found that while villagers had become more income poor over this time period, their overall quality of life had improved. Improvements were of five types: reduced reliance on traditional patrons and landlords; reduced dependence on low pay-off jobs; improved mobility and liquidity position; acquisition of consumer durables.
+ This issue has come to the fore in the context of debates about calorie income elasticities. Some recent evidence has revised downwards conventional estimates of changes in caloric intake associated with an extra unit of income. One potential policy implication is that direct nutrition intervention may be preferable to income generation schemes as a means of improving nutritional outcomes (see, Alderman () and Deaton (: Ch. ) for reviews.).
+  
+approach aims to transfer cash or in-kind income to the poor by providing subsidised goods and services or employment guarantees. As such, its primary benefit is realised directly by the transfer and not mediated by the above forms of capital (although second-order effects may work through these forms of capital if say, nutrition subsidies build human capital which increases productivity, etc.). This approach is situated within the purview of the physiological deprivation model. The objective of increasing (or smoothing) income levels of the poor and/or supplying basic goods and services (health, nutrition, etc.) is intended to facilitate basic preference fulfilment and/or basic need satisfaction.
+Box  Public Works: Rules for Success in Poverty Alleviationa
+Public works programmes have been widely used to reduce transient and chronic poverty and have significantly increased in scale over the past decade. Important programmes have been established in Bolivia, Chile, Honduras, Cape Verde, Botswana, Bangladesh and India. A number of the more important rules for success culled from the empirical record include:
+. Design Employment for Low Opportunity Cost: ensure availability during the slack season.
+. Use Self-Targeting: avoid administrative costs, leakages and political manoeuvrings.
+. Use Pro-Poor Rules: quick payment, nearness, creches, timing of payments, etc.
+. Minimise Transaction Costs of Participation: including transport, bribes, registration, etc. . Ensure that Low Labour Demand Causes Poverty: surplus labour is a sine qua non.
+. Subsidise Coverage, not Wage Rates: to ensure sustainability and self-targeting.
+. Encourage Grassroots Pressure Groups: to monitor the scheme and prevent corruption.
+a This discussion is an adapted version of Lipton ().
+The three main categories of direct transfer (safety net) interventions are: in-kind transfers; cash transfers and public employment schemes. In-kind transfers are of four types: price subsidies, quantity rationing schemes, food stamps and nutrition interventions often targeted to the poor by food type (coarse grains, roots) or by characteristics of the recipient (geographic, gender, etc.). Cash transfer measures with a poverty focus include social assistance, such as old-age, widow or disability pension schemes, and family assistance programs. Public works schemes serve the function of creating or maintaining basic infrastructure (roads, irrigation, health, education, etc.) by providing employment for those facing chronic or seasonal underemployment or unemployment (see Box ).
+Human Capital Approach/Interventions
+The Human Capital approach to poverty reduction focuses on the links between investment in education, health and nutrition and the primary incomes of the poor. Emphasis is placed on the interrelationships between these variables as well as their relative importance in explaining changes in productivity. The human capital approach is the straightforward application of the analysis of human capital-based analysis of social change. This approach is closely related to the physiological deprivation model insofar as the primarily objective is to increase basic preference fulfilment by increasing primary incomes to increase basic needs satisfaction directly by social service provision.
+ See, inter alia, Gaiha (), Lipton (), Subbarao and others () and the world_bank webpage on safety nets at worldbank.org/poverty/safety.
+ See Behrman (), Jimenez () and Strauss and Thomas () for reviews.
+New Thinking on Poverty: Implications for Globalisation and Poverty Reduction Strategies 
+Box  Political Economy of Poverty Targeting a
+Are targeted poverty reduction interventions preferable to universal programs? The answer depends on a host of factors including disincentive effects as well as administrative, leakage and political costs associated with targeting. Of late, political-economy considerations have received increased attention. Analysts of very different political persuasion (e.g. public choice theorists and Marxists) have argued that targeted interventions are unlikely to work because they will not generate or maintain the requisite political support from powerful social groups who do not reap direct benefits from them. This argument,
+while plausible in many cases, is overstated. It does not hold in situations where: (i) powerful social groups view poverty targeting to be in their own interest; (ii) the state is ideologically committed to poverty reduction. The relative costs and benefits of targeting, then, cannot be determined in the abstract and must rely on careful analysis on a case by case basis.
+a See, in particular, Besley and Kanbur (), Gelbach and Pritchett (), Moore () and van de Walle ().
+Major expenditure items for human capital interventions are education and health with smaller allocations to nutrition and water/sanitation. Poverty-focused education interventions have concentrated on rural-based primary education, basic literacy programmes, overcoming gender biases in education access, etc. Pro-poor health interventions have emphasised rural primary health care on a community-based rehabilitation (CBR) model, access to pre and post natal care, immunisation programmes, population and family planning programmes, etc. Pro-poor nutrition interventions have focused on oral rehydration therapy, deworming, nutrition surveillance and growth monitoring. Poverty-focused water and sanitation interventions include urban slum improvements (water lines, drainage and waste disposal systems) and community-managed rural water supply provision (hand pumps). In most cases, poverty-focused social expenditure involves some sort of targeting mechanism (e.g. geographic) with a view to facilitate disproportionate benefits for the poor (see Box ).
+Production Function Approach/Interventions
+The Production Function approach to poverty reduction focuses on those mechanisms which increase the primary income of the poor. Emphasis is placed on factors which increase the level or price of output and/or the returns received by poor producers. The analysis is based on the idea of a production function whereby output is a function of factors of production (land, labour and capital) and technology. Increasing output entails increasing the volume, distribution, productivity, or changing the relative prices, of factor inputs. The Production Function approach is based primarily on the analysis of economic capital, and secondarily on human and (perhaps) social capital. It evinces a close affinity to the Income/Consumption variant of the physiological deprivation model, in so far as the primarily objective is to increase basic preference fulfilment by increasing primary incomes.
+Production function interventions centre on changing factor inputs (land, labour, physical capital and financial capital) to increase the level or price of output of the poor. Table  lists six ways that these
+ See, inter alia, UNICEF (), world_bank (, ).
+ Ray (: chs -) provides a good overview.
+ For the present purposes, capital is comprised of physical capital and financial capital (credit). Credit is not an input in production but it is often included as an operational part of the production function approach.
+  
+Box  Credit: Rules for Success in Poverty Alleviation a
+Provision of microcredit has recently received considerable attention as a means of reducing poverty. The renewed emphasis on credit has been spurred by exceptionally high repayment rates achieved by a number of development finance institutions, notably the Grameen Bank. Recently, some of the allegedly beneficial consequences of microfinance provision for women and the hard-core poor have been questioned (Hulme and Mosley, ), as have some claims of financial sustainability, targeting accuracy and income/consumption gains due to participation (Morduch, ). In addition, some maintain that micro-credit distorts financial markets and leads to unsustainable debt (Adams and Pischke, ). Nevertheless, micro-credit has undoubtedly realised some successes in poverty alleviation. A number of the more important rules for success in credit provision culled from the empirical record include:
+. Respect Fungibility: allow multiple uses of loans.
+. Use Indirect Targeting: avoid administrative costs, leakages and political manoeuvrings.
+. Seek Alternatives to Physical Collateral: e.g. group lending/peer monitoring
+. Minimise Transaction Costs of Participation: e.g. paperwork, bribes, repeated visits, etc.
+. Avoid Lending Monopolies: avoid regressive credit rationing and reduced credit supply.
+. Ensure that Extra Credit is Productive: i.e. opportunities for income generation exist.
+. Subsidise Administration, not Interest: avoid reduced credit supply (by alternative lenders),
+expropriation of credit by wealthy borrowers, negative real interest rates, etc.
+a Most of this discussion is adapted from Lipton ().
+three inputs may contribute to raising output: (i) increasing input volume; (ii) improving factor distribution holding volume constant; (iii) increasing factor productivity; (iv) pro-poor increases in factor productivity; (v) reducing price of inputs bought by the poor; (vi) increasing the price of outputs produced intensively with inputs used by the poor. The resulting poverty interventions presented in Table  are summarily discussed below.
+Land
+Rural land-based poverty interventions include: settlement schemes, land reform, land tenure reform, technological change (high yielding varieties), subsidised input packages (fertiliser, seeds) and increased producer prices. The corresponding urban interventions include: land title reform (including squatters rights); urban boundary expansion; multi-story construction and site and service programmes.
+Labour
+Labour-based poverty interventions include: increasing employment information; increasing participation rates (creches, population policy); eliminating barriers to entry (anti-discrimination legislation); improving workplace health and safety; developing labour-using techniques of production; supporting small and medium enterprise (SME) development, esp. in rural non-farm and urban informal sectors. More direct labour market interventions include minimum wage legislation and child labour legislation.
+Physical Capital
+Physical capital-based poverty interventions in rural areas include provision of: irrigation, all-weather roads, tubewells; small asset subsidies and marketing support for micro-enterprises. The urban variants place par-
+New Thinking on Poverty: Implications for Globalisation and Poverty Reduction Strategies 
+Table  The Production-Function Approach
+Inputs
+Land
+Labour
+Capital
+Credit
+Input Volume
+Rural
+Settlement Schemes
+Rural
+Population policy; Creches, employment info.
+Rural
+Non-farm capital; Irrigation; Infrastructure
+Rural public supply or incentives to lending
+Urban
+Land title reform; Urban boundary
+Urban
+Same as Above
+Urban
+Infrastructure; W ater/Sanitation
+Urban
+Same as above
+Input Redistribution
+Rural
+Land Reform
+Rural
+Antidiscrimination laws (women, caste members etc.)
+Rural
+Capital for landless (e.g. tubewells)
+Rural
+Pro-poor lending (via quotas or incentives)
+Urban
+Squatters Rights
+Urban
+Same as above
+Urban
+Producer co-ops;
+Urban
+Loan pools/co-ops among the poor
+Input Productivity
+Rural
+Technology Tenure Reform
+Rural
+Public Health and Safety
+Buses to Work
+Rural
+Improved Irrigation delivery
+Rural
+Tech. assistance/ training for lenders/ borrowers
+Urban multi-story construction
+Urban
+Same as Above
+Urban
+Public Goods; Information re. marketing etc.
+Urban
+Same as above
+Pro-Poor Input Productivity
+Rural
+Technology on poor peoples crops (e.g. cassava)
+Rural
+Extension for labour tasks (timesaving)
+Rural
+Barefoot management consultants
+Rural
+NGO-based credit user groups,
+Urban
+Site and Service Programmes
+Urban
+Labour-using techniques of production
+Urban
+Support for SMEs and informal sector Anti-corruption
+Urban
+Technical assistance to poor borrowers/ development banks
+Input Prices for Products of Poor
+Rural
+Micro-packaged fertilisers, seeds
+Rural
+Labour-using technical change
+Rural
+Subsidies for small asset purchases
+Rural
+Poor-selective capital/interest subsidies
+Urban cost of land intensive activities
+Urban gap between cost of labour and wages
+Urban n/a
+Urban
+Public program of loan guarantees
+Output Price for Products of Poor
+Rural implicit/explicit agricult. Taxation
+Rural
+Information for seasonal migrants
+Rural
+Marketing co-ops for family microenterprises
+Rural
+Credit linkage to coop production/ marketing
+Urban price of land intensive products of the poor
+Urban price of labour intensive products of the poor
+Urban
+Assistance to market co-ops and SMEs
+Urban price of capital intensive products of the poor
+  
+ticular emphasis on support for SMEs either by reducing state corruption and red-tape or by active support (subsidised consulting).
+Credit (Financial Capital)
+The principal credit-based poverty interventions support increased credit provision to the poor groups in any of the following ways: by promoting Grameen-bank type initiatives; by developing pro-poor banking within the existing banking system; by providing credit as part of SME support.
+Broadening the Framework: Political, Social, Cultural and Coercive Capital
+The past decade has seen the broadening of the World Banks . point strategy of poverty reduction. The inclusion of social, political and cultural capital into the analysis of poverty is reflected in the increasing importance afforded issues which have come to fall under the heading of governance.
+Governance is a term that is used differently in different contexts. It has been defined in technocrat terms to refer to public sector management issues (e.g. civil service rationalisation, public enterprise management, public financial management, results-base management), in public policy terms to refer to publicly supplied prerequisites of market functioning (private property, enforceable contracts, transparent dispute adjudication mechanisms), etc. The present definition is concerned with different issues. In its present use, governance embodies three basic principles: inclusiveness, lawfulness and accountability.
+Governance-I Approach/Interventions: Promoting Inclusiveness
+Inclusiveness requires that governing structures, either formal or informal, be representative of, or give voice to, a wide range of diverse interests, including those of the poor. It presupposes that deprivation and impoverishment are due to exclusion from effective decision-making authority and seeks to redress this by empowering groups which have been historically disenfranchised. As such, inclusiveness relates closely to issues of empowerment (conscientisation and social mobilisation), participatory democracy, civil_society organisation (including the role of NGOs and the media), and decentralisation. Inclusiveness bears a close relationship to social, political and cultural capital and to aspects of well-being/social deprivation related to agency, self determination, dignity, self-respect and social integration.
+Empowerment
+Empowerment interventions subdivide into those which address internal and external sources of power. The internal dimension of power consists of internalised beliefs, norms and values which serve to maintain subordination within a social hierarchy. Internal empowerment is a process of questioning the validity of existing norms and beliefs and of raising awareness of possibilities hitherto considered unthinkable. There are a range of potential interventions aimed at conscientisation which depend on the nature of the power relations in question. (see Box  below).
+External empowerment is a process of gaining control over important aspects of ones life usually through collective processes of organisation and mobilisation. External empowerment directs attention to the objective of building social and political capital through collective organisation and mobilisation. Exter-
+ See Hyden and others ().
+ See, inter alia, Goudie (), Moore and Putzel (), Schneider () and world_bank ().
+ See, inter alia, Kabeer (), Rowlands () and Sen ().
+ See inter alia, Esman and Uphoff (), Riddell and Robinson (), and Uphoff ().
+New Thinking on Poverty: Implications for Globalisation and Poverty Reduction Strategies 
+Box  Internal Empowerment through Educationa
+The Mahila Samakhya programme launched in  is Indias National Policy on Education. The express intent of the programme is to raise awareness among women of their position in a gender-based social hierarchy. The aim is for women to demand literacy on their own as their social awareness increases. The process involves mobilising women in groups at the village level to collectively demand access to services and resources. Apparently, the program has been successful at raising the esteem and self confidence of women with beneficial spin-offs. In the words of a programme worker: women are increasingly confident of tackling their issues independently ... a woman whose husband was a chronic drinker, had sold virtually everything in the house to buy drink ... She mobilised the entire village, and picketed the four liquor shops in the village. They said that they would not allow a single drop of liquor to be sold in that village.
+a This example is from Sen ().
+nal empowerment may serve a range of ends including access to credit, land or health, protection of rights of women/caste members, liberation of slaves and indentured labour, etc. Complementary poverty interventions include support for those grassroots, local and non-governmental organisations, etc. which focus on improving living conditions of marginalised groups (see Box ).
+Box  External Empowerment through Political Organisationa
+Nijeri Kori is a Bangladeshi NGO which has had success in building the social and political capital of the poor. It argues that the exclusion of the poor from access to public entitlements (unclaimed land, public works schemes) is a function of their lack of political power. It emphasises development of organisational capacity through activities which include training in human and skill development, legal-assistance and collective mobilisation. Mobilisation efforts by Nijeri Kori Groups have been directed at raising the agricultural wage, resisting the expropriation of unclaimed lands by powerful landlords, joint occupation and cultivation of such lands, publicising government corruption, etc.
+a This example is from Kabeer ().
+Decentralisation
+Decentralisation has figured prominently in recent years as one means of promoting inclusiveness by bringing decision-making structures closer to local people. Some proponents of decentralisation argue that the process may serve to reduce poverty insofar as local governing structures are more likely to be responsive to the needs of their poor constituents. There are at least three different variants of decentralisation which aim to achieve this objective:
+ deconcentration, or the shifting of functions within the federal government hierarchy to field offices.
+ delegation, or the transfer of state functions to non-state or quasi-state actors
+ devolution, or the transfer of state functions to sub-national governments
+ See, inter alia, Crook and Sverrisson (), OECD/DAC (), Moore and Putzel () and UNDP ().
+  
+Recent evidence, however, suggests that decentralisation does not necessarily benefit the poor. The alleged link between increased local governance and pro-poor outcomes is mediated by a number of variables, many of which are absent in unsuccessful experiences of decentralisation. (see Box ).
+Box  Is Decentralisation Pro-Poor?a
+A recent evaluation of twelve cases of decentralisation in Asian, latin_america and sub-Saharan Africa examined the effects of decentralisation on representation/ participation of the poor and on social and economic outcomes. It found only one unambiguous success (West Bengal, India), and six unambiguous failures (Ghana, Cote d'Ivoire, Bangladesh, Kenya, Nigeria, Mexico). On the basis of this analysis, the authors identified three main factors which accounted for the difference in performance:
+Political Economy Issues: Successful decentralisation required the confluence of central and local level commitment to pro-poor reform, out of ideological commitment or for political gain, including the willingness to challenge local elites seeking to capture program benefits. Where decentralisation is a conduit for political patronage from central authorities and/or where local elites are insulated from the demands of the poor, outcomes are unlikely to be pro-poor.
+Financial/Administrative Support: Necessary inputs for successful decentralisation included adequate financing from central authorities, targeted central poverty programs or social funds and administrative capacity to take on newly acquired responsibilities.
+Time Commitment: Successful decentralisation requires long-term support as benefits take time to materialise. The successful West Bengal example has evolved over a twenty year period.
+a This example is based on Crook and Sverrisson ().
+Governance-II Approach/Interventions: Promoting Lawfulness
+Lawfulness requires that governing structures abide by the rule of law and serve as guarantors of lawful civil conduct. It grounds deprivation and impoverishment in the perverse functioning of the legal system which either fails to protect, discriminates against or remains inaccessible to poor groups (see Box ). Lawfulness relates closely to issues of justice, conflict resolution, criminality, peace and security, social violence (including domestic violence), human rights, etc. Lawfulness bears a close relationship to coercive, social and political capital and to aspects of well-being related to personal security.
+A short-list of potential interventions to address problems of lawlessness may include:
+ Legal/Judicial Reform (e.g. eliminating anti-poor laws, reducing legal technicalities, etc.)
+ Improving Access to Legal Information and Legal Literacy (e.g. support for legal advocacy
+NGOs)
+ Police Reform (e.g. community policing and training)
+ Conflict Mediation and Resolution
+ Human Rights Legislation/Support
+ Domestic Violence Education/Awareness Campaigns.
+ See, inter alia, Anderson (), Messick (), Narayan and others (), OECD/DAC ().
+New Thinking on Poverty: Implications for Globalisation and Poverty Reduction Strategies 
+Box  Lawlessness and Poverty
+The relationship between lawlessness and poverty has been understated in the poverty literature. One recent exception is Anderson () who outlines a number of mechanisms by which lawlessness and poverty reinforce one another:
+. Violence by police, prison officers and other public officials has it greatest impact upon the poor, leading to death, injury, permanent disability or mental illness.
+. Corruption disproportionately harms the poor who are less able to afford premiums demanded for service provision.
+. Human rights abuses, official harassment, police abuse, etc. may disproportionately affect the poor who are less likely to have recourse to legal remedies
+. The poor are more vulnerable to arbitrary treatment, intimidation and humiliation by public officials.
+. The poor are at greater risk of losing their property to public or private theft.
+Significantly, personal insecurity due to lawlessness (violence, domestic violence, crime, official harassment) is consistently an element of deprivation which figures prominently in participatory poverty assessments (PPAs). Recent reviews of PPA results conducted by the world_bank (Narayan and others, ) and by independent researchers (Brock, ) have affirmed the critical important of lawlessness both as constituent of deprivation and cause of impoverishment or inability to escape poverty.
+Governance-III Approach/Interventions: Promoting Accountability
+Accountability requires that governing structures remain answerable for their actions and open to sanction (including dismissal) if they violate say, principles of inclusiveness and lawfulness. It grounds poverty and deprivation in the culture of impunity which effectively precludes poor groups from holding authority figures to account. Accountability relates closely to issues of corruption, transparency, access to information, etc. Accountability bears a close relationship to social and political capital and to aspects of well-being related to agency.
+A short-list of potential interventions to promote accountability may include:
+ Electoral Reform (support for free elections)
+ Legal Reform (enforcement of anti-corruption laws)
+ Access to Information Promotion (support for the press, media, NGOs, and other social organisations who investigate and publicise corruption)
+ Participatory Monitoring and Evaluation (e.g. citizens report cards, social audits; see Box ).
+Globalisation and the Broadened Causal Framework
+What is the relevance of the broadening of the causal framework to globalisation? Globalisation is a term which is defined in different ways. Here, it will be used in its broadest sense to refer to the increasing interdependence and integration of the worlds peoples and nations. It is a process with economic, social, political and cultural dimensions. It is reflected in increasing trade, labour and financial flows, growing technological exchange, as well as the increasing spread of norms and beliefs relating to political systems, cultural practice, legal and juridical forms, etc. There are at least three ways in which these forces of globalisation relate closely to the broadened causal framework of poverty.
+  
+Box  Promoting Accountability through Social Audits a
+The Mazdoor Kisan Shakti Sangathan (MKSS), or Association for the Empowerment of Workers and Farmers, in the Indian state of Rajasthan has pioneered a process to call local officials to accounts for their actions. The MKSS has convened a number of jan sunwais, or public meetings, during which official expenditure records from local authorities are read aloud to assembled villagers and local officials. Villagers are urged to highlight discrepancies between the official record and their own experiences as labourers in public works schemes, as consumers at local ration shops, or applicants for means tested poverty benefits. This form of 'social audit' has been effective in exposing significant sums earmarked for the poor which have been misappropriated by corrupt officials. The MKSS is an example of the potential for access to information coupled with social mobilisation as a tool for ensuring public accountability.
+a This example is based on Jenkins and Goetz (a, b).
+First, one aspect of globalisation is the spread of democrat structures and the increasing attention given to civil and political rights. Many of the issues addressed in Section . on governance, including empowerment, legal and police reform, the right-to-information, etc. have been given impetus by this aspect of globalisation. They have also been explicitly linked to the poverty agenda by important donor agencies. The UKs Department of International Development writes in their white paper entitled Making Globalisation Work for the Poor (pp. -) that:
+Globalisation has been associated with a growth in democracy...and human rights...Making political institutions work for the poor means helping to strengthen the voices of the poor and helping them to realise their human rights. It means empowering them to make their own decisions...and it means removing forms of discrimination in legislation and government policies the prevent poor people from having control over their own lives. Governments must be willing to let people speak, and to develop mechanisms to ensure they are heard.
+In this case, forces of globalisation accentuate the importance of political and social capital to poverty reduction. They also bring out the intrinsic importance of certain aspects of social deprivation, such as disempowerment, lack of agency, etc.
+Second, the cultural critique of globalisation rests on the view that it is leading to the global dominance of western, and mainly American, consumption patterns, tastes and culture (Barber, ; Escobar, ). There is a fear that this process, which may very well increase material prosperity, is coming at the expense of the global diversity of cultural norms and practice. In this case, cultural capital is being degraded with negative consequences for certain dimensions of social deprivation.
+Third, renewed attention has been placed on the relationships between globalisation, conflict and poverty. There are powerful forces of globalisation which have served to fuel or aggravate conflicts including: the global arms trade, the trade in precious metals which finance conflict, the global implications of the so-called war of terrorism, etc. Further the mutually reinforcing links between conflict and poverty has
+New Thinking on Poverty: Implications for Globalisation and Poverty Reduction Strategies 
+Conceptions of Deprivation
+Physiological Deprivation
+Social Deprivation
+Forms of Capital
+Human Capital
+Economic Capital
+Social Capital
+Political Cultural Capital Capital
+Coercive Capital
+Approaches to Poverty
+Direct Human Transfer Capital
+Production Function Approach
+Governance Approach Inclusiveness Lawfulness Accountability
+Poverty Interventions
+In-Kind Transfers Education Cash Transfers Health Public Works Nutrition
+Land Labour Capital Technology
+Empowerment Decentralisation
+Legal Reform Legal Literacy Conflict Resolution
+Access to Info. CSO Monitoring Social Audit
+Figure  Poverty Reduction Strategies: An Overview
+Income/ Consumption Approach
+Basic Human Needs Approach
+Human
+Social Exclusion Approach
+Participatory Approach
+Approach Approach
+Water/ Sanitation
+Poverty Approach
+  
+received considerable attention recent at the level of research and operational practice (world_bank, ; DFID, ). In this case, issues of globalisation accentuate the centrality of coercive and political capital to poverty as well as the absence of peace and security as constituents of social deprivation.
+Deepening the Causal Structure
+The third major change in thinking about poverty has been the deepening of the causal structure. This represents a shift in analytical focus from stocks of poverty to flows of individuals or households into and out of poverty. This section explains this distinction between stocks and flows of poverty. It goes on to discuss conceptual issues raised by deepening the causal framework and explains the links between vulnerability and strategies of risk reduction or mitigation. We also present recent empirical findings on the relative magnitude and correlates of chronic and transitory poverty with a view to determine whether the distinction between stocks and flows matters for policy.
+Stocks vs. Flows of Poverty
+Figure  schematically depicts analytical differences between analyses of stocks and flows of poverty as well as the related distinction between chronic and transitory poverty. Two points are particularly important.
+First, until very recently with the increasing availability of panel data, almost all analyses of poverty dynamics didnt explicitly distinguish between chronic and transitory poverty. In terms of analysis, the approach was to analyse correlates or determinants of the entire poor circle depicted in Figure  (which including transitory and chronic poverty) at one or more points in time. This is the standard comparative static analysis of stocks of poverty. Implicitly, this approach entailed a focus on causes and remedies for chronic poverty.
+Second, analysis of flows tracks the same households over time. It allows one to determine if households: (i) stay poor; (ii) escape from poverty; (iii) enter into poverty or (iv) stay non-poor. For policy purposes, it is crucial to determine whether the poverty problem stems from households who stay poor over time (chronic poverty) or whether it is due to large inflows of households into poverty (transitory poverty) who later escape. As discussed below, policies to deal with these two scenarios may be very different.
+Unpacking Flows
+It is useful to unpack the term flows of poverty as a number of distinct processes are involved. This unpacking exercise is also relevant for policy as appropriate instruments of social protection will differ according to the flows in question. Figure  below provides a schematic depiction of a number of these processes.
+Chronic poverty refers to the persistence of poverty over time. Social protection is often expressly designed to address one type of chronic poverty. This is the case of the long-term dependent poor who are unable to secure a minimal standard of living in the absence of some sort of social assistance. Often this applies to an economically inactive population, unable to work. Chronic poverty represents a long-term or permanent condition, which differs from other more transitory forms of poverty.
+ Both the world_bank and the World Institute for Development Economics Research (WIDER) have recently undertaken major research projects on this subject (Nafziger and others, ; Collier, ).
+ This section is based on Shaffer () which draws on Hulme and others (), Jalan and Ravallion () and Yaqub ().
+New Thinking on Poverty: Implications for Globalisation and Poverty Reduction Strategies 
+Figure  Stocks and Flows of Poverty
+Chronic Poor
+FLOWS
+Chronic Poor
+Transitory Poor
+Non-Poor
+FLOWS
+Non-Poor
+STOCKS
+Transitory Poor
+STOCKS
+   
+              
+   
+  
+Impoverishment is a change in the permanent component of income or consumption. It reflects a dramatic fall in living conditions to a new long-term level. Some of the instruments to prevent impoverishment may be similar to measures designed to address transitory forms of poverty. When the process of impoverishment culminates in the state of chronic poverty different sorts of remedies will be relevant. Some are likely to be similar to those for the chronic, dependent poor.
+Conjunctural poverty refers to increases in poverty due to circumstances which are likely to persist over the medium term. Examples include macroeconomic shocks, such as the Asian crisis, the situation facing transition countries as well as major lifecycle changes such as widowhood. The key issue here is that the duration and scale of social protection required is different than in the other situations discussed.
+Fluctuating or seasonal poverty, (Churning), refers to income variability in normal times, such as over the course of a season, or following frequent and repeated natural shocks. Once again, the nature, scale and duration of appropriate measures of social protection are likely to be different for this transitory form of poverty.
+The distinction on the left hand side of the diagram between the non-poor, the poor and extreme poor is relevant for at least two reasons. First, extreme poverty is a condition which is likely to be qualitatively different from poverty, one for which the imperative to act is extremely strong (Lipton, ). Second, affordability for poor people is an issue for certain types of social protection instruments with important differences between the poor and non-poor. Specifically, the poor are often excluded from contributory social insurance schemes, such as health, unemployment or disability insurance, because they are unable to afford the premiums or because they are unable to meet a regular payment schedule due to the irregular flow of income.
+There are two important points about this discussion which should be noted. First, Figure  is a highly simplified account of the many processes of change relevant to social protection. In fact there are many variants of the above four processes. All can begin at different places on the graph and combine different trajectories. These four basic processes have been highlighted because there are important implications for social protection and because there are good empirical examples of each.
+Second, to simplify, the focus has been on processes of change affecting income or consumption poverty. Much of the literature of social protection involves just such issues. The same analysis of different processes of change could apply, however, to nutrition, health or other aspects of deprivation.
+Vulnerability and Strategies of Social Protection
+As discussed above, the broadening of the causal structure over the past decade has led to the incorporation of different forms of capital within the context of a stock-centred analysis of the dynamics of chronic poverty. Analysis focuses on those forces which increase, reduce or perpetuate the stock of poverty over the long term. Specifically, the underinvestment in, or perverse functioning of, different forms of capital is considered the root cause of poverty and the primary barrier to its reduction. The main operational objective is to devise long-term poverty reduction strategies which address these root causes of chronic poverty.
+The deepening of the causal structure shifts focus to transitory poverty and flows of individuals into and out of poverty. Unlike chronic poverty, the focal point is vulnerability or the likelihood of falling into poverty (however defined). Alternatively, this may be phrased as downside risk.
+ This Section draws on Holzmann and Jorgensen () and world_bank ().
+ See the section on Broadening the Concept of Poverty above..
+New Thinking on Poverty: Implications for Globalisation and Poverty Reduction Strategies 
+It is due to two main factors: exposure and response to downward pressures (Sinha and Lipton, ). Downward pressures are sometimes referred to as stresses and shocks, the former gradual and cumulative and latter sudden and unpredictable (Chambers and Conway, ). Six types of downward pressure are particularly important for the present discussion:
+ illness;
+ violence/conflict;
+ natural disaster;
+ harvest failure;
+ terms of trade deterioration;
+ loss of employment.
+                     
+  
+  
+Exposure to downward pressure varies with the size, frequency, timing and bunching of the particular pressures in question, as well as ones spatial proximity to them. At the individual or community level, responses to downward pressures are often referred to as coping or adaptive strategies. They may include such mechanisms as borrowing from friends or neighbours, migration, selling assets, drawing on savings, etc. At a policy level, responses fall under the heading of social protection. As discussed below, an important distinction between social protection measures is where they are situated within this cycle of vulnerability.
+ Sinha and Lipton () maintain that these six account for approximately ninety percent of downward fluctuations in poor peoples income and consumption in the developing world.
+  
+Risk reduction mechanisms are those which are taken in advance of a shock or stress. They aim to reduce the likelihood that it will occur. Examples include macroeconomic policy measures to reduce the risk of currency crises (e.g. not having a seriously overvalued exchange rate) and labour standards which reduce the risk of injury due to unsafe working conditions or unemployment due to arbitrary dismissal.
+Risk mitigation measures are taken in anticipation of a shock with a view to minimise its deleterious consequences. At the individual or community level, they are many informal mechanism of risk mitigation including diversification of sources of income, choosing large families for farm labour or for income generation; adopting contractual arrangements, such as sharecropping, which trade off profits for insurance, etc. Examples from a public policy perspective include extension of micro-finance and provision of insurance.
+Risk coping measures are those taken after the occurrence of a shock. As above, there are many informal mechanisms of risk coping including: selling assets; drawing on savings or stocks of grain; drawing on remittances from migrants; accessing credit for consumption purposes, etc.  In terms of public policy, risk coping is facilitated by transfers such as social assistance schemes, commodity subsidies, etc. Many of these schemes are identical to those aimed at the chronic, dependent poor.
+Instruments of Social Protection
+Specific instruments of social protection, which fall under one or more of the three above-listed strategies of social protection, include:
+Labour Market and Employment Programs
+Labour market policies aim to increase the use, productivity or safety of labour. Examples include the adoption of labour standards; job search assistance; labour exchanges; training and retraining programs and antidiscrimination legislation. Employment programs provide direct employment opportunities to those in need, usually through public works type programs. Labour market interventions are investments in labour which may occur at different stages of the vulnerability cycle (or occur independently of it) whereas employment programs are usually risk mitigation or coping mechanisms.
+Micro-finance
+In the context of social protection, micro-finance can play an important role in both risk mitigation and risk coping. Its provision prior to a shock/stress may mitigate the subsequent effects by say, facilitating diversification of sources of income or the accumulation of savings. Following a shock, credit may play an important role in smoothing consumption.
+Insurance
+Insurance schemes are usually risk mitigation measures which aim to limit the consequences of shocks or stresses. Examples include social insurance (unemployment, disability and old age insurance), crop, livestock and health insurance. The modalities of different insurance schemes (e.g. contributory vs. non-contributory) raise important issues with regard to affordability as well as the underlying social objective (i.e. redistribution, social inclusion, etc.). Specifically, contributory insurance schemes transfer the financial burden from
+ Fafchamps (), Morduch () and Zeller ().
+ Dasgupta (), Morduch () and Platteau ().
+ This section draws on Coudouel and others () and Norton and others ().
+New Thinking on Poverty: Implications for Globalisation and Poverty Reduction Strategies 
+public to private sources but at the potential cost of access for those unable to afford premiums. In addition, they do not generally place a redistribute role which may be an aim of social protection policy.
+Commodity Subsidies
+Commodity subsidies are a risk coping measure and a means of assisting the chronic, dependent poor. Commodity subsidies may be broad based, apply to goods consumed predominately by the poor or provided in fair price shops frequented by poor groups. As above, the choice of the subsidy coverage raises questions concerning affordability and the underlying social objective.
+Social Assistance (Cash and In-Kind)
+As with commodity subsidies, social assistance is a means of coping with risk and assisting the dependent poor. Measures of social assistance include cash payments (e.g. child benefits, pensions for widows), fee waivers (health, education, etc.) or in-kind transfers (supplemental feeding programs, school feeding programs, food stamps, etc.). As above, choice of nature, scope and scale of social assistance programs will depend heavily on the underlying social objective as well as the trajectory of social change in question.
+An Example: The Sustainable Livelihoods Approach to Poverty
+The Sustainable Livelihoods Approach is one operational approach to poverty reduction which makes explicit use of a flows-based analysis of poverty using language very similar to that which appears in the preceding Sections. The approach situates poverty reduction within the framework of security of livelihoods, or sustainable livelihoods. Chambers and Conway () provide a widely accepted definition of what is meant by sustainable livelihoods:
+A livelihood comprises the capabilities, assets (including both material and social resources) and activities required for a means of living. A livelihood is sustainable when it can cope with and recover from stresses and shocks, maintain or enhance its capabilities and assets, while not undermining the natural resources base.
+The livelihood aspect draws on an analysis of assets which parallels the above analysis of capital, with emphasis placed on natural capital. Livelihoods depend on four categories of assets:
+ Stores: tangible assets including food stocks, gold, jewellery, savings (economic capital);
+ Resources: tangible assets including land, water, trees, livestock (environmental capital);
+ Claims: intangible assets consisting of legitimate social demands or appeals for material, moral or other support (cultural and social capital);
+ Access: intangible asset referring to the capability to use a resource, store or service for ones benefit (political and coercive capital).
+The sustainability aspect adds a temporal dimension by examining the exposure of livelihoods to particular shocks and stresses as well as their ability to cope and adapt. As such, it explicitly incorporates the concept of vulnerability and bases its analysis on flows into and out of poverty rather than changes in the stock of poverty.
+ It has been explicitly adopted by the Dept of International Development in the UK as their analytical framework of choice to guide their poverty work (DFID, ).
+ See, inter alia, Chambers and Conway (), Chambers (), Scoones () and Swift ().
+  
+Does Deepening Matter?
+There are at least three reasons why the shift in emphasis from stocks to flows matters.
+First, recent empirical evidence suggests that there is considerable mobility among the poor. Table  from Baulch and Hoddinott () presents data on the relative magnitude of chronic and transitory poverty for  recent panel studies. Chronic poverty is defined as those who are poor in all years in the panel, while transitory poverty consists of the sometimes poor. Two points are worth noting. First, transitory poverty is quite large and often much larger than chronic poverty. Second, the longer the panel, typically, the greater the relative size of transitory poverty vis a vis chronic poverty. (See highlighted observations in Table .)
+    
+                                                                                                  
+Second, some of the characteristics of transitory and chronic poverty may differ which implies that differ groups are transitorily and chronically poor (and suggests that different interventions are appropriate to each). Two recent studies have specifically addressed this issue. McCulloch and Baulch () found characteristics of transitory and chronic poverty in Pakistan to be broadly similar excepting dependency ratios which were higher in chronic but not transitorily poor households. On the other hand, Jalan and Ravallion () found differences in characteristics of transitory and chronic poverty in China. Variables which are often associated with chronic poverty, including household size, health and education have no apparent bearing on transitory poverty.
+Third, in light of the above, it is likely that some interventions to address chronic and transitory poverty will differ. Instead of the intervention types discussed in section  which rely on investing in various forms of capital, schemes of risk reduction or mitigation which smooth income or consumption may be more appropriate. A short list of such publicly provided mechanisms may include, insurance schemes, buffer stocks, credit (for smoothing purposes), seasonal public works, etc.
+ Though it should be noted that both studies use a different definition of chronic and transitory poverty than the one used in this paper.
+           
+           
+        
+   
+        
+   
+New Thinking on Poverty: Implications for Globalisation and Poverty Reduction Strategies 
+There two main caveats to be borne in mind, however, with respect to the above points. First, some of the observed results are driven by measurement error, which poses large problems for panel data estimation (Deaton, ). One estimate found measurement error to be responsible for around three quarters of the total variation in income, yet still found transitory poverty to be quantitatively important and larger than chronic poverty for some poverty indices (McCulloch and Baulch, ). Second, some of the movement into and out of poverty may not represent large shifts in income but simply small movements around the poverty line.
+Globalisation and the Deepened Causal Framework
+There are at least four ways in which forces of globalisation relate closely to the deepened causal framework of poverty.
+First, increasing flows of financial capital, and in particular portfolio investment, increases the risk of financial instability occasioned by massive capital flight and currency crises. At least part of the reason for the severity of the East Asian financial crisis was the rapid flight of portfolio flows, or hot money, from this region.
+Second, the increasing mobility of people generally, and labour specifically, increases the risk of spread of infectious disease such as HIV/AIDs and tuberculosis.
+Third, the increasing reliance on trade increases ones vulnerability to terms of trade shocks. Rising global production of goods and/or reduced consumption may severely squeeze world prices to the detriment of local producers.
+Fourth, increasing transfers of technology increase risk (both downside and upside) if the long-term effects of technological change are unknown. Genetically modified crops provide one example. The may prove to be boon or bust though either way, they increase risk.
+Conclusion
+There have been at least three main changes in thinking about poverty which have gained increasing currency over the past decade, with decided policy implications.
+First, the concept of poverty has been broadened. This is reflected in the move from a physiological model of deprivation to a social one, and subsequently, in the increasing attention afforded issues of vulnerability, inequality and human rights.
+Second, the causal structure has been broadened to include a range of causal variables which previously received little attention. This has lead to the increasing importance afforded political, social, cultural and coercive capital which figure centrally in the governance approach to poverty. The operational consequence is to shift attention from interventions in human and economic capital to interventions focusing on empowerment, social organisation, legal reform, human rights, etc. Three dimensions of globalisation serve to accentuate the importance of the expanded causal framework to poverty reduction: (i) the spread of democracy and human rights; (ii) the spread of Western culture and the resultant cultural critique; (iii) the globalisation of conflict and implications for poverty.
+ It should be noted that these tend to be highly concentrated in a relatively small number of developing countries.
+ See, inter alia, Blustein () and Stiglitz ().
+Third, the causal structure has been deepened to focus on flows of individuals into and out of poverty, rather than on changes in the stock of poverty. This has led to a focus on transitory rather than chronic poverty and on shocks, stresses and individual/community response. The operational consequence is to shift attention from long-term strategies to reduce chronic poverty, to strategies of risk reduction/mitigation which \0xEBsmoothi income or consumption. Examples include, insurance schemes, buffer stocks, credit (for smoothing purposes), seasonal public works, etc. Four dimensions of globalisation serve to accentuate the importance of the deepened causal framework to risk reduction/mitigation: (i) the increase in financial flows and the Asian crisis; (ii) increasing labour mobility and infectious disease; (iii) increasing trade and terms of trade shocks; (iv) growing technological transfer with unknown consequences.

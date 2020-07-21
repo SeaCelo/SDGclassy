@@ -1,0 +1,488 @@
+
+Assessing the insurance role of microsavings
+Microfinance is one of the development policy successes of our time. In just over three decades, experimentation, action research, advocacy, and expansion by NGOs, international organisations and donors have led to almost  million previously unbanked poor households gaining access to some form of financial service, as well as to an important paradigm shift. The capacity of poor people particularly poor women to manage their own economic affairs, and to lift themselves and their families out of poverty using microfinance is increasingly recognised. Finance is now often considered a basic service, and some argue that access to financial services is a human right.
+Until relatively recently, however, this has largely been a microcredit success. Vogels () characterisation of savings mobilization as the forgotten half of rural finance in  largely still rings true today. In part, this is due to an ongoing misperception that the poor do not, and cannot, save despite a long and global history of community-based savings groups and other informal savings systems, as well as the findings from a substantial amount of research. In part, regulations against mobilising deposits from non-members continue to restrict microfinance institutions throughout much of the developing world, and the availability of subsidised credit and grants from donors reduces the compulsion for mobilization of savings. These factors have led to a notable historical shift from thrift (microsavings) as the foundation of finance for the poor in the early th century, to debt (microcredit) in early st century.
+Yet we know that poor people do save, that they save in a range of ways, that their savings are important to how they manage their households and to their sense of well-being, that they would like to save more, and that they often would like to have access to formal savings institutions. Thus, in the last few
+ In recent years, this has included research undertaken via the Financial Diaries project in India, Bangladesh and South Africa (financialdiaries.com); MicroSave in eastern and western Africa (microsave.org); FinScope in eleven African countries and Pakistan (finscope.co.za); International Food Policy Research Institute research on Rural Finance Policies for Food Security of the Poor in  countries (ifpri.org/themes/mp.htm); and, most recently, the Consultative Group to Assist the Poors Country-Level Savings Assessments (see below).
+Assessing the insurance role of microsavings David Hulme, Karen Moore and Armando Barrientos
+  
+years, recognition of the multiple benefits to both customers particularly the poorest, often missed out by microcredit and microfinance institutions of offering flexible, appropriate, and voluntary savings services has grown substantially. This is reflected by both the range of services provided, and the emergence of microsavings-focussed research initiatives.
+Development policy and research are also increasingly focusing on the role of insecurity, risk, and vulnerability in pushing people into poverty and keeping them poor. As such, attention to the role that microfinance can play in reducing and mitigating the vulnerability experienced by poor people has grown; that micro-insurance is increasingly included in the service portfolios of microfinance institutions is evidence of this trend. But there is also a concern with how the other components of microfinance can reduce or increase vulnerability.
+This paper is intended to extend knowledge about the insurance role of microsavings services. It posits that access to microsavings services can help the poor manage vulnerability, both through savings protective function (using accumulated savings to ameliorate the impact of shocks) as well as through its promotive role (using accumulated savings to build an asset base, which can be then used to lessen the risk of some hazards and mitigate others).
+The paper comprises six sections. In the remainder of this introductory section, a review of key working definitions is presented, alongside an overview of the ways in which microsavings programmes are hypothesised to play an insurance role. Part A reviews the various types of microsavings practices and programmes in existence, along with an attempt to evaluate the extent and nature of outreach as well as the order of magnitude of savings generated. In order to attempt to quantify their insurance role, the second section of the paper draws upon data from three microfinance programmes in India, Peru, and Zimbabwe to assess the ways in which households use savings for consumption smoothing and avoiding disinvestment (Part B), and for investment purposes (Part C). Part D identifies shortcomings in terms of the ways in which microsavings programmes currently operate, and suggests ways to overcome these weaknesses in order to strengthen microsavings insurance role. The final section reviews, focusing on policy implications, suggests further questions for research, and concludes.
+Microsavings and vulnerability definitions and relationships
+Defining microsaving for the purpose of measuring stocks, flows, and impact is challenging. There are several possible approaches depending on whether one focuses on the people saving, the amounts saved, or the institutions in which the saving takes place. Thus, microsavings can be thought of as savings made by low-income or poor people, or as small amounts of savings (the challenge here is to provide a threshold for saving deposits or balances that would distinguish between micro and non-micro savings), or as savings held at institutions that specialise in microsavings. Table  below describes how one would measure microsaving depending on the approach taken.
+While from the perspective of most poor savers, microsavings can consist of a large variety of informal, semi-formal and formal practices (see below), in this paper we have adopted a pragmatic approach and defined microsavings as the mobilisation of savings through deposit services run by microfinance institutions (MFIs). In large part this is because in the survey data on which we draw in Parts B and C, the information on income and consumption is not sufficiently detailed to provide a reliable measure of saving as the residual (i.e. income minus consumption). Further, two of the three datasets do not provide disaggregated measures of
+Assessing the insurance role of microsavings 
+Table : Defining microsavings
+Approach to identifying microsaving
+Microsaving measure
+(measured at the household level)
+Issues
+Savings by lowincome groups
+Microsaving = income minus consumption
+ Income and consumption measured with error in household surveys (under reporting of income)
+ Is debt/credit ex-ante microsaving?
+ From clients perspective, savings may include some forms of consumption or productive investment (e.g. jewellery)
+Low level of deposits and balances in saving accounts
+Microsaving = aggregate balances in cash and liquid saving schemes below a defined threshold
+ Defining threshold
+ Includes the never poor with small amounts of savings
+Savings in institutions specialising in microfinance
+Microsaving = balances in microfinance institutions
+ Continuum of institutions  the reach of formal, large-scale institutions (e.g. banks, credit unions, post offices) to low income groups makes this measure problematic saving amounts, or information on stocks and flows, such that we have not been able to use levels of saving as an indicator to identify microsavings. Thus, we have used self-reported saving status with a range of financial institutions (including MFIs) as our main instrument for the identification of microsaving and microsavers.
+Microsavers include not only micro-entrepreneurs or the working poor, but also those poor people relying on remittances, pensions and other forms of support. Even poor children often have access to small amounts of cash and are increasingly being encouraged to develop the savings habit by NGOs (e.g. Aflatoun Child Savings International). However, while evidence shows that most poor people can and do save, some cannot the destitute may be better off investing in their health by consistently spending on food than saving an occasional penny.
+Vulnerability can be understood as the likelihood that individuals, households, or communities will fall into or continue to experience poverty in the future. A great deal of recent research addresses the extent to which, how, and under what conditions vulnerability generates persistent poverty of households and communities. The need for poor households to reduce vulnerability can limit their ability to pursue strategies for the economic and social improvement of household members. No less real to the sufferer, subjective feelings of insecurity, anxiety and fear also can have important behavioural effects, and practices such as savings that can make people feel more secure can foster their capacity to take the small risks necessary to improve their livelihoods.
+Vulnerability results from the interplay of two key components: () hazards and stresses, and
+() buffers. The poor are especially vulnerable, because they face a higher risk of the former, while lacking sufficient access to the latter. Hazards are relatively sudden events (e.g. job loss, sickness, drought, conflict), while stresses are typically continuous and cumulative pressures (e.g. low wage rates, poor working conditions), both of which can adversely affect the consumption, investment plans, and thus the living standards and well-being of households. Risk is the probability that hazards will materialize, and a hazard that has materialised is known as a shock.
+  
+In addition to attempting to reduce the risk of incidence of hazards, through, for example investment in health care and skills, individuals, households and communities deploy a large range of buffers to protect their present and future well-being against hazards and stresses. These strategies include building up and drawing down savings, but also taking loans; making insurance claims; accumulating, then selling or mortgaging assets; drawing on support from social networks; and claiming public entitlements. Savings is only one aspect of a portfolio of financial and other options poor people have for managing vulnerability.
+Indeed, in considering the relationships between the management of vulnerability among the poor and microsavings practices and services, it is first useful to take a step back and think through how savings relate to financial practices and services as a whole. Rutherford () provides a useful way of doing this, by considering that the purpose of all financial practices is to be able to access a usefully large lump sum of money:
+ Saving upthis is what we usually think of as saving, and entails converting a series of savings (deposits) now into a usefully large lump sum later on.
+ Saving downthis is what we usually think of as borrowing, and entails getting a usefully large lump sum (credit) now against future savings (repayment instalments).
+ Saving throughthis means making a continuous set of deposits that are converted into a lump sum at some point in time during the flow; this includes informal practices such as Rotating and Accumulating Savings and Credit Associations (ROSCAs and ASCAs).
+In addition, there is insurance. Microinsurance, according to Churchill (), is the protection of low-income people against specific perils in exchange for regular premium payments proportionate to the likelihood and cost of the risk involved. And, of course, within each category there are a range of options offering, in the case of saving up and saving through, different levels of security, liquidity, flexibility (particularly in terms of timing of deposits or withdrawals), and returns or costs.
+So, while in this paper we are chiefly concerned with saving up, it is important to recognise that these are only some of the many swaps poor people have to choose between when attempting to manage vulnerability; and, as Table  describes, each strategy has its own strengths and weaknesses in a particular context.
+Part A: Microsavings in global perspective
+There is an increasingly wide range of microsavings services on offer to poor people, from an equally wide range of service providers. In this section we review available evidence suggesting that there is both a large and growing number of poor people saving with formal and semi-formal institutions, and that there is a much larger group of poor people with no such access.
+ From the institutions perspective the difference between microsavings and microinsurance is straightforward: True savings has a time dimensionyoure holding savers deposits for them to access at a later time. True insurance does notyoure pooling risk across individuals, and using savers premiums to pay any concurrent claims. From the clients perspective, it can sometimes be difficult to differentiate microinsurance from saving through microsavings, especially in informal insurance set-ups like burial societies and emergency group funds (where the amount returned upon death or emergency is sometimes related to the total amount deposited), or when there is an insurance component of a savings product. From the clients perspective, it is important to think of premiums as a fee for access to a large lump sum of cash when it is needed, rather than as a savings deposit per se. True savings are when you can always get back your own (past or future) savings (plus interest, if it has been invested on your behalf, minus any fees). True insurance on the other hand is when you can potentially get back more than your own (past or future) money (plus interest, if it has been invested on your behalf, minus any fees), because risk has been pooled. But if the insured-against event doesnt happen to you, you wont get your premiums back.
+Assessing the insurance role of microsavings 
+Table : Advantages and disadvantages of different strategies/instruments for addressing vulnerability
+Strategy and description
+Advantages
+Disadvantages
+Self protection
+ Reduce the probability of a hazard materializing through, for example, diversifying livelihoods, developing assets (e.g. making housing weather and crime proof), building human capital (gaining qualifications, protecting health)
+ Household control
+ Assets have multiple benefits beyond addressing vulnerability
+ Ineffective against many hazards (esp. covariant natural hazards)
+ Requires information about relative risks of different hazards
+ Health/education effects are in medium to long-term
+Self insurance Savings
+ Make savings (ex ante) to ameliorate the loss from a hazard
+ Can be used against any hazard  Household control, and predictability
+ Does not require external approval
+ Can also be used as collateral for credit
+ Only covers small hazards for the poor
+ Lack of effective savings instruments
+ If excessive, may tie up much needed resources
+Self insurance Debt /advances
+ Borrow (ex post) to ameliorate the loss from a hazard
+ Can be used against different types of hazard
+ Speed of access
+ Not predictable
+ May have high costs/conditions
+ May not be available for covariant hazards
+ May require collateral
+Insurance Private or Social
+ Exchange of regular premiums, or payroll contributions, to secure entitlements to financial protection against specified contingencies
+ Pools risk
+ Small premiums can protect against large losses
+ Only covers specified hazards  Rarely available to the poor
+ Complex and requires external approval
+Informal networks
+ Develop social relationships that can help ameliorate the loss from a hazard by transfers
+ Can be used against different types of hazard
+ Speed of access
+ Only predictable for small losses  May not be available for co-
+variant risks
+ Variable costs  may be high  May involve adverse incorporation
+Social assistance entitlements
+ Social transfers to ameliorate losses and to facilitate self protection, including employment guarantees, transfers focused on poor households, or categorical transfers (see Barrientos, Hulme and Moore ).
+ Low/no cost for the household
+ May encourage long-term gains in protection e.g. education
+ Often not available
+ Access may require bribes, etc.  Possibility of moral hazard
+However, while data on microcredit services are increasingly collected and made available in a moreor-less coherent and comparable manner across countries and organisationssuch that progress against the key goal of the Microcredit Summit can be monitoredreliable and complete data on savings services remain much harder to come by. This issue will be returned to.
+Types of microsavings and microsavings services
+The decision on where and how to save always involves making trade-offs between the perceived security, liquidity, and returns or cost of each strategy, and depends on the purpose for saving and the context in which one lives. This pertains as much to coins stuffed in a mattress as to foreign currency placed as a term deposit with an international bank. Box  reviews some of the many ways in which low-income people in developing countries save.
+  
+Box : Informal, formal and semi-formal savings practices from around the world
+Informal:
+ Saving at home/on the person, in cash and in kind (gold, goat, handful of rice, tin roof, trees, ...any physical asset with a [productive, protective, or social] use value, that can be sold)  thus the line between savings, investment and consumption can be unclear
+ Simple savings clubs, ROSCAs and ASCAs
+ Informal insurance schemes such as burial societies  not always true savings, but often treated as such
+ Deposit collectors and money guards (often relatives, employers [wage retention], shopkeepers)
+ Reciprocal lending
+ Moneylenders and pawnbrokers (saving down)
+ Supplier credit, wage advances (saving down)
+Formal: (see Table )
+ Range of savings products from banks, cooperatives, post offices, insurance companies ... these often require minimum deposits/balances and exclude poor people in other ways (physical and social distances)
+ Can include compulsory savings acting as loan collateral
+Semi-formal: (see Table )
+ Range of savings products from NGOs and other MFIs, both voluntary and involuntary (compulsory savings acting as loan collateral)
+The prevalence in some communities, particularly in West Africa, of money collectors who charge a fee to collect frequently and then return savings at the end of a period of time show that for many poor people, perceived security and the opportunity to choose to be forced to make regular small deposits are more significant than returns or liquidity. On the other hand, saving in assets some, like a goat, productive ... others, like jewellery or a tin roof, with other benefits suggest that proximity and control are more crucial than extreme liquidity. Different strategies can help manage different forms of vulnerability, and savings services that recognise poor peoples multiple vulnerabilities and priorities are more likely to find clients.
+Table  reviews the main types of products available, and notes their strengths and weaknesses from both client and institutional perspectives. Some products are combinations of those listede.g. contractual time deposits. Many organisations (e.g. the Self-Employed women Association, or SEWA, discussed in Parts B and C) offer many different products within the same general type, with maturities of time deposits to match different needs such as marriage, education, or housing repairs.
+Scale of microsavings
+Despite the increasing recognition of the importance of savings services, particularly for reaching the poorest with financial services, MFIs as a whole are still largely credit-focussed, and/or the data that they collect and share with international bodies is still credit-focussed and does not disaggregate different types of savings service to any degree. In particular, there is no differentiation between voluntary and compulsory (creditlinked) savings, making it difficult to determine the level of timely liquidity, and therefore scope for managing vulnerability.
+Even compared to microcredit, it is difficult to discern the scale of microsavings with any accuracy for several reasons (see also disclaimer in Box ):
+Assessing the insurance role of microsavings 
+Table : Microsavings products available from formal and semi-formal providers
+Product type
+Client perspective
+MFI perspective
+Involuntary deposits
+ Imposed by institution; client saves to be member/get loan
+ Low interest
+ Highly inaccessible (sometimes only available upon loan repayment or account closure)
+ May discourage voluntary savings
+ Provides funds and loan collateral  Significant but predictable demands on staff  Low interest rates
+Demand/voluntary deposits
+ Unexpected needs or opportunities
+ Consumption smoothing
+ Store windfalls and remittances
+ Low/no interest
+ Does not require regular income
+ Large number of accounts, administratively intensive and potentially low profit
+ Heavy demands on staff, monitoring and information systems, liquidity management
+ Stable costs
+Contractual savings
+ Expected needs or opportunities  Encourages discipline
+ Higher interest
+ Problematic if irregular income
+ Provides long term funds, larger balances, more profitable despite higher interest
+ Low administrative intensity
+ More volatile costs
+Time deposits
+ Expected needs or opportunities  Storage of lump sums
+ Highest interest
+ Requires larger deposit/s
+ Inaccessible before term without penalty
+ Provides long term funds
+ Few accounts, high balances,
+most profitable
+ Low administrative intensity but needs asset liability management
+ First, the poverty status of clients is generally unclear. This is the case even for MFIs (only  of  MIX MFIs with available data even report income status of the clients), but more so for most banks, credit unions, co-operatives, and post offices. Depending on the country context, these institutions may extend services to some or many clients who would not be able to access regular commercial banking although many would but it is difficult to assess the extent to which they are poor by national or international standards.
+ Second, while the average deposit or account size is important, the extent to which it indicates how micro the account is, is nationally context-dependent. Only  of  MIX MFIs report this information, with average account balances ranging from  to US$,.
+ Third, most institutions report accounts, not clients. Because there are both many inactive accounts and many multiple accounts, the numbers of clients are likely over-estimated.
+For instance, there are some  million accounts in postal banks (including about  million in China Post and  million in India Post), holding US$. billion in savings. The fact that there are at least , post offices in the developing world, with greater outreach into remote, rural, and poor areas than the , bank branches, combined with the high numbers of Indian and Chinese accounts, suggests that the poverty outreach of postal banks is already strong (world_bank ). Yet evidence of actual client poverty status, and of the extent of account dormancy, are limited.
+ MIX (Microfinance Information Exchange Inc.) themix.org/ is the leading business information provider dedicated to strengthening the microfinance sector, providing detailed financial and social performance information from leading microfinance institutions and market facilitators as well as from leading donor organizations and investors in microfinance.
+  
+Box : Savings accounts in alternative financial institutions
+* Includes NGOs, banks, and non-bank financial institutions that specialize in microfinance, as well as microfinance programs in full-service commercial banks.
+Authors disclaimer:
+This study reports a surprisingly large number of savings and loan accounts  probably well over  million in financial institutions that focus on a clientele that is generally below the level served by commercial banks. Even before publication, it has become clear that repetition of this finding invites serious misinterpretation when the nuances of the data are not understood and explained. The large numbers being reported can lead to a facile impression that the task of reaching lower-income clients, especially poor clients, has been accomplished, because so many people are already being served. No such conclusion is justified by this data. The institutions studied here serve many clients who are not poor or near-poor, probably including some people who could also use a commercial bank. (There is usually no information available on the socio-economic distribution of these institutions clients.) Further, four-fifths of the accounts reported are savings accounts, and access-to-service problems may be greater for loans than for savings.
+A correct statement of this papers main conclusion is that there are over  million accounts in various classes of financial institutions that are generally aimed at markets below the level of commercial banks, and that some substantial fraction of these institutions clients are probably poor or near-poor. The message is not that the task is nearly done (anyone with field experience knows this to be untrue), but rather that these institutions represent an important potential opportunity.
+MFIs*
+Co-ops/ credit unions
+Rural banks
+State/ agricultural/ development banks
+Postal banks
+Total
+Total
+,,
+,,
+,,
+,,
+,,
+,,
+% of total
+%
+%
+%
+%
+%
+%
+Nevertheless, information from various sources suggests that there are tens (Boxes  and ) if not hundreds (Box ) of millions of microsavings accounts. The market is much, much larger (Christen et al. ): for example, the Microcredit Summit planners say it should be possible to raise US$ billion from borrowers savings alone.
+Data from the Consultative Group to Assist the Poor (CGAP)s Country Level Savings Assess-
+ments (CLSA) supports this conjecture (Deshpande ). Country-Level Savings Assessments (CLSAs) are financial-sector studies that identify opportunities for, and obstacles to, increasing poor peoples access to formal-sector deposit services. CGAP developed and refined the CLSA methodology over the course of savings assessments in Benin, Bosnia, Mexico, the Philippines, and Uganda. By studying low-income peoples savings behaviours and needs within national contexts, CLSAs hope is to fill the savings gap in international data. Data gathered via the CLSA process shows that a high proportion of both rural and urban households presently have no bank accounts e.g. only % and % of urban and rural Mexicans have money in any financial institution; in small cities of the Philippines, only % of survey respondents kept money in a bank; in rural Uganda, only % of residents report using a financial institution; in Bosnia, a region with relatively advanced financial system, only % of survey respondents had a bank account. The evidence also suggests an enormous market for deposit services among poor clients most respondents report keeping savings in cash or in other informal and semi-formal institutions, and in Bosnia, almost  percent of survey respondents said they wanted, but did not have, a bank; in Mexico City, demand for interest-bearing accounts
+ Microcredit and Microfinance Virtual Library gdrc.org/icm/data/d-snapshot.html. At the same time, while the Microcredit Summit does ask savings-related questions of its member institutions and peppers its report with savings anecdotes, it does not report average balances. Similarly, savings is not even mentioned on ACCIONs key statistics webpage, and savings is near bottom of the list of products although noted as equally as important.
+Assessing the insurance role of microsavings 
+Box : Savings accounts in credit unions
+World Council of Credit Unions
+WOCCU project credit unions serve:
+ ,, member-clients;
+ With a total savings volume of US$,,;
+ The weighted average passbook deposit per member-client is $.
+In many credit unions that have mature savings offerings, net savers outnumber net borrowers by seven to one.
+The savings deposits mobilized by credit unions represent significant depth of outreach (vast numbers of small accounts) and diversity of outreach (accounts of every size from savers with diverse income levels). For example, the savings account distribution from credit unions in Ecuador, Kenya, Romania and Rwanda reveals that:
+ At least % of deposits are less than $ and comprise no more than % of the volume of accounts;
+ Over % of the total volume is found in deposits larger than $, comprising no more than % of the number of accounts.;
+ These country examples reinforce the fact that credit unions offer microsavings to large numbers of poor people and service fewer large-deposit savers in order to mitigate fixed costs and fund the loan portfolio for poor, low and middle income borrowers.
+The Asian Confederation of Credit Unions (ACCU) website suggests , credit unions with . million individual members in  countries in the region along with  affiliates promoting credit unionism in Asia  but provides no specific data pertaining to savers. If true, this suggests that the figure in Box  for credit union savings entails serious underestimation.
+among the unbanked was almost unanimous. Newly-established MFIs, and improved savings products, were found to lead to very rapid and large increases in numbers of savers and deposits.
+Part B: Household utilisation of microsavingConsumption smoothing and disinvestment avoidance
+There is a large body of evidence emerging from qualitative studies focused on low income groups in developing countries confirming that microsavings constitute an important strategy to address vulnerability. In terms of the ex ante use of microsavings in order to smooth consumption and avoid disinvestment or distress sales when unexpected shocks materialise, it is clear that timely liquidity is required, although this can also undermine the saving habit. In addition to demand deposits (current accounts) in formal banks and MFIs, most forms of informal savings can be accessed quickly when the need hits. Many ROSCAs and ASCAs are also designed to be used this way, as well as to meet expected needs and opportunities. In Tanzania, there is an ASCA run by members of an MFI called kibindo (last resort) that allows members to take very short term loans at high interest from a fund into which they have made weekly deposits when an emergency strikes (generally in order not to default on an MFI loan instalment) (Mutesasira  in Wright ).
+ The Terms of Reference for this paper singled out two issues to explore in the empirical work:
+ ...in quantifying the insurance role of the saving program, the paper should provide information about how the households utilized their savings, paying special attention to the use of saving for consumption smoothing purposes and the role of savings play in helping avoid disinvestment under duress...;
+ ...the paper should reveal information about the use of saving for investment purposes and on the subsequent income effects of these investments....
+  
+Box : Microfinance Information Exchange Inc (MIX) data
+Around half of all MIX MFIs (including the Grameen Bank) have not provided complete reports, or not reported in the way that MIX specifies, so that they cant be included in the analysis of savings services. Of the  MFIs for which data was available in the  MIX data:
+  showed no savers at all,
+  had fewer savers than active borrowers, and
+  had as many or more savers than active borrowers.
+While on average there are almost . times the number of savers than borrowers overall, this is only when the Bank Rakyat Indonesia (BRI), with its huge number of savers and enormous saver-to-borrower ratio of close to :, is included. As the table below shows, without BRI, the saver to borrower ratio is less than :.
+It is difficult to make a judgement regarding the extent to which region affects the availability of savings services, because it is clear that some regions (especially South Asia) are significantly under-represented compared to the overall global distribution of MFIs. (Estimates suggest that there may be ,-, MFIs in Bangladesh alone, and around one-third of MFIs verified by the Consultative Group to Assist the Poorest, or CGAP, are Bangladeshi (Hulme and Moore b)). However, it does seem that sub-Saharan African institutions may be doing rather well on the savings front.
+Number of Active Borrowers
+Number of Savers
+Savers/ Borrowers
+Bank Rakyat Indonesia  MFIs
+Total
+,,
+,,
+%
+Average
+,
+,
+%
+ MFIs  without BRI
+Total
+,,
+,,
+%
+Average
+,
+,
+%
+Total
+,,
+,,
+%
+Region
+Number of MFIs
+Number of MFIs with savers
+Proportion of MFIs with savers
+Number of MFIs with as many or more savers than borrowers
+Proportion with as many or more savers
+Average saver/ borrower ratio
+Average saver/ borrower ratio (of MFIs with savers)
+Europe/ Central Asia
+%
+%
+%
+%
+latin_america/ Caribbean
+%
+%
+%
+%
+Sub-Saharan Africa
+%
+%
+%
+%
+Asia-Pacific
+%
+%
+% (% without BRI)
+% (% without BRI)
+South Asia
+%
+%
+%
+%
+Middle East/ North Africa
+%
+%
+%
+%
+Total
+%
+%
+% (% without BRI)
+% (% without BRI)
+Assessing the insurance role of microsavings 
+The ex ante use of microsavings for asset accumulation, in order to build buffers to cope with shocks and reduce the risk of hazards materialising, is extremely commonpoor people particularly save up for investments in productive assets, education and housing. For example, in rural Bangladesh, a chronically poor widowed woman and her disabled son saved up, through reciprocal lending with a daughter and a workplace-based moneyguard respectively, so that a new house could be built (Hulme and Moore ). This significantly reduced the probability of a range of shocks, including house damage during storms; illhealth due to improper shelter; and theft and physical insecurity.
+A recent, in-depth, Q squared (quantitative and qualitative data collection and analysis) microstudy of the financial landscape of a Mexico City slum (Nino-Zarozua ) focuses in part on why and how individuals use/do not use different financial services, and the effects this had on their vulnerability and resource profiles; but the author was only able to analyse this aspect qualitatively. He found that informal (and to a much lesser extent, semi-formal and formal) savings (up, through and down) in all forms were commonly drawn upon to cope with a range of crises (e.g. illness, unemployment). He found that the interaction of a large range of capitalssocial, cultural, attitudinal, human (particularly financial education), materialas well as the nature of financial products, affected this process. He concluded that
+Convenient and secure savings facilities as well as cheaper and flexible credit services helped individuals with different resource profiles to meet needs and cope with shocks, hazards and economic stress. (ibid )
+The quantitative evidence of the insurance and investment roles of microsavings is far more limited (Devaney ), in part because the extreme fungibility of savings makes it difficult to pinpoint the motives for and use of savings, and in part because of the data deficiencies discussed below. Box  describes the survey data we use before turning to the results of the analysis.
+Using the survey data, it is possible to map out self-reported strategies by households to address shocks (realisation of hazards), and identify the incidence and potential effectiveness of saving strategies. The data sets for the three countries provide information on whether households were affected by financial crises in the two years spanning the surveys, and also on the strategies used. For the purposes of comparing these across the three countries and simplifying the presentation, we have grouped these strategies into five: (i) reducing consumption; (ii) adjusting assets through sale or mortgaging; (iii) increasing employment; (iv) borrowing from financial institutions or others; and (v) using savings.
+The frequencies for respondents who experienced a shock in the previous two years are shown separately for savers and non-savers in each survey in Table  below. Savers are defined as those respondents reporting balances in formal (e.g. banks, building societies, post offices, MFIs, and large/established credit
+ ...Mofizul was able to set aside a significant portion of his earnings each day with a money-guard at the brickfielda supervisor he described as an uncle, possibly a maternal cousin. When work at the brickfields is unavailable during the rainy season, or when he felt too unwell to work there, Mofizul was able to find casual work in shops and as a houseboy. Mofizuls savings grew, and in midMofizul and Maymana used this money, along with between Tk.  and , Maymana was minding for her elder daughter (or, possibly, her daughter was minding for Maymana), to build their new house. Their previous house was falling into a poor state, and Mofizul explained, What would happen to my mother if I should die? She needs to live in a good house. (Hulme and Moore, b).
+ The surveys asked respondents to identify whether their households had been affected by hazards in the last two years. Respondents were asked to select hazards from a long list (death or family member, job loss, asset loss, lump sum expenses, etc.), and then to provide information on the three main ones. The surveys asked respondents about the strategies used in the household to cope with shocks, up to three. In the analysis below, all reported strategies have been used.
+  
+Box : Survey data and the role of microsavings
+An extensive search of possible data sources to support the empirical work produced very few leads. Ideally, an analysis of the use and impact of microsaving would benefit from data collected at the household level, focused on low income groups, providing detailed information on saving institutions and schemes, enabling a comparison of savers and non-savers, and with a panel construction to identify changes over time. The datasets we use approximate to this ideal in several respects, but also fall short in other respects.
+We use three datasets on India, Peru and Zimbabwe collected as part of a USAID project on Assets and the Impact of Microenterprise Finance Programmes (AIMS).a The data contain detailed information on saving institutions and schemes, as well as other microfinance institutions; a quasi-experimental feature is that information was collected on clients of a specified MFI (treatment group) and at the same time from a sample of microentrepreneurs and savers not participating in an MFI (control group); the data has a panel structure as surveys were collected two-years apart making it possible to track changes over time. The data were not collected to inform on poor and poorest groups, and are geographically specific (Metropolitan Lima in Peru, urban Ahmedabad in India, Greater Harare, Bulawayo and Mutare in Zimbabawe). The focus of the surveys is on microfinance, and on their use by micro-entrepreneurs. There are therefore important caveats that apply to the findings reported, especially in terms of generalising the results to broader population groups. With these caveats in mind, the analysis emphasises the qualitative relations suggested by the data, as opposed to a precise quantification of relationships and effects.
+__________
+a Detailed information on AIMS and the datasets, and access to the data, is available at microlinks.org/ ev_en.php?ID=_&ID=DO_TOPIC.
+Table : Saver status and incidence of strategies to address shocks
+(proportion of the group who reported having used the relevant strategy)
+Savers are defined as those respondents reporting balances in formal (e.g. banks, building societies, post offices, MFIs, and large/ established credit unions and co-operatives) and informal (small-scale community level schemes like ROSCAs and ASCAs) savings schemes. Non-savers do not report having such balances.
+Note that the surveys allowed respondents to identify several strategies, so frequencies do not add to . * difference in means significant at %
+unions and co-operatives) and informal (small-scale community level schemes like ROSCAs and ASCAs) savings schemes. Non-savers include those without reported savings balances, although some in this group may have cash kept at home or could draw in the savings of relatives.
+The table shows that using savings to address hazards is a very common strategy among the respondents in the sample: it is the dominant strategy in the Zimbabwe sample, and the second most important in the other two samples. The fact that these are samples with a high proportion of micro-entrepreneurs living in urban areas helps explain the importance of strategies relying on financial institutions, saving and borrowing. In the Peruvian sample, a wider and more dispersed range of strategies are utilised than in the other two samples, and a smaller fraction of the sample are savers.
+Peru
+Zimbabwe
+India
+Strategy
+Non-savers
+Savers
+Non-Savers
+Savers
+Non-Savers
+Savers
+Reduced consumption
+.
+.
+.
+.*
+.
+.
+Adjusted assets
+.
+.
+.
+.
+.
+.
+Increased employment
+.
+.
+.
+.
+.
+.
+Borrowed
+.
+.
+.
+.
+.
+.
+Used saving
+.
+.*
+.
+.*
+.
+.*
+N
+Assessing the insurance role of microsavings 
+The table provides only small grains of information on the extent to which microsavings is effective in protecting consumption and preventing asset depletion in the event of shocks. Unsurprisingly, in all three countries, respondents with balances in saving schemes are significantly more likely to have relied on saving to cope with the shock, than those without them. Those non-savers who reported having used savings to address shocks are likely to have drawn on cash or other highly liquid assets, or perhaps to have accessed savings from other household members. It is surmised that microsavings schemes both foster the capacity to save and offer the flexibility to withdraw when required, offering savers more choice as to how to cope with shocks than those without funds in microsavings schemes.
+In general, differences in means across groups are not, with few exceptions, significant. Only in the Indian sample, savers are more likely to reduce consumption in the event of a shock than non-savers. The fact that few differences in means are significant reflects, to an important extent, the samples being purposively collected to capture relatively homogeneous groups of entrepreneurs.
+The Indian panel dataset can support a more detailed analysis of the role of microsaving schemes in protecting consumption from shocks. The sample was constructed as follows: in a defined geographical area in urban Ahmedabad, a sample of  SEWA borrowers and  SEWA savers were identified randomly from administrative records; for each of these households a further  similar households were identified in the neighbourhood who were not SEWA members. This resulted in a list of , non-SEWA households, from which  households were identified randomly. A household and enterprise survey was conducted in early  from the sample. A second survey of the same households was conducted in early . In this second wave  households were re-interviewed, including  SEWA borrowers,  SEWA savers, and  non-members. Chen and Snodgrass () confirm that attrition did not appear to have introduced biases in the sample.
+The advantage of the way the data was collected is that we can explore the differences existing across the three groups identified in the sample. This is explored in a multivariate setting, to control for potential differences across the groups which may have independent bearing on the use of different strategies. Table  below reports on the findings.
+The Logit and Probit models were estimated using the above data to test for significant differences across the groups of micro-entrepreneurs and wage workers in Ahmedabad as regards their use of savings as a strategy to address shocks, controlling for other influencing factors. The sample includes all respondents who experienced a shock in the previous two years. The models include variables capturing age, household size, religion (Hindu=, Muslim or Christian=), and self-employment (self-employed=; wage worker=). The main finding is that having controlled for these factors, there are significant differences in the use of saving across the groups, with SEWA members showing a higher likelihood of using saving compared to non-SEWA members. In the Logit model we were able to test for differences across the three groups in the sample, and SEWA savers appeared to have a significantly higher likelihood of using savings as a strategy to address shocks. In the Probit model we focused on differences between SEWA members and non-members and again we find that SEWA members have a significantly higher likelihood of using savings as a strategy to
+ The questionnaires asked respondents to report on household financial shocks and strategies, but only on their own saving arrangements.
+ All SEWA members must save a minimum. SEWA savers are those who have saved but never borrowed. SEWA borrowers are those who have taken SEWA loans; they also will have saved in order to join SEWA and take loans, and they may have saved additionally as well.
+  
+Table : Saving status and use of savings as a strategy to address shocks, Ahmedabad sample who experienced a shock in the last two years
+Multinomial Logit
+Probit
+SEWA borrower+saver
+SEWA saver only
+SEWA member
+Variables
+Parameter
+Parameter
+Parameter
+Means
+Constant
+-.*
+-.
+-.*
+Age
+.*
+.
+.*
+.
+Age Sqrd.
+-.*
+-.
+-.*
+.
+Household size
+.
+-.
+.
+.
+Religion (Hindu =)
+-.
+.
+-.
+.
+Self-employed
+.*
+.
+.**
+.
+Borrowed
+.
+.
+.
+.
+Adjusted assets
+-.
+-.
+-.
+.
+Adjusted consumption
+-.
+-.
+-.
+.
+Used saving
+.
+.**
+.**
+.
+N = 
+* significant at % ** significant at %
+LL()-.; LL()-.; Pseudo R = .
+LL() -.;
+LL() -.; Pseudo R = .
+Control group is non-SEWA members address shocks. The findings need to taken with caution, as the model fit statistics suggest that the variables in the model, especially in the Probit, explain only a fraction of the variation in the sample. At face value, the results suggest that SEWA membership enhances the strategies available to the sampled households to address shocks.
+Part C: Household utilization of microsaving investment in fixed assets
+The same data allow us to explore whether saving status is associated with investment in fixed productive assets. The analysis will focus on the Indian dataset, as it includes information on whether households have invested in fixed assets (equipment, installations, machinery, tools) in the last two years (the interval between rounds), and on the source used to finance this investment. Two variables were constructed to explore this issue. One is a discrete variable that identifies respondents who report having invested in fixed assets in the last two years. The second is another discrete variable that identifies respondents who had financed this investment from savings or earnings (these two categories are lumped together in the question so that it is not possible to distinguish one source of financing from the other, but analytically they are very similar). The first row of Table  shows the incidence of investment in fixed assets across the three groups.
+The Table further shows (in the second row) that saving/earnings is the dominant source of financing investment among those respondents who did invest in the period spanning the two samples, but that the differences across the three groups are not significant. This was explored further by considering conditional differences across the three groups using multinomial logit and probit models along the lines of
+ While recognising that housing has consumption and investment dimensions, we have excluded housing improvements from the analysis in order to try to focus on investment in fixed productive assets, including equipment, machinery, tools, etc.
+ The Peru and Zimbabwe surveys did not ask respondents to identify the source of any investment in productive assets.
+ The financing options offered to respondents are: savings/earnings, SEWA bank loan, other loan, other.
+ This was confirmed by a Tukey test.
+Assessing the insurance role of microsavings 
+Table : Investment in fixed assets and savings/earnings as a source of finance  SEWA sample the analysis in Part B, but the parameter estimates associated with the use of saving/earnings as a financing instrument were not significant. In sum, the data indicates that saving/earning is the dominant source of finance for investment in fixed productive assets among the sampled households, but that membership of SEWA does not make a significant difference with respect to either the propensity or source of financing investment.
+Part D: Microsavings from an insurance perspective: Shortcomings and solutions
+It is clear from both qualitative and quantitative studies that poor people use microsavings to reduce vulnerability, smooth consumption and reduce the likelihood of having to make asset sales under duress. It is also clear that the microsavings of the poor are held predominantly in the informal sector. The formal sector banks, MFIs, cooperatives, postal savings banks and othershave only a limited capacity to meet the savings needs of the poor.
+However, microsavings are only one component of the portfolios that poor people seek to develop to cope with the uncertainties of their lives. Each of these different instruments offer different mixes of advantages and disadvantages for those who use them, particularly in terms of accessibility, security, and the types of shock or stress they can help deal with (Table  above). Detailed interviews with households in poor communities reveal that poor people, like most better-off people, do not seek to identify a single optimal insurance instrument to deal with their multiple vulnerabilities. Rather, they develop portfolios that utilise a range of different instruments in order to have the flexibility to deal with many different types and scale of hazard, and they attempt to diversify these portfolios so that they are not excessively dependent on any single instrument or institution or individual.
+Qualitative research shows that microsavings can be used to manage potential and actual shocks and stresses both ex ante and ex post, along with other forms of insurance and insurance surrogates. Yet, as discussed in Part A, an overwhelming body of quantitative and qualitative evidence reveals that access to formal microsavings services is very low for poor people (and for many near poor and non-poor people) in developing countries. Increasing poor peoples access to microsavings services thus has to be an essential element of any strategy to reduce their vulnerability. While theoreticians may strive to specify optimal instruments, in practical terms this means making secure microsavings services more accessible for poor people in rural and urban areas so that they have greater choice.
+ The classic example of this was provided by BRI in Indonesia in the s. As soon as it provided an effective service it was swamped with rural savings that had been held informally. More recently, there has been rapid growth in deposits for institutions in Benin, the Philippines and Bosnia that have targeted microsavings (CGAP :).
+ See the Financial Diaries project at financialdiaries.com.
+SEWA borrowers
+SEWA savers
+Non-SEWA members
+Invested in fixed assets in last  years?
+.(%)
+.(%)
+.(%)
+N= 
+N=
+N=
+Of respondents who did invest:
+Financed investment from savings/earnings?
+.(%)
+.(%)
+.(%)
+N=
+N=
+N=
+  
+Before examining the shortcomings of present-day formal microsavings we should recall some of their advantages.
+ They can be used to deal with many different types of hazard or stress both ex ante and ex post. This is an advantage over many forms of insurance which only cover a specific type of shock.
+ Their use can usually be sanctioned by the saver and does not require application to insurance agents who will determine whether or not a claim is valid.
+ Microsavings are a means of further diversifying a households insurance portfolio and this helps to further spread risk.
+The main shortcomings of microsavings may be summarised as follows:
+ First, for the vast majority of people in developing countries, formal microsavings services are not available. The main reasons for this are lack of proximity, the high costs of access to such services, and the organisational cultures of formal institutions (whose procedures and staff attitudes often deter poor people).
+ In cases were such services have been provided, their role as an insurance device has sometimes been weakened by product design features that reduce accessibility. An outstanding example comes from Bangladesh where the Grameen Bank, BRAC and other agencies used client savings as a form of quasi-collateral. As a result, clients were only permitted to access their savings if they repaid their loans and left the MFI. Rather than supporting clients in times of need, these agencies added to their insecurity.
+ Third, where services are available, many poor people do not use formal microsaving services because of doubts about the security of such institutions. In countries where retail banks have gone bust, such as Uganda, faith in the formal system takes several years to recover.
+ Fourth, even when formal microsaving services are available and used by poor people, the level of savings households can amass is only sufficient to help prevent or cope with or recover from small shocks. Major shockschronic illness, disablement, loss of employment, loss of main assetsneed to be covered by other instruments such as risk-pooling insurance or social protection.
+How might such shortcomings, especially the first three listed above, be overcome? Recent work by CGAP () reviewing evidence from Benin, Bosnia, Mexico, the Philippines and Uganda attempted to identify the policies and actions that are required to expand formal microsavings services and permit them to compete with the informal sector. These can be summarised as: improving coverage and proximity; making savings services more affordable/less costly; strengthening the security of savings services (both in real terms and in terms of public perceptions); and, making formal institutions more user-friendly to poor people.
+. Improving proximityBeing distant from financial institutions and/or having to spend a lot of time getting to an institution is a problem for poor people in most parts of the world and particularly in rural areas (where access might require several hours or even days travel). Clearly there is no blanket prescription for how to improve proximityanswers need to be country and context specific. However, some strategic directions can be identified as follows.
+ These agencies have now modified their policies and encourage voluntary and accessible savings.
+ Clearly the problem of providing formal micro-insurance and social protection are outside of microsavings.
+Assessing the insurance role of microsavings 
+(a) Existing organisations must be encouraged to improve their outreach. In many circumstances this may mean a focus on cooperatives, rural banking structures and postal savings banks. The classic example of a vast increase in outreach is BRI in Indonesia. In the s the deregulation of financial services created the opportunity for BRI to develop user-friendly microsavings products and within months the number and volume of savings accounts rose dramatically (Robinson ). The SANASA cooperatives in Sri Lanka had a similar leap in coverage following their re-awakening by a visionary leader and social activist (Montgomery, Hulme and Bhattacharya ).
+(b) Policy-makers should look for means to encourage centralised financial institutions, such as urban-based big banks, to reach down for new clients while MFIs and social entrepreneurs are encouraged to experiment with new forms of savings service at the grass-roots level. This may involve new forms of partnership, such as the relationships between commercial banks, NGOs and self-help groups (SHGs) in India, and new forms of operation, such as Safe Saves fieldworkers visiting clients at their home or workplace on a one-to-one basis each day (Hulme and Moore a).
+(c) Support for innovative programmes that use new technologies (mobile phones, smart cards and identification technologies) to provide microsavings services at locations that are most convenient for clients (see CGAP : ).
+. Making savings services more affordable/less costly for poor people Getting services geographically closer to poor people reduces their transaction costs and makes it easier for them to make deposits or withdrawals. But other reforms can deepen this impact. In particular, designing services so that they have low threshold costs for establishing a savings account only small opening fees, low minimum balances or share costs (for cooperatives)is likely to encourage savers to join formal institutions. Lowering these threshold costs can be compensated by the organisation increasing its post-joining charges. Again, SANASA in Sri Lanka illustrates how this might work. In the s it encouraged primary cooperatives to allow low income households to purchase their mandatory share by instalments, rather than as an up-front lump sum. This led to a large expansion in the number of microsavers, which expanded the resources that cooperatives had available to on lend to established clients.
+. Improving the security of microsavings in the formal sector This is a difficult issue for both analysis and action. Research indicates that savers place security at the top of their priorities. At the same time, they place their savings with informal deposit-takers whose reliability is lower than that of alternative institutions. This may be because of a lack of information and perceptions (or rather misperceptions) about the degree of influence or control they have over informal providers. Once security becomes a policy issue there is a danger of politicians and bureaucrats having a knee-jerk reaction pronouncing that ...we must regulate all savings institutions so that microsavings are totally secure. Unfortunately, such a response is likely to create a set of incentives for the formal financial sector that will mean avoiding microsavings. Wright and Mutesasiras () finding that relatively unsupervised formal deposit taking institutions are less risky than informal providers should caution policymakers against pursuing regulatory counsels of perfection that will discourage formal sector agencies from entering the microsavings market and reduce the competition that might lead to microsavers needs being more adequately addressed.
+ It must be noted that there are trade-offs between regulatory requirements and creating incentives for organisations to develop and promote savings services. Excessively strong regulation will discourage financial institutions from the field of microsavings. Light or non-existent regulation will create the opportunity for financial crises within financial organisations (see CGAP :-).
+  
+. Organisational culture, staff attitudes and user friendliness The beliefs, attitudes and behaviours of formal finance institutions and their staff can be a major obstacle to their providing microsavings services to poorer people. Personal experience from fieldwork in Bangladesh and India over the years (Hulme) has revealed that public and private banks often demand high levels of client literacy (in regions where illiteracy is common), make poor people feel unwelcome and permit their frontline staff (tellers and junior advisers) to behave in a discriminatory way to women, lower castes and/or tribal peoples and religious minorities. Promoting internal policies and practices more attuned to the idea of financial inclusion (as a component of social inclusion) would help to remove such barriers. Steps in this direction include simplifying forms and procedures and language, providing oral advice to illiterate clients, and stamping out discrimination.
+Priorities for policy and action
+The above discussion leads to a focus on three main areas to make formal microsaving services for poor people more accessible and to strengthen the likelihood of poor people being able to create a portfolio of instruments that is effective in helping them reduce vulnerability, cope with shocks, and engineer a recovery.
+. Raising the capacity of formal sector institutions to serve the poorThis entails improving the management capacity of financial institutions through training and new incentives; reducing their cost structures through economies of scale and technological innovation; ensuring that regulatory requirements do not lead to savings mobilisation causing excess liquidity; and, ensuring that donors and governments do not crowd out the market for microsavings by providing low cost, wholesale funds (see CGAP  for a full discussion). Country-specific, applied research has a strong role to play in such initiatives. It should also be noted that a focus on low income, poor and near poor people is more likely to produce viable services than an insistence that formal institutions should start with a focus on the poorest people. However desirable such a goal may seem, providing sustainable microfinancial services to the poorest of the poor is far too difficult a task for inexperienced agencies.
+. Ensuring that regulatory regimes are appropriate Countries need effective, nation-specific regulatory regimes. As the CGAP CLSAs (:) indicate, in some circumstances this will mean reforming supervisory systems so that cooperatives come under light touch regulation that is provided by independent authorities (rather than those tasked with promoting the cooperative movement). In others it will mean ensuring that outreach-discouraging systems, such as Ugandas recent Micro-Deposit taking Institutions (MDI) Act, are challenged. Research is needed to inform policymakers about the prospective and actual consequences of alternative policy choices and move public debates away from the unuseful dichotomy of all regulation is dysfunctional (of neo-liberals) versus total security must be guaranteed (of populist politicians and lawyers).
+. Advocacy for microsavings Public advocacy to promote microcredit has been a major component of development debates for almost  years. Such advocacy has been lacking for microsavings and, as a result, politicians, policymakers and the public have only a limited or no understanding of the role that microsavings can play in poverty reduction and helping poor people manage vulnerability. As CGAP (:) points out, many policymakers and bankers still assume that poor people are too poor to save despite the vast literature that shows this is not the case. While further research on microsavings is needed (see  and  above) the most pressing need is for a high profile advocacy campaign to educate politicians, bankers and publics about the role of microsavings in poverty reduction. Ideally, this should be led by a high profile public figure such as Professor Yunus (whose Grameen Bank has shifted to a focus on microsavings in the last few years - the Grameen Pension Scheme), or Bill Clinton, or Kofi Annan, or the Microcredit Summit, or some such famous person, organization, or congregation. At the present time the need for effective global advocacy for microsavings is far greater than the need for more research on impact assessment. Research findings about microsavings and poverty reduction are knocking on closed doors\0xF3a major advocacy initiative is required to open those doors so that existing knowledge about the high value that poor people place on microsaving services is heard in policymaking circles. Conclusions Microsavings are not a substitute for microinsurance or social protection. Despite our highlighting of their role in this paper, they also are not automatically preferable to microcredit. What they are, however, is the neglected element of microfinancial services. We know that there is a vast unmet demand for formal microsavings services from the poor\0xF3but microcredit has long dominated this field and microinsurance is now the \0xEBnew kid on the blocki that is getting attention. In contrast, microsavings remain neglected and there is much less concerted effort to experiment and innovate with microsavings services and regulation than for microcredit and microinsurance. This is a serious error, given the capacity for microsavings to serve as both a quasi-insurance mechanism for all sorts of shock and vulnerability and as a means of creating lump sums for investment. National governments and donors have fuelled this neglect by highlighting microcredit in their Poverty Reduction Strategies, policies and practices\0xF3when microfinancial services (credit, savings and insurance) are needed. Researchers and think tanks have abetted them by neglecting to develop datasets on microsavings and allocate sufficient priority to examining the impacts and design of microsavings initiatives. Whether we look at microsavings from an insurance or an investment perspective we have to agree with Hirschland (2005): \0xECWe know how to reach large numbers of small savers. Our challenge now is to extend these services\0xF3on a massive scale to poor and rural markets. Research has a role in this; but, the pressing priority today is national and international campaigning for microsaving service delivery and microsaving friendly regulation. 
+ 

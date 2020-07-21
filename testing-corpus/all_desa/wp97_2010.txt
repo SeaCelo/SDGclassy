@@ -1,0 +1,899 @@
+Impact of the Global Economic Crises on civil_society Organizations
+ Executive Summary
+In early , a number of civil_society organizations (CSOs) have reported substantial reductions in their funding in the wake of the global financial and economic crisis. They were concerned that this threatens their ability to deliver the services and activities that are required. Seeking to understand better the global scope of this problem, based on a request by the Commission for Social Development, the Division for Social Policy and Development sought to assess how widespread this phenomenon has been as part of its overall assessment of the impact of the ongoing crises on social development. It requested the author to undertake a global survey of civil_society organizations that was guided by a CSO Steering Committee, which included two members of the NGO Committee for Social Development (Marianists International and the Sisters of Charity Federation), as well as the Friedrich Ebert Foundation (FES) and the UN Non-Governmental Liaison Service. Thus, a global survey was undertaken from  August to  December  on the impact of the inter-related environmental, financial and economic crises on CSOs and the constituencies they serve. This study highlights limitations facing non-governmental organizations as providers of social services for development and the essential role of state institutions. A questionnaire was widely distributed among the different regions in the world to which  CSOs responded, from Africa (%), from Asia, including China (%), from Western Europe (%), US and Canada (%), latin_american countries (%), Eastern Europe (%), Japan, Australia and New Zealand (%), from Ukraine and Russia (%).
+Although some CSOs have seen increased funding, overall the survey finds a worsening financial situation for CSOs in the period -. As main reasons, CSOs explained that owing to the world economic crisis grants from existing sources decreased. The data confirm that  and  marked a special challenge for CSOs worldwide. Most CSOs report budget decreases in those years. Most of the reductions have occurred in Sub-Saharan Africa. Responding CSOs have seen reductions by individual contributors, private foundations, international institutions and governments, although not necessarily by all categories at once. Many humanitarian and development CSOs, especially in Europe, are intensifying their fundraising efforts, as several have seen the need to cut back their aid programmes due to the global recession. The prospects for  do not look better. This might be one of the reasons why advocacy work has increased since  (base year) throughout all the regions.
+ The author gratefully acknowledges the advice of the members of the CSO Steering Committee for taking the lead in this project: Steve ONeil, Caroljean Willie/both NGO Committee on CSocD, Sara Burke/ FES and Zachary Bleicher/ NGLS. Barry Herman and Alberto Minujin / Graduate Program in International Affairs, The New School gave valuable comments. Interns, especially Li Peng and Gillian Stumpf, helped to translate the questionnaire and to categorize the written responses. The author also thanks the UN Division for Social Policy and Development for financial and technical support.
+  
+The revenue decline comes at the same time as demand for services is increasing, requiring more, not less, funding. CSOs report that the amount and scope of requests for support by the constituencies and partners of civil_society organizations has grown since . More than half of the responding CSOs reported that demand for services has already risen substantially. They project for the next two years further increases in requests for emergency relief and for support to provide basic social services.
+CSOs are also keenly aware that for all their efforts, they are relatively small actors in social development. Only governments can act on the scale required and they must play their role. Thus, CSOs participating in the present study make recommendations to governments on this score. First, home governments where CSOs operate are strongly urged to mobilize the requisite resources for social development programmes. This requires, in the view of the survey respondents, more effectively tackling corruption and collecting taxes that are more fairly structured. The programmes needed are embodied in social safety nets, income support for the poorest, and implementation of the Decent Work Agenda. Internationally, participants called for donor governments to step up their official development assistance and to channel more of it directly through CSOs on the ground, in particular in countries in which CSOs have faced public corruption and policy indifference. Finally, CSOs look to the international community for more effective cooperation on economic matters, as in stronger assistance in reducing opportunities for tax evasion and in developing innovative sources of financing for global public goods. They also expressed the need to restate global principles that should govern international economic and financial policy through a new UN charter for a sustainable and socially oriented market economy.
+The current situation demonstrates that the ability of CSOs to mobilize financial resources weakens during a crisis just when the need for their social services rises. People around the world have been less able than before to step up their assistance. Similarly, private foundations face reduced capacity to deliver funds as their own assets and earnings have declined in the crisis. Therefore, governments and international institutions need to step in and act counter-cyclically and seek a way to institutionalize financial support for the necessary programmes of CSOs during global crises.
+. Introduction
+In February , the Commission for Social Development, a functional commission of the Economic and Social Council (ECOSOC) of the united_nations, discussed under emerging issues the global crises and emphasized that social integration is a prerequisite for fostering stable, safe, harmonious, peaceful and just societies so as to create an optimal basis for social development and economic progress. In this context, the Commission requested the Division for Social Policy and Development to assess the potential impact of the ongoing crises on social development. As part of the Divisions response to this request, this study was undertaken to assess the current and projected impact of the global crises on civil_society organizations (CSOs) worldwide and the constituencies they serve. The assessment includes recommendations and strategies about actions and policies for CSOs, governments, academia and the media.
+The study was prepared under the supervision of the civil_society and Outreach Unit within the Division for Social Policy and Development. A CSO Steering Committee, including representatives from the
+ CSocD, Feb : Chairpersons summary of the discussions on the priority theme and on the emerging issues: The current global crises and their impact on social development and social integration, paras -.
+ General Assembly resolution /, para .
+Impact of the Global Economic Crises on civil_society Organizations 
+Non-Governmental Liaison Service (NGLS), the Friedrich Ebert Foundation and two members of the NGO Committee for Social Development monitored the work on the survey and the assessment of the impact of the global economic crisis on CSOs.
+A central part of the project was a questionnaire sent out in October  by the UN Division to , national and international civil_society organizations accredited to the united_nations and working in the area of social integration, development, social justice, sustainability, gender, health and financing for development. In addition, NGLS sent the survey to its contact list, and additional networks were notified. Furthermore, a number of recipients that were CSO headquarters or NGO networks further disseminated the questionnaire to their members, constituencies and partners in the regions and thus the total number of potential respondents who received the questionnaire is uncountable.
+In the end,  organizations returned completed questionnaires to the UN, covering all geographical regions. While the survey thus did not employ a formal random sampling technique, it is believed that the results discussed here are a meaningful indication of CSO experiences during the current global conjuncture. The survey allows us to inquire how the different regions and categories of activities of civil_society organizations have been affected by their experienced and predicted changes in financial conditions since  (selected as pre-crises base year).
+One may draw from the answers to the survey an indication of the current situation and short-term prospects that civil_society organizations are facing as a result of the crisis. Finally, civil_society organizations proposed recommendations for governments and international organizations to ameliorate the impact of the crisis on the population groups targeted by these organizations.
+The report on this study is based on the analysis of the  CSO responses to the questionnaire on:
+ budgetary change of resources for CSOs after .
+ dependence of CSOs on different categories of sources of funding.
+ regional differences in the impact of the global crises on CSOs.
+ strategies that CSOs used so far to cope with the change or drop of revenues.
+ projected change in the demand for services.
+ selected recommendations of civil_society organizations.
+The questionnaire is available at un.org/esa/socdev/ngo/unsurvey-globalcrises.html.
+civil_society Organizations: scope of the object of the study
+The term non-governmental organization (NGO) has become widely accepted as referring to a legally constituted organization with no participation or representation of any government, whereas the broader term civil_society organization (CSO) refers to un-coerced collective action around shared interests, purposes and values. This term is commonly used today and stands for institutions that form the basis of a society, but are distinct from those institutional forms of the state, family and business. The united_nations Development Programme (UNDP), for example, defines civil_society as a third sector existing alongside and interacting with the state and private sector. In recent years, there has been a considerable increase both in the number of civil_society organizations and in the scope of their activities world-wide. They are playing an
+ Centre for civil_society, London School of Economics, London 
+ UNDP and civil_society Organizations: A Practice Note on Engagement (), p. . undp.org/cso/resource/ policies/UNDPCSOPolicy.doc
+  
+increasingly influential role in the social area, setting and implementing development agendas at national and international level. Many of them have been in the forefront of advocating principles of social justice and equity. Today, the UN as well as international institutions recognize and appreciate the contribution of civil_society organizations, both in terms of directly delivering social services, especially to marginalized people, and in terms of advocating that governments meet the needs of the poor.
+In common usage, the terms CSO and NGO are virtually interchangeable. For example, the NGO Committee for Social Development is a substantive committee of the Conference of Non-Governmental Organizations in Consultative Relationship with the united_nations (CONGO) and monitors the implementation of the commitments made at the World Summit on Social Development and at the Special Session of the General Assembly. It holds discussions on social development issues taken up by the UN and in particular by the Commission for Social Development. The NGO Committee provides relevant information to civil_society and delivers statements to the UN voicing its ideas and positions on key social development issues. Its members are ECOSOC accredited civil_society organizations, most of them registered charities, non-governmental development organizations, community groups, women organizations, faith-based organizations, professional associations, trade unions, social movements, self-help groups, coalitions and social advocacy groups. This is the universe of types of entities that the present study sought to investigate.
+. Background: The global environmental, food and economic crises
+According to the world_bank in , . billion people were living on less than $ a day even before the food, fuel and financial crises. Today, climate_change, volatile food and energy prices and the global financial and economic crisis pose a serious threat to whatever hard-earned progress has been made in social development in recent years. civil_society organizations around the world that participated in this study complained that most governments proposals to deal with the global crisis did not sufficiently address the social consequences, such as rising inequalities, increased food insecurity and volatile energy and commodity prices. This section of the paper briefly reviews these situations as background to the survey.
+The environmental crisis climate_change poses serious risks and challenges to all countries. However, there is also little doubt that the burden of projected damages will fall disproportionately on developing countries. It has been estimated that the welfare loss for developing regions is more than double that for the member countries of the Organization for Economic Cooperation and Development (OECD), excluding the united_states, and more than  times greater than the damage to the united_states. Recent estimates suggest that , people are dying each year as a result of global warming and the lives of  million more are being seriously threatened. In this respect, climate_change is an already-existing crisis in the developing world.
+The climate challenge arises from the worsening of the natural warming caused by an increase in the flow of greenhouse gases in the atmosphere. Human activity has led to an increase in the concentration of those gases from the level they might otherwise have attained and is causing a major disruption in the natural climate process of the planet. These gases have a long gestation cycle in the atmosphere; in other words, once
+ worldbank.org/foodcrisis , 
+ UN DESA: Policybrief , August 
+ UN DESA: World Economic Situation and Outlook  Chapter 
+Impact of the Global Economic Crises on civil_society Organizations 
+emitted, they remain there for decades. Carbon dioxide is the main component of the greenhouse gases that are the leading contributors to global warming. Emissions have reached unsustainable levels principally as a result of energy use by rich countries. Deforestation and forest degradation in developing countries contributes to the higher concentration of carbon dioxide.
+In order to reduce emissions by enough to hold temperature increases below C from pre-industrial levels, sustainable global targets and aggressive mitigation actions by developed countries need to be initiated urgently and in earnest. Developing countries will also need to contribute to mitigation in the future. The Intergovernmental Panel on climate_change (IPCC) estimates that global emissions need to be cut on the order of per cent by  in order to keep global temperatures within bounds. Progress towards emission reductions, however, has been disappointing, as the developed countries have not yet contributed extensively to the mitigation process.
+The impact of rising emission levels is now becoming clear. Global average surface temperature increased by almost  C between  and , with a noticeable acceleration in recent decades. The global average sea level has increased at an average rate of . millimeters per year over the period -. During this rate of increase has risen to . mm per year. The area affected by drought has increased. Extreme weather events have increased in number, scope and intensity. There is a significant risk that many of the trends will accelerate, leading to an increasing risk of abrupt or irreversible climatic shifts.
+The climate and development challenges are inextricably linked. Prospects for a more sustainable_development are likely to be undermined by impacts of climate_change on the economy. The Intergovernmental Panel on climate_change estimates that climate_change could entail a loss of between  and  per cent of world gross product per year by  if nothing is done to mitigate carbon emissions. Even taking the lowest estimate, it is clear that the cost of doing nothing will be significant. There will also be adverse impacts on food and water supplies as well as on health.
+Achieving low-carbon development requires major actions for environmental mitigation and adaptation and these will often be costly and require additional international assistance for poor countries. It means that assistance for development and climate action must go hand in hand. Developing countries need to develop special policies regarding adaptation at the same time as they seek to meet development and poverty reduction objectives. Meeting this challenge will require massive technology and financial transfers from the developed countries.
+The global food security crisis
+Budgets of many people in developing countries were hit hard by the rise in food and oil prices in . In , before the rapid rise in food prices, some  million people worldwide were estimated to
+ UN DESA: Policybrief , August 
+ UN DESA: World Economic Situation and Outlook  Chapter 
+ UN DESA: Policybrief , August 
+ Ibid.
+ Ibid.
+ UN DESA: Policybrief , June 
+  
+be undernourished. The World Food Programme (WFP) estimated that the number of chronically hungry (undernourished) people in the world reached up to one billion in . The extraordinary rise of global food prices in early  posed a major threat to global food and nutrition security and had humanitarian and socio-economic consequences. In particular, it presented challenges for low income countries.
+Climate-related events like droughts, floods and environmental degradation often have negative effects on food supplies. In particular, the food crisis remains extremely alarming in East Africa. Several East African countries, including the United Republic of Tanzania, Uganda and Ethiopia, registered stark rises in domestic food prices owing to draught and poor domestic harvests. This crisis also shows the underlying structural problems in the food distribution systems of poorer countries.
+According to WFP and the world_bank, the food crisis is not only an environmental, but also a man-made problem. High fuel costs and enhanced trading in commodities have resulted in higher agriculture costs and falling food stocks. In addition, land shifted out of food production to produce biofuels and other commodities have increased the role of land as an asset class traded in and out of investor portfolios, making land prices potentially more volatile. There has also been a decline in agricultural investment vis-a-vis a growing world population. The experience of the International Fund for Agricultural Development (IFAD) indicates that helping smallholder farmers can contribute to a countrys economic growth and food security, as small farms are often efficient and have growth potential. Using this approach, Viet Nam, has gone from a food-deficit country to the second-largest rice exporter in the world.
+While international food prices have fallen during  from their peaks in , they still remain higher than they were two years ago. Also, prices are likely to rise again as the world economy emerges from the global recession, and to stay volatile for a while. Major food grain prices are still above average and local food prices in many countries havent come down. According to the world_bank, maize is % more expensive than its average price between  and , while rice prices are % higher.
+WFP has been hampered by a shortage of funds and has already had to cut the size of food rations it provides to the people in need. As the main organization providing emergency food aid around the world, it urgently needs more predictable, longer-term funding. Therefore, WFP as well as the world_bank underline the continued need for the international community to fight hunger and have warned the world it needs to take steps now to build food security in developing countries in order to avoid another food crisis. The Group of  (G) has requested the world_bank to work with interested donors and organizations to establish a multilateral trust fund to scale up agricultural assistance to low income countries.
+ The majority of undernourished people live in developing countries, with about  per cent living in India, China, Democratic Republic of Congo, Bangladesh, Indonesia, Pakistan, and Ethiopia, according to the FAO fao.org.
+ worldbank.org/foodcrisis
+ One factor is that, according to the OECD Development Assistance Committee (DAC), aid for agriculture fell from  percent of total aid in early s to . percent in -.
+ worldbank.org/foodcrisis
+ united_nations wesp .
+ worldbank.org/foodcrisis
+ united_nations, wesp .
+ worldbank.org/foodcrisis
+Impact of the Global Economic Crises on civil_society Organizations 
+In addition, in November , world leaders at the World Summit on Food Security agreed to work to reverse the decline in domestic and international funding for food production and to promote new investment in the agricultural sector. It has become clear that agriculture and food security need to be put back on to the development agenda. Therefore, governments promised to improve governance of global food issues in partnership with relevant stakeholders from the public and private sector, and to proactively face the challenges of climate_change to food security. Governments still need to set clear targets to end hunger.
+Meanwhile, CSOs continue to play their role both in food emergency and in supporting agricultural development in low-income communities. Agriculture needs to be a central part of the development agenda if we are to keep on track for the mdgs. One billion women, children and men per cent of the worlds poorest peoplelive in rural areas and depend on agriculture and related activities for their livelihoods.
+The global financial and economic crisis
+Since late , the financial and economic crisis has reversed recent positive economic trends in both advanced and developing countries. The crisis emerged in major developed economies in  and spilled over into the developing countries and economies in transition through international financial and trade channels. This deteriorating international economic environment persisted during the first half of , posing tremendous challenges to developing countries in financing development. A majority of developing countries has experienced a reversal in the robust growth since . There are indications that a significant setback in the progress made in poverty reduction for many developing countries will continue over the next years.
+Output in the world as a whole was estimated to have declined by more than % in . Output per capita fell in  of the  countries monitored by the UN Secretariat. The volume of world trade plummeted by an estimated .% and with developing country export prices falling relative to import prices, the terms of trade of these countries fell a remarkable % on average. Coupled with the sharp slowdown in economic growth in these countries in , this means that in many countries real income (what can be purchased with a countrys output) fell as well. Remittances dropped significantly and foreign direct investment and other private flows declined. The IMF estimated that there was a net outflow of private financial resources from emerging and developing countries in  (in contrast, there was a net inflow in  of almost $ billion).
+Developed countries and some emerging economy countries have responded with large-scale stimulus plans, which helped stabilize the situation, preventing a catastrophic global depression. In fact, an increasing number of economies saw a return to positive output growth during . Economic recovery in  will be strongest in some emerging economies, particularly in China and India, which are expected to grow at . and . per cent respectively. However, this growth will not translate into broad-based poverty
+ FAO : fao.org/wsfs/world-summit/en/
+ FAO had proposed setting a target of  for the total eradication of hunger from the face of the earth. The agency also proposed increasing official development assistance to be invested in agriculture and rural infrastructure in developing countries to $ billion per year: fao.org/news/story/en/item//icode/
+ Unless otherwise indicated, this and subsequent estimates for  and forecasts for  are drawn from united_nations, wesp, .
+ IMF, World Economic Outlook, September , table A..
+ Ibid., table A..
+  
+reduction unless it spreads to more countries. Indeed, the recovery in  globally is expected to be slow and job losers will thus not quickly be drawn back into employment. While fewer developing or transition economy countries are expected to suffer declining per capita output in  compared to  ( versus ), only  of these countries (compared to  in ) are forecast to achieve the threshold economic growth rate per capita of  per cent or more, the minimum needed for substantial poverty reduction.
+As of the end of , the overall recovery is forecast to be weak in  (global growth of only . per cent is expected), uneven and fragile, as it was mostly based on the fiscal stimulus packages. The positive effects of the  stimuli are expected to diminish in , and there is a risk of untenable levels of public indebtedness in a number of countries. Important financial sector problems and problems of international coordination still remain to be resolved. Credit for private investment and consumption is still extremely tight. A major concern remains about the vulnerability to volatility in financial markets, which makes financial institutions reluctant to supply credit and is thus a source for further instability.
+Several developing countries are now struggling to find the financial resources to cover pressing budgetary demands. While a few emerging market countries are viewed favourably by financial markets, others have to rely on official international support, as from IMF, extended under its traditional tight conditionality. With resources limited, developing countries are facing the challenge of expanding spending and investment into social safety nets, human development and essential infrastructure, and restoring sustainable growth.
+The International Labour Organization (ILO) points out that the ongoing global economic slowdown is affecting low-income groups disproportionately. Of the  million jobs lost through the crisis, almost  million are in medium and low-income countries. To the formally unemployed, must be added those taking deep income cuts from working part time and those who have given up looking for work in the formal sector. ILO forecasts that employment in high GDP per-capita countries may not return to pre-crisis levels before , unless more decisive measures are taken to stimulate job creation. In emerging and developing countries, high-quality jobs have been lost and affected workers are likely to move into the informal economy. In developing countries, employment levels could start recovering from , but may not reach pre-crisis levels before . And while unemployment insurance provides a measure of income support for the unemployed in higher income countries, unemployed workers are left to their own devices in most of the developing world. People with no safety nets suffer the most.
+CSOs try to step into this difficult situation and extend their services to meet the greater needs, despite their funding constraints, as will be discussed in more detail below.
+. Methodology of the Survey
+The civil_society and Outreach Unit within the Division for Social Policy and Development, assisted by the Steering Committee for this study, including representatives from NGLS and the Friedrich Ebert Foundation and two members of the NGO Committee for Social Development, drafted terms of reference for the requested study, which was to be mainly based on a survey about the impact of the global crises on civil_society organizations worldwide. They also directed that a special effort should be made to reach organizations at the grass-roots level. The author of this paper was chosen to conduct the survey and write this report.
+ ILO, World of Work Report, , figure ..
+ ILO estimates that while % of unemployed workers in advanced economies do not receive unemployment benefits, more than three quarters of workers in the rest of the world receive no benefits (ibid., figure ..).
+Impact of the Global Economic Crises on civil_society Organizations 
+This study is based on a combination of the following methods for gathering relevant information:
+ literature research about the impact of the crises using recent reports and available data from UN, UNDP, UNICEF, UNCTAD, IMF, world_bank, and OECD documents, as well as from major CSO networks papers;
+ face-to-face interviews with representatives of key CSO networks present in New York at the Second Session of the Conference of the States Parties to the Convention of the Rights of the Persons with Disabilities on  to  September and at the occasion of CSO events at the International Day for the Eradication of Poverty on  October;
+ a formal survey through an online and printed questionnaire on the financial implications of the global crises on CSOs, undertaken with help of the NGO Steering Committee, which helped select representative groups and networks of CSOs to receive the questionnaire (questions included in the survey were developed and pre-tested before being disseminated to the target CSO representatives from September to October ; the deadline for returning the completed questionnaire was  October );
+ search in the responses to open-ended questions in the questionnaire for specific examples of impacts and coping strategies.
+Areas of analysis
+The main task of this study was to assess the current situation that local, national and international CSOs have been facing as a result of the global crises. The areas of the analysis are financial implications of the global crises on the volume of the budgets and programmes of CSOs, both donors and service providers in the North as well as in the South. On the basis of the responses, data were collected and analysed to be able to describe the consequences and make a cautious projection about the future situation of affected CSOs. The main question addressed by the study was whether funds from governments and private donations to the CSOs responding to the survey changed and how, breaking down the private funds into contributions by large foundations versus amounts collected from private individuals. Finally, CSOs were asked to make a set of key recommendations to address the impact of the crises on the population groups targeted by them, including from the grass-roots level; these were collected and summarized.
+Main tool: an Online Questionnaire
+As there is no global and comprehensive body to which CSOs report on their activities, one needs to gather information about their operations from direct surveys. The challenge was how to get a meaningful selection of CSOs working in different regions and areas. Therefore, an online questionnaire was developed and with support of the web-management staff of the UN Division for Social Policy and Development put onto the UN website using SurveyMonkey. Interns translated the English version of the questionnaire into French, Spanish and Chinese..
+In addition, upon the recommendation of members of the NGO Committee, a shortened version, accessible to persons with disabilities was prepared in Microsoft Word for dissemination to potential respondents with limited Internet access. The shortened version of the questionnaire was also translated into French and Spanish, and included more open questions.
+There were  questions in all, most of them formulated using ordered choice (multiple choice) to enable respondents to answer the questions in a short time. This method encouraged respondents who
+  
+were reluctant to write explicit answers directly to instead respond by checking answer boxes. However, some questions in the survey, allowed open-ended text responses for those willing to take the time. These questions were a useful complement, as they gave respondents the opportunity to explain their specific situations and outline their views. These explanations give a deeper insight into the relevant problem areas. Surprisingly, a large number of CSOs (about  out of ) made use of those open-ended questions and delivered substantial text responses.
+Key themes of the questionnaire
+I. The first set of questions aimed at gathering information about the type (non-profit, faith-based, local, national, international organization, trade unions and academia) of respondent CSOs and about their UN affiliation. CSOs were asked to indicate if they work in a rural or urban area, within regions of a country, throughout a single country or globally. Of special concern was the question how to achieve balanced regional coverage of the responses.
+II. and III. Another set of questions related to the sectoral areas of activities and priorities of CSO development programmes and services they provide, such as: crisis prevention, emergency aid and crisis recovery, peace building, poverty eradication, rural development, agriculture and food security, basic social services, basic income, health care, including combating HIV/AIDS, education, environment, sustainable management of natural resources, infrastructure, urban development, community organization, especially in slum areas, employment and decent labour, human rights, anti-child labour, indigenous people, cultural minorities, persons with disabilities, gender equality and empowerment of women, migration, democratic governance, rule of law, credit and savings programmes, microfinance and anti-corruption.
+CSOs undertaking advocacy work and campaigning were also asked to indicate their thematic priorities and to indicate their main regions of activities.
+IV. The main part of the questionnaire was about the financial resources and operational budget changes including the impact on CSOs development programs in the different regions.
+Two questions differentiated the sources of funding (individual contributions, religious institutions, private foundations, corporate, governments, and international institutions). In order to have a more precise overview about the categories and how resource availability has changed, CSOs were asked to specify the categories of financial contributions that increased or decreased since  (selected as pre-crises base year).
+V. Specific questions followed regarding current budget constraints, which also gave room for open text responses, aimed at getting more detailed information about the impact of the financial crisis on CSO budgets and programmes of work: For example, CSOs were asked if their organizations had a financial shortfall since  and if this affected their operational activities. Further questions were: Has your organization further narrowed the scope of its work? Did your organization substantially reduce the number of its staff? If so, please indicate the percentage of reductions since  and explain how your organization determines the priorities. Did your organization start an additional fundraising campaign? Did your organization easily adapt to a tighter resource constraint since ? Have reduced resources led to better efficiency of work in your organization? Do you expect the responses and strategies of your organization to be sufficient to meet the projected future challenges?
+Impact of the Global Economic Crises on civil_society Organizations 
+An open question followed that gave room for individual text responses: How would you describe the major challenges that your organization needs to overcome in the context of the recent food, economic and environmental crises? Many CSOs () used this opportunity and provided written responses sharing their specific situation and views on this topic.
+VI. The next core set of questions related to the impact of the global crises on the constituencies and partners, the CSOs serve. It was hoped to get some information about a change in requests for funds over the last  years due to the food, environmental and economic crises. The underlying assumption was that declining availability of resources aggravated the effects of increased demands for services. It followed questions whether the amount of requests for emergency relief as well as for basic social services increased vis-a-vis demands for longer-term social development programmes.
+VII. The last section of the survey collected projections and recommendations of CSOs for their governments and the international community to address financial constraints and the deteriorating situation for CSOs and the people they serve.
+Selection of the CSOs to receive the questionnaire
+The members of the Steering Committee recommended that the questionnaire be disseminated as widely as possible. Thus, all , ECOSOC accredited CSOs were invited to participate in the survey as well as  CSOs accredited to UN CONGO. In addition, printable versions of the questionnaire in Microsoft Word were sent to the  CSOs active at the Commission for Social Development, to  CSOs working on sustainable_development and to  CSOs accredited to the Financing for Development process. The members of the NGO Committee on Social Development sent it to their constituencies and partners in the regions. This adds up to , CSO recipients. In addition, an uncountable additional number of copies of the questionnaire was forwarded by some of the CSO headquarters or NGO networks to their members, constituencies and partners in the regions. In addition, the invitation to participate in the survey was sent to the NGLS list of some , CSOs.
+In order to invite an even broader variety of CSOs to participate the Steering Committee decided to extend invitations to participate to non-UN accredited CSO networks that work on social, sustainable and financial development. It was thus hoped to get a meaningful sample with a regional balance of the various CSOs supporting social projects and working in the field as well as advocating for social development to participate in the survey for this study. The questionnaire was therefore sent to the major CSOs networks, like Social Watch and its member organizations in all regions, to the headquarters and regional offices of Oxfam and ActionAid, to the mdgs Campaign Global Call to Action against Poverty, the Global Social Economy NGO Group, women NGO groups, New Rules in Washington, Eurostep, Eurodad, CONCORDE (the European CSO platform), and the World Federation of UN Associations, with the request to send the questionnaire to their country offices or partners in the South for dissemination to local NGOs.
+Also, the major faith-based CSO networks were invited, like the World Council of Churches, the Lutheran World Federation, who forwarded the questionnaire to their members in the South. Special invitations were sent to CSOs dealing with emergencies, like the Red Cross and Caritas Internationalis.
+ Conference of NGOs in consultative status with the UN ECOSOC
+  
+It may thus be seen that the survey was not designed using a formal stratified or even simple random sampling technique. Such an approach would not have been possible in any event, as the global number of CSOs is unknown, let alone the breakdown by region or major activity. This precluded calculations of confidence intervals or statistical significance. Nevertheless, given the large number of responses from around the world, it is believed that the survey has yielded meaningful results (indeed, some regional breakdowns of answers to questions that were deemed less robust are reported only in the annexes).
+. Analysis of the Responses to the Questionnaire
+.. Analysis of the regional coverage and types of civil_society organizations
+Regional balance ( responses)
+A wide variety of CSOs from different regions in the world responded to the survey for this study. Altogether  civil_society organizations responded to the questionnaire. However,  of them did not answer enough of the questions, and thus were not included in the results.  CSOs returned sufficiently completed questionnaires to form the basis of analysis.
+The sample categorized by language groups was as follows:
+ English:  civil_society organizations responded to the English version of the questionnaire, most of them from Asia, followed by Western Europe, Eastern Europe, US and Canada, Japan, Australia and New Zealand, Sub-Sahara Africa and from Russia and Ukraine.
+  organizations answered the French questionnaire, most of them from Sub-Saharan Africa and France.
+  organizations responded to the Spanish questionnaire, most of them from latin_american countries and Spain.
+  responses were from China.
+The sample divided up by geographical regions was as follows:
+Most of the responses were from Sub-Saharan Africa (. %); the second largest group was from Asia, including the Arab region but excluding China (.%); this was followed by Western Europe (.%), US and Canada (.%), latin_america and the Caribbean (.%), North Africa (.%), Eastern Europe (.%), Japan, Australia and New Zealand (.%) and from China (.%), Russia and Ukraine (.%) (see chart question ).
+Chart Question :
+Geographical balance of responses
+.% .% .%
+.%
+.% .%
+.%
+.%
+.%
+.%
+Northern African States Sub-Saharan Africa
+Asian States, excluding China China latin_american and Caribbean States Eastern European States
+russian_federation
+Western European States united_states and Canada Australia, Japan and New Zealand
+Impact of the Global Economic Crises on civil_society Organizations 
+CSOs of  countries took part in this survey, from Greenland to Bolivia, from Chile and Tanzania, from South Africa to Kyrgystan, from Serbia to Israel, from PDR Lao to Bahrain, from Thailand to Germany, from the USA to Kiribati and from Nouvelle-Caledonia to Haiti etc. (see complete list of  countries in Annex I).
+Type of organizations ( responses)
+Chart Question :
+Type of organization
+% % % % % % % % %
+.%
+Most of the respondents identified themselves as civil_society organizations (%) and non-profit organizations (%), while some also classified themselves as faith-based organizations (%). % of the respondents described themselves as local NGOs, % as international networks. Only a few academic institutions (%) and trade unions (%) responded. % specified themselves further under other type as indigenous organizations, others as disabled peoples organizations, again others as think tanks
+(see chart question ).
+.%
+.%
+.%
+.%
+.%
+.%
+Chart Question :
+.% .%
+Most of the  CSOs that responded to the question of UN affiliation indicated ECOSOC accreditation (%); % are accredited to the UN Department of Public Information and % have other forms of accreditation to % UN and international institutions like UNHCR, UNEP, UNESCO, UNFCCC, FAO, WHO, Council of Europe. A large number (%), however, has no UN accreditation
+(see chart question ). Thus, as intended, this survey goes beyond
+UN affiliated organizations and covers a broader range of CSOs.
+ Here and in most of the following questions, multiple answers were possible.
+CSOs consultative status with the UN
+% %
+.%
+.% .% .%
+.%
+% % %
+.%
+civil_society or nongovernmental organization (CSO/
+NGO)
+organization
+Non-profit
+Faith-based organization
+International CSO/ NGO
+National or local CSO/ NGO
+Trade Union/labor organization
+Academia, Institution
+Other
+ECOSOC accreditation
+Financing for Development process
+Social Development
+Commission
+Forum on Indigenous People
+Department of Public Information (DPI)
+No UN accreditation
+Other
+  
+Chart Question :
+Fields of CSOs activities
+In terms of fields of activities, overall  CSOs responded, of which % work in rural areas,
+% in urban areas and % within regions of a country. In addition, % of the responding CSOs work throughout a single country, while % are active in several countries and % work at global level (see chart question ).
+% % % % % % % %
+.%
+.%
+.%
+.%
+.%
+.%
+Main areas of activities ( responses)
+ CSOs described their activities. With regard to development programs, most of the responding CSOs work primarily (high priority) in the areas of education (), gender () poverty eradication (), human rights () and health care (). Other areas of work given high priority are environment (), agriculture () and persons with disabilities ().
+Chart Question :
+Main areas of CSOs activities
+. Crisis prevention, emergency aid, crisis recovery, peace building
+Poverty eradication, basic social services, basic income grant Agriculture, food security, rural development Health care, including combating HIV/AIDS Education Environment, sustainable management of natural resources, infrastructure Urban development, community organization, esp. in slum areas Employment, decent labor, anti-child labor, migration Human Rights, democratic governance, rule of law Indigenous people, cultural minorities Persons with disabilities Gender equality and empowerment of women Credit and savings programs, microfinance, anti-corruption Other
+Rating average
+.
+.
+.
+. . .
+.
+.
+. .
+. .
+. .
+.
+. .
+% of the respondent CSOs indicated that they provide programme support and social services. % of CSOs engage in advocacy work and campaigning.
+. .
+.
+in a village or rural area in a city or urban area within a country within regions, states or provinces of a country throughout a single country in several countries within a region globally
+Impact of the Global Economic Crises on civil_society Organizations 
+Also the size of organizations that took part in this survey differs widely. Some are small, voluntary organizations with very small budgets of a few hundred up to  to  USD. At the other extreme,  CSOs had substantial budgets of over a million USD up to  million USD, including development programmes. The majority of responding organizations, however, have a budget size between , to , USD.
+Another indicator of the relative importance of different programmes is the average rating giving by the responding CSOs to each activity. The rating average score is the average of the individual scores ( = no priority,  = low priority,  = moderate priority and  = highest priority) weighted by the share of the total respondents giving that score.
+For example, the activity denoted as crisis prevention etc. in question  below had an average score of ., which is classified as a moderate priority. The calculation is as follows:
+Table :
+Example of an average score calculation
+The average rating is calculated as: * (/) + * (/) + * (/) + * (/) = .
+A calculation of the responses according to such an average rating shows that most of the responding CSOs work in the field of education (.), gender equality (.), poverty eradication (.) and human rights issues (.); see chart question  above.
+Classification
+Rating
+Number of Responses
+High priority
+Moderate priority
+Low priority
+No priority
+Average/ Total
+.
+Main sources of funding ( responses)
+The graph below shows the degree of dependence on different major sources of funding divided into quartiles in order to allow a multiple choice survey response. Most CSOs () of the  CSOs that responded to this question of the questionnaire rely on individual contributions for more than half of their contributions;  CSOs rely heavily on international institutions. Private foundations are another important source of revenue for  CSOs, and  CSOs depend largely on government support.
+Viewed differently, of the CSOs that rely on one source of funding for three quarters or more of their funding, almost half ( or %) depend on individual contributions. One fifth were primarily dependent on international institutions for their funds ( or %), and over a tenth on governments ( or %). CSOs that have more diversified funding sources rely on all of these major sources as well as on foundations (see chart question  below).
+  
+Chart Question :
+Main sources of funding in all regions
+  
+  
+-%
+-%
+    
+-% -%
+It is expected, a priori, that those CSOs that have a more diversified structure of funding will likely be better able to withstand the negative consequences of the financial crisis on their supporters. Indeed, this is what the data show. Equally, CSOs that rely relatively heavily on corporate giving and private foundations have been most challenged to maintain their services, as many of these donors have been directly affected by the financial crisis. As other sources of funding, CSOs specified various income generating programmes, like the sales of a magazine and the organization of cultural events, research and publication projects. Some are supported by their headquarters or get membership fees, dues, levies and donations.
+The composition of sources of funding varies by region. Responding CSOs from latin_america and the Caribbean rely mostly on individual donors (), on international institutions (), governments contributions () and on private foundations (). Some CSOs () get support from corporate donations.
+CSOs in Sub-Saharan Africa indicate international institutions as their major source of funds, followed by individual contributions, private foundations and government support.  CSOs reported that they are funded by international institutions:  of them depend up to % on international funding,  CSOs get  to  % of their budgets from them and  CSO are up to  % dependent on support from international institutions. Individual contributions are the second most important source of funding:  CSOs get up to  % of their budgets from individuals spending,  CSOs up to % and  CSOs rely between  to % on personal contributions.  CSOs indicated other sources of funds, most of which are community contributions or earnings from fair trade and other income generating projects. In sum, funding in Sub-Sahara Africa is less diversified than in other regions (see chart question  SubSaharan Africa below).
+Other
+International institutions Governments
+Corporate
+Private foundations Religious institutions
+Direct personal contributions
+Number of responses
+Impact of the Global Economic Crises on civil_society Organizations 
+Chart Question :
+Main sources of funding in Sub-Saharan Africa
+    
+    
+    
+    
+     
+Also CSOs in Eastern European states show a high reliance on international institutions, governments and individuals. In more detail,  of the reporting CSOs receive personal contributions,  CSOs receive support from governments,  from international institutions, while  CSOs receive funding through private foundations.  CSOs get support from corporate giving.
+CSOs in Asia (excluding China) show a slightly different structure of revenues. They are less dependent on international institutions, instead getting support from individual donations, private foundations, religious institutions and governments. In more detail,  CSOs receive support from personal contributions,  of them depend up to  % on individual spending.  respondent CSOs receive corporate funding.  CSOs reported support from religious institutions and  CSOs receive their funds from religious institutions only.
+Also, it is not surprising that CSOs from developed countries are less dependent on international institutions, but they otherwise show quite a diversified structure of revenue, including from religious institutions and corporate donors:
+In Western Europe,  CSOs receive personal contributions,  rely on them for up to % of their resources.  CSOs receive support from governments,  from private foundations,  from international institutions,  from corporations,  from religious institutions,  are % supported by religious institutions.
+In the US and Canada,  of the responding CSOs receive personal contributions,  rely on them for up to % of their funding.  CSOs rely on private foundations,  on funding from corporations.  CSOs receive support from governments,  from international institutions.  of the responding CSOs receive support from religious institutions;  are % supported by religious institutions.
+Pre-crisis funding constraints ( responses)
+Slightly more than half of the CSOs (%) reported financial constraints before  (see chart question  below).
+-% -% -% Percentage of contributions to your budget
+-%
+Other
+International institutions Governments
+Corporate
+Private foundations Religious institutions
+Direct personal contributions
+Number of responses
+      
+Yes No
+As main reasons, most CSOs explained that in developing countries the financial problems were prevalent before the world economic crisis erupted and existing grant sources decreased, especially since  ( responses). Other reasons given were disorganization and communication problems within the organization and corruption, as well as difficulty to procure funds for inter-religious organizations.
+  
+Chart Question :
+Financial constraints before 
+Yes
+No
+Other special funding problem areas were reported by CSOs that specialize for example in advocacy work in the North: We are largely focused on financial architecture issues arising from the policies of OECD countries, which impact countries in the global South. The majority of our research, advocacy and campaign efforts are therefore based in Europe and North America. However, since the majority of development budgets focus on sending grants from North to South, we find it very hard to secure funding for activities taking place (primarily) in Washington, London, Brussels and Geneva.
+Funding problems arise also, when the work of a recipient CSO does not fit into the priority areas of its donors: The need for a comprehensive adult literacy program is not a high priority for donors, although little development can happen without literacy. A broad-based literacy program can meet many other needs such as food security, income generation and HIV AIDS education and support.
+Donor-driven efficiency criteria have also become a constraint on the ability of some CSOs to raise funds, especially if the region is not in an emergency situation: International donors/organizations looked into the availability of our NGO infrastructure, analyzed our financial positions through audited statements and achievements with quantitative and qualitative indicators. Analytical results were not satisfactory. So we had financial constraints especially before the  Tsunami.
+In latin_america, some CSOs report that they already faced an increasing demand for their services before the global crises started: We have much more work and its more difficult to finance it.
+.. Decline of resources of civil_society organizations in recent years ( responses)
+A number of civil_society organizations have reported that constraints in their funding after  were threatening to compromise their ability to meet the demand for services. The results of this survey confirm that the problem is widespread and that it worsened in . Expectations for funds in  were somewhat improved, but as indicated in the discussion of funding sources in section . below, may be too optimistic.
+As might be expected, the situation has not been uniform. As the table below shows,  CSOs reported expanding their budget outlays in , almost three quarters () of which were increases of less than %. The number of CSOs that saw budget increases in  dropped to , with a similarly heavy weighting of relatively small budget increases. In contrast, larger numbers CSOs are facing budget decreases.
+Number of responses
+Impact of the Global Economic Crises on civil_society Organizations 
+While  CSOs reported declines in their budgets in , which was only slightly higher than the number reporting increases, a higher proportion had to absorb cuts of -% (% of the responses versus % for increases) and again for cuts up to % (% of the responses versus % for increases).
+In , unfortunately, the relative incidence and magnitude of decreases worsened. The number of CSOs reporting decreased budgets rose to , almost twice the number reporting increases (), and % of these CSOs reported decreases up to %. The percentage of CSOs that report budget cuts of -% rose above %. Moreover, almost % of the CSOs reporting declines in budgets saw declines from % to % (see absolute numbers of responses in the table below):
+BUDGET DECREASE BUDGET INCREASE
+The graph below gives a visual picture of the numbers that have just been discussed. It shows a clear shift to the left (negative) side of the diagram for , which is an indication of a widespread and overall decrease of budget support for CSOs worldwide. It also shows the projected budgets for  (also contained in the last row of the table above).
+Expectations for  were more optimistic in that the respondents, most of them from Sub-Saharan Africa, who in  and  experienced the sharpest decrease, are now looking for new donors and on that basis hoped that their budgets would grow in . The positive expectations for  also result from a few newly founded CSOs in Africa, whose small budgets are easily showing a doubling of revenues (see chart question  below).
+--%
+--%
+--%
+--%
+-%
+-%
+-%
+-%
+ estimated
+ projected
+Chart Question :
+Budget change  to  (projected)
+However, again more CSOs project a decrease ( CSOs) rather than an increase ( CSOs) for . These data are consistent with media reports during the second half of  that some members of the biggest development and humanitarian CSOs started to lay off staff and revise their programmes for  due to budget constraints in the context of the global financial crisis.
+ estimated
+ projected
+  
+  
+--%
+--% --%
+Percent of budget change
+-%
+--% 
+-% -% -%
+ The results divided up among regions, shows that most reductions are expected in Sub-Sahara Africa, where  of the responding CSOs fear a decrease of funds for . In addition,  CSOs in Western Europe,  in Asia,  in latin_america,  in the US and Canada and  in Eastern Europe project a decline of their budget support for .
+Number of responses
+  
+Regional differences in the impact of the global crises on CSOs
+The global economic crisis poses a special challenge for CSOs worldwide. The united_nations Secretariat estimates that  million additional people were living in extreme poverty in developing countries in  compared to what would have occurred in the absence of the global economic crisis. Over  million of those  million people were added to the ranks of the extremely poor in . It is no surprise that CSOs reported increased demand for their services in these countries and yet most CSOs report budget decreases in  and . Most of the reductions have occurred in Africa, especially in Sub-Saharan Africa and in Eastern Europe (see regional charts on question  below).
+Sub-Saharan Africa ( responses)
+The UN Secretariat estimates that  million of the  million additional poor people in  lived in Sub-Saharan Africa. The world_bank and IMF estimate that  million people in the region were extremely poor in the same year, accounting for % of all the people living in the region. In this accounting, the economic crisis caused a % increase in the number of extremely poor people. But when extreme poverty is as extensive as it is in this region, even a small lost opportunity to reduce poverty is very costly, and forecasts predict that the number of people in poverty will rise further in . Indeed, the world_bank and IMF forecast that, despite all poverty reduction efforts,  million Sub-Saharan Africans will still be extremely poor in . The need for substantially more social spending in the region, including by CSOs, is patently obvious. And yet, significantly more CSOs participating in the survey from Sub-Saharan Africa
+Chart Question :
+Change of budget in Sub-Sahara Africa reported decreases of their budgets in  and  than increases:  CSOs reported decreases for , but only  reported increases,  had no change. For ,  CSOs estimated decreases, versus  CSOs who reported increases.  CSOs expect no change.  of the responding CSOs fear a further decrease of funds in , versus  CSOs, who hoped for increases in  (see chart question ).
+Asia, including China ( responses)
+ --% --% --% --%
+Budget decrease
+%
+-% Budget increase
+The situation in Asia makes a striking contrast with that of Africa. Had Asias earlier economic growth rates continued,
+ estimated
+ (projected)
+-%
+-%
+-% the number of people living in extreme poverty in  would have been about
+ More precisely, it was estimated that an additional  million people in the developing countries had to live on less than $. per day in  compared to what was expected had the economic growth trend of been maintained into ; . million of those  million people were added to the ranks of the extremely poor in  (united_nations, wesp, Update as of Mid-, table ).
+ Ibid.
+ world_bank and IMF, Global Monitoring Report, , table ..
+ Ibid., table ..
+Number of responses
+Impact of the Global Economic Crises on civil_society Organizations 
+Chart Question :
+Change of budget in Asia, Incl.China
+    
+    
+    
+    
+    
+    
+    
+     
+ million fewer than it is, according to the UN Secretariat. This may be set against the total number of extremely poor people in the region, which the world_bank and IMF estimate at  million in  . This number of people in extreme poverty is about % higher than it might have been without the crises. In this regard, the conjunctural impact on poverty seems to have been greater thus far in Asia than Africa. The overall poverty rate in Asia, however, has fallen to about % of the population, as economic growth has been consistently strong in China, India and a number of other countries in the region. Indeed, the world_bank and IMF forecast the number of extremely poor people will fall to  million by , exceeding the Millennium Development Goal (MDG) on this
+ estimated
+ (projected)
+  
+--% --% % --% --%
+Budget decrease
+-% -% -%
+-%
+Budget increase score. This more dynamic economic situation seems to be reflected in the budgets that CSOs from the region participating in the survey reported in  and . While many CSOs reported a decline in budgets, as elsewhere, the majority saw increased resources and thus expended their activities in both years. In more detail,  CSOs reported decreases for ; however,  reported increases. For ,  CSOs estimated decreases, versus  CSOs who reported increases.  of the responding CSOs fear a further decrease of funds in , versus  CSOs, who hope for increases in  (see chart question  Asia, including China).
+latin_america and Caribbean ( responses)
+Chart Question :
+Change of budget in latin_america and Caribbean
+The poverty impact of the current crisis in latin_america and the Caribbean seems to have been closer to the Asian than Afri can experience. The number of people in extreme poverty could have been  million less than it was (. million), implying  % more extremely poor people than might otherwise have been expected in
+. But only % of the population in this region falls into the category of extreme poverty. While it is unacceptable that 
+million people in the region are forecast to be extremely poor in , the world_bank and IMF expect that the region as a whole will achieve the MDG goal of halving
+ Estimates in this paragraph draw on references above in footnotes ,  and .
+ Estimates in this paragraph also draw on references above in footnotes ,  and .
+    
+--%
+--% --% -%
+-% -%
+esti
+ (projected)
+mat ed
+--% % Budget decrease
+-% Budget increase
+Number of responses
+Number of responses
+  
+poverty. In this context, it appears that CSOs were hampered from playing as strong a role as they might have, as their budgets suffered more decreases than increases in . In more detail,  CSOs reported decreases for , and  reported increases. But for ,  CSOs estimated decreases, versus only  CSOs who reported increases.  of the responding CSOs fear a further decrease of funds in  versus just  CSOs who hope for increases in  (see chart question  latin_america and Caribbean).
+Developed economies
+(response count:  from USA and Canada,  from Western Europe and  from Australia, Japan, New Zealand)
+CSOs in the developed economies provide services in their own countries and work with partners in lower income countries. Domestic as well as international needs have grown during the crisis in particular in countries with a relatively high incidence of poverty, such as the united_states. Indeed, the US Government reported that almost % of US households (accounting for  million individuals) were food insecure in , the highest level since figures began to be collected in . Only two thirds of the food-insecure households obtained enough food to avoid substantial disruptions in food intake, as they were able to
+Chart Question :
+Change of budget in USA and Canada change their diet and/or participate in governmental or civil_society food assistance programs. The situation in , moreover, has been worse, based on the % demand increase in  reported by the largest
+US domestic hunger relief organization in the united_states, Feeding America, which operates  food banks that supply , charitable agencies. That the demand on civil_society organizations is also to increase their funding of social services in developing countries goes without saying.
+In more detail, based on the  responses from developed economies to the present survey,  CSOs in the US and Canada did not yet see an overall negative impact of the crisis on their budgets (see chart question  USA and Canada).
+     
+ estimated
+ (projected)
+--%--%--%--% % Budget decrease
+-% -%-%-% Budget increase
+ Given the smaller number of CSOs reporting from this region than from Asia and Africa, the conclusions drawn from the data are presented in a more tentative way.
+ The united_states has the highest rate of total and child poverty among developed countries (Gary Burtless and Timothy Smeeding, Poverty, work and policy: the united_states in comparative perspective, Brookings Institution, prepared for Congressional Testimony,  February  ). See the following website: brookings.edu/~/ media/Files/rc/testimonies//poverty_burtless/.pdf.
+ Food insecure households are defined to have had difficulty providing enough food for all their members [at some time during the year] due to a lack of resources (Mark Nord, Margaret Andrews and Steven Carlson, Household Food Security in the united_states, , US Department of Agriculture, Economic Research Report ERR-, November ).
+ Feeding America (formerly, Americas Second Harvest), September  Economic Impact Survey (
+Number of responses
+Chart Question :
+Change of budget in Western Europe evident in the chart below: For , still a higher number of CSOs () reported increases, while  CSOs reported decreases. However for ,  CSOs estimated decreases versus only  CSOs who reported increases.  of the responding CSOs fear a further decrease of funds in  versus  CSOs who hope for increases in  (see chart question  Western Europe).
+The situation is much more critical in Central and Eastern European states where public and private funding for some CSOs has gone down about %. (See in Annex IV additional charts of other regions. They were not included here, as the number of responses was smaller and thus not seen as representative enough for drawing inferences.)
+--%--%--%--% % Budget decrease
+-% -% -%-% Budget increase
+Impact of the Global Economic Crises on civil_society Organizations 
+ CSOs in Australia and New Zealand seem only slightly negatively effected so far. By the same token, they were not able to respond to the greater demands with overall budget increases.
+In Western Europe however ( responses), CSOs in a few countries (like Ireland and Italy) are already experiencing a reduction in contributions due to the financial crises. The impact of the cutbacks seems
+ estimated
+ (projected)
+.. Changes in sources of funding in recent years ( responses)
+Although CSOs may be able to temporarily maintain their budgetary outlays in the face of falling contributions, their budgets will necessarily respond to declines in funding inflows. It is thus important to understand which types of contributions have been negatively impacted by the crisis. Chart question  below shows that many respondents to the present survey () saw no change in funding from at least one major category of donor between  and . A smaller number () saw an increase of financial contributions in one or more categories. However, the majority of responses reported reductions from one or more sources of funding:  responses saw a decline in direct personal contributions,  CSOs experienced reductions by private foundations,  by international institutions,  by governments,  by corporations and only  by religious institutions (see chart question  below).
+Additional and more specific information about the change of funding sources was submitted by  CSOs. Some CSOs explained how their funds increased at least for : We got a small governmental grant in , ...but we do not expect any support from the government in . Others that have stable funds said that they come from our affiliates. Most CSOs however, described their current or projected decline of funds. One saw a slight drop in sales of our magazine. Another CSO wrote that from  [the] government plans to cut up to % in their support. A third CSO said that a potential donor has withdrawn due
+ According to Survey by CONCORD, CSO network in Europe, in June 
+Number of responses
+  
+  
+   
+While the large sample size of the survey lends credence to a conclusion of disappointing experiences in CSO funding during the crisis, especially as increasednot decreasedsupport is needed, the responses do not indicate the quantitative impact on overall CSO resource availabilities. That is, systematic data are not available on financial flows received by the worlds CSOs. This is not hard to understand, as there are many that are small scale as well as large; they work in diverse countries and economic environments, undertake a wide range of economic, social and cultural programmes, and operate under different organizational forms, governance and degrees of public oversight. It might even prove difficult to reach an international consensus on what data should be gathered on financing of which activities by
+  
+to the global financial crisis. One CSO is facing serious financial problems, because  our endowment has depleted due to [the] global financial crisis and the market investments have gone down. One CSO from East Africa explained: Our sales of essential medicines have dropped because the partner mission hospitals could not find money to purchase medicines. Our book sales have also not improve [Sic.]. Mainly NGOs are our clients. Another one also from West Africa said: Before , we were getting funding from...an international non-governmental organization, but since then our budget is reduced, because of no funds in the [North].
+Chart Question :
+Change of funding by source since 
+    
+   
+  
+  
+-% Decrease of contributions by
+%
+-% -%
+-%
+% >% %
+%
+Increase of contributions by
+Others
+International institutions Corporate
+Governments
+Private foundations Religious institutions
+Direct personal contributions which entities. Nevertheless, one may seek corroborating indications of a decline in overall CSO resource receipts from donor disbursement data and reports of individual CSOs.
+Personal contributions
+As may be seen in chart question , more CSOs reported a decline in personal contributions than an increase since the selected pre-crises base year , and a large number of the decreases were in the -% range. Large international CSOs give mixed indications about the change in individual contributions. For example, World Vision in the united_states relies on child sponsorship for much of its individual giving. The organization did not see a drop in personal contributions in , and explains, that even when families experience [financial] difficulties... The public is still very responsive to international [humanitarian] needs. But while most CSO financial experts have not yet seen substantial reductions in individual giving, most of them anticipate reductions for . In addition, the UK CSO umbrella organization BOND predicted that the current financial crisis was likely to affect individual giving more than any other funding source in the short-term. With rising unemployment rates, increased redundancies and with retail spending down, individuals disposable income is less likely to come to charities and non-profit organizations.
+ IRIN: irinnews.org/Report.aspx?ReportId=
+Response count
+Impact of the Global Economic Crises on civil_society Organizations 
+Statistics are not systematically compiled on individual giving to CSOs, especially across borders. To find indications of such trends, one has to look at indirect indicators of changes in personal giving. Data on the balance of payments regularly include estimates of private transfers to developing countries. These transfers include workers remittances as well as charitable transfers, in the form of foundation as well as personal flows. Data on remittance flows to developing countries began to slow in the third quarter of  and were forecast by IMF and the world_bank to decline % to % in ; remittance flows to Sub-Saharan Africa were forecast to fall .%. This suggests that individual giving to CSOs is also declining.
+Private foundation grants
+A number of institutions in donor countries attempt to track foundation giving for charitable causes, and thus some data exist on this score. Information collected in the united_states, where this form of social finance is largest, shows that a significant portion of the disbursements by foundations in any one year is a function of programs agreed in earlier years and several of the largest US foundations announced that they would honor those commitments in . A few foundations were in a position to continue expanding their grant making, while others announced cutbacks. The Bill & Melinda Gates Foundation pledged to increase its grants % in , but this was less than had been planned before the crisis began. Foundations funds for grants depend on the earnings of their endowments and the crisis hit some of them hard, the overall loss in asset value estimated at about % for US foundations in . A September  survey of US foundations indicates overall giving fell about % in  and a further drop is expected in . Information on grant making in other countries is less complete, but was likely affected in the same way, as the foundations generally operate on similar principles. These foundations are based in Canada, Europe, elsewhere in the developed world and increasingly also in developing countries, such as Argentina, Brazil, India, Malaysia and other countries, where wealthy families and corporations are creating philanthropic foundations to support social programmes domestically and in poorer countries in their region.
+Foundation grants go to a wider range of recipients than the CSOs that are the focus of this study, but as long as foundations do not make major changes in the allocations to different categories of grantees, the negative trends noted here are going to have a direct impact on the recipient CSOs. Thus, on this basis, the hope for increases of funding, as expressed by many CSOs in Africa, will most probably not materialize.
+Corporate donors
+According to Oxfam, some of the biggest reductions are coming from corporate donors in the financial sector. Also Save the Children in London, expressed concern that funding from the financial services and investment banking sector will decline. World Vision reports that growth from corporations will be less than predicted and therefore it will not be able to scale up its programmes as planned.
+Development Aid (ODA)
+Most official development assistance (ODA) goes to developing country governments and to international institutions that in turn lend or donate the funds to developing country governments. As seen in the
+ world_bank and IMF, Global Monitoring Report, , pp.  and .
+ Information compiled by the Foundation Center (see 
+ Steven Lawrence, Foundations Year-end Outlook for Giving and the Sector, Foundation Center Research Advisory,
+November .
+ See Center for Global Prosperity, The Index of Global Philanthropy and Remittances, , Hudson Institute, .
+ IRIN: irinnews.org/Report.aspx?ReportId=
+  
+preceding chart, CSOs receive some of these funds. Although their recorded share of total ODA is small (.% in ), it can mean substantial funding for the CSOs themselves.
+The Organization for Economic Cooperation and Development (OECD) estimated that the flow of ODA from the member countries of the Development Assistance Committee (DAC) rose % in , measured in constant prices and exchange rates, representing .% of their combined gross national income. However, when counting only the aid flows that fund core development programmes, which the DAC calls country programmable aid (CPA), the results in  were a less dramatic growth of %. Preliminary data for  will not be released until March , but the  DAC survey of donor aid intentions gives reason for concern about  and , in particular as regards the expectation for CPA, which is a more relevant indicator for aid possibly flowing to CSOs than total ODA. The donors spending plans entailed an increase of CPA of only .% in , but a larger .% increase in ; the expected CPA flow to subSaharan Africa was an actual decline of .%, albeit followed by an expected increase of .% in .
+The survey on which the above estimates were based was taken from January to April  and government spending plans may have changed since then. But based on recent experience, this does not mean the revisions will necessarily be for additional assistance. Several EU countries already reduced their aid budgets dramatically: The Irish Government cut its development aid budget by about % since June . In December  Italy announced aid cuts of %, followed in  by Latvia, which issued a % suspension of its bilateral aid budget, and by Estonia which has announced a cut of % to its aid budget.
+These developments have to be set against pledges in  by the Group of Eight in Gleneagles: on the basis of  data, donor countries are falling short by $ billion per year on the pledge on annual total aid flows and by $ billion a year on aid to Africa, according to the  Report of the Secretary-Generals MDG Gap Task Force. European CSOs project that the EU collective spending target of . per cent of GNI for ODA by  will not be fulfilled. A new report from CONCORD, the European Confederation of Development CSOs, representing more than , organizations and national NGO platforms across Europe, fears that European governments are falling short by nearly   billion on their aid promises for .
+And yet, most donor governments remain committed to achieving the UN target of spending .
+per cent of GNI as official development assistance by , with many adopting intermediate targets also as ratios to GNI. In such cases, there is a danger that when economic recession causes a fall in GNI, aid budgets could also be reduced, maintaining the ratio. Such an approach would be especially disruptive to aid-receiving countriesnot to mention CSOsthat count on significant ODA support in drawing up their own budgets.
+Mobilizing the necessary funds for achieving the mdgs and the intermediate aid goals, requires a sense of political urgency.
+ Based on data in OECD, Development Cooperation Report, , annex table .
+ OECD, Development aid at its highest level ever in ,  March .
+ OECD,  DAC Report on Aid Predictability: Survey on Donors Forward Spending Plans -, p. .
+ Ibid., p. .
+  un.org/millenniumgoals/pdf/MDG_Gap_%Task_Force_%Report_.pdf
+ Study CONCORDE : Trends in EU funding for CSOs: concordeurope.org/Files/media/
+internetdocumentsENG/_Publications/_CONCORDs_positions_and_studies/Positions/TRENDS-REPORTleaflet-EU-funding.pdf
+          
+--%--%--% Decrease
+--% %
+-% -% -% Increase
+Impact of the Global Economic Crises on civil_society Organizations 
+Regional differences in the impact on funding CSOs
+In section ., it became clear that the regions saw different changes in overall funds flowing into CSOs during the crisis period. The data in the survey responses allow going deeper to see how the overall changes in funds flowing into CSOs in these regions resulted from funding changes by the key types of fund providers. Particularly negative results have been noted for CSOs in Sub-Saharan Africa, Eastern Europe as well as in some countries in Western Europe. The latter provides an interesting contrast with the findings for the united_states and Canada (additional detail is provided in Annex V).
+Chart Question :
+Change of funding sources in Sub-Sahara Africa since 
+Sub-Saharan Africa ( responses)
+The chart shows how the financial flows to Sub-Saharan CSOs from the different sources of funding changed since . More CSOs reported receiving funds from personal contributions than any other source and so the developments there might be highlighted: Thus, while  CSOs reported increases in funds from personal contributions of up to % over this time period,  reported decreases of up to %. Moreover,  of the latter reported decreases in the -% range, versus only  for comparable increases. Unfortunately, this pattern of results extends to the other sources of funding as well. More CSOs reported a drop in receipts from the other private sources of funds than saw increases, including from private foundations and corporations. The same can be observed for grants from international institutions and governments (see chart
+   
+question  Sub-Sahara Africa).
+Western Europe ( responses)
+-%
+International institutions Corporate
+Governments
+Private foundations Religious institutions
+Direct personal contributions
+In Western Europe, budget cuts were reported due to significantly more instances of reductions than increases in personal contributions, as well as in grants from private foundations and corporations. The G in London promised to increase aid in response to the crisis; however, the EU still has to prove if there will be any greater flow to CSOs in . The number of CSOs reporting decreases in funds of up to %, mainly from private contributions, governments and international institutions was thus higher than the number reporting increases. However, given the less frequent changesincreases or decreasesabove % compared to CSOs in Sub-Saharan Africa, it appears that European CSOs have relatively less volatile funding than their Sub-Saharan counterparts, which might reflect generally larger and longer established organizations in the former region (see chart question  Western Europe below).
+ It should be recalled that information was not supplied on the actual amount of funds received from each funding source, as the chart shows the incidence of funding changes rather than amounts.
+Number of responses
+  
+Chart Question :
+Change of funding sources in Western Europe since 
+         
+US and Canada ( responses)
+        
+   
+--%
+--% --%
+%
+-% Increase
+-% -%
+--% Decrease
+-%
+As in Europe, CSOs in the US and Canada saw relatively small reductions, albeit in all categories of funding.
+As in all other regions, personal contributions started to decline in the US too. According to US CSOs, the US government funding however increased since  and continued to grow slightly to . CSOs which receive US government funding are therefore in a less dire situation (see chart question  USA and Canada below).
+Chart Question :
+Change of funding sources in USA and Canada since 
+      
+--% --% --% --%
+Decrease
+%
+-% -% -% -%
+Increase
+Some US CSOs reported a doubling of funds due to rising support from the US government. Nevertheless, some of them warned that it is too early to say if this tendency will endure. At the end of the day governments will have to balance their books, so it is too early to tell.
+International institutions Corporate
+Governments
+Private foundations Religious institutions
+Direct personal contributions
+International institutions Corporate
+Governments
+Private foundations Religious institutions
+Direct personal contributions
+Numbers of responses
+Numbers of responses
+Chart Question :
+CSOs strategies to cope with the drop of revenues since 
+Impact of the Global Economic Crises on civil_society Organizations 
+.. Consequences and CSO strategies to cope with the drop of revenues ( responses)
+CSOs have had to take stock of what the global crises might mean for their work. There is no clear picture yet as to what the overall impact will be or indication how the current downturn in the real economy will impact CSOs. The bigger CSOs see a flattening, but not sharply decreasing amount of revenue, because they usually have diverse sources of revenue from committed funders. CSOs that rely on trust funds, which are typically smaller organizations, find it much more difficult as they usually have fewer options for diversifying their funding base. They report cuts in administration cost, staff and programmes.
+On the whole, CSOs see themselves as now facing several major challenges as they seek to cope with the current situation.  CSOs submitted additional information responding to question  in this regard. One described the imperative to continue providing basic social services to the least fortunate populations. Another specified fundraising and how to continue efficient work with limited resources as its main challenges. Others reported challenges that range from establishing development projects that incite the population to protect biodiversity and work towards sustainable_development (renewable energy for household electricity, community management of natural resources, creation of autonomous model villages) to covering basic needs. In other cases, the crisis causes programmatic shifts. For example, one CSO wrote, We have struggled with the food crisis, [as] our production in agriculture was reduced, we then oriented our work towards cattle raising.
+Altogether  CSOs (in addressing question ) gave additional details on their revenue cutbacks or explained how their organizations determined priorities in the face of the crisis-related challenges. Some CSOs reported that their activities are stagnant since  (selected pre-crises base year) and that they had no strategy for prioritizing. The majority however stated they had a decline in resources. Over  CSOs reported even a % decrease of revenues since ,  CSOs saw a budget decline of more than  %. Many CSOs reported they determine priorities through on-the-ground surveys and diagnostic studies. They estimate needs of target groups/populations/regions and match them with financial means available. They try to give priority to maintaining internal stability and a well functioning organization. They tend to make use of synergies with similar organizations and use of revenue-generating activities for self-financing. The chart below gives some evidence for various reactions of CSOs to the unforeseen limitations of their budgets. In what follows, this is supplemented with illustrations drawn from written individual responses to the cluster of questions ,  and .
+Did your organization easily adapt to a tighter resource constraint? Have reduced resources led to better efficiency of work? Has your organization narrowed the scope of its work? Did your organization substantially reduce the number of its staff? Did your organization start an additional fundraising campaign? Did you develop additional skills using internet tools (Skype, etc.)? Did you seek networking with locally-based CSOs?
+Do you expect the strategies to be sufficient to meet the challenges? Other
+Yes No
+% % % %
+% %
+ Not all of these respondents gave an answer to every sub-question.
+  
+Of the  CSOs that responded to this question, % reported that their organization adapted quite easily so far to the tighter resource constraint. One CSO wrote: Due to our consistent team effort, we could meet the short fall without losing the quality of our services. Another one explained: Part of our activities such as our farm producing layers [chickens] for community egg projects is financially self reliant.
+Religious organizations informed that our staff does not receive a salary. Another CSO said: Much of our advocacy work is performed on a pro bono basis by relevant financial and legal professionals. Without this support we would have to cut most of our advocacy programmes. We also outsource much of our research and communications work, which allows a large degree of operational flexibility. This is crucial since we function within extremely tight budget constraints.
+However, % of CSOs indicated that they struggle with the consequences of their budget cuts. Several CSOs reported that they have implemented an organization-wide  percent salary cut, aimed at avoiding more substantial reduction in the number of staff. It has indeed enhanced utilization of videoand telephone conferences to reduce travel expenses. Another CSO commented in response to the choices offered as answers to question : Some of these questions [do] not present a realistic picture with only a yes or no answer. For instance, while the reduction of staff somewhat could respond to the decrease in institutional budget, it however, puts a lot of strain on the current staff being burden[ed] with extra tasks. That reflects an option that is not actually efficient. But [it] was necessary. As well, it was not so much that we developed or improved our skills in these areas [internet, networking] but rather we had to increase this method or process of working as a result of the financial crisis.
+% of CSOs see this time of limited resources also as a chance to achieve better efficiency of work in their organizations. Some CSOs reported having adopted new effective resource management strategies. However the majority (%) of the responding CSOs said that their budget constraints did not lead to any further efficiency.
+% of the responding CSOs indicated that they are narrowing the scope of their work. For example, one respondent CSOs halved its environmental protection activities in order to retain defense and promotion of human rights activities, especially human rights and fundamental freedoms of indigenous peoples in the Pacific region. Another CSO reported giving more priority to people with disabilities from the most marginalized communities and the ones with less access to community programmes. A third CSO regretted: We have closed two educational centres for children in peripheral zones, as well as nutrition centres. We are reducing our aid to children who have left nursery school and entered elementary school, giving priority to early education. We provide support for accommodation in day care and nursery school to avoid abandonment, because this is best way to promote the future education of the child. One CSO said: There are fewer students that we are able to support, which means [we pose] more requirements for accepting them in programmes. Another one reported: We were hoping to work in  countries in the region and had to narrow it to  countries. A further CSO said: We are not able to develop a partnership for local development in environmental issues and ecotourism to the extent we had hoped because funding is harder to obtain. Finally, a grass-root CSO stated: Our organization has had to suspend its strategies against hunger. And yet other CSOs seem to feel it is dangerous to narrow activities. For example, one respondent wrote, We have to cover not only the high legal assistance costs, but also expenses in [related] areas..., namely ... support for women in danger, whom we accompany in court. One may understand in such a context when CSOs simply say, We must redouble our efforts.
+Impact of the Global Economic Crises on civil_society Organizations 
+However, additional CSO comments reflected on serious constraints to further narrowing down their work; for example, We were [a] fledgling [organization] and so answering this question is difficult, we still are only  full time and  part time staff working with , children on a weekly basis in  different villages around our municipal area. The work load has increased but we have not been able to increase staff. This I believe is due to the nascent nature of the organization more than just the global financial crisis; however, the crisis hasnt made it any easier for us to be established. We could not further adapt because we were running at optimal efficiency prior to the crisis.
+% of the CSOs managed through reductions of administrative cost and did not have to curtail their programmes. In some cases, the changes nevertheless negatively impacted the CSO, as in the case of one respondent who stopped renting an office and ceased producing its bimonthly newsletter, while also working more intensively with the Internet. However, the majority (%) of the CSOs had to substantially reduce the number of staff. In many cases, the steps taken do not seem sustainable, either in terms of the extra burden of work on remaining staff or their ability to continue working indefinitely at reduced wages. For example, one respondent said it now employs one coordinator to do the work formerly done by three. Another reported it would rely on students to replace our teachers. Several CSOs reported seeking to increase reliance on volunteers.
+% of the CSOs started additional fundraising campaigns, exploring the remaining or new opportunities in their countries or within their constituencies. Only % of the CSOs did not. However, the realization that too much reliance on individual donors from a foundation has been a challenge means that more and more CSOs look for new sources of funds, which may have been tapped already by others. As a result, competition between NGOs for funding is rising. CSOs also see the need to reform the system of sporadic aid by which the civil_society is held hostage by certain influential entities driven by a politics that neglects millions of people.
+In this context, one CSO took loans for the creation of new or expanded revenue-generating activities. A CSOs wrote: [We are] short of closing down the organization; we have to intensify our income generation activities to ensure that salaries are paid, programme targets are met and communities we work with are supported. Many organizations reported they were studying ways to develop new fundraising activities. This can be an important source of funds, but not one quickly realized, especially in the current economic climate. Another CSO that undertakes research projects regretted that it is now forced to rely solely on calls for tender from international institutions and thus their priorities and agendas.
+To stretch resources, % of the organizations have developed better collaborative networks with other CSOs, especially those locally based. Some CSOs thus called for better collaboration among state actors, NGOs, and the community. However, % of respondents said that they did not need to change their traditional way of working.
+% of the CSOs expect the strategies taken by their organization so far to cope with their budget constraints to be sufficient to meet the projected future challenges. However % report that their organizations have serious unsolved problems due to the crises. A number of CSOs could not have emphasized more the social imperative to continue operations at whatever cost. One wrote, for example, It is extremely difficult to conduct outreach programs on access to justice for all people when the target population is living in abhorrent conditions and a continually polluted environment, which exposes them to disease. We continue our work because if we did not, violence would propagate itself and plunge the country into extreme underdevelopment.
+  
+Another CSO wrote, We must redouble our efforts, especially for our country, which is experiencing serious problems of desertification and drought, with three quarters of its territory being desert land.
+Regional differences in CSO coping strategies
+The regional comparison of these questions regarding consequences and strategies of CSOs trying to cope with their budget constraints shows that the impact is more severe in Sub-Sahara Africa, followed by Asian countries and latin_america and Caribbean and then by Eastern Europe (see graphs below and additional graphs in Annex V).
+latin_american and Caribbean Countries ( responses)
+Most CSOs (%) in latin_american and Caribbean countries seem to have been able so far to adapt to a tighter resources constraint. % have improved their efficiency of work. A bit more than half of the respondents (%) report that they narrowed their scope of work. % substantially reduced their number of staff. Most of them (%) started an additional fundraising campaign. Even more (%) developed additional skills using Internet tools and % are seeking networking with locally-based CSOs. With all these measures, a high number (%) report that they expect the strategies they have taken so far to be sufficient to meet the present challenges (see chart question  latin_america and Caribbean below).
+Chart Question :
+CSOs strategies in latin_america and Caribbean countries to cope with drop of revenue since 
+Did your organization easily adapt to a tighter resource constraint? Have reduced resources led to better efficiency of work? Has your organization narrowed the scope of its work? Did your organization substantially reduce the number of its staff? Did your organization start an additional fundraising campaign? Did you develop additional skills using internet tools (Skype, etc.)? Did you seek networking with locally-based CSOs? Do you expect the strategies to be sufficient to meet the challenges?
+Other
+%
+Sub-Sahara Africa ( responses)
+This situation is very different in African countries. Less than half of the responding CSOs (%) in SubSaharan Africa seem to have been able so far to adapt to a tighter resources constraint. Only % have improved their efficiency of work. However, % of the respondents had to narrow their scope of work and % substantially reduced their number of staff. Therefore, a high percentage of CSOs (%) started an additional fundraising campaign. But only % have the means and equipment to be able to use Internet tools. However, % are seeking networking with locally-based CSOs. Unlike in other regions, most CSOs in Sub-Saharan Africa (%) do not expect their strategies to cope with the financial shortfall since  to be sufficient to meet the challenges (see chart question  Sub-Sahara Africa below).
+ % %
+   
+% %
+Yes No
+%
+Chart Question :
+CSOs strategies in Asia, incl. China to cope with drop of revenue since 
+Impact of the Global Economic Crises on civil_society Organizations 
+Chart Question :
+CSOs strategies in Sub-Sahara Africa to cope with drop of revenue since 
+Did your organization easily adapt to a tighter resource constraint? Have reduced resources led to better efficiency of work? Has your organization narrowed the scope of its work? Did your organization substantially reduce the number of its staff? Did your organization start an additional fundraising campaign? Did you develop additional skills using internet tools (Skype, etc.)? Did you seek networking with locally-based CSOs? Do you expect the strategies to be sufficient to meet the challenges? Other
+%
+Asian Countries ( responses)
+In Asian countries, most CSOs (%) have been able so far to adapt to a tighter resources constraint. % have been able to improve their efficiency of work. However, % of the respondents had to narrow their scope of work, and % substantially reduced their number of staff. Most of them (%) started an additional fundraising campaign and % developed additional skills using Internet tools. % are seeking networking with locally-based CSOs. Therefore, a bit more than half of the respondents (%) think that the strategies taken to cope with the financial shortfall will be sufficient. On the other hand, there is still a high number of CSOs (%) who report that with all the measure taken, they still expect a financial gap in the future impeding their ability to meet the challenges (see chart question  Asia below).
+ % %
+% %
+Yes No
+%
+Did your organization easily adapt to a tighter resource constraint? Have reduced resources led to better efficiency of work? Has your organization narrowed the scope of its work? Did your organization substantially reduce the number of its staff? Did your organization start an additional fundraising campaign? Did you develop additional skills using internet tools (Skype, etc.)? Did you seek networking with locally-based CSOs? Do you expect the strategies to be sufficient to meet the challenges? Other
+%
+Eastern European Countries ( responses)
+The situation appears to be more severe in Eastern Europe (albeit based on a limited number of responses). Less than half of the responding CSOs (%) have been able so far to adapt to a tighter resources constraint. At least % have been able to improve their efficiency of work. Surprisingly, despite a serious financial shortfall, % of the respondents did not narrow their scope of work nor reduce their number of staff. Many CSOs (%) started an additional fundraising campaign, % are using Internet tools, and % are seeking to network with locally-based CSOs. Regarding the difficult financial situation in Eastern Europe, half of the CSOs (%) expect their strategies to be sufficient to meet future challenges (see chart question  Eastern Europe below).
+   
+   
+ % %
+Yes No
+ %
+ %
+%
+  
+Chart Question :
+CSOs strategies in Eastern Europe to cope with drop of revenue since 
+Did your organization easily adapt to a tighter resource constraint? Have reduced resources led to better efficiency of work? Has your organization narrowed the scope of its work? Did your organization substantially reduce the number of its staff? Did your organization start an additional fundraising campaign? Did you develop additional skills using internet tools (Skype, etc.)? Did you seek networking with locally-based CSOs? Do you expect the strategies to be sufficient to meet the challenges?
+Other %
+Western European Countries ( responses)
+In Western Europe, most CSOs (%) have been able so far to adapt to a tighter resources constraint, despite reported budget cuts in some of the countries; however, almost % report that they are facing financial problems. Therefore, % have further improved their efficiency of work. % of the CSOs did not have toor successfully managed not toreduce their overseas activities. Despite hard efforts not to cut back on programmes, a high number ( %) report that they had to narrow their scope of work and % had to substantially reduce their number of staff. % of the CSOs started an additional fundraising campaign. Even more (%) are extending their use of Internet tools. A high percentage of CSOs (%) is seeking networking with locally-based CSOs. A relatively high number of CSOs (%) therefore hopes that the strategies they have taken will be sufficient to cope with the financial shortfall so far.
+Another way to look for new financing is opening up alternative income generating programmes. Some organizations even figure out specific opportunities that the crises offer. A decline in television advertising costs for example means that development agencies could better afford to run direct marketing campaigns on television. In times of higher unemployment, some CSOs report an increased opportunity to attract qualified volunteer staff to work with them (see chart question  Western Europe below).
+ %
+%
+ %
+Yes No
+ %
+Chart Question :
+CSOs strategies in Western Europe to cope with drop of revenue since 
+%
+Did your organization easily adapt to a tighter resource constraint? Have reduced resources led to better efficiency of work? Has your organization narrowed the scope of its work? Did your organization substantially reduce the number of its staff?
+% %
+Did your organization start an additional fundraising campaign? 
+Yes No
+Did you develop additional skills using internet tools (Skype, etc.)?  Did you seek networking with locally-based CSOs? 
+Do you expect the strategies to be sufficient to meet the challenges?  Other 
+% % % %
+ Save the Children/UK for example has shops, which up to now are seeing more customers despite the economic crises.
+Impact of the Global Economic Crises on civil_society Organizations 
+USA and Canada ( responses)
+In the US and Canada, the situation so far is better than the one in Western Europe. Most CSOs (%) have been able to easily adapt to the present situation. Only % had to further improve their efficiency of work. However a bigger number than in Europe (%) narrowed their scope of programme work. Almost a third substantially reduced their number of staff. Many CSOs (%) are looking to additional fundraising campaigns and new ways to raise money in order to stay operational. % are using Internet tools, reducing cost for travelling. % are seeking networking and sharing of tasks with locally-based CSOs. A high number (%) expect that the strategies they have taken will be sufficient so far. But this means on the other hand, that % report serious difficulties in coping with the financial shortfall (see chart question  USA and Canada below).
+Chart Question :
+CSOs strategies in USA and Canada to cope with drop of revenue since 
+Did your organization easily adapt to a tighter resource constraint?
+Have reduced resources led to better efficiency of work? 
+Has your organization narrowed the scope of its work?  Did your organization substantially reduce the number of its staff? 
+Did your organization start an additional fundraising campaign? Did you develop additional skills using internet tools (Skype, etc.)? Did you seek networking with locally-based CSOs? Do you expect the strategies to be sufficient to meet the challenges? Other
+% %
+%
+Yes No
+% % %
+In sum, most humanitarian and development CSOs have had to cope with a financial shortfall since  and reacted with a series of strategies: Most of the responding CSOs in all regions started additional fundraising campaigns, extended their use of Internet tools and sought networking and sharing of tasks with locally-based CSOs.
+There is a clear effort reported by many of the responding CSOs in Europe and the US and Canada to cut back on administrative cost, rather than on programme costs. Many of them are reducing staff travel and other expenses that streamline the programmes. In addition, many CSOs started to develop specific strategies in order to obtain a more secure funding stream. Some CSOs are trying to receive more funds from wealthy individuals; others use traditional strategies like greater diligence in managing funds, diversification and improved financial management systems.
+Nevertheless, a high number of them had to cut back their aid programmes due to the global recession, and the prospects for  do not look much better. Despite hard efforts not to cut back on programme work, a large number of CSOs still had to narrow their scope of work and had to substantially reduce their staff.
+Change of advocacy work since  ( responses)
+Most CSOs have started advocacy initiatives and campaigns in developed countries and in developing countries, calling on their governments to keep their promises on the level of funding and press them harder
+ Oxfam estimates potential cut backs of  to  percent of their internal variable costs including staff at headquarters and regional centres to create more cost-effective operations.
+  
+for support. This might be one of the reasons why the overall number of CSOs undertaking advocacy work is increasing since  (selected pre-crises base year), but especially since  throughout all the regions, continuing in  (see chart question  below).
+Chart Question :
+Advocacy work since 
+       
+-% -% Decrease
+  %  (estimated)
+  % Increase
+ >  %
+-%
+-% 
+  %
+.. Revenue decline confronts an increased demand for services
+One major purpose of this survey was to find out if the scope of requests by the constituencies and partners of civil_society organizations changed since  (selected pre-crises base year) due to the global crises. This hypothesis is largely confirmed by the results of the survey:
+ CSOs responded to this ques-
+tion. The majority (%) of these responses reported that the demand side already rose substantially. % see a moderate increase and % report a large increase in demand.
+Only % experience a moderate decrease in requests for support and a small number
+(%) report a large reduction in demand.  % see no change (see chart question ).
+ CSOs differentiated the rise in requests from their constituencies and part-
+ners as being due to the following categories of reasons: 
+Chart Question :
+Change of demand for services since 
+  
+Remain at  level
+Moderate decrease <%
+Large decrease >%
+Large Moderate increase increase
+>% <%
+ large increase (> %), moderate increase (< %), moderate decrease (< %), large decrease (> %)
+Number of responses
+Number of responses
+Change of categories of requests
+Impact of the Global Economic Crises on civil_society Organizations 
+ in the context of environmental emergencies and climate_change ( responses):
+% of the responding CSOs see large increases of requests due to environmental emergencies, and an additional % describe a moderate rise owing to this reason. % of the CSOs see no change. Only % report a moderate decrease of demands and an even smaller number (%) see a large decrease in environmentally related changes in demand.
+ in response to the impact of rising food prices ( responses):
+% of the responding CSOs describe large increases in demand for support due to rising food prices, and % report a moderate rise. % of the CSOs see no change. Only % report a moderate decrease and an even smaller number (%) see a large decrease in food-related demand.
+ as result of the financial and economic crisis ( responses):
+% of the responding CSOs see large increases in requests due to the economic crisis, and an additional % see a moderate rise in requests. % of the CSOs see no change. Only % of the CSOs report a moderate decrease in demand, and an even smaller number (%) see a large decrease.
+Overall, there appears to be a substantial increase in all three categories (see chart question ). Chart Question :
+due to environmental emergencies and climate change in response to rising food price in response to the financial and economic crisis due to other reasons
+   
+% %
+Many CSOs further elaborated that climate_change has become a pivotal issue, contributing to low rainfall, which has had a negative impact on food production, creating food insecurity. In addition a CSO reported that food prices have skyrocketed and the cost of travel and food budgets increased significantly. A CSO from the rural area in Africa wrote: climate_change has affected the plantings to such an extent that [we] dont know how the government is going to respond in the face of this new challenge, which bring an additional challenge [for] the governments [budget] problems that arises due to the financial crisis.
+%
+% %
+%
+Large increase >% Moderate increase <% Remain at  level
+Moderate decrease <% Large decrease >%
+ CSOs specified there had been another reason for the change in demand. Some CSOs explained that there was a large increase of requests due to the increasing amount of job loss and unemployment. One CSO explained: Unemployment has grown and thus it becomes harder to increase access to food; another one said: In articulating a cooperative that shares job offers, we are the testimony of the desperation of unemployment that exists inside our country. Several CSOs explained that the rising requests were more strongly focusing on food, payment of basic services (light, water, and electricity); and sanitation services. More and more of our constituencies are requesting for capacity building, financial support, adaptation resources.
+  
+Projections about change in demand for services ( responses)
+Question  of the questionnaire asked for projected change in overall requests ( responses) for financial support by constituencies and partners . % of the responding CSOs expect a large increase in demand over the next two years. % see a moderate rise. Only % project no change and % report a moderate decrease. An even smaller number (.%) of the CSOs see a large decrease in demand.
+ In response to the question about projected change in demand for emergency relief ( responses), % of the CSOs see a moderate rise and % even fear a large increase in demand. % predict no change. Only a small number (%) report a moderate decrease and % predict a large decrease of demand.
+ Regarding the question about projected change in requests for basic social services ( responses), % of the CSOs predicts a large increase in demand and an additional % see a moderate rise. Only % predict no change. An even smaller number (%) hope to see a moderate decrease and only % think there might be a large decrease of demand.
+ In response to the question about projected change in requests for longer-term development programs ( responses),. % fear a large increase of demand and the same percentage of CSOs see a moderate rise. % predict no change. Only % foresee a moderate decrease and small number (%) see a large decrease of demand.
+ Concerning the question about projected change in demand for advocacy work ( responses). % expect large increase in demand and % see a moderate rise. % predict no change. Only % report a moderate decrease and small number ( %) see a large decrease of demand (see chart question  below).
+ CSOs also offered various additional observations. One CSO wrote: Already the communities we are working with in semi arid regions are asking for substantial support to deal with drought largely affecting people living with aids, children, orphans and elderly. In one region, they need to use the only little money they had to buy food...most of their income base has terribly gone down. On the other hand, most foundations have cut down drastically their funding. Fi-
+nally, CSOs call for further action and support to achieve the mdgs (mdg): Despite years of effort, the situation is now more than alarming, and the mdg will likely be impossible to achieve by .
+Chart Question :
+Projected change of requests -
+for general financial support for emergency relief for basic social services for longer-term development programs for advocacy work for other purposes 
+%
+     
+Large increase >%     Moderate increase <%
+%
+  
+Remain at  level Moderate decrease <% Large decrease >%
+   
+% %
+  
+%
+%
+Impact of the Global Economic Crises on civil_society Organizations 
+.. Recommendations of civil_society Organizations
+The final purpose of the survey was to collect CSOs key recommendations to their own governments and the international community to help them meet the need for support of their organizations work and for social development in general. A large number of CSOs () responded to the multiple choice questions on this topic and many submitted their own proposals, some of which will be highlighted below.
+National Financial Resources ( responses)
+civil_society organizations, no matter how efficient and widespread, cannot carry the full burden of social responsibility in a country. Thus, besides seeking to mobilize resources themselves for social programmes, they also advocate that governments accept at least some of the responsibility, the extent of sharing with private voluntary organizations being a function of both policy preferences in a country on the role of the state and the capability of governments to actually deliver the necessary services. In this context, CSOs expressed definite views on strengthening the capacities of governments to deliver social services. Their recommendations pertain both to raising more public revenue and deciding how to spend it.
+Anti-corruption measures, including recovery of illicitly removed financial flows ( responses)
+A high percentage, namely % of the respondents, thinks that a high priority should be given to introducing more efficient measures to fight corruption and to recover illicit financial flows. In most of their  additional written comments (see below), individual CSOs requested action to address the lack of transparency in government reporting in order to overcome misappropriation, corruption and tax evasion. Most CSOs called for the fight against corruption of governments and redirection and personal use of resources allocated for basic services to the detriment of populations who suffer terribly from the effects of the crisis and growing poverty. Some CSOs pointed out the need to avoid corruption in combating organized crime related to drug and human trafficking [and] frame the issue as a kind of st century slavery and create funds to support the fight by means of confiscating their resources and their assets. They referred to the need to repatriate stolen public assets and that those recovered assets should be used for meeting the mdg.  CSOs want to see controls on short-term capital flows to curb capital flight, which can drain a nations foreign exchange reserves.
+Progressive taxation ( responses)
+% of the responding CSOs said they wanted their national tax systems to be more progressive and redistributive, utilizing a broad and equitable tax base, and targeting those most able to pay. Individual respondents think that earnings from capital and resource extraction should be taxed more heavily than earnings from labour.
+It follows that sufficient skilled staff is needed in the tax authorities to ensure full implementation of tax laws, including those aimed at exposing malpractice, including tax evasion, illicit transfer pricing or the false declaration of import and export prices. Given the swift pace of financial and technological innovation,
+ The charts that accompany the following discussion indicate the average rating, which is an indicator of the relative importance of different answers given by the responding CSOs. The average rating is the average of the individual scores for a given policy option, namely  = no priority,  = low priority,  = moderate priority and  = highest priority, where the individual scores are weighted by the share of the total respondents giving that score (for further explanation, see section .. Analysis of the regional coverage: Main areas of activities).
+  
+some CSOs added that greater international support and co-operation are urgently required to assist countries of the South in building capacity to monitor compliance of transnational and other enterprises with appropriate standards of accounting and reporting.
+Social safety nets and income support ( responses)
+The financial crisis is impeding the public provision of social services and is also weakening pension systems in many countries that have such systems. But many people are below the poverty line even in the best of times. Many CSOs thus advocate direct government income support to help reduce poverty. In fact, % of the CSOs strongly favoured the introduction of basic income grants for the poorest and most vulnerable at national level. They called for an introduction of a basic income universally and with redistributive tax systems and benefiting of national resources for the whole population. civil_society organizations in South Africa and Namibia proposed introducing a social security system that would provide a minimum income for each citizen that allows him or her to participate in society at least at a minimum level. The money of people not in need or not in poverty would be recovered through adjustments in the tax system.
+In this context, it is worth recalling that some countries have introduced effective special poverty reduction grants. Brazil for example, introduced a social programme for families. Every poor mother who can prove that her children go to school receives  Real per month (about  USD) from the government. This may not appear as a large sum at first glance; however, in the poor region of Northeast Brazil, millions of people live on this public support system, which means for them an alleviation of extreme poverty.
+Other CSOs asked for an increase of social grants above inflation or for redistribution of incomegenerating assets or for expanding existing grants, like pensions. Individual CSOs recommend the establishment of a global pension fund.
+Decent work agenda ( responses)
+National economic policies need to foster the creation of decent work for all as a key step towards poverty reduction and equitable growth. Therefore it is logical that most of the responding CSOs, namely %, gave high priority to seeing more public works programmes for the unemployed and welcome the promotion of the International Labour Organizations decent work agenda, which provides the policy framework to confront the crisis  (see chart question  below).
+In this context, it may be noted that in June , faced with the prospect of a prolonged global increase in unemployment, poverty and inequality and the continuing collapse of enterprises, the International Labour Conference, with representatives of governments, workers and employers, adopted a Global Jobs Pact. This Pact is designed to guide national and international policies aimed at stimulating economic recovery, generating jobs and providing protection to working people and their families. 
+Other proposals
+ CSOs elaborated on previous proposals or added additional ideas. One CSO emphasised the need to ensure the welfare transfers to the most underprivileged layers of society and to guarantee a better distribution
+ Der Spiegel. /, page .
+ ilo.org/global/About_the_ILO/Mainpillars/WhatisDecentWork/lang--en/index.htm
+ ILO June : ilo.org/global/What_we_do/Officialmeetings/ilc/ILCSessions/thSession/texts/lang--en/
+docName--WCMS_/index.htm
+Impact of the Global Economic Crises on civil_society Organizations 
+Chart Question :
+National Financial Resources fight corruption . curb capital flight .
+progressive/ redistributive tax systems . basic income grants for the poor .
+decent work for all . other proposals
+ .  .  .  Average rating of wealth. Another CSO pointed out: National financial resources should be equally distributed. Re-
+sources should be ploughed into sectors that have multiplier effects and should be geared towards employment generation. A third CSO reminded that the good answers need a cross-ministry discussion in the cabinet, and others want their governments to increase the percentage of national budget allocation to education and health, as well as to provide health care especially for women.
+.
+A respondent said: On any given development project the largest amount of workers skilled and un-skilled should be made up from the indigenous and diaspora people from the area. Several CSOs want their governments to prohibit the multinationals from exploiting poor countries with natural and agricultural resources and to put higher taxes on mining companies.
+Official Development Assistance (ODA) ( responses)
+It is a fundamental principle of development cooperation that low income country governments need assistance from rich country governments so they may provide more social and development services than would be possible from domestic resources alone. In the current crisis situation, lower income countries need additional financial assistance to protect critical expenditures and prevent further erosion of progress made in reducing poverty. The impact of the global crises threatens to reverse critical gains made towards reducing poverty and hunger and the achievement of the mdgs (mdg). CSOs thus called on donor governments to increase official development assistance (ODA). % of the responses see it as the highest priority that donor governments meet their existing official development aid commitments. This is also reflected in the high number of the CSO respondents (%) who give urgency to increasing official development aid.
+Almost three quarters (%) of the responses strongly recommend that more development aid be channelled through CSOs (average ranking is . in chart below). While this may be interpreted as selfserving, these organizations work at grass-root level in the field and are appropriately experienced.  individual CSOs explained this point further and called for direct ODA allocations to them out of frustration with their own governments. One respondent specified its government has maintained a policy of bureaucracy and belligerence in social issues. Another wrote that As our local governments do not hear us, we would like donor governments to take our appeals seriously. Several respondents expressed concern about government corruption. One called for sanctions in cases of fraud.
+Some respondents implicitly acknowledged that CSOs can also be affected by corruption, as it called for CSOs to accept obligations [to donors] as to transparency of implementation and management
+  
+Chart Question :
+Official Development Aid (ODA)
+of funding. These respondents called for midway and endpoint evaluations of supported CSOs carried out by an independent team of inspectors. One respondent asked that UN agencies undertake the monitoring activities. Other respondents called for donor support for training CSO staff in budgeting and management and for CSO capacity building more generally. An additional proposal was for the creation of a forum for local associations to exchange information and experiences, which one might see evolving with donor support into regional or international civil_society fora.
+.
+.
+.
+.
+Honor existing official development aid commitments
+Further increase official development aid
+Channel more official development aid through CSOs
+Other proposals
+External Debt Relief ( responses)
+An additional way to free up resources for domestic social programs is relief from public debt servicing ( responses). Thus, % of the responses gave high priority to further debt relief for poor countries in distress. % accorded high priority to the proposal by UNCTAD to allow debt servic-
+ing standstills during crises. Most of the CSOs (%) similarly prioritised establishing a comprehensive, fair and transparent debt workout mechanism, which would facilitate timely, effective and fair resolution of debt crises when they occur.
+Chart Question :
+External Debt Relief
+ .  .  .  Average rating
+International coordination of economic activities ( responses)
+Many CSOs are sensitive to the global economic context in which their activities take place. More than financial and technical assistance is required of the international community, and CSO responses highlighted a number of dimensions in which additional cooperation is imperative.
+.
+.
+.
+Grant further debt relief for poor countries in distress
+Allow debt standstills during crises
+Establish a fair debt workout mechanism
+ .  .  .  Average rating
+ As seen in the chart, average ranking was . out of  ranks; % of the  responses chose the high priority answer to the multiple choice question.
+ Average ranking was . and % of the  responses chose the high priority answer to this question.
+International Trade ( responses)
+ CSOs also commented on trade policies. More than half the responding CSOs want to see trade policies that bear on income-earning prospects, including of the poor. The need to avoid and roll back new protectionist measures in export markets is prioritised by % of the responses (average ranking is . out of ).
+In addition, % of responses wanted to see a full
+Chart Question :
+International Trade
+Avoid and roll back new protectionist measures in export markets
+Fully implement existing market opening commitments
+Open markets for agricultural products for low-income countries
+Impact of the Global Economic Crises on civil_society Organizations 
+.
+.
+.
+implementation of existing market opening commitments
+(average ranking is .; % of  responding CSOs gave it high priority). The highest ranking (.) however was given by  responding CSOs (% selected high priority) to the need to further open markets for agricultural products for low-income countries.
+International cooperation on tax matters ( responses)
+Strengthening international cooperation to combat tax evasion in developing countries was important to % of the respondents. But additional tax-related measures were also called for to achieve sustainable_development. Coordinated measures were needed to stop the world-wide tax race to the bottom, as governments compete against each other to attract foreign direct investment (see chart question  below).
+In this context, one should add some further explanation by CSOs about tax cooperation as expressed in UN fora. For example, CSOs have called for introducing an automatic exchange of information between financial centres and the tax authorities in the home countries of investors as a step towards better combating tax evasion. In addition, world-wide co-ordination and co-operation on national tax matters requires institutional strengthening. Governments ought to boost international tax co-operation with the aim of preventing all forms of negative tax competition, and ensuring that tax regimes mobilize adequate resources for development and public goods. Several civil_society organizations working on this issue therefore propose that the UN Committee of Experts on International Co-operation in Tax Matters should be upgraded to an intergovernmental body and adequately resourced.
+Innovative measures to finance global development ( responses)
+As said above, the financing gap is large, especially when consideration is given to the additional funding that is urgently required for meeting the adaptation and mitigation challenges of climate_change. Estimates of the additional assistance needed for both mitigation and adaptation in developing countries range from under $
+ civil_society Benchmarks  and  (ffdngo.org/civil-society-perspectives-and-recommendations).
+ For additional details, see Tax Justice Network at taxjustice.net
+. 
+.  Average rating
+. 
+  
+billion to over a trillion dollars. But if mitigating the pace of global warming is a shared responsibility of governments, so too are the imperatives to fight HIV/AIDS and other diseases. International cooperation in this regard is in the nature of financing a global public good (or reducing a global public bad), and thus goes beyond international commitments to promote development and poverty eradication. In order to close this overall financing gap, there is a need to establish mechanisms that generate sufficient and predictable resources and that are independent from national donor budgets. As a result, the discussion and exploration of new and innovative financing mechanisms is gaining momentum, as was reflected in the answers to the questionnaire.
+For more than  years, civil_society organisations have been advocating adoption of innovative measures to finance development in its broadest sense. The need for innovative financing measures was ranked as highest priority by the majority (%) of the responding CSOs (see chart question  below and BOX at end of this report for a description of such Innovative Resources).
+A UN Charter for sustainable and socially oriented market economy ( responses)
+Leaders at the G Summit in London in  had recommended developing a charter on sustainable economic activity: In addition to reforming our international financial institutions for the new challenges of globalization we agreed on the desirability of a new global consensus on the key values and principles that will promote sustainable economic activity... We take note of the work started in other fora in this regard and look forward to further discussion of this charter for sustainable economic activity. The elements of such a charter are not clearly defined yet and remain under discussion within the G.
+Almost three quarters of the CSOs (%) see an urgent need for the establishment of such an overall normative framework of global governance, which could establish principles for the world economy and for mechanisms of international cooperation in response to shared economic vulnerabilities. They pointed out the need to bring into financial, trade and development discussions the central social commitments and human rights obligations that could otherwise be lost. CSOs thus favoured establishing a united_nations Charter for sustainable and socially oriented market economy. According to CSOs, such a Charter should
+Chart Question :
+Measures at international level provide a synthesis of the guiding economic principles of various international bodies, referencing standards such as the core labour standards of the ILO and the OECDs Guidelines, Anti-bribery Convention and Principles for Corporate Governance. It could combine rules concerning market behaviour with the complementary elements regarding employment and enterprise development, social protection and sound labour rights (see chart question ).
+.
+.
+.
+.
+strengthen international cooperation on tax matters innovative financing measures, like air ticket levy, financial transaction tax, carbon tax etc.
+"UN Charter for sustainable and socially oriented market economy"
+other proposals
+ .  .  .  Average rating
+ UN DESA: Policybrief , August 
+ London Summit  Leaders Statement,  April  (para )
+ ITUC statement to the G, April : ituc-csi.org//IMG/pdf/No__-_G_London_Declaration_FINAL.pdf
+Impact of the Global Economic Crises on civil_society Organizations 
+Other proposals
+ CSOs made very interesting additional proposals: One CSO outlined a broad approach: There are three main problems needed to be resolved. The first is how to minimize armed conflicts in less-developed and developed countries. The second is to tackle the problems of insecurity. The third is how to lay down a formidable global framework that can metamorphose to legal ordinance.... The forth is how to tackle climate_change. Another one stated: Make sure that all you do is always guided by the comprehensive human rights framework. One CSOs underlined the importance of rule of law and crime prevention and criminal justice for the promotion of sustainable_development.
+More precise proposals were as follows:
+ Reforming the rules of the international business, in order to allow the poor countries to install tools of agricultural policy to support their own development agriculture.
+ Establish a social market policy with a regional chapter (and its own laws) for localities that for geographic reasons are disadvantaged compared to the rest of the country. The resources generated by the region (city) ought to remain inside and shouldnt work only towards what the central government deems important, without being familiar with the local reality.
+ We would suggest setting up an international fund, so that countries that have no resources may apply for loans in order to maintain projects for the benefit of children and women in need.
+ We would encourage a world-wide pension system that could be funded through financial transaction taxes for people over a certain age. Since people are living longer, it could be above the traditional age of . This would guarantee that older persons would not have to live the last of their lives in poverty!
+ Strengthen links between taxation and state-building, democratic accountability and sustainability.
+ Change the current financial system into a fair one, which is beneficial for the society, not for financial corporations only.
+ Close all foreign bank accounts holding African governments money. Return that money back to the countries and make it work.
+ Stop subsidizing farm goods, cotton, sugar and the like so Africans can sell their stuff on the world market that is not corrupted by subsidies.
+ Establish legally binding regional cross country agreements on minimal wage and minimal political rights of employees (right to co-deciding about the use of profit, control over socially responsible corporate behaviour), minimal level of social rights of all workers, regardless if they work in precarious working arrangements.
+ Systematically include all stakeholders in the solving of the problems of full employment, food, water, energy, education, health, care and housing supply for all. Start to pay for the non paid care work on the bases of equal share of women and men for this work.
+ Global understanding of the difficulties faced by NGOs in developing countries in meeting the needs of the disabled and vulnerable. At international level governments should fund NGOs supporting Disability Rights.
+ It is unethical to call for BONUS: why not giving a bonus to a nurse and other professionals, why to bankers only?
+In sum, most CSOs pointed out that financial support needs to be increased to support the work of the NGOs that arises due to global crises.
+  
+Additional Suggestions
+The final question in the survey was an open-ended invitation to the respondents to include additional views or suggestions that might not have been adequately covered in the preceding questions.  of the respondents wrote responses to this last question, from which the following selections are taken with minimal editing.
+One CSO proposed: Development assistance needs to shift a little more to look at grass root communities where [the] majority of the poor live. A poor man can not demand for his rights. What he needs are the basic needs first. When he has food, water, shelter and is in good health, then he begins to question the duty bearers as to why they are not fulfilling certain rights. Whereas one CSO voice called for more capitalism, all the others disagreed: Large-scale liberalization, deregulation and privatisation have diminished the rights and entitlements of the poor people putting them at the mercy of market in general and bigbusinesses in particular. A market-led agricultural policy has created the conditions for denying the rights of the farmers and compounding the situation of [the] food crisis. The biggest challenge is to reclaim the rights of the farmers and save [the] environment and ecology. We intend to encourage rural communities to give priority to agriculture and food production for consumption, sale of surpluses and protection of forests and fauna. For this to happen, the state must facilitate things by creating routes and roadways to serve agricultural zones, allowing farmers to transport products to consumption centers for sale.
+Some CSOs call for introducing more ethics, morality and transparency in government and international work and others see the need for their government to just develop the political will. One CSO from East Africa asked, Why is it that even in the crisis situation, multinational companies have resources to invest in huge infrastructure? ... How will poor countries manage to service this debt under such constrained growth? Another CSO proposed: Donor governments should create flexible conditions on their funds as this will enable civil_society organizations in Sub-Saharan Africa to also access the much needed resources to implement various development interventions. Several voices want the world_bank as well as the International Development Fund [Sic.] to take on a more flexible approach towards NGOs that wish to initiate projects that their local governments are unable to subsidize for the benefit of those sectors of the population in deep financial stress. A number of CSOs asked the UN [to set up] a special fund for combating the impact of the international crisis mainly in the poorest [countries] and through civil_society organizations. Finally one CSO proposed: We should have a network of NGOs and their meetings should be well informed in advance where the poorer and upcoming NGOs would have voice to share.
+. Conclusion: strengthen CSOs in global crises
+The responses to this survey have provided a greater understanding of how the crisis affects the roles and capacity of CSOs. It provides new data about the impact of the crises on CSOs and the challenges to their ability to address the needs of their constituencies and partners. The survey also gave an overview about how CSOs have sought to cope with the crises and provided a picture about their choices among options to deal with the changed environment regarding their development projects and their advocacy programmes.
+One task of the survey was to collect key recommendations that CSOs would propose to their own governments as well as to the international community in order to better be able to cope with the global crises and continue in an efficient way their organizations work, as well as be able to meet the rising need of their constituencies and partners. Those recommendations were reviewed in the preceding section.
+Impact of the Global Economic Crises on civil_society Organizations 
+One concluding recommendation that was not explicitly mentioned by the CSO respondents but was implicit in many of their concerns will be added here. The inescapable lesson of the current situation is that the ability of CSOs to mobilize private resources weakens during a crisis just when the need for their social services rises. Appeals to individuals for contributions to counter the effect of calamities usually assume that the donors are not themselves harmed by these very calamities. In the current global crises, individual donors around the world have been less able to step up their assistance. Similarly, private foundations faced reduced capacity to deliver funds as their own assets declined substantially in value. The food and environmental crises as well as the financial crisis have shown clearly that in this increasingly interdependent and globalizing world, difficult situations can happen in the different regions of the world at more or less the same time. In order to avoid unbearable social cost and increasing poverty, there is a need for counter-cyclical action.
+Only one source of funding has the capacity to act counter-cyclically in this situation, namely governments and their international institutions. The question arises whether there is a way to institutionalize and make automatic or semi-automatic financial support for the social activities of CSOs during global crises.
+The Chief Executives Board of the UN System, comprising the executive heads of the organizations of the united_nations system, committed to take decisive and urgent action on  joint initiatives, including the establishment of a Social Protection Floor. Such a protection floor would, in a system-wide approach, protect affected people during crises and thereafter. It would consist of two elements: . assure geographical and financial access to essential public services, such as water, sanitation, health and education. . provide a basic set of essential social transfers, in cash and in kind, paid to the poor and vulnerable to provide a minimum income security and access to essential services, including health care. The question remains how to provide additional finance for social protection for the poor and for governments to manage the crisis.
+Social protection is firstly a national responsibility. However, for most low-income countries, domestic resources are not sufficient and need to be supplemented internationally. The most promising option discussed at this moment for such additional funds is the Financial Transaction Tax (FTT). An FTT would be established by national governments to tax transactions within their jurisdictions in all kinds of financial assets: shares, bonds, securities and derivatives. A substantial proportion of the revenues could go to an international fund for the financing of global public goods, such as the social protection floor and measures to combat global warming and finance development. It is expected that a tax rate of just .% would yield globally . billion USD. For Europe the figure would be . billion USD and for North America . billion USD.
+While it is encouraging that this and other approaches are under international discussion, there is no sufficient answer yet to the question of how to assure immediate and sufficient support during the current crises for affected civil_society organizations and the people they serve at the grass-roots level. The environmental, food and financial crises show that simultaneous crises can occur and affect rich and poor around
+ See CEB Comminique, Paris,  April 
+ CEB Issue Paper: The global financial crisis and its impact on the work of the UN system. , page -. ILO and orld Health Organization are the lead organizations in the joint effort on this project.
+ Stephan Schulmeister, Schratzenstaller, Picek: A General Financial Transaction Tax. Motives, Revenues, Feasibility and Effects. Vienna 
+  
+the globe. Given the high degree of global economic and financial integration, there are projections that in future, global crises may occur with increasing frequency. It must therefore be a high priority on the political agenda to take all necessary steps to slow and adapt to climate_change, avoid another food crisis and prevent new financial and economic crises.
+Should those crises however happen again or the current ones continue, the world community should be better prepared, andas an immediate short-term measureat least provide the financial means for counter-cyclical action by governments directly and by supporting necessary programmes of CSOs to address the social consequences around the world and in particular the harm that threatens its poorest and most vulnerable members.
+In any case, mobilizing stable and predictable funds for achieving the mdgs and other social development goals requires a sense of political urgency. The huge resources quickly mobilized for the financial rescues in the major developed economies show what is possible. It remains to treat social development challenges in the same way.
+Proposals for stable and predictable resources for financing social development
+For years, civil_society and interested governments have discussed various mechanisms for raising additional public resources for development cooperation. The first two of the four examples below have already been put into practice:
+Air ticket levy
+Almost half the available funding for UNITAID comes from a solidarity contribution levied on air tickets. This is already applied in  countries and it has enabled France for example to generate an extra  million in aid. This contribution, which is levied on the airline ticket prices charged to passengers taking off from airports in the territories of the countries implementing the scheme, has had no effect on air traffic and provides a stable source of finance. The contributions levied at national level are then coordinated internationally for allocation, for the most part, to the UNITAID international purchasing facility.
+Financial transfers to developing countries for carbon credits
+In a cap and trade system for reducing global carbon emissions, businesses can only put more carbon into the atmosphere than allowed under the cap if they reduce carbon emissions elsewhere. They can do this by direct efforts of their own or by financing efforts by others. A main way to do that is to purchase Certified Emission Reductions (CER), as issued currently under the Clean Development Mechanism (CDM). These CERs are securities that are priced based on the amount of reduction in carbon emissions in the underlying projects. The Secretariat of the united_nations Framework Convention on climate_change estimates that an extra $-$ billion per year could be generated from this source by ,
+ Report of the UN Secretary General on Progress report innovative resources for development finance, July . A//
+ UNITAID was launched in  and seeks to reinforce long-term access, at negotiated prices for those in most need, to high quality treatments against AIDS, tuberculosis and malaria.
+ leadinggroup.org/rubrique.html
+Impact of the Global Economic Crises on civil_society Organizations 
+rising to between $ billion and $ billion by . Any imposition of a price for adding carbon to the atmosphere will generate extra revenues. Estimates vary as to how much exactly. UNDP calculates that a $ tax per ton of CO could generate about $ billion per annum in OECD countries at current emission levels. According to the UN wess , a tax of $ per ton of CO could yield as much as $ billion per year. The OECD countries could devote an important share of the revenue to be generated this way to climate related assistance to developing countries. Imposition of a carbon tax has the added benefit of making renewable energy sources more competitive with non-renewable fossil fuels.
+Financial transaction tax
+In September , the G opened the debate on a Financial Transaction Tax (FTT). An FTT would be established by national governments to tax transactions within their jurisdictions in all kinds of financial assets: shares, bonds, securities and derivatives. As a result, the IMF has been mandated to prepare a report on options as to how the financial sector could make a fair and substantial contribution toward paying for any burdens associated with government interventions to repair the banking system. As the FTT proposal is limited to financial asset markets, other transfers such as payments for goods or labour market transactions, as well as remittances and short-term inter-bank lending and any operations of the central_banks, would not be subject to this FTT.
+It is expected that a tax rate of just .% would yield globally . billion USD. For Europe alone, the figure would be . billion USD and for North America . billion USD. Although it was not so proposed in the G discussions, a substantial proportion of the revenues could go to an international fund for the financing of global public goods, such as to combat global warming as well as hunger and poverty in developing countries.
+ united_nations desa August : Policybrief 
+ UNDP (), Human Development Report /
+ united_nations desa August : Policybrief 
+ The tax would be collected as long as these securities are traded at a stock exchange or another public institution and not bilaterally between financial actors (so called trade over the counter i.e. without any control and supervision). The G as well as the EU have declared that trade over the counter should be limited and subject to public oversight in the future, which would also make it easier to tax.
+ Stephan Schulmeister, Margit Schratzenstaller, Oliver Picek (): A General Financial Transaction Tax. Motives, Revenues, Feasibility and Effects. Vienna
+

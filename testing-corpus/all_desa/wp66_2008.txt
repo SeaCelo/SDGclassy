@@ -1,0 +1,489 @@
+Obstacles to Implementing Lessons from the East Asian Crises
+ The East Asian crises of gave rise to two major responses from mainstream or orthodox economists. The first was an attempt to explain the unexpected events from midin terms of several aspects of the orthodoxy, especially theories of currency crisis. Proponents of this explanation made much of current account or fiscal deficits, real as well as imagined. When this line of reasoning clearly proved to be wrong, inadequate, or unpersuasive, the second line of defence was to turn the preceding celebration of the East Asian miracle on its head by suggesting that key elements of East Asian exceptionalism, for example, government intervention and social capital, were responsible for the crises. Those promoting this explanation emphasized cronyism (government favouritism for particular business interests) and poor corporate governance both genuine problems, but irrelevant in this context with some grudging acknowledgment of the poor or wrong sequencing of financial liberalization, rather than the implications of liberalization itself with its open capital accounts.
+Two consequences of this failure to deal with the full implications of the East Asian debacle require revisiting the crises to try to ensure that their most important lessons are not lost. Subsequent currency and financial crises elsewhere suggest that many important lessons have not been appreciated or translated into appropriate policy. First, erroneous lessons drawn by orthodox economists, financial analysts, and the media have obscured the important policy-relevant analysis that has emerged. Second, the policies and policy-makers responsible for creating the conditions that culminated in the crises need to be identified. Perhaps more importantly, the wrong lessons have diverted attention away from the intellectual and ideological bases of the erroneous thinking, analyses, and policies responsible for the crises. Suggesting that such ideas are associated with the so-called Washington consensus advocacy of economic liberalization at both the national and global levels would not be an exaggeration. Needless to say, drawing the right lessons would likely undermine the intellectual, analytical, and policy authority of the interests and institutions upholding this consensus.
+This paper considers various views of the origins of the crisis and its development and spread through the region (referred to as contagion). This is then set against the larger drama of the transformation of the East Asian miracle into a debacle. All this is placed in the larger context of policy advocacy for financial liberalization, especially since the late s. It focuses on the consequences of financial liberalization in the region. It also argues that the crises were of a new type and were somewhat different from earlier currency and financial crises. In particular, it emphasizes the implications of easily reversible capital flows. While much of the literature stresses the problems associated with foreign bank borrowing, this paper also draws attention to the dangers of portfolio capital flows. It looks at the role of the International Monetary Fund (IMF) in exacerbating the crises. The paper then suggests six urgent areas for international financial system reform from a development perspective that go beyond crisis avoidance and management. It concludes with a consideration of why there has not been more progress in making needed reforms since the Asian crises.
+Even though considerable work was critical of East Asias record and potential, none actually anticipated the East Asian debacle of (Krugman ). While certain aspects of the crises were common to all four East Asian economies most adversely affected Indonesia, the Republic of Korea (referred
+  
+to later as South Korea or Korea), Malaysia, and Thailand others were unique to a particular country or common only to the more open economies of Southeast Asia, namely, Indonesia, Malaysia, and Thailand. Of course, some of the weaknesses identified in the literature did imply that the region was economically vulnerable. The dominance of foreign transnationals in manufacturing activities, especially in the most technologically sophisticated and dynamic ones, subordinated domestic industrial capital in the region, allowing finance capital, both domestic and foreign, to become more influential (Jomo , ).
+None of the critical writing seriously addressed the crucial implications of the greater role and fluidity of foreign capital in Southeast Asia, particularly with regard to international financial liberalization, which had become more pronounced in the s. Indeed, financial capital developed a complex symbiotic relationship with politically influential rentiers, dubbed cronies in the aftermath of -. Although threatened by the full implications of international financial liberalization, Southeast Asian financial interests were quick to identify and secure new possibilities for capturing rents from arbitrage, as well as other opportunities offered by gradual international financial integration. In these and other ways (Gomez and Jomo ; Khan and Jomo ), transnational dominance of Southeast Asian industrialization facilitated the ascendance and consolidation of financial interests and politically influential rentiers. This increasingly powerful alliance was primarily responsible for promoting financial liberalization in the region, both externally and internally.
+However, insofar as the interests of domestic financial capital did not entirely coincide with those of international finance capital, the processes of international financial liberalization were partial and uneven. The varying policy influence of domestic financial interests in different parts of the region also played a part. History too was relevant. For example, the banking crisis in Malaysia in the late s led to the introduction of a prudential regulatory framework unlike those anywhere else in the region, yet caution was thrown to the winds as early external liberalization measures succeeded in securing capital inflows. Both Malaysia and Thailand wanted such flows to finance current account deficits caused primarily by service account deficits (mainly for imported financial services and investment income payments abroad) and growing imports for consumption; speculative activity in regional stock markets; and output of non-tradables, mainly in the real estate sector.
+There is little evidence that such capital inflows contributed significantly to accelerating the pace of economic growth, especially of the tradable sectors. Instead, they probably contributed greatly to the asset price bubbles, whose inevitable deflation was accelerated by the advent of the crises, with their devastating economic, social, and political consequences. After months of international speculative attacks on the Thai baht, the Bank of Thailand let its currency float from July , , allowing it to drop suddenly. By midJuly , the currencies of Indonesia, Malaysia, and the Philippines had also fallen precipitously after being floated, with their stock market price indexes following suit. In the following months, currencies and stock markets throughout the region came under pressure as easily reversible short-term capital inflows took flight in herd-like fashion. In November , despite Koreas somewhat different economic structure, the won too had collapsed following the withdrawal of official support. Most other economies in east_asia were also under considerable pressure, either directly (for example, the attack on the Hong Kong dollar) or indirectly (for instance, due to the desire to maintain a competitive cost advantage against the devalued currencies of Southeast Asian exporters).
+Contrary to the impression conveyed mainly by the business media, as well as by the IMF, consensus on how to understand and characterize the crises is still lacking. One manifestation of this has been
+Obstacles to Implementing Lessons from the East Asian Crises 
+the debates between the IMF and its various critics about the appropriateness of its negotiated programs in Indonesia, Korea, and Thailand. While policy debates have understandably captured the most attention, especially among the public at large, the East Asian crises have also challenged previously accepted international economic theories. However, contrary to the popular impression promoted by the Western-dominated financial media of crony capitalism as the main culprit, most serious analysts now agree that the crises essentially began as currency crises of a new type, different from those previously identified with either fiscal profligacy or macroeconomic indiscipline. A growing number of observers also seem to agree that the crises started off as currency crises and quickly became more generalized financial crises, before affecting the real economy. Reduced liquidity in the financial system, the consequences of inappropriate official policy and illinformed, herd-like market responses contributed to this chain of events.
+From Miracle to Debacle
+Rapid economic growth and structural change, mainly associated with export-led industrialization in the region, can generally be traced back to the mid-s. Then devaluation of the currencies of Indonesia, Malaysia, and Thailand, as well as selective deregulation of onerous rules, helped to create attractive conditions for the relocation of production facilities in these countries and elsewhere in Southeast Asia and in China. This was especially attractive for Japan and the first-tier or first-generation newly industrializing economies, that is, Hong Kong (China), Korea, Singapore, and Taiwan (China), most of which were experiencing currency appreciation, tight labour markets, and higher production costs.
+This sustained export-oriented industrialization well into the s and was accompanied by the growth of other manufacturing, services, and construction activities. High growth was sustained for about a decade, during much of which fiscal surpluses were maintained, monetary expansion was not excessive, and inflation was generally under control. Table  shows various summary macroeconomic indicators for the s, paying greater attention to the period from . Prior to , savings and investment rates were high and rising in all three Southeast Asian economies. Foreign savings supplemented high domestic savings in all four East Asian crisis economies, especially in Malaysia and Thailand. Unemployment was low, while fiscal balances generally remained positive until -. This is not to suggest, however, that fundamentals in east_asia were not experiencing any problems (Rasiah ). As Table  shows, the incremental capital-output ratio rose in all three Southeast Asian economies during the s before , suggesting declining returns to new investments before the crises linked to asset price inflation, especially the property and share market booms.
+Export-led growth had been followed by a construction and property boom, fuelled by financial systems favouring such short-termist investmentswhich involved loans with collateral, that is, the kind that bankers likeover more productive, but also seemingly more risky, investments in manufacturing and agriculture. The exaggerated expansion of investment in such non-tradables exacerbated the economies current account deficits. Although widespread in east_asia, the property-finance nexus was particularly strong in Thailand, which made it especially vulnerable to the inevitable bursting of the bubble (Jomo , ; Pasuk and Baker ). Financial liberalization from the s had major ramifications in the region, as foreign savings supplemented the already high domestic savings rates. This further accelerated the rate of capital accumulation, albeit in increasingly unproductive activities, because of the foreign domination of most internationally competitive industries. The rapid growth of the previous decade gave rise to several related macroeconomic concerns that had emerged by the mid-s.
+  
+Table .
+East Asian Four: Macroeconomic Indicators, 
+Country
+-
+Savings/GDP (%)
+Indonesia
+.
+.
+.
+.
+.
+South Korea
+.
+.
+.
+.
+.
+Malaysia
+.
+.
+.
+.
+.
+Thailand
+.
+.
+.
+.
+.
+(Savings-Investment)/GDP (%)
+Indonesia
+-.
+-.
+-.
+.
+.
+South Korea
+-.
+-.
+-.
+.
+.
+Malaysia
+-.
+-.
+-.
+.
+.
+Thailand
+-.
+-.
+-.
+.
+.
+Investment/GDP (%)
+Indonesia
+.
+.
+.
+.
+.
+South Korea
+.
+.
+.
+.
+.
+Malaysia
+.
+.
+.
+.
+.
+Thailand
+.
+.
+.
+.
+.
+Incremental Capital-Output Ratios
+Indonesia
+.
+.
+.
+.
+.
+South Korea
+.
+.
+.
+.
+-.
+Malaysia
+.
+.
+.
+.
+.
+Thailand
+.
+.
+.
+.
+-.
+Fiscal Balance/GDP (%)
+Indonesia
+.
+.
+.
+-.
+-.
+South Korea
+.
+.
+-.
+-.
+-.
+Malaysia
+-.
+.
+.
+-.
+-.
+Thailand
+.
+.
+-.
+-.
+-.
+Unemployment Rate (%)
+Indonesia
+..
+.
+.
+.
+.
+South Korea
+.
+.
+.
+.
+.
+Malaysia
+.
+.
+.
+.
+.
+Thailand
+.
+.
+.
+.
+.
+Sources: ADB (); Radelet and Sachs (: Table ); Bank of Thailand, Bank Indonesia, Bank of Korea, and Bank Negara Malaysia data.
+.. Not available.
+First, the savings-investment gap had historically been financed by heavy reliance on foreign direct investment (FDI), as well as by public sector foreign borrowing, with the latter declining rapidly from the mid-s. Both FDI and foreign debt, in turn, caused investment income outflows abroad. In the s, the current account deficit was increasingly being financed by short-term capital inflows, as in  and -, with disastrous consequences later when such flows reversed.
+ Of course, the availability of cheap foreign funds, for example, because of a low real interest rates, can help to temporarily close both domestic savings-investments and foreign exchange gaps, especially if well invested or deployed.
+ Financial analysts had become fixated with the current account deficit, especially since the Mexican meltdown of early . In earlier times, some economies sustained similar deficits for much longer without comparable consequences. In the immediate aftermath of the Mexican crisis, several Southeast Asian economies already had comparable current account deficits, despite, or rather because of, rapid economic growth.
+Obstacles to Implementing Lessons from the East Asian Crises 
+Many subsequent confidence restoration measures have sought to induce such short-term inflows once again, but they cannot be relied upon to address the underlying problem in the medium to long term. Although always in the minority, foreign portfolio investments increasingly influenced stock markets in the region in the s. With incomplete information exacerbated by limited transparency, the presence of foreign portfolio investment, the biased nature of fund managers incentives and remuneration, and the shorttermism of fund managers investment horizons, foreign financial institutions were much more prone to herd behaviour than they might otherwise have been, and thus contributed decisively to regional contagion. Second, private sector debt exploded in the s, especially from abroad, not least because of the efforts of debt-pushers keen to secure higher returns from the fast-growing region. Commercial banks foreign liabilities also increased quickly, as the ratio of loans to gross national product rose rapidly during the period.
+Over-investment of investible funds, especially from abroad, in non-tradables only made things worse, especially in relation to the current account. Only a small proportion of commercial banks and other lending agencies were involved with manufacturing and other productive activities. This share is likely to have been even smaller with foreign borrowing, most of which was collateralized with such assets as real property and stock. Thus, much of the inflow of foreign savings actually contributed to asset price inflation, mainly involving real estate and share prices. Insofar as such investments did not increase the production of tradables, they actually exacerbated the current account deficit rather than alleviated it as they were thought to be doing.
+This, in turn, worsened the problem of currency mismatch, with borrowing in U.S. dollars invested in activities that did not generate foreign exchange. As a high proportion of this foreign borrowing was short-term in nature and deployed to finance mediumto long-term projects, a term mismatch problem also arose. According to the Bank for International Settlements (BIS) (Asian Wall Street Journal, January , ), well over half of the foreign borrowing by commercial banks was short-term in nature:  per cent in Malaysia,  per cent in Indonesia,  per cent in Thailand, and  per cent in Korea. More generally, the foreign exchange risks of investment generally rose, increasing the vulnerability of these economies to the maintenance of currency pegs to the U.S. dollar.
+The pegs encouraged a great deal of un-hedged borrowing by an influential constituency with a strong stake in defending the pegs regardless of their adverse consequences for the economy. Because of the foreign domination of export-oriented industries in Southeast Asia, unlike in Northeast Asia, no politically influential industrial community that was oriented toward national exports was available to lobby for floating or depreciating the Southeast Asian currencies, despite the obvious adverse consequences of the pegs for international cost competitiveness.
+Instead, after pegging their currencies to the U.S. dollar from the early s, and especially from the mid-s, most Southeast Asian central_banks resisted downward adjustments to their exchange rates, which would have reduced, if not averted, some of the more disruptive consequences of the currency collapses. Yet, economists now generally agree that the East Asian crises saw tremendous
+ In some countries, government-owned, non-financial, public enterprises were very much part of the growth of supposedly private sector debt.
+ There is also no evidence that the stock market boom of the mid-s raised funds for productive investment more effectively. Indeed, the converse was true, with financial dis-intermediation from commercial banks to the stock market.
+ Even though the U.S. economy was strengthening, the Southeast Asian economies were growing even faster.
+ In the mid-s, as the U.S. dollar strengthened along with the U.S. economy, both Germany and Japan allowed their currencies to depreciate against the U.S. dollar, with relatively little disruption, in an effort to regain international competitiveness.
+  
+overshooting in exchange rate adjustments well in excess of expected corrections. The economic literature before the crises tended to characterize the affected South-east Asian economies in terms of the following key fundamentals: Viability of domestic financial systems; Responsiveness of domestic output and exports to nominal devaluations; Sustainability of current account deficits; Prevalence of high savings rates and robust public finances.
+Financial Liberalization and the East Asian Crises
+Montes () attributed the Southeast Asian currency crises to the twin liberalizations of domestic financial systems and opening of the capital account. Financial liberalization induced new behaviour in financial systems, notably:
+ Domestic financial institutions had greater flexibility in offering interest rates to secure funds domestically and in bidding for foreign funds.
+ Domestic financial institutions became less reliant on lending to the government.
+ Regulations, such as credit allocation rules and ceilings, were reduced.
+ Greater domestic competition meant that ascendance depended on expanding lending portfo-
+lios, often at the expense of prudence.
+Kaminsky and Reinharts () study of  balance of payments crises and  banking crises during finds that only three banking crises were associated with the  balance of payments crises during -. However, during -,  banking crises coincided with  balance of payments crises, which the authors attribute to the financial liberalization of the s, with a private lending boom culminating in a banking crisis and then a currency crisis. In their review of  countries during -, Carleton, Rosario, and Woo () find that inflationary macroeconomic policies and small foreign reserves stocks reliably predicted currency collapses. They argue that financial contagion is a better explanation than weak domestic fundamentals, as the probability of Indonesia, Malaysia, Korea, and Thailand experiencing currency collapse in  was about  per cent, but all four currencies (and economies) collapsed rather than just one, as expected.
+One of the most cited crisis explanations (Montes ) suggests that they stemmed from the banking sector because of imprudent expansion and diversification of domestic financial markets, fuelled by short term private borrowing. While this may have been true of Thailand, it was certainly less true for Indonesia, Malaysia, the Philippines, and Korea (in order of decreasing relevance). Instead, the significance of contagion cannot be exaggerated, as the differences raise questions about how sensitive the currency knockdowns (and the associated divestment from these economies) are to economic fundamentals (Montes , p. ).
+ Sentiments can influence fundamentals and the health of financial systems either favourably or unfavourably (Montes ). In particular, the collapse of the Southeast Asian currencies because of sentiments adversely affected the viability of investments made at different exchange rates, which in turn exacerbated the domestic banking crises.
+ Montes () argues that the more rural-based Southeast Asian economies were better able to carry out real devaluations from nominal changes in currency value, because their export sectors were not too tied down by supplyside inflexibilities to respond to real devaluations. After asserting that stock markets served to share risks among asset owners rather than to raise financing, he notes that, except for financial system weaknesses, Southeast Asian real sectors were relatively immune from the asset market frenzy.
+ Equity and portfolio investments had overtaken direct investment, loans, and trade credit in providing external financing by the s. Montes (, p. ) cites Reisens warning that offers of foreign financing should be resisted if they would cause unsustainable currency appreciation, excessive risk-taking in the banking system, and a sharp drop in private savings. Hence, in a sentiment-driven market, currencies become too strong with the prospect of strong external financing and too weak when capital withdraws or threatens to.
+Obstacles to Implementing Lessons from the East Asian Crises 
+Even though East Asias financial systems were quite varied and were hardly clones of the Japanese main bank system (as often wrongly alleged), they had nevertheless become prone to similar asset price bubbles, albeit for somewhat different reasons. Arguably, the more bank-based systems of Indonesia, Korea and Thailand had a stronger nexus of this kind compared with, say, Malaysias much more market-oriented financial system. Rapid growth, based on export-oriented industrialization from the late s, gave rise to accelerated financial expansion, which contributed to asset price bubbles, including property booms, both in more market-oriented or Anglo-American Malaysia, as well as in the other more bank-oriented economies badly hit by the crises.
+Little was achieved by insisting that the crises should not have happened because East Asias economic fundamentals were fine, even if that were true. In some instances, such official denials exacerbated the problem, because the authorities did not seem to be responding to ostensible problems in ways deemed appropriate by market opinion makers. Unfortunately, as east_asia has painfully learnt, financial markets are driven by sentiments as much as by fundamentals. Hence, even though much more serious current account deficits in , for instance, did not result in crises, this does not mean that an economy can maintain such deficits indefinitely without being vulnerable to speculative attack or loss of confidence. Governments cannot, for example, liberalize the capital account and then complain when short-term portfolio investors suddenly withdraw following their whims and fancies. Capital controls can make rapidly withdrawing capital from an economy difficult, costly, or both. Many governments treat FDI quite differently from portfolio investments.
+Some authorities try to distinguish between speculative investments by hedge funds that are clearly short-termist from, say, pension funds with more medium-term orientations. In the early and mid-s, some Southeast Asian economies had become excessively reliant on short-term capital inflows to finance their current account deficits. This problem was exacerbated by excessive imports to manufacture more items that could not be exported, such as buildings, infrastructure, and heavily protected import substitutes. Ostensibly prudent financial institutions often preferred to lend for real property and stock purchases, and thereby secure assets with rising values as collateral, rather than to provide credit for more productive uses. While foreign banks were more than happy to lend U.S. dollars at higher interest rates than were available in their home economies, East Asian businesses were keen to borrow at lower interest rates than were available domestically.
+The sustained dollar pegs of the Southeast Asian currencies may have induced some moral hazard by discouraging borrowers from hedging their loans, but little systematic evidence of the extent of this problem is available. In any case, the existence of well-developed swap markets allowed Southeast Asian companies to tap into foreign capital markets, at low cost, by swapping away the currency risk. Hence, many such loans remained un-hedged as Southeast Asian currencies had been pegged to the U.S. dollar since the s, despite the official fictions of exchange rates moving with the baskets of the currencies of countries major foreign trading partners. The growth in foreign banking in the region in the s led to lending competition reminiscent of the loans to developing country governments in the late s (which led to the debt crises of the s). However, the new belief in international policy-making circles before the crises was that such accumulation of private sector debt did not matter as long as public sector debt was reined in.
+ Woo () argues that occasional excessive price movements in financial markets should not be too readily attributed to the rational anticipation of changes in government policies that were not eventually realized, the main argument usually invoked to reject claims of speculative bubbles.
+  
+Meanwhile, portfolio investors moved into newly emerging stock markets in east_asia with encouragement from the International Finance Corporation, an arm of the world_bank. In Malaysia, for example, net inflows soared in -, only to withdraw even more suddenly from later , leaving most retail stockholders in the lurch. The government introduced some capital control measures, only to abrogate them later in . Unfortunately, policy-makers did not learn the lessons from that experience, as the new, unsustainable stock market build-up from  sent stock prices soaring once again despite declining price earnings ratios.
+Clearly, investor panic was the principal cause of the Asian financial crises (McKibbin ; Montes ). The tightening of macroeconomic policies in response to the panic served to exacerbate, rather than to check, the crises. Economic disaster are not necessarily punishment for economic sins, and while cronyism is wrong, it was not the cause of the East Asian crises, and as the crises demonstrated, even sound macroeconomic fundamentals cannot guarantee immunity from contagion and crisis. With the currency collapses, the assets acquired by portfolio and other investors in the region depreciated correspondingly in value from their perspectives, precipitating an even greater sell-off and panic, causing herd behaviour and contagion to spread across national borders to the rest of the region. Meanwhile, liberalizing the capital account essentially guaranteed residents and non-residents ease of exit and placed fewer limitations on nationals holding foreign assets, thereby inadvertently facilitating capital flight. Thus, financial liberalization allowed lucrative opportunities for taking advantage of falling currencies, accelerating and exacerbating the volatility of regional currency and share markets. All this, together with injudicious official responses, transformed the inevitable correction of overvalued currencies in the region into a collapse of the currencies and the stock markets aggravated by herd behaviour and contagion.
+Crises of a New Type
+Many economists were obliged to reconsider their earlier assessments of the causes of the Asian crises, most notably Krugman. In the immediate aftermath of its outbreak, some saw the crises as vindication of Krugmans earlier popularization of a critique of the East Asian miracle as primarily due to massive factor inputs subject to diminishing returns (Krugman ). In March , Krugman dissented from the viewassociated with Radelet and Sachs ()of the East Asian crises as being due to a good old-fashioned financial panic . . . a panic need not be a punishment for your sins . . . an economy can be fundamentally sound . . . and yet be subjected to a devastating run started by nothing more than a self-fulfilling rumor. Instead Krugman (c) argued that:
+[T]he preconditions for that panic were created by bad policies in the years running up to the crisis. The crisis, in short, was a punishment for Asian crimes, even if the punishment was disproportionate to the crime . . . The specific spirit that pushed Asia to the brink was the problem of moral hazard in lending, mainly domestic lending.
+Krugman associated the crises with crony capitalism. Attributing the crises to cronyism turned on its head one of the main arguments about how intimate business-government relations in East Asian economies had helped to create the conditions for the regional miracle. However, by October , Krugman (a) had completely changed his view:
+When the Asian crisis struck . . . countries were told to raise interest rates, not cut them, in order to persuade some foreign investors to keep their money in place and
+Obstacles to Implementing Lessons from the East Asian Crises 
+thereby limit the exchange-rate plunge . . . In effect, countries were told to forget about macroeconomic policy; instead of trying to prevent or even alleviate the looming slumps in their economies, they were told to follow policies that would actually deepen those slumps . . . But, because crises can be self-fulfilling, sound economic policy is not sufficient to gain market confidence; one must cater to the perceptions, the prejudices, and the whims of the market. Or, rather, one must cater to what one hopes will be the perceptions of the market . . . The perceived need to play the confidence game supersedes the normal concerns of economic policy.
+Later, Krugman () added:
+The scope of global contagion the rapid spread of the crisis to countries with no real economic links to the original victim convinced me that IMF critics such as Jeffrey Sachs were right in insisting that this was less a matter of economic fundamentals than it was a case of self-fulfilling prophecy, of market panic that, by causing a collapse of the real economy, ends up validating itself.
+Clearly, no one fully anticipated the crises in east_asia, mainly because they were crises of a new type. Some observers argued that the crises had important parallels with the Mexican tequila crisis of , while others emphasized the differences (Kregel ). There were, of course, sceptics who regarded the claims of an East Asian economic miracle as somewhat exaggerated in the first place (for example, Krugman ). However, these were different criticisms of the East Asian miracle and certainly did not anticipate, let alone predict, the East Asian debacle of -. The East Asian crises differed from conventional currency crisis scenarios in at least several important ways (Krugman a), namely:
+ The absence of the usual sources of currency stress, whether fiscal deficits or macroeconomic indiscipline;
+ The governments lack of any incentive to abandon their pegged exchange rates, for instance, to reduce unemployment;
+ The pronounced boom and bust cycles in asset prices (real estate and stock markets) preceded the currency crises, especially in Thailand, where the crises began;
+ The fact that financial intermediaries were key players in all the economies involved;
+ The severity of the crises in the absence of strong, adverse shocks;
+ The rapid spread of the initial crisis from Thailand even to economies with few links or similarities to the first victims.
+ Krugmans (c) attempt at theoretical catching-up is particularly worthy of consideration in light of his own previous attempts to understand related international economic phenomena as well as East Asian economic growth. As the crises were still unfolding, such an attempt was hardly definitive, especially without the benefit of hindsight. Yet, as policy was very much being made on the hoof, his attempt to highlight certain relationships were illuminating. Hence, Krugman (c) argues that:
+It is necessary to adopt an approach quite different from that of traditional currency crisis theory. Of course Asian economies did experience currency crises, and the usual channels of speculation were operative here as always. However, the currency crises were only part of a broader financial crisis, which had very little to do with currencies or even monetary issues per se. Nor did the crisis have much to do with traditional fiscal issues. Instead, to make sense of what went wrong, we need to focus on two issues normally neglected in currency crisis analysis. These are the role of financial intermediaries (and of the moral hazard associated with such intermediaries when they are poorly regulated), and the prices of real assets such as capital and land.
+ None of the fundamentals usually emphasized seemed to have been important in the affected economies: all the governments had fiscal surpluses and none were involved in excessive monetary expansion, while inflation rates were generally low.
+  
+Thus, the traditional indexes of vulnerability did not signal crises, because the source of the problem was not to be found in government fiscal balances, or even in national income accounts. The liabilities of the mainly private financial intermediaries were not part of the governments liabilities until after the crises, after foreign lenders and the international financial institutions persuaded them to nationalize much of the private foreign debt. Other issues also need to be taken into account for an adequate analysis of the East Asian crises, namely:
+ The crises had severe adverse effects on growth by disrupting the productive contribution of financial intermediation.
+ The crises involved not only excessive investment, but also unwise investment.
+ The huge real currency depreciations caused large output declines and seemed to do little to promote exports.
+Other kinds of market failure also need to be taken into account. Furman and Stiglitz () emphasize that economic downturns caused by financial crises are far more severe and have longer-lasting effects than those caused by inventory cycles. High leveraging by companies and high lending for asset price (stock or property market) booms enhance financial fragility and increased insolvencies disrupt the credit mechanism. Large unanticipated interest rates increases may not only precipitate financial crises, but are also likely to cause economic downturns as the value of bank assets and highly indebted firms collapse. Such adverse effects are likely to persist well after the interest rates has returned to more normal levels. In addition to asset price bubbles, excessive investments, and other problems caused by moral hazard, resulting from implicit government guarantees for weakly regulated financial intermediaries as well as the exchange rate peg, a more comprehensive analysis must also consider the following phenomena:
+ The implications of the growth in currency trading and speculation for the post-Bretton Woods international monetary system;
+ The reasons why the Southeast Asian monetary authorities defended their quasi pegs against the strengthening U.S. dollar, despite the obvious adverse consequences for export competitiveness, and hence, for growth;
+ The consequences of financial liberalization, including the creation of conditions that contributed to the magnitude of the crises;
+ The role of herd behaviour in exacerbating the crises;
+ The factors accounting for the contagion effects.
+Reversible Capital Inflows
+Analysts have increasingly acknowledged the role of easily reversible capital flows into the East Asian region as the principal cause of the crises. They now generally accept that the national financial systems in the region did not adapt well to international financial liberalization (Jomo , ). The bank-based financial systems of most of the East Asian economies affected by the crises were especially vulnerable to the sudden drop in the availability of short-term loans as international confidence in the region dropped suddenly during . Available foreign exchange reserves were exposed as inadequate to meet financial obligations abroad, requiring governments to seek temporary credit facilities to meet such obligations that had been incurred mainly by their private sectors. Data from the BIS show that the banks were responsible for much of this short-term debt, though some of it did consist of trade credit and other short-term debt deemed essential for ensuring liquidity in an economy.
+Obstacles to Implementing Lessons from the East Asian Crises 
+However, the rapid growth of short-term bank debt during stock market and property boom periods suggests that much short-term debt is due to factors other than trade credit expansion. In Malaysia, the temporary capital controls the central_banks introduced in early  momentarily dampened the growth of such debt, but by  and early , a new short-term borrowing frenzy was evident that involved not only the banks, but also other large, private companies with enough political influence to circumvent the central_banks guidelines. As Table  shows, in Indonesia, Malaysia, and Thailand, the non-bank private sector was the major recipient of international bank loans, accounting for more than half of total foreign borrowing by the end of June , that is, well above the developing country average of slightly under half. In contrast,  per cent of borrowing in Korea was by banks, with only  per cent by the non-bank private sector. Government borrowing was low, and was lowest in Korea and Malaysia, although the data do not permit differentiating between state-owned public companies and partially private, but corporatized previously fully state-owned enterprises.
+Table .
+Lending by Banks Reporting to the BIS by Sector, East Asian Four and Developing Countries, End June 
+Billions of US dollars
+Sector
+Indonesia
+South Korea
+Malaysia
+Thailand
+Developing countries
+Total borrowing of which:
+.
+.
+.
+.
+.
+Bank
+. (.)
+. (.)
+. (.)
+. (.)
+. (.)
+Private non-bank
+. (.)
+. (.)
+. (.)
+. (.)
+. (.)
+Government
+. (.)
+. (.)
+. (.)
+. (.)
+. (.)
+Note: Figures in parentheses are percentages.
+Jomo (b, appendix tables a-d; Wong, Jomo and Chin ) shows the remarkable growth of mainly private foreign debt in the early and mid-s, especially in the three most externally indebted economies of Indonesia, Korea, and Thailand. While FDI grew in all four economies in the s, it grew least in Korea. Profit remittances on FDI were lowest from Korea and Thailand and highest from Malaysia, reflecting its historically greater role, although FDI in Indonesia was actually higher in -. Portfolio equity flows into all four economies grew strongly in the mid-s. External debt as a share of export earnings rose from  per cent in  to  per cent in  in Thailand and from  to  per cent over the same period in Korea, but declined in Indonesia and grew more modestly in Malaysia. By , foreign exchange reserves as a share of external debt were  per cent in Indonesia,  per cent in Korea,  per cent in Thailand, and  per cent in Malaysia. By , this ratio had dropped further to  per cent in Korea,  per cent in Thailand, and  per cent in Malaysia, reflecting the reserves lost in futile currency defence efforts.
+Despite recessions in , reserves picked up in all four economies, mainly because of the effects of currency devaluations on exports and imports. The short-term debt share of total external debt in  stood at  per cent in Korea,  per cent in Thailand,  per cent in Malaysia, and  per cent in Indonesia. Table  shows that French, German, Japanese, U.K., and U.S. banks that reported to the BIS accounted for much of the lending to developing countries, with the share of U.K. and U.S. banks being far less significant
+  
+Table .
+Exposure of Banks Reporting to BIS and Non-BIS Borrowers, End-June 
+than lending to other emerging markets. This pattern was quite different from that of lending before the s debt crises, and suggests that Anglo-American banks were generally far more reluctant to lend in the s following their experiences in the s. Little evidence suggests that such banks were more averse to lending either to governments or to developing economies. Indeed, the pattern of lending in the late s and early s suggests the contrary.
+From the beginning of the s, Malaysia sustained a current account deficit. Overinvestment of investible funds in non-tradables only made things worse. Insofar as such investments did not contribute to export
+Billions of US dollars
+Banks national location
+Amount
+Total
+,.
+Germany
+.
+Japan
+.
+united_states
+.
+France
+.
+united_kingdom
+.
+Percentage of private non-bank borrowers earnings, for example, in power generation and telecommunications, they aggravated the problem of currency mismatch, with foreign borrowing invested in activities that did not generate foreign exchange. An additional problem of term mismatch also arose, as a high proportion of the foreign borrowing was short-term in nature (Table ), but was deployed to finance mediumto long-term projects.
+Table .
+Maturity Distribution of Lending by Banks Reporting to the BIS to the East Asian Four, -
+Foreign capital inflows into east_asia augmented the high domestic savings rate to boost the domestic investment rate and East Asian investments abroad in the s. Thus, even though some evidence suggests that foreign capital inflows may have had an indirect adverse effect on the domestic savings rate, they generally supplemented, rather than substituted for, domestic savings (Wong with Jomo ). Being conclusive on this point is difficult, because the nature of foreign capital inflows has changed significantly over time. Hence, even if earlier foreign capital inflows may have adversely affected domestic savings, one possibility is that the changed composition of foreign capital inflows just before the crises no longer adversely affected domestic savings.
+International financial liberalization undoubtedly succeeded in temporarily generating massive net capital inflows into east_asia, unlike many other developing and transition economies, which experienced net outflows. However, it also exacerbated systemic instability and reduced the scope for the government interventions responsible for the regions economic miracle. Increased foreign capital inflows reduced foreign exchange constraints, allowing the financing of additional imports, but thereby also inadvertently encouraging current account deficits. Finally, foreign capital inflows adversely affected factor payment outflows, export and import propensities, terms of trade, and capital flight, and thus, the balance of payments.
+Millions of US dollars
+All loans
+Under  year
+ years
+Country
+June 
+Dec 
+June 
+June 
+Dec 
+June 
+June 
+Dec 
+June 
+Indonesia
+,
+,
+,
+,
+,
+,
+,
+,
+,
+South Korea
+,
+,
+,
+,
+,
+,
+,
+,
+,
+Malaysia
+,
+,
+,
+,
+,
+,
+Thailand
+,
+,
+,
+,
+,
+,
+,
+,
+,
+Obstacles to Implementing Lessons from the East Asian Crises 
+These consequences suggest that governments should be cautious when determining the extent to which they should encourage foreign capital inflows. Furthermore, the Southeast Asian trios heavy dependence on FDI in relation to gross domestic capital formation, especially for manufacturing investments, probably also limited the development of domestic entrepreneurship, as well as many other indigenous economic capabilities, by the increased reliance on foreign capabilities usually associated with some types of FDI (Jomo with others ).
+As noted earlier, starting in the mid-s, three major indicators began to cause concern. The current account of the balance of payments and the savings-investment gap were recording large imbalances in the Southeast Asian economies, especially Malaysia and Thailand. However, as Table  shows, the short-term foreign debt and current account deficits as proportions of international reserves were better in Malaysia than in Indonesia, Korea, and Thailand, thereby averting the need for IMF emergency credit. Domestic credit expansion had also soared in all four countries by the mid-s. Prior to the crises, since the mid-s, east_asia had moved steadily toward financial liberalization, including bank liberalization, promotion of the regions newly emerging stock markets, and greater capital account convertibility. Thus, east_asia succeeded in attracting a great deal of capital inflows.
+Whereas the other three crisis-affected East Asian economies succeeded in attracting considerable, mainly short-term, U.S. dollar bank loans into their more bank-based financed systems, Malaysias vulnerability was mainly due to the volatility of international portfolio capital flows into its stock market. As a consequence, the nature of Malaysias external liabilities at the beginning of the crisis was quite different from that of the other crisis-stricken East Asian economies. A greater proportion of Malaysias external liabilities consisted of equity rather than debt. Compared with Malaysias exposure in the mid-s, many of the liabilities, including the debt, were private rather than public. In addition, much of Malaysias debt in the late s was long-term, rather than short-term in nature, again in contrast to the other crisis-affected economies.
+Monetary policy and banking supervision had generally been much more prudent in Malaysia than in the other victims of the crises; for example, Malaysian banks had not been allowed to borrow heavily from abroad to lend on the domestic market. Such practices involved currency and term mismatches, which increased the vulnerability of countries financial systems to foreign bankers confidence and exerted pressure on the exchange rate pegs. These differences have lent support to the claim that Malaysia was an innocent bystander that fell victim to regional contagion by being in the wrong part of the world at the wrong time.
+Such a view takes a benign view of portfolio investment inflows and does not recognize that such inflows are even more easily reversible and volatile than bank loan inflows (Jomo a). Contrary to the in-
+Table .
+Debt Service and Short-Term Debt, East Asian Four, Selected Years
+Country
+Debt service as a percentage of exports
+Short-term debt (US$ billions)a
+Current account deficit plus short-term debt as a percentage of international reserves
+Indonesia
+.
+.
+.
+.
+.
+.
+.
+South Korea
+.
+.
+.
+.
+.
+.
+.
+Malaysia
+.
+.
+.
+.
+.
+.
+.
+Thailand
+.
+.
+.
+.
+.
+.
+.
+  
+nocent bystander hypothesis, Malaysias experience actually suggests greater vulnerability because of its greater reliance on the capital market. As a consequence, the Malaysian economy became hostage to international portfolio investors confidence. Hence, when government leaders engaged in rhetoric and policy initiatives that upset such investors confidence, Malaysia paid a heavy price when portfolio divestment accelerated.
+International Financial Liberalization
+An explosion of international financial flows followed the substitution of the Bretton Woods system of fixed exchange rates with the prevailing system of flexible exchange rates. Analysts have ascribed strong speculative motives to most of the international capital flows not associated with FDI. Much recent FDI, especially into east_asia in the wake of the crises, has been for mergers and acquisitions rather than to add new economic capacity through green-field investments. The demise of fixed exchange rate regimes also encouraged capital account liberalization. Recent financial developments have resulted in a proliferation of financial instruments, enabling investors to diversify their holdings of financial assets.
+These trends gathered steam with international financial liberalization in the wake of the international debt crises of the s and picked up further momentum in the s. By , the volume of foreign exchange spot transactions had grown to well over a trillion U.S. dollars per day, or more than  times the total value of the international trade in goods by , or more than  times the value of all international trade (including services). Estimates put the daily foreign exchange market in  at US$, billion. In a world economy where foreign exchange spot transactions are now worth more than  times the total value of international commodity trade transactions, the financial sector has become increasingly divorced from the real economy.
+Viewed from a historical perspective, such currency trading is hardly natural, inevitable, or even desirable. For most of human history, it has not been integral to global trade in goods and services, as then U.S. Treasury Secretary Robert Rubin () claimed. Indeed, critics have offered various alternatives to the current system. With the recent proliferation of new financial instruments and markets, the financial sector has an even greater capacity to inflict damage on the real economy. Ever since Keynes () advocated throwing sand into the financial system to halt the potentially disastrous consequences of unfettered liberalization, Keynesians and others have been wary of the financial liberalization advocated by ideological neo-liberals and their often naive allies. Furthermore, many of the promised benefits of international financial liberalization have not been realized (Eatwell ), namely:
+ Liberalization was expected to move financial resources from capital-rich to capital-poor countries. Instead, such net flows of financeand of real resourcesover time have been modest and have tended to go to the capital-rich economies. Of course, most net flows to
+ Recent findings suggest that national savings tend to equal national investment, indicating that flows of capital to the best possible use are far from universal and much smaller than simple theories predict. Lack of information or other risks and uncertainties tend to reduce cross-border capital flows.
+ Eatwell () suggests a negative correlation between dependence on foreign savings and economic performance. This is true if foreign savings are not broken down into their components. The numbers are strongly biased by the inclusion of short-term money market flows, which may include efforts by governments to prop up their currencies with high interest rates, which temporarily suck in money from overseas. Brazil, Mexico, and especially Venezuela typified this a few years ago. If only long-term direct (or equity) investment was considered, many poorly performing latin_american economies would not be considered to be heavily dependent on foreign savings any more. Southeast Asian countries, especially Malaysia and Singapore, would then rank high in both foreign savings (measured appropriately) and economic performance.
+Obstacles to Implementing Lessons from the East Asian Crises 
+the capital-poor states were mainly to the most attractive emerging markets, especially in east_asia before . The rush to convertibility and capital control deregulation in most transition economies has resulted in many of them becoming significant net capital exporters, for example, the russian_federation. Such flows arguably contributed to asset price bubbles and, eventually, to financial panic, and thus to currency and stock market collapses.
+ Liberalization was expected to enhance options and returns for savers and to lower the cost of funds to borrowers; however, savers have benefited most from higher real interest rates. It has been claimed that the lower cost of funds in the late s was attributable to the exceptional circumstances caused by financial repression, enhanced liquidity brought about by the availability of petroleum revenues, and high inflation.
+ New financial derivatives, which were expected to improve risk management and have undoubtedly reduced some of the older sources of volatility and instability, also generated new systemic risks especially vulnerable to sudden changes in sentiment.
+ Improved macroeconomic performance resulting in greater investment and growth that was expected from better allocative efficiency has not been realized. Instead, overall macroeconomic performance has been worse than during the post-war golden age before financial liberalization.
+ Financial liberalization has introduced a persistent deflationary bias in economic policy as governments try to gain credibility in financial markets to avert destabilizing capital outflows, instead of exerting the healthy discipline on governments that was expected to improve macroeconomic stability.
+More generally, financial liberalization has further constrained the role of the state, and governments face reduced options in both monetary and fiscal policies. In addition to such macroeconomic policy limitations, the room for discretionary state interventions has been much reduced, for example, in the form of selective industrial promotion, which was so crucial to late industrialization. Thus, financial liberalization has greatly weakened governments capacity in relation to development. Given the desirability of preserving the limited, but still significant, scope for monetary independence, liberalization should not be allowed to frustrate the sound development of a countrys financial system and its effective deployment for development purposes. The scope for monetary independence depends partly on the soundness of macroeconomic management, as well as on political will.
+Financial markets seem to function in such a way as to impose their own expectations on the real economy, thereby defining their own fundamentals and logic, and in turn become self-fulfilling prophecies. In other words, financial markets do not simply process information in order to allocate resources efficiently. The threat of instability in the now massive capital market forces both governments and private investors to pursue risk-averse strategies, resulting in low growth and employment creation. A deflationary bias in government policy and the private sector emerges in response to the costly risks of violating the rules of the game. This is exacerbated by the high costs of debt caused by high real interest rates that result from efforts to maintain financial stability in a potentially volatile world.
+Thus, long-term price stability supersedes a high and stable level of employment as the macro-economic policy priority. A successfully liberalized financial system that gives high priority to flexibility or the possibility of easy exit necessarily tends to become fragile, as reflected in:
+ Of course, capital flight is not an inevitable consequence of financial liberalization, but may reflect locals fears and hedging behaviour.
+  
+ Liquidity crises that reduce real output;
+ Private sector risk aversion that encourages short-termism;
+ Public sector risk aversion that results in a deflationary policy bias;
+ Persistent pressure for ever greater flexibility that increases the ease of exit.
+The benefits of reduced financial controls to emerging markets must be weighed against the increased instability resulting from enhanced ease and speed of exit.
+While increased (real) FDI flows generally require countries to agree to unrestricted repatriation of profits, this is quite different from the instant exit conditions financial markets demand. Considerable evidence indicates that in the longer term, economic development has been associated with developmental states effectively promoting selected new economic activities by the use of industrial or selective investment policy. The post-war golden agewhich saw high levels of output and employment and short-run efficiencywas based on the premise of active macroeconomic management under the Bretton Woods system. Postwar European reconstruction was achieved with tight capital controls. Similarly, Japan, Korea, and Taiwan (Province of China) all began their industrialization and achieved rapid capital accumulation with the aid of capital controls.
+The adverse consequences for economic development of financial disintermediation and of grossly undervalued currencies also deserve attention, particularly as the crises threatened the future of growth and structural change in the region, not only directly, but also as a consequence of policy responses. The typically deflationary policies the international financial community and others favour may well throw out the baby of economic development with the bathwater of financial crisis. Some dangers associated with financial liberalization have now become evident, but most have not been sufficiently recognized, let alone debated and addressed. Most initiatives in this regard cannot be undertaken unilaterally without great cost, as market reactions to Malaysian Prime Minister Mahathirs critical remarks in the second half of  showed (see Jomo b).
+The few options available for unilateral initiatives need to be carefully considered and only implemented if deemed desirable. Selectively invoking instances of bad or incompetent policy-making or implementation does not justify leaving matters to liberalized markets that render systematic policy-making impossible. Instead, the experience of financial crisis emphasizes the importance of creating an environment and developing the capability such that good and competent policy is effective. Many policies need to be actively pursued through multilateral initiatives, for which governments need the support of neighbouring countries and others. Given the power of the dominant ideology that infuses the prevailing international system, asserting control over the financial system is virtually impossible without a fundamental change in priorities and thinking by the governments of the major economic powers. The currencies of a small number of countries Germany, Japan, the united_kingdom, and the United Stateswere involved in more than three-quarters of currency transactions in ; thus, such countries have the capacity and capability to monitor and control trans-border capital flows by acting in concert, especially with further concentration with the emergence of the Euro Zone.
+The Role of the IMF
+Critical consideration of the causes and consequences of the East Asian crises requires paying close and careful attention to the nature and implications of IMF rescue programs and conditionalities, as well as policies favoured by international, as distinct from domestic, financial communities. IMF prescriptions and conven-
+Obstacles to Implementing Lessons from the East Asian Crises 
+tional policy-making wisdom urged bank closures, government spending cuts, and higher interest rates in the wake of the crises. Such contractionary measures transformed what had started as currency crises, and then become full-blown financial crises, into crises of the real economy. Thus, Indonesia, Korea, and Malaysia, which had previously enjoyed massive capital inflows in the form of short-term bank loans or portfolio investments, went into recession during , following Thailand, which went into recession in .
+Not only did the IMF underestimate the severity of the collapse in all the East Asian economies,
+it also underestimated the speed and strength of recovery (IMF , ; Lane and others ). This suggests that the IMF not only did not understand the causes of the crises, but was also incapable of designing optimal policies in response to it. Critics still doubt whether the IMF recognized the novel elements of the crises and their implications, especially at the outset. The IMFs apparent failure to anticipate the crises in its generally glowing reports on the region prior to the crises and its role in exacerbating the downturns in Indonesia, Korea, and Thailand certainly did not inspire much confidence. In addition, even though the Philippines had long been involved in IMF programs and supervision, it was not spared the contagion.
+International scepticism about the IMFs role in and prescriptions for the East Asian crises is considerable. Most economists now agree that the early IMF programs for Indonesia, Korea, and Thailand were ill-conceived, although they do not seem able to agree on why the IMF made such mistakes. Perhaps partly out of force of habit from dealing with situations in Africa, Eastern Europe, latin_america, and elsewhere where fiscal deficits had been part of the problem, the IMF insisted on the same prescription of deflationary policies in its early policy responses to the East Asian crises.
+Thus, many of its programs were effectively contractionary, though this was sometimes disguised by poorly conceived measures to provide social safety nets for the poor. Hence, what started off as currency and financial crises ledpartly because of policy responses recommended or imposed by the IMFto economic recessions in much of the region in . The accounts vary with the different countries involved (Jomo , ; Cambridge Journal of Economics November ; see Jomo a, chapter ; Wong, Jomo and Chin  for accounts of the Malaysian experience).
+The early IMF policy prescription to raise domestic interest rates not only failed to stem capital flight, but instead exacerbated the impact of the crises, causing financial pain through currency depreciation, stock market collapses, and rising interest rates. Even if higher interest rates had succeeded in stemming capital flight, it can only be halted temporarily, and even then at great and permanent costs to productive investments in the real economy. When inflows are eventually reversed in the precipitous manner east_asia experienced from the second half of , a large amount of collateral damage is inevitable.
+Furman and Stiglitz () provide a critical review of the literature and argue against raising interest rates to protect the exchange rate. In particular, where leveraging is high, as in east_asia, high interest rates will take a huge toll by weakening aggregate demand and increasing the likelihood and frequency of insolvencies. Unexpected interest rates hikes tend to weaken financial institutions, lower investment, and thereby reduce output. Furman and Stiglitz () offer the following three main reasons why keeping interest rates low while letting the exchange rate depreciate may be a preferable option in light of the trade-off involved:
+ Arguably, the Philippines currency did not take quite as hard a hit as those of the other crises-affected economies, in part because its banking and accounting standards were relatively better, but also because its short-term capital inflows before the crises were relatively low.
+  
+ To avoid crisis, policy-makers should be more concerned about interest rates increases than about exchange rate declines (Demirguc-Kunt and Detragiache ; Furman and Stiglitz ).
+ Any government intervention to stabilize the exchange rate is likely to encourage economic agents to take positions they would otherwise not take, later compelling the government to support the exchange rate to avoid the now larger adverse effects. This point is based on a moral hazard argument.
+ When a government defends its currency, it is often making a one-way bet, where the expected loss is speculators expected gain. In contrast, if the government does not wager any reserves, the gains of some speculators are simply the losses of others. Thus invoking an equity argument, they ask why borrowers, workers, firms, and others adversely affected by higher interest rates should be compelled to pay for speculators profits.
+Despite their sound fiscal balances before the crises, the IMF also asked the East Asian economies to cut government spending to restore confidence in their currencies, despite the ominous implications for economic recovery. Even though all the affected East Asian economies had been running fiscal surpluses in the years preceding the crises (except Indonesia, which had a small deficit in ), the IMF expected the governments to slash public expenditure. With the possible exception of Indonesia, which could not raise the financing required, the other crises-affected economies eventually ignored this advice and began to undertake Keynesian-style reflationary, countercyclical measures starting in the second half of , which have been primarily responsible for their economic recovery. Incredibly, the IMF did not seem to be cognizant of the subjective elements that had contributed to the crises and seemed to approach the situation as if it was solely due to weaknesses in the countries macroeconomic or financial systems.
+Examining the changing risk premiums on Eurobonds issued by east_asia, Woo () finds evidence of irrational exuberance, implying that the potential for investor panic also existed. Moreover, even though the risk premiums on Thai Eurobonds increased by  basis points following the July  devaluation, they jumped by four times as much with the acceptance of the IMF program for Thailand in August . This suggests that the latters deflationary macroeconomic policies and abrupt closure of financial institutions had undermined, rather than restored, investor confidence. Insolvent financial institutions should have been restructured so as to avoid the possibility of triggering bank runs and consequent social instability.
+By insisting on closing down banks and other financial institutions in Indonesia, Korea, and Thailand, the IMF undermined much of the remaining confidence, inducing further panic in the process. Nasution () points out that the IMFs way of taking insolvent banks out of Indonesias financial system in late  exacerbated the countrys economic crisis. He argues that the Indonesian government should have temporarily taken over the insolvent banks rather than closing them down suddenly to sustain credit to solvent borrowers and to retain depositors confidence.
+Also, even though the IMF insisted on greater transparency by the crises-affected governments and those under their jurisdiction, it continued to operate under considerable secrecy. Such double standards on the part of the IMF, reflected by the priority it gave to protecting the interests of foreign banks and governments, also compromised its ostensible role as an impartial agent working in the interests of affected economies.
+The burden of IMF programs invariably fell on countries domestic financial sectors and, eventually, on the public at large, which has borne most of the costs of adjustment and reform. The social costs of the public policy responses have been considerable, usually involving bailouts of much of the financial sector and of the corporate sector more generally.
+Obstacles to Implementing Lessons from the East Asian Crises 
+Unhappiness in east_asia about how differently the IMF responded to the East Asian crises compared with the earlier Mexican one is widespread. People generally believe that the IMF was far more generous in helping Mexico because of the interest of the united_states in ensuring that the tequila crisis was not seen as an adverse consequence of Mexico joining the North American Free Trade Agreement. In contrast, East Asians saw the IMF as far less generous and more demanding with all three countries, which had long seen themselves as allies of the united_states and of the West in general.
+The IMF has invariably given priority to liabilities and other commitments to foreign banks, even though both foreign and domestic banks may have been equally irresponsible or imprudent in their lending practices. As the BIS noted: In spite of growing strains in Southeast Asia, overall bank lending to Asian developing countries showed no evidence of abating in the first half of  (Raghavan ). From mid to mid-, Korea received US$ billion in new loans while Indonesia received US$ billion from the banks. Short-term lending continued to dominate, with  per cent due within one year, while the share of lending to private non-bank borrowers rose to  per cent by the end of June .
+The banks were also actively acquiring non-traditional assets in the region, for instance, in higher yielding local money markets and other debt securities. Most of this lending was by Japanese and European banks. Thus, Japanese and Western banks have emerged from the crises relatively unscathed and stronger than the domestic financial sectors of the crises-affected economies, which have taken the brunt of the cost of adjustment. Some merchant banks and other financial institutions were also able to make lucrative commissions from marketing sovereign debt, as the short-term private borrowing that precipitated the crises is converted into longer-term, government-guaranteed bonds under the terms of IMF programs.
+Priorities for International Financial System Reform
+The experiences of the East Asian crises give rise to six major lessons for international financial reform. First, existing mechanisms and institutions for preventing financial crises are grossly inadequate. As recent experiences suggest, current trends in financial liberalization are likely to increase rather than decrease the likelihood, frequency, and severity of currency and financial crises. Too little was done by the national authorities and their foreign advisers to discourage short-term capital flows and too much emphasis has been placed on the expected protection provided by international adherence to codes and standards (Rodrik ).
+Financial liberalization has also reduced the macroeconomic instruments available to governments for crisis aversion, and has instead left governments with little choice but to react pro-cyclically, which tends to exacerbate economic downturns. Governments need to be assured of autonomy in their relation to national macroeconomic policy to enable them to intervene counter-cyclically to avoid crises, which have had much more devastating consequences in developing countries than elsewhere. Recognition of the exaggerated effects of currency movements at the international level should also lead to greater surveillance and coordination among the three major international currency issuers: Japan, the united_states, and Europe.
+Second, existing mechanisms and institutions for financial crisis management are also grossly inadequate. The greater likelihood, frequency, and severity of currency and financial crises in middle-income developing countries in recent timeswith devastating consequences for the real economy and for innocent bystanders in the neighbourhood, as in the East Asian crisesmakes speedy crisis resolution imperative.
+ Pistor () demonstrates that international legal standards are unlikely to have the desired outcomes because of the significance of historical original conditions and varied path dependence.
+  
+There is an urgent need to increase emergency financing during crises and to establish adequate new procedures for timely and orderly debt standstills and work-outs. International financial institutions, including regional institutions, should be able to provide adequate countercyclical financing, for instance, for social safety nets during crises (Ocampo ). Instead of current arrangements, which tend to benefit foreign creditors, new procedures and mechanisms are needed to ensure that they too share responsibility for the consequences of their lending practices.
+Third, the agenda for international financial reform needs to go beyond the recent preoccupa-
+tion with crisis prevention and resolution to address the declining availability and provision of development finance, especially to small and poor countries (Ocampo ) that have limited and expensive access to capital markets. The IMF, in particular, is facing growing pressure to return to its supposed core function of providing emergency credit and core competencies of crisis prevention and mitigation. Furthermore, the world_bank and other multilateral development banks have either abandoned or sharply reduced industrial financing, further limiting the likelihood that developing countries will be able to secure funding to develop new manufacturing capacities and capabilities. The united_nations Conference on Financing for Development, held in Mexico in March , clearly did not address this challenge adequately despite the promise of the Monterrey consensus after the modest proposals of the Zedillo group report commissioned by the united_nations Secretary-General.
+Fourth, inertia and vested interests stand in the way of urgently needed international institutional reforms. The international financial institutions need to reform their governance to ensure greater and more equitable participation and decision-makingand hence, ownershipby developing countries at all levels and in various tasks that the new international financial system must begin to address more adequately. There is also a need to reduce the concentration of power in and the power of some apex institutions, such as the IMF, by delegating authority to other agencies, for example, the proposed World Financial Organization or World Financial Authority, as well as by encouraging decentralization, devolution, complementarity, and competition with other international financial institutions, including regional ones. The Group of Seven must engage in more serious consultations with developing countries in relation to international economic issues to avoid insensitive and potentially disastrous oversights and further loss of policy legitimacy (Rodrik ).
+Fifth, the reforms should restore and ensure national economic authority and autonomy, which have been greatly undermined by international liberalization and regulation, and which have proved essential for more effective, especially expansionary and counter cyclical macroeconomic management and initiatives pertaining to equitable development such as ensuring the availability of development finance as well as more inclusive access to financial facilities. Policy conditionalities accompanying IMF financing must be
+ Consensus is growing on the need to set up standstill and other procedures for international debt workouts akin to U.S. bankruptcy provisions for corporations and municipal authorities, although IMF Deputy Managing Director Anne Kruegers () proposals have not been well received by those governments most likely to be affected by them because of their adverse selection consequences for such governments.
+ Social safety nets should not be seen as a substitute for social policy, which should be adequate to ensure a decent standard of living within a governments means in addition to enhancing human resources for development.
+ Then U.S. Treasury Secretary and former world_bank Vice President and Chief Economist Lawrence Summers is a prominent proponent of this view. See, for example, Summers ().
+ As Ocampo () puts it: The required financial architecture should in some cases have the nature of a network of institutions that provide the services required in a complementary fashion (in the areas of emergency financing, surveillance of macroeconomic policies, prudential regulation and supervision of domestic financial systems, etc.), and in others (particularly in development finance) should exhibit the characteristics of a system of competitive organizations.
+Obstacles to Implementing Lessons from the East Asian Crises 
+minimized, if not eliminated altogether. One size clearly does not fit all, and imposed policies have not contributed much to either economic recovery or growth (Weisbrot and others ), let alone sustainable_development. Such ownership will ensure greater legitimacy for public policies and must include regulation of the capital account and choice of exchange rate regime. Because international financial reforms in the foreseeable future are unlikely to adequately provide the global public goods and other international financial services most developing countries need, it is imperative that reforms of the international system assure national policy independence so that governments are better able to address regulatory and interventionist functions beyond a global and regional purview.
+Finally, appreciation is growing of the desirability of regional monetary cooperation in the face of growing capital mobility and the increasing frequency of currency and related financial crises, often with devastating consequences for the real economy. Some observers argue, for instance, that growing European monetary integration in recent decades arose out of governments recognition of their declining sovereignty in the face of growing capital mobility, especially as their capital accounts were liberalized (Baines ). Instead of trying to assert greater national control with probably limited efficacy, cooperation among governments in a region is more likely to be effective in the face of the larger magnitude and velocity of capital flows. However, no single formula or trajectory for fostering such cooperation is available, and it probably cannot be promoted successfully independently of economic cooperation on other fronts.
+The existence of such regional arrangements also offers an intermediate alternative between national and global levels of action and intervention and reduces the possibly monopolistic powers of global authorities. To be successful and effective, such regional arrangements must be flexible, but credible, and must be capable of both effective countercyclical initiatives for crisis prevention and management. In east_asia, the Japanese proposal for an Asian monetary facility soon after the outbreak of the Asian crises could have made a major difference in checking and managing the crises, but Western opposition blocked the proposal. With the growing reluctance in the Westespecially the United Statesto allow the IMF to serve as a lender of last resort (as in the last Argentine crisis), it should at least be more tolerant of regional cooperative arrangements as alternatives.
+Conclusion
+The conventional wisdom was to blame the crisis on bad economic policies by the governments concerned. Citing the first and second generation currency crisis theories, the initial emphasis was on poor macroeconomic policies, especially fiscal policies. Ignoring the fact that most East Asian economies had been maintaining budgetary surpluses for some years at least, the IMF and others, including the influential international business media, recommended spending cuts and other pro-cyclical policies (e.g. monetary policies raising interest rates) which served to exacerbate the downturns. Such policies were adopted in much of the region in the second half of  or in early , precipitating sharp economic collapses.
+By the second quarter of , however, it was increasingly widely recognized that these policy recommendations and conditionalities had actually worsened, rather than ameliorated the deteriorating
+ They have been shown to be ill-informed, erroneous, and irrelevant to the problems at hand, and as noted, also exacerbated the East Asian crises.
+ Then IMF Senior Deputy Managing Director Stanley Fischer () admitted that willingly or otherwise, a growing number of countries have come to accept [the belief that intermediate regimes between hard pegs and free floating are unsustainable] . . . Proponents of the bipolar viewmyself includedhave perhaps exaggerated their argument for dramatic effect.
+  
+economic situation, transforming currency and financial crises into crises of the real economy. In early  however, as the macro economic explanations lost credibility, a new line of criticism focused on the political economy of the region, condemning cronyism in corporate governance as the source of the regional financial crises. US Federal Reserve Bank chair Alan Greenspan, US Treasury Deputy Secretary Lawrence Summers and IMF Managing Director Michel Camdessus formed a chorus criticizing Asian corporate governance in quick sequence over a month from late January.
+The failure of fiscal as well as corporate governance explanations of the Asian crises was not only evident to heterodox economists in the region and beyond, but was also recognized by relatively orthodox economists familiar with the actual situation in the affected economies. The World Banks senior vice president and chief economist Joseph Stiglitz as well as other prominent economists such as Jeffrey Sachs and Paul Krugman provided important international support for adopting counter cyclical policies.
+The heterodox view emphasized the transformation of the regions economies and financial sys-
+tems from the late s. As a consequence, the economies had become much more vulnerable and fragile. The rapid economic growth of the region and the liberalized financial institutions served to attract massive inflows of capital. Much of these inflows came from Japanese and continental European banks as UK and US banks continued to recover from the s debt crises, and generally exercised greater prudence in lending internationally. BIS regulations encouraged short-term lending, which was generally rolled over in good times, but which could be quickly reversed when conditions became less favourable, as happened when the crisis began.
+Significant inflows were also attracted by the stock market and other asset price bubbles in the region. Such flows were even more easily reversible. The herd behaviour especially characteristic of capital markets, particularly in situations of constrained information, served to exacerbate pro-cyclical market behaviour, worsening panic during downturns. Such fickle market behaviour also exacerbated contagion effects, worsening regional neighbourhood effects.
+A year after the crisis began in July , US President Clinton acknowledged the need for a new international financial architecture in a speech in mid-, triggering significant discussion for a brief time. The apparent spread of the crisis to Brazil and Russia around the same time gave further momentum to the new discourse. The collapse of Long-Term Capital Management (LTCM) following the Russian crisis led the US Federal Reserve to coordinate a private sector bailout of the hedge fund in a successful attempt to contain the problem. This legitimized government interventions in east_asia to ensure functioning financial systems and the availability of liquidity to finance economic recovery. The US Fed also lowered interest rates, encouraging capital to flow to east_asia once again. The Malaysian governments establishment of bailout institutions and mechanisms in midand its imposition of capital controls on outflows at the beginning of September  may also have warned the West of the possibility of other countries going their own way.
+Ironically, the successful and rapid V-shaped economic recoveries in the region from the last quarter of  may well have weakened the pressure to address flaws in the international financial system. Talk of a new international financial architecture began to fade as the rapid recovery in the region was seen as proof of the resilience of the international financial system. Of course, there continues to be some interest in crisis avoidance, crisis management, development finance, governance of the Bretton Woods institutions, reasserting national economic sovereignty and regional financial cooperation.
+The Japanese governmentis offer of $100 billion to the Asian region to manage the crisis during
+the third quarter of 1997 was blocked by Western governments and the IMF. Later, a more modest amount
+was made available under the Miyazawa Plan for more modest facilities, institutions and instruments. From
+around 2000, following a regional meeting of finance ministers in Chiang Mai, Thailand, a series of bilateral
+credit lines emerged but with the condition of requiring an IMF programme. In May 2007, the finance ministers of Japan, China and the Republic of Korea agreed to multilateralize the arrangements and to increase the amount of the credit facility; however, it is still not clear at the time of writing whether the IMF program requirement will remain. There have also been other regional initiatives, including the Asian bond market, which have made varying degrees of progress. An important new initiative is the idea of an Asian Investment Bank mobilizing private funds for long-term investments, e.g. in infrastructure. However, progress on these various initiatives has generally been slow and contingent on cooperation between Japan and China. Hence, it is clear that various different and sometimes contradictory lessons have been drawn from the Asian crisis experiences. The ideological implications and political differences involved have generally complicated the possibility of drawing shared lessons from the crises. The seeming calm and increased growth in most developing countries in the period since 2001 have also served to undermine the possibility of far-reaching reforms following the experience. Perhaps most importantly, the vested interests supporting existing international financial governance arrangements continue to impede the possibility of greater progress. Such interests are supported by conventional (market) wisdom, reinforced by the business media and its pervasive influence on the political economy of international monetary and financial governance.
