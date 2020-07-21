@@ -6,4 +6,4 @@ B)
 
 Classifiers:
 1) pillars_base includes only A
-2) pillars_alt combines the topics of development with Africa. It also includes the section on "strengthening the organization"
+2) pillars_alt combines the topics of development with Africa. 
