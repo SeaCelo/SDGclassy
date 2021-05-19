@@ -23,8 +23,8 @@ Text files to be classified (.txt)
 * clone the repository
 
 ```
-git clone https://github.com/SeaCelo/SDGclassy.git SDG_classification
-cd SDG_classification
+git clone https://github.com/SeaCelo/SDGclassy.git SDGclassy
+cd SDGclassy
 chmod +x infer-scores.sh
 ```
 * Install Mallet
