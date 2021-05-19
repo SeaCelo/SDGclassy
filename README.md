@@ -35,13 +35,13 @@ rm mallet-2.0.8.zip
 ```
 
 ## How to use:
-* Add text files to /SDG_classification/target/input/   (no directories)
+* Add text files to /SDGclassy/target/input/   (no directories)
 * Run the classification script
 
 ```
 ./infer-scores.sh
 ```
-* Results will be placed in /SDG_classification/target/output/scores-out.txt
+* Results will be placed in /SDGclassy/target/output/scores-out.txt
 
 ## Interpreting the Results
 * topics are listed in order 0-18. Each topic maps to a specific SDG, with one topic as a filter to be ignored. The mapping between topics and SDGs is available in: /classifier/topic-sdg_mapping.csv
