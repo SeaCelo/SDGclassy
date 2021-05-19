@@ -14,7 +14,7 @@ Text files to be classified (.txt)
 ### Tested on Mac OS X Big Sur:
 * Zsh shell is preferred, tough the code should run in older Bash shell (pre-Catalina). 
 
-### There is support for Windows, but the script should work. Note:
+### There is no support for Windows, but the script should work. However:
 * To run on windows, scripts need to be edited. This is an open issue
 * On windows, bigrams command is broken. Need to apply this fix: https://github.com/mimno/Mallet/issues/151    
 
