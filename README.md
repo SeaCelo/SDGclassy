@@ -40,7 +40,6 @@ rm mallet-2.0.8.zip
 
 ```
 ./infer-scores.sh
-
 ```
 * Results will be placed in /SDG_classification/target/output/scores-out.txt
 
