@@ -1,6 +1,0 @@
-Using the cl_base_new as a source file
-run the nouns_and_adjectives python script to extract all the nouns and adjectives from the training cl_bas_new training file
-After the script is run, the new source files only containing nouns and adjectives will be saved under the Result folder
-
-use the new files as input to train a model using mallet
-
