@@ -50,16 +50,11 @@ rm mallet-2.0.8.zip
 
 
 ## Other notes
-* It is useful to add Mallet to the $PATH. In Terminal: 
-   * `echo $PATH`    		this will print the current path, to check. 
-   * `nano ~/.zshenv`		to edit 
-   * (include this line somewhere:) 
-   * `export PATH=$PATH:/path/to/your/install/mallet-2.0.8/bin` 
+* The instructions will download Mallet in the SDGclassy directory, but you may want to install it in another location.
+* In this event adjust the script accordingly or add Mallet to the $PATH. This is left to you and your google. 
 
-   * write out and exit 
-   * If you don't have this, just navigate to the /mallet-2.0.8/bin and run the command from there. 
-
-* Note: using ngrams causes Mallet to run out of memory. Giving 8gb to Mallet seems to work, and lets the OS manage any paging and vm. To do this, edit the binary. In Terminal: 
+* Note: using ngrams may cause Mallet to run out of memory. If you have this problem, try giving 8gb to Mallet, letting the OS manage any paging and vm. 
+* To do this, edit the binary. In Terminal: 
    * `cd /path/to/your/install/mallet-2.0.8/bin` 
    * `nano mallet` 
    * Find the line and edit to read: `MEMORY=8g`
