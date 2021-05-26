@@ -35,7 +35,7 @@ rm mallet-2.0.8.zip
 ```
 
 ## How to use:
-* Add text files (no directories) to: /SDGclassy/target/input/   
+* Add text files (txt only, no pdf, no directories) to: /SDGclassy/target/input/   
 * Run the classification script
 
 ```
