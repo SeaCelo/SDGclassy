@@ -32,7 +32,7 @@ unzip mallet-2.0.8.zip
 rm mallet-2.0.8.zip
 ```
 
-# How to use:
+### How to use:
 * Add text files (txt only, no pdf, no directories) to: /SDGclassy/target/input/   
 * Run the classification script
 
@@ -48,13 +48,13 @@ rm mallet-2.0.8.zip
 ## Linux Installation and use
 
 
-## Interpreting the Results
+# Interpreting the Results
 * topics are listed in order 0-18. Each topic maps to a specific SDG, with one topic as a filter to be ignored. The mapping between topics and SDGs is available in: /classifier/topic-sdg_mapping.csv
 * Use the output in your favorite app (excel, etc) and analyze the results, using the topic-sdg mapping.
 		
 
 
-## Other notes
+# Other notes
 * The instructions will download Mallet in the SDGclassy directory, but you may want to install it in another location.
 * In this event adjust the script accordingly or add Mallet to the $PATH. This is left to you and your google. 
 
