@@ -12,14 +12,13 @@ Mallet 2.0.8 (http://mallet.cs.umass.edu)
 Text files to be classified (.txt)
 Covert your text files to .txt and clean them up as much as possible. The results will be better if you exclude non-relevant material (front matter, etc). 
 
-### Tested on Mac OS X Big Sur:
-* Zsh shell is preferred, tough the code should run in older Bash shell (pre-Catalina). 
+### Tested on Mac OS X Big Sur, Windows and Linux:
+* on Mac, Zsh shell is preferred, tough the code should run in older Bash shell (pre-Catalina). 
 
 ### There is no support for Windows, but the script should work. However:
-* To run on windows, scripts need to be edited. This is an open issue
 * On windows, bigrams command is broken. Need to apply this fix: https://github.com/mimno/Mallet/issues/151    
 
-## Installation
+## Mac OS Installation and use
 * From the Terminal shell, cd into the location you would like to install
 * clone the repository
 
@@ -35,7 +34,7 @@ unzip mallet-2.0.8.zip
 rm mallet-2.0.8.zip
 ```
 
-## How to use:
+# How to use:
 * Add text files (txt only, no pdf, no directories) to: /SDGclassy/target/input/   
 * Run the classification script
 
@@ -43,6 +42,13 @@ rm mallet-2.0.8.zip
 ./infer-scores.sh
 ```
 * Results will be placed in /SDGclassy/target/output/scores-out.txt
+
+
+## Windows Installation and use 
+
+
+## Linux Installation and use
+
 
 ## Interpreting the Results
 * topics are listed in order 0-18. Each topic maps to a specific SDG, with one topic as a filter to be ignored. The mapping between topics and SDGs is available in: /classifier/topic-sdg_mapping.csv
