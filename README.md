@@ -8,15 +8,15 @@ To read the details of the methodology: "Art is long, life is short: An SDG Clas
 A word of caution: this algorithm does not identify text that is outside the SDG scope. The scores represent an attempt to fit the entire text within the SDG vocabulary space. 
 
 ## Requires:
-Mallet 2.0.8 (http://mallet.cs.umass.edu)
-Text files to be classified (.txt)
-Covert your text files to .txt and clean them up as much as possible. The results will be better if you exclude non-relevant material (front matter, etc). 
+* Mallet 2.0.8 (http://mallet.cs.umass.edu)
+* Text files to be classified (.txt)
+* Covert your text files to .txt and clean them up as much as possible. The results will be better if you exclude non-relevant material (front matter, etc). 
 
 ### Tested on Mac OS X Big Sur, Windows and Linux:
 * on Mac, Zsh shell is preferred, tough the code should run in older Bash shell (pre-Catalina). 
 * On windows, bigrams command is broken. Need to apply this fix: https://github.com/mimno/Mallet/issues/151    
 
-## Mac OS Installation and use
+## Mac OS and UNIX Installation and use
 * From the Terminal shell, cd into the location you would like to install
 * clone the repository
 
@@ -41,12 +41,31 @@ rm mallet-2.0.8.zip
 ```
 * Results will be placed in /SDGclassy/target/output/scores-out.txt
 
-
 ## Windows Installation and use 
+* [Install WSL](https://docs.microsoft.com/en-us/windows/wsl/install-win10)
+* Open a Powershell window inside the location you would like to install
+* Type `wsl` and follow the [Mac and UNIX installation steps and usage instructions](#mac-os-and-unix-installation-and-use)
 
+### Alternatively:
+* From Powershell, cd into the location you would like to install
+* clone the repository
 
-## Linux Installation and use
+```
+git clone https://github.com/SeaCelo/SDGclassy.git SDGclassy
+cd SDGclassy
+```
+* Install Mallet
 
+```
+wget http://mallet.cs.umass.edu/dist/mallet-2.0.8.zip -OutFile mallet-2.0.8.zip
+unzip mallet-2.0.8.zip
+rm mallet-2.0.8.zip
+```
+
+### How to use (with alternative method):
+* Add text files (txt only, no pdf, no directories) to: /SDGclassy/target/input/   
+* Run the classification script by right-clicking infer-scores.ps1 and selecting "Run with Powershell"
+* Results will be placed in /SDGclassy/target/output/scores-out.txt
 
 # Interpreting the Results
 * topics are listed in order 0-18. Each topic maps to a specific SDG, with one topic as a filter to be ignored. The mapping between topics and SDGs is available in: /classifier/topic-sdg_mapping.csv
