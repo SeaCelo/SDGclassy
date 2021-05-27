@@ -14,8 +14,6 @@ Covert your text files to .txt and clean them up as much as possible. The result
 
 ### Tested on Mac OS X Big Sur, Windows and Linux:
 * on Mac, Zsh shell is preferred, tough the code should run in older Bash shell (pre-Catalina). 
-
-### There is no support for Windows, but the script should work. However:
 * On windows, bigrams command is broken. Need to apply this fix: https://github.com/mimno/Mallet/issues/151    
 
 ## Mac OS Installation and use
