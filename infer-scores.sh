@@ -1,6 +1,5 @@
 #!/bin/bash
 set -e          #needed to ignore errors?
-#parent_path=$( cd "$(dirname "${BASH_SOURCE[0]}")" ; pwd -P )  #we want to run Mallet from the current directory
 
 rm /target/input/.DS_Store || true   #we ignore any errors here
 
