@@ -10,7 +10,7 @@ A word of caution: this algorithm does not identify text that is outside the SDG
 ## Requires:
 * Mallet 2.0.8 (http://mallet.cs.umass.edu)
 * Text files to be classified (.txt)
-* Covert your text files to .txt and clean them up as much as possible. The results will be better if you exclude non-relevant material (front matter, etc). 
+* Convert your text files to .txt and clean them up as much as possible. The results will be better if you exclude non-relevant material (front matter, etc). 
 
 ### Tested on Mac OS X Big Sur, Windows and Linux:
 * on Mac, Zsh shell is preferred, tough the code should run in older Bash shell (pre-Catalina). 
