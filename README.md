@@ -5,7 +5,7 @@ This script is based on my work to classify UN publications according to each SD
 
 To read the details of the methodology: "Art is long, life is short: An SDG Classification System for DESA Publications" (https://www.un.org/development/desa/publications/working-paper/wp159). 
 
-A word of caution: this algorithm does not identify text that is outside the SDG scope. The scores represent an attempt to fit the entire text within the SDG vocabulary space. 
+A word of caution: this algorithm does not identify text that is outside the SDG scope. The scores represent an attempt to fit the entire text within the SDG vocabulary space. See the section on "Interpreting the results"
 
 ## Requires:
 * Mallet 2.0.8 (http://mallet.cs.umass.edu)
@@ -41,6 +41,10 @@ rm mallet-2.0.8.zip
 ```
 * Results will be placed in /SDGclassy/target/output/scores-out.txt
 
+### Alternative script:
+* It may be desired to run the script multiple times on different data. Rather than moving the files in and out of the /input folder, use the alternative script "infer-scores2.sh".
+* This script requires the user to specify the input and output location using this syntax:  `./infer-scores2.sh -i /path/to/inputs -o /path/to/output -n filename`
+
 ## Windows Installation and use 
 * [Install WSL](https://docs.microsoft.com/en-us/windows/wsl/install-win10)
 * Open a Powershell window inside the location you would like to install
@@ -70,6 +74,7 @@ rm mallet-2.0.8.zip
 # Interpreting the Results
 * topics are listed in order 0-18. Each topic maps to a specific SDG, with one topic as a filter to be ignored. The mapping between topics and SDGs is available in: /classifier/topic-sdg_mapping.csv
 * Use the output in your favorite app (excel, etc) and analyze the results, using the topic-sdg mapping.
+The results include a extra category that should be ignored. Because of this the remaining 17 scores do not add to 100. You may wish to re-compute the weights if this is important in your analysis. 
 		
 
 
