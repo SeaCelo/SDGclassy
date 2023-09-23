@@ -1,0 +1,33 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: SDGClassy
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Marcelo T.
+    family-names: LaFleur
+    email: mtlafleur@gmail.com
+repository-code: 'https://github.com/SeaCelo/SDGclassy'
+abstract: >-
+  SDG classification of texts using LDA topic model
+
+
+  This script is based on my work to classify UN
+  publications according to each SDG. This tool provides a
+  way to easily compute "SDG scores" for individual or a
+  collection of texts. Each SDG is defined by a collection
+  of training texts for each of the 17 SDGs taken from
+  official UN publications.
+
+
+  To read the details of the methodology: "Art is long, life
+  is short: An SDG Classification System for DESA
+  Publications"
+  (https://www.un.org/development/desa/publications/working-paper/wp159).
+license: GPL-3.0
+commit: 4cc71a631f9b8133e97ee6f9b6e8fafdfa01f517
+date-released: '2022-10-12'
