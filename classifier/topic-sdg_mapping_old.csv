@@ -1,0 +1,23 @@
+﻿Topic,SDG
+12,1
+13,2
+0,3
+1,4
+3,5
+5,6
+2,7
+10,8
+15,9
+7,10
+11,11
+17,12
+14,13
+4,14
+9,15
+6,16
+16,17
+8,filter-delete
+,
+Note:,
+Topic is the output of the model. The results are listed from topic 0-18.,
+One topic acts as a filter and should be discarded in the analysis.,
