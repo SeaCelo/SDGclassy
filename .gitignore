@@ -1,7 +1,10 @@
 # Ignore mallet and working directory
 mallet-2.0.8
-
 working/
+
+# Ignore large model files that are manually downloaded
+sdgclassy.mallet
+inferring-temp.mallet
 
 # General
 .DS_Store
