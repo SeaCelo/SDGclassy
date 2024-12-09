@@ -1,5 +1,7 @@
-# Ignore Mallet
+# Ignore mallet and working directory
 mallet-2.0.8
+
+working/
 
 # General
 .DS_Store
